@@ -43,7 +43,12 @@ const state = {
   historyPos: -1,
   lastShownIndex: -1,
   answeredCurrent: false,
+  lastAnswerSelected: [],
+  lastAnswerCorrect: false,
+  questionStates: {},
 };
+
+const SESSION_STORAGE_KEY = 'quiznet.study.session.v1';
 
 function normalizeNewlines(text) {
   return String(text || '').replace(/\r\n/g, '\n').replace(/\r/g, '\n');
@@ -189,10 +194,140 @@ function updateStats() {
   if (els.parseInfo) els.parseInfo.textContent = '';
 }
 
+function serializeSession() {
+  return {
+    version: 1,
+    questionCount: state.questions.length,
+    pendingNew: [...state.pendingNew],
+    reviewQueue: state.reviewQueue.map((item) => ({ ...item })),
+    pendingWrong: [...state.pendingWrong],
+    currentIndex: state.currentIndex,
+    currentSource: state.currentSource,
+    turn: state.turn,
+    correct: state.correct,
+    wrong: state.wrong,
+    reviewSolved: state.reviewSolved,
+    history: [...state.history],
+    historyPos: state.historyPos,
+    answeredCurrent: state.answeredCurrent,
+    selectedLetters: [...state.selectedLetters],
+    lastAnswerSelected: state.lastAnswerSelected || [],
+    lastAnswerCorrect: Boolean(state.lastAnswerCorrect),
+    questionStates: state.questionStates,
+  };
+}
+
+function saveSession() {
+  if (state.questions.length === 0) {
+    localStorage.removeItem(SESSION_STORAGE_KEY);
+    return;
+  }
+
+  localStorage.setItem(SESSION_STORAGE_KEY, JSON.stringify(serializeSession()));
+}
+
+function clearSession() {
+  localStorage.removeItem(SESSION_STORAGE_KEY);
+}
+
+function restoreSession() {
+  const raw = localStorage.getItem(SESSION_STORAGE_KEY);
+  if (!raw) {
+    return false;
+  }
+
+  try {
+    const saved = JSON.parse(raw);
+    if (!saved || saved.version !== 1 || saved.questionCount !== state.questions.length) {
+      return false;
+    }
+
+    state.pendingNew = Array.isArray(saved.pendingNew) ? saved.pendingNew.filter((value) => Number.isInteger(value)) : [];
+    state.reviewQueue = Array.isArray(saved.reviewQueue)
+      ? saved.reviewQueue
+          .filter((item) => item && Number.isInteger(item.questionIndex) && Number.isInteger(item.dueTurn))
+          .map((item) => ({ questionIndex: item.questionIndex, dueTurn: item.dueTurn }))
+      : [];
+    state.pendingWrong = new Set(Array.isArray(saved.pendingWrong) ? saved.pendingWrong.filter((value) => Number.isInteger(value)) : []);
+    state.currentIndex = Number.isInteger(saved.currentIndex) ? saved.currentIndex : -1;
+    state.currentSource = saved.currentSource === 'review' ? 'review' : 'new';
+    state.turn = Number.isInteger(saved.turn) ? saved.turn : 0;
+    state.correct = Number.isInteger(saved.correct) ? saved.correct : 0;
+    state.wrong = Number.isInteger(saved.wrong) ? saved.wrong : 0;
+    state.reviewSolved = Number.isInteger(saved.reviewSolved) ? saved.reviewSolved : 0;
+    state.history = Array.isArray(saved.history) ? saved.history.filter((value) => Number.isInteger(value)) : [];
+    state.historyPos = Number.isInteger(saved.historyPos) ? saved.historyPos : -1;
+    state.answeredCurrent = Boolean(saved.answeredCurrent);
+    state.selectedLetters = new Set(Array.isArray(saved.selectedLetters) ? saved.selectedLetters.filter((value) => typeof value === 'string') : []);
+    state.lastAnswerSelected = Array.isArray(saved.lastAnswerSelected) ? saved.lastAnswerSelected.filter((value) => typeof value === 'string') : [];
+    state.lastAnswerCorrect = Boolean(saved.lastAnswerCorrect);
+    state.questionStates = saved.questionStates && typeof saved.questionStates === 'object' ? saved.questionStates : {};
+
+    if (!Number.isInteger(state.currentIndex) || state.currentIndex < 0 || state.currentIndex >= state.questions.length) {
+      return false;
+    }
+
+    state.current = state.questions[state.currentIndex];
+    return true;
+  } catch (error) {
+    return false;
+  }
+}
+
 function setVisibility(hasQuestion) {
   els.heroCard.classList.toggle('hidden', hasQuestion);
   els.questionCard.classList.toggle('hidden', !hasQuestion);
   els.emptyState.classList.toggle('hidden', hasQuestion || state.questions.length > 0);
+}
+
+function applyAnsweredState(current, selected, isCorrect) {
+  const normalizedSelected = normalizeAnswerSet(selected);
+  const optionEls = Array.from(els.optionList.querySelectorAll('.option-button, .option-check'));
+
+  optionEls.forEach((el) => {
+    const letter = el.dataset ? el.dataset.letter : (el.querySelector('.option-key') && el.querySelector('.option-key').textContent.trim());
+    if (!letter) return;
+    const upper = String(letter).trim().toUpperCase();
+    if (current.answer.includes(upper)) {
+      el.classList.add('correct');
+    }
+    if (normalizedSelected.includes(upper) && !current.answer.includes(upper)) {
+      el.classList.add('wrong');
+    }
+    el.disabled = true;
+    el.querySelectorAll('input').forEach((input) => (input.disabled = true));
+  });
+
+  const chosenText = escapeHtml(normalizedSelected.join(', ') || 'không chọn');
+  if (isCorrect) {
+    showFeedback(true, `<strong>Đúng.</strong> Bạn có thể bấm Tiếp theo để sang câu khác.`, 'good');
+  } else {
+    showFeedback(false, `${revealCorrectAnswer(current)}<br /><strong>Bạn chọn:</strong> ${chosenText}.`, 'bad');
+  }
+
+  if (els.nextButton) els.nextButton.disabled = false;
+  state.isLocked = true;
+  state.answeredCurrent = true;
+}
+
+function saveQuestionState(questionIndex, selected, isCorrect) {
+  state.questionStates[String(questionIndex)] = {
+    selectedLetters: [...normalizeAnswerSet(selected)],
+    isCorrect: Boolean(isCorrect),
+    answered: true,
+  };
+}
+
+function applyStoredQuestionState(questionIndex) {
+  const stored = state.questionStates[String(questionIndex)];
+  if (!stored || !stored.answered) {
+    return false;
+  }
+
+  applyAnsweredState(state.questions[questionIndex], stored.selectedLetters || [], stored.isCorrect);
+  state.lastAnswerSelected = [...(stored.selectedLetters || [])];
+  state.lastAnswerCorrect = Boolean(stored.isCorrect);
+  return true;
 }
 
 function formatQuestionIndex() {
@@ -210,6 +345,8 @@ function renderQuestion(pushHistory = true) {
   state.isLocked = false;
   state.selectedLetters.clear();
   state.answeredCurrent = false;
+  state.lastAnswerSelected = [];
+  state.lastAnswerCorrect = false;
 
   const current = state.current;
   const questionNumber = state.currentIndex + 1;
@@ -291,6 +428,7 @@ function renderQuestion(pushHistory = true) {
   // update nav buttons
   if (els.prevButton) els.prevButton.disabled = state.historyPos <= 0;
   if (els.nextButton) els.nextButton.disabled = true; // enabled after answering
+  saveSession();
 }
 
 function renderPrompt(prompt, answerText) {
@@ -446,12 +584,8 @@ function handleAnswer(selected) {
   }
 
   // show feedback and highlight options
-  const chosenText = escapeHtml(normalizedSelected.join(', ') || 'không chọn');
-  if (isCorrect) {
-    showFeedback(true, `<strong>Đúng.</strong> Bạn có thể bấm Tiếp theo để sang câu khác.`, 'good');
-  } else {
-    showFeedback(false, `${revealCorrectAnswer(current)}<br /><strong>Bạn chọn:</strong> ${chosenText}.`, 'bad');
-  }
+  applyAnsweredState(current, normalizedSelected, isCorrect);
+  saveQuestionState(state.currentIndex, normalizedSelected, isCorrect);
   updateStats();
 
   // highlight option elements
@@ -474,6 +608,9 @@ function handleAnswer(selected) {
 
   state.answeredCurrent = true;
   if (els.nextButton) els.nextButton.disabled = false;
+  state.lastAnswerSelected = normalizedSelected;
+  state.lastAnswerCorrect = isCorrect;
+  saveSession();
 }
 
 function finishSession() {
@@ -483,6 +620,7 @@ function finishSession() {
   els.heroCard.classList.remove('hidden');
   els.emptyState.classList.remove('hidden');
   if (els.parseInfo) els.parseInfo.textContent = '';
+  clearSession();
 }
 
 function startSession() {
@@ -503,11 +641,15 @@ function startSession() {
   state.currentIndex = -1;
   state.currentSource = 'new';
   state.isLocked = false;
+  state.lastAnswerCorrect = false;
+  state.questionStates = {};
 
   if (pickNextQuestion()) {
     renderQuestion(true);
     updateStats();
   }
+
+  saveSession();
 }
 
 function loadDataset(text, sourceName = 'ques.md') {
@@ -522,7 +664,20 @@ function loadDataset(text, sourceName = 'ques.md') {
   }
 
   if (els.parseInfo) els.parseInfo.textContent = '';
-  startSession();
+  if (!restoreSession()) {
+    startSession();
+  } else {
+    const restoredAnsweredCurrent = state.answeredCurrent;
+    const restoredSelectedLetters = [...state.selectedLetters];
+    const restoredLastAnswerCorrect = state.lastAnswerCorrect;
+    setVisibility(true);
+    renderQuestion(false);
+    if (restoredAnsweredCurrent && state.currentSource !== 'review') {
+      applyAnsweredState(state.current, restoredSelectedLetters, restoredLastAnswerCorrect);
+    }
+    saveSession();
+    updateStats();
+  }
 }
 
 async function loadDefaultFile() {
@@ -570,7 +725,9 @@ if (els.prevButton) {
       state.currentIndex = idx;
       state.current = state.questions[idx];
       renderQuestion(false);
+      applyStoredQuestionState(idx);
       updateStats();
+      saveSession();
     }
   });
 }
@@ -584,7 +741,9 @@ if (els.nextButton) {
       state.currentIndex = idx;
       state.current = state.questions[idx];
       renderQuestion(false);
+      applyStoredQuestionState(idx);
       updateStats();
+      saveSession();
       return;
     }
 

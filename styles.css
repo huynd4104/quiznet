@@ -172,6 +172,19 @@ h3 {
   margin-bottom: 14px;
 }
 
+.wrong-count-line {
+  margin: 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--border-strong);
+  border-radius: 16px;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.wrong-count-line strong {
+  color: var(--text);
+}
+
 button,
 file-button {
   appearance: none;
