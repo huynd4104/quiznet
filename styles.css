@@ -340,6 +340,12 @@ button.secondary,
   gap: 12px;
 }
 
+.question-topbar > div:first-child {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
 .pill {
   display: inline-flex;
   align-items: center;
@@ -367,6 +373,7 @@ button.secondary,
 .progress-text {
   color: var(--muted);
   font-weight: 700;
+  white-space: nowrap;
 }
 
 .prompt {
@@ -552,9 +559,9 @@ button.secondary,
   }
 
   .question-topbar {
-    flex-direction: column;
-    align-items: flex-start;
+    gap: 8px;
   }
+
 
   .submit-row {
     flex-direction: column;
