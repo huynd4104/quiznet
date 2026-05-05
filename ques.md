@@ -1096,7 +1096,7 @@ b. Chủ nghĩa Mác - Lênin, phong trào yêu nước Việt Nam.
 c. Phong trào công nhân, phong trào yêu nước Việt Nam, phong trào cách mạng thế giới.
 d. Chủ nghĩa Mác - Lênin, phong trào công nhân, phong trào yêu nước Việt Nam.
 @@@d###
-Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam vừa là người lãnh đạo, vừa là người đầy tớ trung thành của nhân dân, Đảng phải chăm lo mối quan hệ giữa Đảng với dân là nhằm:
+Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam vừa là người lãnh đạo, vừa là người đầy tớ trung thành của nhân dân, Đảng phải chăm lo mối quan hệ giữa Đảng với dân là nhằm (nếu đề yêu cầu chọn 3 thì chọn abc):
 a. Xác định vị thế cầm quyền của Đảng.
 b. Xác định phương thức cầm quyền của Đảng.
 c. Xác định năng lực cầm quyền của Đảng.
