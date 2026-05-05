@@ -371,6 +371,8 @@ function renderQuestion(pushHistory = true) {
 
   els.questionBadge.textContent = `Câu ${questionNumber}`;
   els.sourceBadge.textContent = state.currentSource === 'review' ? 'Ôn lại' : 'Câu mới';
+  // add/remove 'review' class so CSS can highlight the Ôn lại pill
+  els.sourceBadge.classList.toggle('review', state.currentSource === 'review');
   els.progressText.textContent = `${state.turn + 1} / ${state.questions.length}`;
   els.promptText.innerHTML = renderPrompt(current.prompt, current.answerText);
   els.optionList.innerHTML = '';

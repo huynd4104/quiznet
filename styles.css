@@ -357,6 +357,13 @@ button.secondary,
   color: var(--muted);
 }
 
+/* Review badge: red text with muted orange background */
+.pill.review {
+  color: var(--danger);
+  background: rgba(255, 160, 64, 0.08);
+  border: 1px solid rgba(190, 18, 60, 0.08);
+}
+
 .progress-text {
   color: var(--muted);
   font-weight: 700;
