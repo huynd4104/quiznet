@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="dark light" />
+  <title>Quiznet Study</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="backdrop backdrop-a"></div>
+  <div class="backdrop backdrop-b"></div>
+
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div style="display:grid;gap:12px;align-items:start;">
+        <button id="reloadButton" class="secondary">Làm mới</button>
+      </div>
+    </aside>
+
+    <main class="stage">
+      <section class="hero-card" id="heroCard"></section>
+
+      <section class="question-card hidden" id="questionCard">
+        <div class="question-topbar">
+          <div>
+            <span class="pill" id="questionBadge">Câu hỏi</span>
+            <span class="pill soft" id="sourceBadge">Nguồn</span>
+          </div>
+          <div class="progress-text" id="progressText">0 / 0</div>
+        </div>
+
+        <div class="prompt" id="promptText"></div>
+
+        <div class="option-list" id="optionList"></div>
+
+        <div class="submit-row hidden" id="submitRow">
+          <button id="submitButton">Xác nhận</button>
+          <button id="clearSelectionButton" class="secondary">Bỏ chọn</button>
+        </div>
+
+          <div class="nav-row">
+          <button id="prevButton" class="secondary">Quay lại</button>
+          <button id="nextButton" disabled>Tiếp theo</button>
+        </div>
+
+        <div class="feedback hidden" id="feedback"></div>
+      </section>
+
+      <section class="empty-state" id="emptyState">
+        <div class="empty-figure"></div>
+        <h3>Chưa có bộ câu hỏi</h3>
+        <p>
+          Hãy bấm <strong>Tải ques.md</strong> hoặc dán nội dung file vào khung bên trái để bắt đầu.
+        </p>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
