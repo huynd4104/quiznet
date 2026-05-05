@@ -28,6 +28,7 @@ const state = {
   questions: [],
   pendingNew: [],
   reviewQueue: [],
+  pendingWrong: new Set(),
   current: null,
   currentIndex: -1,
   currentSource: 'new',
@@ -320,10 +321,21 @@ function clearSelections() {
 
 function scheduleReview(questionIndex) {
   const delay = pickReviewDelay();
+  const dueTurn = state.turn + delay;
+  const existing = state.reviewQueue.find((item) => item.questionIndex === questionIndex);
+  if (existing) {
+    existing.dueTurn = Math.max(existing.dueTurn, dueTurn);
+    return;
+  }
+
   state.reviewQueue.push({
     questionIndex,
-    dueTurn: state.turn + delay,
+    dueTurn,
   });
+}
+
+function removeReviewEntries(questionIndex) {
+  state.reviewQueue = state.reviewQueue.filter((item) => item.questionIndex !== questionIndex);
 }
 
 function pullDueReview() {
@@ -417,9 +429,19 @@ function handleAnswer(selected) {
   // mark stats and schedule review if wrong
   if (isCorrect) {
     state.correct += 1;
-    if (state.currentSource === 'review') state.reviewSolved += 1;
+    if (state.currentSource === 'review') {
+      state.reviewSolved += 1;
+      if (state.pendingWrong.has(state.currentIndex)) {
+        state.pendingWrong.delete(state.currentIndex);
+        state.wrong = Math.max(0, state.wrong - 1);
+        removeReviewEntries(state.currentIndex);
+      }
+    }
   } else {
-    state.wrong += 1;
+    if (!state.pendingWrong.has(state.currentIndex)) {
+      state.wrong += 1;
+      state.pendingWrong.add(state.currentIndex);
+    }
     scheduleReview(state.currentIndex);
   }
 
@@ -472,6 +494,7 @@ function startSession() {
   // present questions in original order (source order)
   state.pendingNew = [...state.questions.keys()];
   state.reviewQueue = [];
+  state.pendingWrong = new Set();
   state.turn = 0;
   state.correct = 0;
   state.wrong = 0;
