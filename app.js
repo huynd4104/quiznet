@@ -30,6 +30,7 @@ const state = {
   pendingNew: [],
   reviewQueue: [],
   pendingWrong: new Set(),
+  reviewProgress: {},
   current: null,
   currentIndex: -1,
   currentSource: 'new',
@@ -199,11 +200,12 @@ function updateStats() {
 
 function serializeSession() {
   return {
-    version: 1,
+    version: 2,
     questionCount: state.questions.length,
     pendingNew: [...state.pendingNew],
     reviewQueue: state.reviewQueue.map((item) => ({ ...item })),
     pendingWrong: [...state.pendingWrong],
+    reviewProgress: { ...state.reviewProgress },
     currentIndex: state.currentIndex,
     currentSource: state.currentSource,
     turn: state.turn,
@@ -242,7 +244,7 @@ function restoreSession() {
 
   try {
     const saved = JSON.parse(raw);
-    if (!saved || saved.version !== 1 || saved.questionCount !== state.questions.length) {
+    if (!saved || (saved.version !== 1 && saved.version !== 2) || saved.questionCount !== state.questions.length) {
       return false;
     }
 
@@ -253,6 +255,7 @@ function restoreSession() {
           .map((item) => ({ questionIndex: item.questionIndex, dueTurn: item.dueTurn }))
       : [];
     state.pendingWrong = new Set(Array.isArray(saved.pendingWrong) ? saved.pendingWrong.filter((value) => Number.isInteger(value)) : []);
+    state.reviewProgress = saved.reviewProgress && typeof saved.reviewProgress === 'object' ? saved.reviewProgress : {};
     state.currentIndex = Number.isInteger(saved.currentIndex) ? saved.currentIndex : -1;
     state.currentSource = saved.currentSource === 'review' ? 'review' : 'new';
     state.turn = Number.isInteger(saved.turn) ? saved.turn : 0;
@@ -493,8 +496,23 @@ function scheduleReview(questionIndex) {
   });
 }
 
+function getReviewProgress(questionIndex) {
+  const progress = state.reviewProgress[String(questionIndex)];
+  return Number.isInteger(progress) ? progress : 0;
+}
+
+function setReviewProgress(questionIndex, count) {
+  const key = String(questionIndex);
+  if (count > 0) {
+    state.reviewProgress[key] = count;
+  } else {
+    delete state.reviewProgress[key];
+  }
+}
+
 function removeReviewEntries(questionIndex) {
   state.reviewQueue = state.reviewQueue.filter((item) => item.questionIndex !== questionIndex);
+  setReviewProgress(questionIndex, 0);
 }
 
 function pullDueReview() {
@@ -589,11 +607,17 @@ function handleAnswer(selected) {
   if (isCorrect) {
     state.correct += 1;
     if (state.currentSource === 'review') {
-      state.reviewSolved += 1;
-      if (state.pendingWrong.has(state.currentIndex)) {
-        state.pendingWrong.delete(state.currentIndex);
-        state.wrong = Math.max(0, state.wrong - 1);
+      const nextProgress = getReviewProgress(state.currentIndex) + 1;
+      setReviewProgress(state.currentIndex, nextProgress);
+      if (nextProgress >= 3) {
+        state.reviewSolved += 1;
+        if (state.pendingWrong.has(state.currentIndex)) {
+          state.pendingWrong.delete(state.currentIndex);
+          state.wrong = Math.max(0, state.wrong - 1);
+        }
         removeReviewEntries(state.currentIndex);
+      } else {
+        scheduleReview(state.currentIndex);
       }
     }
   } else {
@@ -667,6 +691,7 @@ function startSession() {
   state.pendingNew = [...state.questions.keys()];
   state.reviewQueue = [];
   state.pendingWrong = new Set();
+  state.reviewProgress = {};
   state.turn = 0;
   state.correct = 0;
   state.wrong = 0;
