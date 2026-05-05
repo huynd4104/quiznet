@@ -415,8 +415,7 @@ A. 1946-1954
 B. 1945-1954
 C. 1930-1945
 D. 1939-1945
-@@@B
-toàn quốc kháng chiến =&gt; A###
+@@@A###
 Nội dung quá độ lên chủ nghĩa xã hội theo Hồ Chí Minh phải tiến hành
 A. Chủ yếu là lĩnh vực kinh tế
 B. Chủ yếu là lĩnh vực văn hóa
