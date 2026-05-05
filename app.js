@@ -351,8 +351,7 @@ function applyStoredQuestionState(questionIndex) {
 }
 
 function formatQuestionIndex() {
-  const newIndex = state.pendingNew.length > 0 ? state.pendingNew[0] + 1 : state.questions.length;
-  return `${Math.min(state.turn + 1, state.questions.length)} / ${state.questions.length}`;
+  return `${Math.min(state.currentIndex + 1, state.questions.length)} / ${state.questions.length}`;
 }
 
 function renderQuestion(pushHistory = true) {
@@ -376,7 +375,7 @@ function renderQuestion(pushHistory = true) {
   els.sourceBadge.textContent = state.currentSource === 'review' ? 'Ôn lại' : 'Câu mới';
   // add/remove 'review' class so CSS can highlight the Ôn lại pill
   els.sourceBadge.classList.toggle('review', state.currentSource === 'review');
-  els.progressText.textContent = `${state.turn + 1} / ${state.questions.length}`;
+  els.progressText.textContent = `${state.currentIndex + 1} / ${state.questions.length}`;
   els.promptText.innerHTML = renderPrompt(current.prompt, current.answerText);
   els.optionList.innerHTML = '';
   els.feedback.className = 'feedback hidden';
@@ -609,7 +608,7 @@ function handleAnswer(selected) {
     if (state.currentSource === 'review') {
       const nextProgress = getReviewProgress(state.currentIndex) + 1;
       setReviewProgress(state.currentIndex, nextProgress);
-      if (nextProgress >= 3) {
+      if (nextProgress >= 1) {
         state.reviewSolved += 1;
         if (state.pendingWrong.has(state.currentIndex)) {
           state.pendingWrong.delete(state.currentIndex);
