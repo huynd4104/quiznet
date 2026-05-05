@@ -172,6 +172,18 @@ h3 {
   margin-bottom: 14px;
 }
 
+.sidebar-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.toggle-button.active {
+  border-color: rgba(5, 150, 105, 0.45);
+  background: rgba(5, 150, 105, 0.12);
+  color: #065f46;
+}
+
 .wrong-count-line {
   margin: 0;
   padding: 0.8rem 1rem;
@@ -544,4 +556,5 @@ button.secondary,
   .stats-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
 }

@@ -6,6 +6,7 @@ const els = {
   parseInfo: document.getElementById('parseInfo'),
   fileInput: document.getElementById('fileInput'),
   reloadButton: document.getElementById('reloadButton'),
+  autoNextButton: document.getElementById('autoNextButton'),
   rawInput: document.getElementById('rawInput'),
   loadTextButton: document.getElementById('loadTextButton'),
   heroCard: document.getElementById('heroCard'),
@@ -46,6 +47,8 @@ const state = {
   lastAnswerSelected: [],
   lastAnswerCorrect: false,
   questionStates: {},
+  autoNextEnabled: false,
+  autoNextTimer: null,
 };
 
 const SESSION_STORAGE_KEY = 'quiznet.study.session.v1';
@@ -214,6 +217,7 @@ function serializeSession() {
     lastAnswerSelected: state.lastAnswerSelected || [],
     lastAnswerCorrect: Boolean(state.lastAnswerCorrect),
     questionStates: state.questionStates,
+    autoNextEnabled: Boolean(state.autoNextEnabled),
   };
 }
 
@@ -262,6 +266,7 @@ function restoreSession() {
     state.lastAnswerSelected = Array.isArray(saved.lastAnswerSelected) ? saved.lastAnswerSelected.filter((value) => typeof value === 'string') : [];
     state.lastAnswerCorrect = Boolean(saved.lastAnswerCorrect);
     state.questionStates = saved.questionStates && typeof saved.questionStates === 'object' ? saved.questionStates : {};
+    state.autoNextEnabled = Boolean(saved.autoNextEnabled);
 
     if (!Number.isInteger(state.currentIndex) || state.currentIndex < 0 || state.currentIndex >= state.questions.length) {
       return false;
@@ -278,6 +283,18 @@ function setVisibility(hasQuestion) {
   els.heroCard.classList.toggle('hidden', hasQuestion);
   els.questionCard.classList.toggle('hidden', !hasQuestion);
   els.emptyState.classList.toggle('hidden', hasQuestion || state.questions.length > 0);
+}
+
+function clearAutoNextTimer() {
+  if (state.autoNextTimer) {
+    clearTimeout(state.autoNextTimer);
+    state.autoNextTimer = null;
+  }
+}
+
+function updateAutoNextButton() {
+  if (!els.autoNextButton) return;
+  els.autoNextButton.classList.toggle('active', state.autoNextEnabled);
 }
 
 function applyAnsweredState(current, selected, isCorrect) {
@@ -342,6 +359,7 @@ function renderQuestion(pushHistory = true) {
   }
 
   setVisibility(true);
+  clearAutoNextTimer();
   state.isLocked = false;
   state.selectedLetters.clear();
   state.answeredCurrent = false;
@@ -428,6 +446,7 @@ function renderQuestion(pushHistory = true) {
   // update nav buttons
   if (els.prevButton) els.prevButton.disabled = state.historyPos <= 0;
   if (els.nextButton) els.nextButton.disabled = true; // enabled after answering
+  updateAutoNextButton();
   saveSession();
 }
 
@@ -611,9 +630,22 @@ function handleAnswer(selected) {
   state.lastAnswerSelected = normalizedSelected;
   state.lastAnswerCorrect = isCorrect;
   saveSession();
+
+  if (isCorrect && state.autoNextEnabled) {
+    clearAutoNextTimer();
+    const answeredIndex = state.currentIndex;
+    state.autoNextTimer = setTimeout(() => {
+      state.autoNextTimer = null;
+      if (!state.current) return;
+      if (state.currentIndex !== answeredIndex) return;
+      if (!state.isLocked) return;
+      goNext();
+    }, 500);
+  }
 }
 
 function finishSession() {
+  clearAutoNextTimer();
   state.current = null;
   state.currentIndex = -1;
   setVisibility(false);
@@ -643,6 +675,7 @@ function startSession() {
   state.isLocked = false;
   state.lastAnswerCorrect = false;
   state.questionStates = {};
+  clearAutoNextTimer();
 
   if (pickNextQuestion()) {
     renderQuestion(true);
@@ -650,6 +683,29 @@ function startSession() {
   }
 
   saveSession();
+}
+
+function goNext() {
+  // if there's forward history, move forward
+  if (state.historyPos < state.history.length - 1) {
+    state.historyPos += 1;
+    const idx = state.history[state.historyPos];
+    state.currentIndex = idx;
+    state.current = state.questions[idx];
+    renderQuestion(false);
+    applyStoredQuestionState(idx);
+    updateStats();
+    saveSession();
+    return;
+  }
+
+  // otherwise pick a fresh next question
+  if (pickNextQuestion()) {
+    renderQuestion(true);
+    updateStats();
+  } else {
+    finishSession();
+  }
 }
 
 function loadDataset(text, sourceName = 'ques.md') {
@@ -716,6 +772,14 @@ if (els.reloadButton) {
   });
 }
 
+if (els.autoNextButton) {
+  els.autoNextButton.addEventListener('click', () => {
+    state.autoNextEnabled = !state.autoNextEnabled;
+    updateAutoNextButton();
+    saveSession();
+  });
+}
+
 // Prev / Next navigation
 if (els.prevButton) {
   els.prevButton.addEventListener('click', () => {
@@ -734,26 +798,7 @@ if (els.prevButton) {
 
 if (els.nextButton) {
   els.nextButton.addEventListener('click', () => {
-    // if there's forward history, move forward
-    if (state.historyPos < state.history.length - 1) {
-      state.historyPos += 1;
-      const idx = state.history[state.historyPos];
-      state.currentIndex = idx;
-      state.current = state.questions[idx];
-      renderQuestion(false);
-      applyStoredQuestionState(idx);
-      updateStats();
-      saveSession();
-      return;
-    }
-
-    // otherwise pick a fresh next question
-    if (pickNextQuestion()) {
-      renderQuestion(true);
-      updateStats();
-    } else {
-      finishSession();
-    }
+    goNext();
   });
 }
 
