@@ -77,13 +77,18 @@ function extractAnswerKey(answerChunk) {
 
   const lines = plain.split('\n').map((line) => line.trim()).filter(Boolean);
   for (const line of lines) {
-    const normalized = line.replace(/[^A-Za-z]/g, '');
-    if (normalized && /^[A-Za-z]+$/.test(normalized)) {
-      return normalized.toUpperCase().split('');
+    // Look for leading letters (A-H), spaces, or commas at the start of the line
+    const match = line.match(/^([A-Ha-h\s,]+)(?:\s*[\(\).:]|$)/i);
+    if (match) {
+      const normalized = match[1].replace(/[^A-Ha-h]/gi, '');
+      if (normalized) {
+        return normalized.toUpperCase().split('');
+      }
     }
   }
 
-  const fallback = plain.match(/[A-Za-z]+/);
+  // Fallback: search for the first isolated sequence of A-H letters
+  const fallback = plain.match(/\b[A-Ha-h]+\b/i);
   return fallback ? fallback[0].toUpperCase().split('') : [];
 }
 

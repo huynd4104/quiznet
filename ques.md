@@ -638,12 +638,12 @@ b. Của nhân dân lao động và của dân tộc
 c. Của dân, do dân và vì dân
 @@@B
 bản chất của Nhà nước =&gt; của dân, do dân và vì dân###
-"Tinh thần yêu nước chân chính khác hẳn với tinh thần "vị quốc" của bọn đế quốc phản động. Nó là một bộ phận của tỉnh thần quốc tế" là câu nói được Hồ Chí Minh khẳng định trong Báo cáo chính trị của Đại hội đại biểu toàn quốc lần thứ mấy
+"Tinh thần yêu nước chân chính khác hẳn với tinh thần "vị quốc" của bọn đế quốc phản động. Nó là một bộ phận của tinh thần quốc tế" là câu nói được Hồ Chí Minh khẳng định trong Báo cáo chính trị của Đại hội đại biểu toàn quốc lần thứ mấy
 A. Lần thứ I
 B. Lần thứ II
 C. Lần thứ III
 D. Lần thứ IV
-@@@B ( tháng 2 năm 1951)###
+@@@B###
 Khi nói về mặt trận, Hồ Chí Minh cho rằng
 a. Mặt trận phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của Đảng
 b. Mặt trận phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của mặt trân phản đế
