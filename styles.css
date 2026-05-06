@@ -194,6 +194,7 @@ h3 {
   background: rgba(255, 255, 255, 0.02);
   text-align: center;
   font-size: 0.9rem;
+  font-weight: 700;
 }
 
 .wrong-count-line strong,
