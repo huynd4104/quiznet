@@ -23,6 +23,7 @@ const els = {
   prevButton: document.getElementById('prevButton'),
   nextButton: document.getElementById('nextButton'),
   feedback: document.getElementById('feedback'),
+  activeCount: document.getElementById('activeCount'),
 };
 
 const state = {
@@ -789,6 +790,37 @@ if (els.fileInput) {
     loadDataset(text, file.name);
   });
 }
+
+// Active Learners Tracking
+const USER_ID_KEY = 'quiznet.user_id';
+function getUserId() {
+  let id = localStorage.getItem(USER_ID_KEY);
+  if (!id) {
+    id = 'user_' + Math.random().toString(36).substr(2, 9);
+    localStorage.setItem(USER_ID_KEY, id);
+  }
+  return id;
+}
+
+async function updateActiveLearners() {
+  try {
+    const response = await fetch('/api/stats', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ userId: getUserId() }),
+    });
+    const data = await response.json();
+    if (data && typeof data.activeCount === 'number') {
+      if (els.activeCount) els.activeCount.textContent = String(data.activeCount);
+    }
+  } catch (error) {
+    console.error('Failed to update active learners:', error);
+  }
+}
+
+// Start tracking
+updateActiveLearners();
+setInterval(updateActiveLearners, 20000); // Update every 20 seconds
 
 // require confirmation before resetting/refreshing
 if (els.reloadButton) {

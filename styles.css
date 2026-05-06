@@ -184,7 +184,8 @@ h3 {
   color: #065f46;
 }
 
-.wrong-count-line {
+.wrong-count-line,
+.active-learners-line {
   margin: 0;
   padding: 0.8rem 1rem;
   border: 1px solid var(--border-strong);
@@ -193,7 +194,8 @@ h3 {
   background: rgba(255, 255, 255, 0.02);
 }
 
-.wrong-count-line strong {
+.wrong-count-line strong,
+.active-learners-line strong {
   color: var(--text);
 }
 
