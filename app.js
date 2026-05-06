@@ -885,7 +885,7 @@ function renderChatMessages(messages) {
         ${!isMe ? `<span class="name">${escapeHtml(msg.userName)}</span>` : ''}
         <div class="msg-content">
           ${msg.text ? `<div class="text">${escapeHtml(msg.text)}</div>` : ''}
-          ${msg.image ? `<div class="image"><img src="${msg.image}" alt="Pasted Image" onclick="openImage(this.src)" /></div>` : ''}
+          ${msg.image ? `<div class="image"><img src="${msg.image}" alt="Pasted Image" class="chat-img" /></div>` : ''}
         </div>
         ${isMe ? `<button class="recall-btn" title="Thu hồi">&times;</button>` : ''}
       </div>
@@ -899,6 +899,15 @@ function renderChatMessages(messages) {
     btn.onclick = (e) => {
       const msgId = e.target.closest('.chat-msg').dataset.id;
       recallMessage(msgId);
+    };
+  });
+
+  // Add image click listeners (delegated is better, but let's do it here for simplicity or use delegation outside)
+  els.chatMessages.querySelectorAll('.chat-img').forEach(img => {
+    img.onclick = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      openImage(img.src);
     };
   });
 

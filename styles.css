@@ -818,17 +818,18 @@ button.secondary,
 /* Modal styles */
 .modal {
   position: fixed;
-  z-index: 9999;
+  z-index: 10000;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.95);
   display: flex;
   align-items: center;
   justify-content: center;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(8px);
   cursor: zoom-out;
+  touch-action: none; /* Prevent scrolling background on mobile */
 }
 
 .modal-content {
