@@ -20,6 +20,19 @@
         </div>
         <p class="wrong-count-line">Câu sai đang chờ ôn: <strong id="wrongCount">0</strong></p>
         <p class="active-learners-line">Đang học: <strong id="activeCount">1</strong> người</p>
+
+        <div class="chat-container">
+          <div class="chat-header">
+            <strong>Thảo luận</strong>
+          </div>
+          <div class="chat-messages" id="chatMessages">
+            <div class="chat-empty">Đang tải tin nhắn...</div>
+          </div>
+          <form class="chat-input-row" id="chatForm">
+            <input type="text" id="chatInput" placeholder="Nhắn gì đó..." maxlength="500" autocomplete="off" />
+            <button type="submit" id="chatSendBtn">Gửi</button>
+          </form>
+        </div>
       </div>
     </aside>
 

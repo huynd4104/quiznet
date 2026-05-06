@@ -24,6 +24,9 @@ const els = {
   nextButton: document.getElementById('nextButton'),
   feedback: document.getElementById('feedback'),
   activeCount: document.getElementById('activeCount'),
+  chatMessages: document.getElementById('chatMessages'),
+  chatForm: document.getElementById('chatForm'),
+  chatInput: document.getElementById('chatInput'),
 };
 
 const state = {
@@ -51,6 +54,7 @@ const state = {
   questionStates: {},
   autoNextEnabled: false,
   autoNextTimer: null,
+  lastChatId: null,
 };
 
 const SESSION_STORAGE_KEY = 'quiznet.study.session.v1';
@@ -831,19 +835,102 @@ async function updateActiveLearners() {
   }
 }
 
+// Chat Implementation
+async function loadChatMessages() {
+  try {
+    const response = await fetch('/api/chat');
+    const data = await response.json();
+    if (data && Array.isArray(data.messages)) {
+      renderChatMessages(data.messages);
+    }
+  } catch (error) {
+    console.error('Failed to load chat messages:', error);
+  }
+}
+
+function renderChatMessages(messages) {
+  if (!els.chatMessages) return;
+  
+  if (messages.length === 0) {
+    els.chatMessages.innerHTML = '<div class="chat-empty">Chưa có tin nhắn nào. Hãy là người đầu tiên!</div>';
+    return;
+  }
+
+  // Check if we actually need to re-render
+  const latestMsg = messages[messages.length - 1];
+  if (state.lastChatId === latestMsg.id) return;
+  state.lastChatId = latestMsg.id;
+
+  const currentUserId = getUserId();
+  const html = messages.map(msg => {
+    const isMe = msg.userId === currentUserId;
+    return `
+      <div class="chat-msg ${isMe ? 'me' : 'others'}">
+        ${!isMe ? `<span class="name">${escapeHtml(msg.userName)}</span>` : ''}
+        <div class="text">${escapeHtml(msg.text)}</div>
+      </div>
+    `;
+  }).join('');
+
+  els.chatMessages.innerHTML = html;
+  // Scroll to bottom
+  els.chatMessages.scrollTop = els.chatMessages.scrollHeight;
+}
+
+async function sendChatMessage(text) {
+  if (!text.trim()) return;
+  
+  try {
+    const response = await fetch('/api/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        userId: getUserId(),
+        userName: 'Học viên ' + getUserId().slice(-4).toUpperCase(),
+        text: text
+      })
+    });
+    
+    if (response.ok) {
+      els.chatInput.value = '';
+      loadChatMessages(); // Refresh immediately
+    }
+  } catch (error) {
+    console.error('Failed to send message:', error);
+  }
+}
+
+if (els.chatForm) {
+  els.chatForm.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const text = els.chatInput.value;
+    sendChatMessage(text);
+  });
+}
+
 // Start tracking
 let activeTrackingInterval = null;
+let chatPollingInterval = null;
 
 function startTracking() {
   updateActiveLearners();
+  loadChatMessages();
+  
   if (activeTrackingInterval) clearInterval(activeTrackingInterval);
-  activeTrackingInterval = setInterval(updateActiveLearners, 5000); // Update every 5 seconds
+  activeTrackingInterval = setInterval(updateActiveLearners, 5000);
+
+  if (chatPollingInterval) clearInterval(chatPollingInterval);
+  chatPollingInterval = setInterval(loadChatMessages, 3000); // Poll chat more frequently
 }
 
 function stopTracking() {
   if (activeTrackingInterval) {
     clearInterval(activeTrackingInterval);
     activeTrackingInterval = null;
+  }
+  if (chatPollingInterval) {
+    clearInterval(chatPollingInterval);
+    chatPollingInterval = null;
   }
 }
 
