@@ -868,7 +868,10 @@ function renderChatMessages(messages) {
     return `
       <div class="chat-msg ${isMe ? 'me' : 'others'}" data-id="${msg.id}">
         ${!isMe ? `<span class="name">${escapeHtml(msg.userName)}</span>` : ''}
-        <div class="text">${escapeHtml(msg.text)}</div>
+        <div class="msg-content">
+          ${msg.text ? `<div class="text">${escapeHtml(msg.text)}</div>` : ''}
+          ${msg.image ? `<div class="image"><img src="${msg.image}" alt="Pasted Image" onclick="window.open(this.src)" /></div>` : ''}
+        </div>
         ${isMe ? `<button class="recall-btn" title="Thu hồi">&times;</button>` : ''}
       </div>
     `;
@@ -910,8 +913,8 @@ async function recallMessage(messageId) {
   }
 }
 
-async function sendChatMessage(text) {
-  if (!text.trim()) return;
+async function sendChatMessage(text, image = null) {
+  if (!text.trim() && !image) return;
   
   try {
     const response = await fetch('/api/chat', {
@@ -920,12 +923,13 @@ async function sendChatMessage(text) {
       body: JSON.stringify({
         userId: getUserId(),
         userName: 'Học viên ' + getUserId().slice(-4).toUpperCase(),
-        text: text
+        text: text,
+        image: image
       })
     });
     
     if (response.ok) {
-      els.chatInput.value = '';
+      if (text) els.chatInput.value = '';
       loadChatMessages(); // Refresh immediately
     }
   } catch (error) {
@@ -938,6 +942,20 @@ if (els.chatForm) {
     e.preventDefault();
     const text = els.chatInput.value;
     sendChatMessage(text);
+  });
+
+  els.chatInput.addEventListener('paste', (e) => {
+    const items = (e.clipboardData || e.originalEvent.clipboardData).items;
+    for (const item of items) {
+      if (item.type.indexOf('image') !== -1) {
+        const blob = item.getAsFile();
+        const reader = new FileReader();
+        reader.onload = (event) => {
+          sendChatMessage('', event.target.result);
+        };
+        reader.readAsDataURL(blob);
+      }
+    }
   });
 }
 

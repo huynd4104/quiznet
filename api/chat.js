@@ -25,8 +25,8 @@ export default async function handler(req, res) {
     }
 
     if (req.method === 'POST') {
-      const { userId, text, userName } = req.body;
-      if (!text || !userId) {
+      const { userId, text, userName, image } = req.body;
+      if (!userId || (!text && !image)) {
         return res.status(400).json({ error: 'Missing content' });
       }
 
@@ -34,7 +34,8 @@ export default async function handler(req, res) {
         id: Math.random().toString(36).substr(2, 9),
         userId,
         userName: userName || 'Ẩn danh',
-        text: text.substring(0, 500), // Limit message length
+        text: (text || '').substring(0, 500), // Limit message length
+        image: image, // Base64 string
         timestamp: Date.now()
       };
 
