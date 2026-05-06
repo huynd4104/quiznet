@@ -673,6 +673,9 @@ function handleAnswer(selected) {
       goNext();
     }, 500);
   }
+
+  // Real-time update immediately on activity
+  updateActiveLearners();
 }
 
 function finishSession() {
@@ -811,7 +814,17 @@ async function updateActiveLearners() {
     });
     const data = await response.json();
     if (data && typeof data.activeCount === 'number') {
-      if (els.activeCount) els.activeCount.textContent = String(data.activeCount);
+      const el = els.activeCount;
+      if (el) {
+        const oldVal = el.textContent;
+        const newVal = String(data.activeCount);
+        if (oldVal !== newVal) {
+          el.textContent = newVal;
+          el.classList.remove('pulse');
+          void el.offsetWidth; // trigger reflow
+          el.classList.add('pulse');
+        }
+      }
     }
   } catch (error) {
     console.error('Failed to update active learners:', error);
@@ -819,8 +832,31 @@ async function updateActiveLearners() {
 }
 
 // Start tracking
-updateActiveLearners();
-setInterval(updateActiveLearners, 20000); // Update every 20 seconds
+let activeTrackingInterval = null;
+
+function startTracking() {
+  updateActiveLearners();
+  if (activeTrackingInterval) clearInterval(activeTrackingInterval);
+  activeTrackingInterval = setInterval(updateActiveLearners, 5000); // Update every 5 seconds
+}
+
+function stopTracking() {
+  if (activeTrackingInterval) {
+    clearInterval(activeTrackingInterval);
+    activeTrackingInterval = null;
+  }
+}
+
+// Handle visibility change to save resources and update immediately on return
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') {
+    startTracking();
+  } else {
+    stopTracking();
+  }
+});
+
+startTracking();
 
 // require confirmation before resetting/refreshing
 if (els.reloadButton) {

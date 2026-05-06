@@ -16,7 +16,7 @@ async function getRedisClient() {
 
 export default async function handler(req, res) {
   const now = Date.now();
-  const activeThreshold = now - 30000; // 30 seconds ago
+  const activeThreshold = now - 15000; // 15 seconds ago
 
   try {
     const redis = await getRedisClient();
