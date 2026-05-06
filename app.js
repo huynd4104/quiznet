@@ -32,7 +32,6 @@ const els = {
   modalImg: document.getElementById('modalImg'),
   emojiPicker: document.getElementById('emojiPicker'),
   emojiList: document.getElementById('emojiList'),
-  emojiSearch: document.getElementById('emojiSearch'),
   emojiToggleBtn: document.getElementById('emojiToggleBtn'),
 };
 
@@ -1073,17 +1072,12 @@ if (els.emojiToggleBtn) {
     e.stopPropagation();
     els.emojiPicker.classList.toggle('hidden');
     if (!els.emojiPicker.classList.contains('hidden')) {
-      els.emojiSearch.focus();
       if (state.emojis.length === 0) loadEmojis();
     }
   });
 }
 
-if (els.emojiSearch) {
-  els.emojiSearch.addEventListener('input', (e) => {
-    renderEmojis(e.target.value);
-  });
-}
+
 
 // Close emoji picker when clicking outside
 document.addEventListener('click', (e) => {

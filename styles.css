@@ -873,21 +873,7 @@ button.secondary,
   to { opacity: 1; transform: translateY(0); }
 }
 
-.emoji-picker-header {
-  padding: 8px;
-  border-bottom: 1px solid var(--border);
-}
 
-.emoji-picker-header input {
-  width: 100%;
-  padding: 8px 12px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: var(--bg-2);
-  color: var(--text);
-  font-size: 0.85rem;
-  outline: none;
-}
 
 .emoji-list {
   flex: 1;
