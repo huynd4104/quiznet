@@ -30,6 +30,10 @@ const els = {
   chatToggleBtn: document.getElementById('chatToggleBtn'),
   imageModal: document.getElementById('imageModal'),
   modalImg: document.getElementById('modalImg'),
+  emojiPicker: document.getElementById('emojiPicker'),
+  emojiList: document.getElementById('emojiList'),
+  emojiSearch: document.getElementById('emojiSearch'),
+  emojiToggleBtn: document.getElementById('emojiToggleBtn'),
 };
 
 const state = {
@@ -58,6 +62,7 @@ const state = {
   autoNextEnabled: false,
   autoNextTimer: null,
   lastChatId: null,
+  emojis: [],
 };
 
 const SESSION_STORAGE_KEY = 'quiznet.study.session.v1';
@@ -954,6 +959,7 @@ async function sendChatMessage(text, image = null) {
     
     if (response.ok) {
       if (text) els.chatInput.value = '';
+      if (els.emojiPicker) els.emojiPicker.classList.add('hidden');
       loadChatMessages(); // Refresh immediately
     }
   } catch (error) {
@@ -1022,6 +1028,69 @@ function stopTracking() {
     chatPollingInterval = null;
   }
 }
+
+// Emoji Implementation
+async function loadEmojis() {
+  try {
+    const response = await fetch('./resource/emoji.json');
+    const data = await response.json();
+    state.emojis = data;
+    renderEmojis();
+  } catch (error) {
+    console.error('Failed to load emojis:', error);
+  }
+}
+
+function renderEmojis(filter = '') {
+  if (!els.emojiList) return;
+  
+  const filtered = filter 
+    ? state.emojis.filter(e => e.name.toLowerCase().includes(filter.toLowerCase()) || e.group.toLowerCase().includes(filter.toLowerCase()))
+    : state.emojis.slice(0, 200); // Limit initial view for performance
+
+  const html = filtered.map(e => `<span title="${e.name}">${e.char}</span>`).join('');
+  els.emojiList.innerHTML = html;
+
+  els.emojiList.querySelectorAll('span').forEach(span => {
+    span.onclick = () => {
+      const emoji = span.textContent;
+      const start = els.chatInput.selectionStart;
+      const end = els.chatInput.selectionEnd;
+      const text = els.chatInput.value;
+      els.chatInput.value = text.slice(0, start) + emoji + text.slice(end);
+      els.chatInput.focus();
+      const newPos = start + emoji.length;
+      els.chatInput.setSelectionRange(newPos, newPos);
+      
+      // Close picker on mobile or if user prefers, but usually keeping it open for multi-emoji is better.
+      // For now let's keep it open but maybe close on send.
+    };
+  });
+}
+
+if (els.emojiToggleBtn) {
+  els.emojiToggleBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    els.emojiPicker.classList.toggle('hidden');
+    if (!els.emojiPicker.classList.contains('hidden')) {
+      els.emojiSearch.focus();
+      if (state.emojis.length === 0) loadEmojis();
+    }
+  });
+}
+
+if (els.emojiSearch) {
+  els.emojiSearch.addEventListener('input', (e) => {
+    renderEmojis(e.target.value);
+  });
+}
+
+// Close emoji picker when clicking outside
+document.addEventListener('click', (e) => {
+  if (els.emojiPicker && !els.emojiPicker.contains(e.target) && e.target !== els.emojiToggleBtn) {
+    els.emojiPicker.classList.add('hidden');
+  }
+});
 
 // Handle visibility change to save resources and update immediately on return
 document.addEventListener('visibilitychange', () => {

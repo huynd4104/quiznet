@@ -31,10 +31,19 @@
           <div class="chat-messages" id="chatMessages">
             <div class="chat-empty">Đang tải tin nhắn...</div>
           </div>
-          <form class="chat-input-row" id="chatForm">
-            <input type="text" id="chatInput" placeholder="Nhắn gì đó..." maxlength="500" autocomplete="off" />
-            <button type="submit" id="chatSendBtn">Gửi</button>
-          </form>
+          <div class="chat-input-wrapper">
+            <div id="emojiPicker" class="emoji-picker hidden">
+              <div class="emoji-picker-header">
+                <input type="text" id="emojiSearch" placeholder="Tìm emoji..." />
+              </div>
+              <div class="emoji-list" id="emojiList"></div>
+            </div>
+            <form class="chat-input-row" id="chatForm">
+              <button type="button" id="emojiToggleBtn" class="emoji-toggle-btn" title="Chọn emoji">😊</button>
+              <input type="text" id="chatInput" placeholder="Nhắn gì đó..." maxlength="500" autocomplete="off" />
+              <button type="submit" id="chatSendBtn">Gửi</button>
+            </form>
+          </div>
         </div>
       </div>
     </aside>
