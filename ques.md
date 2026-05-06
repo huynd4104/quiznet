@@ -1538,7 +1538,7 @@ Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải
 A. Là nhà nước hợp hiến
 B. Là nhà nước dân chủ
 C. Là nhà nước dân quyền
-@@@B###
+@@@A###
 Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải
 a. Do ĐCS lãnh đạo và nhân dân làm chủ
 b. Do nhân dân quản lý và nhân dân làm chủ
