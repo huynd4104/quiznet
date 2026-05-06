@@ -194,6 +194,22 @@ h3 {
   background: rgba(255, 255, 255, 0.02);
 }
 
+.status-group {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+
+.status-group .active-learners-line {
+  flex: 1;
+}
+
+#starredModeButton {
+  padding: 0 14px;
+  font-size: 0.85rem;
+  border-radius: 16px;
+}
+
 .wrong-count-line strong,
 .active-learners-line strong {
   color: var(--text);
@@ -478,12 +494,48 @@ button.secondary,
 .nav-row {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 10px;
   margin-top: 8px;
+  position: relative;
 }
 
-.nav-row button {
+.nav-row button:not(.star-button) {
   min-width: 140px;
+}
+
+.star-button {
+  position: absolute;
+  right: 0;
+  background: transparent;
+  box-shadow: none;
+  padding: 10px;
+  border: none;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: color 0.2s ease, transform 0.2s ease, background 0.2s ease;
+}
+
+.star-button:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: #f59e0b; /* Amber */
+  transform: scale(1.1);
+}
+
+.star-button svg {
+  width: 24px;
+  height: 24px;
+}
+
+.star-button.active {
+  color: #f59e0b;
+}
+
+.star-button.active svg {
+  fill: #f59e0b;
 }
 
 .feedback {
