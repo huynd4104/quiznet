@@ -24,8 +24,6 @@ const els = {
   nextButton: document.getElementById('nextButton'),
   feedback: document.getElementById('feedback'),
   activeCount: document.getElementById('activeCount'),
-  starredModeButton: document.getElementById('starredModeButton'),
-  starButton: document.getElementById('starButton'),
 };
 
 const state = {
@@ -53,8 +51,6 @@ const state = {
   questionStates: {},
   autoNextEnabled: false,
   autoNextTimer: null,
-  starredIndices: new Set(),
-  showStarredOnly: false,
 };
 
 const SESSION_STORAGE_KEY = 'quiznet.study.session.v1';
@@ -227,13 +223,9 @@ function serializeSession() {
     answeredCurrent: state.answeredCurrent,
     selectedLetters: [...state.selectedLetters],
     lastAnswerSelected: state.lastAnswerSelected || [],
-    starredIndices: Array.from(state.starredIndices),
-    showStarredOnly: Boolean(state.showStarredOnly),
-    savedNormalState: state.savedNormalState ? {
-      ...state.savedNormalState,
-      pendingNew: [...state.savedNormalState.pendingNew],
-      reviewQueue: state.savedNormalState.reviewQueue.map(item => ({...item}))
-    } : null,
+    lastAnswerCorrect: Boolean(state.lastAnswerCorrect),
+    questionStates: state.questionStates,
+    autoNextEnabled: Boolean(state.autoNextEnabled),
   };
 }
 
@@ -283,10 +275,7 @@ function restoreSession() {
     state.lastAnswerSelected = Array.isArray(saved.lastAnswerSelected) ? saved.lastAnswerSelected.filter((value) => typeof value === 'string') : [];
     state.lastAnswerCorrect = Boolean(saved.lastAnswerCorrect);
     state.questionStates = saved.questionStates && typeof saved.questionStates === 'object' ? saved.questionStates : {};
-    state.autoNextEnabled = Boolean(state.autoNextEnabled);
-    state.starredIndices = new Set(Array.isArray(saved.starredIndices) ? saved.starredIndices : []);
-    state.showStarredOnly = Boolean(saved.showStarredOnly);
-    state.savedNormalState = saved.savedNormalState || null;
+    state.autoNextEnabled = Boolean(saved.autoNextEnabled);
 
     if (!Number.isInteger(state.currentIndex) || state.currentIndex < 0 || state.currentIndex >= state.questions.length) {
       return false;
@@ -315,12 +304,6 @@ function clearAutoNextTimer() {
 function updateAutoNextButton() {
   if (!els.autoNextButton) return;
   els.autoNextButton.classList.toggle('active', state.autoNextEnabled);
-  updateStarredModeButton();
-}
-
-function updateStarredModeButton() {
-  if (!els.starredModeButton) return;
-  els.starredModeButton.classList.toggle('active', state.showStarredOnly);
 }
 
 function applyAnsweredState(current, selected, isCorrect) {
@@ -395,18 +378,10 @@ function renderQuestion(pushHistory = true) {
   const questionNumber = state.currentIndex + 1;
 
   els.questionBadge.textContent = `Câu ${questionNumber}`;
-  els.sourceBadge.textContent = state.showStarredOnly ? 'Chú ý' : (state.currentSource === 'review' ? 'Ôn lại' : 'Câu mới');
+  els.sourceBadge.textContent = state.currentSource === 'review' ? 'Ôn lại' : 'Câu mới';
   // add/remove 'review' class so CSS can highlight the Ôn lại pill
-  els.sourceBadge.classList.toggle('review', state.currentSource === 'review' || state.showStarredOnly);
-
-  if (state.showStarredOnly) {
-    const starredList = Array.from(state.starredIndices).sort((a, b) => a - b);
-    const rank = starredList.indexOf(state.currentIndex) + 1;
-    els.progressText.textContent = `${rank} / ${starredList.length}`;
-  } else {
-    els.progressText.textContent = `${state.currentIndex + 1} / ${state.questions.length}`;
-  }
-  updateStarUI();
+  els.sourceBadge.classList.toggle('review', state.currentSource === 'review');
+  els.progressText.textContent = `${state.currentIndex + 1} / ${state.questions.length}`;
   els.promptText.innerHTML = renderPrompt(current.prompt, current.answerText);
   els.optionList.innerHTML = '';
   els.feedback.className = 'feedback hidden';
@@ -482,83 +457,6 @@ function renderQuestion(pushHistory = true) {
   if (els.prevButton) els.prevButton.disabled = state.historyPos <= 0;
   if (els.nextButton) els.nextButton.disabled = true; // enabled after answering
   updateAutoNextButton();
-  updateStarredModeButton();
-  saveSession();
-}
-
-function updateStarUI() {
-  if (!els.starButton) return;
-  const isStarred = state.starredIndices.has(state.currentIndex);
-  els.starButton.classList.toggle('active', isStarred);
-}
-
-function toggleStar() {
-  if (state.currentIndex === -1) return;
-  if (state.starredIndices.has(state.currentIndex)) {
-    state.starredIndices.delete(state.currentIndex);
-  } else {
-    state.starredIndices.add(state.currentIndex);
-  }
-  updateStarUI();
-  saveSession();
-}
-
-function toggleStarredMode() {
-  if (!state.showStarredOnly) {
-    // Entering Starred Mode
-    const starred = Array.from(state.starredIndices).sort((a, b) => a - b);
-    if (starred.length === 0) {
-      alert('Bạn chưa gắn sao câu hỏi nào.');
-      return;
-    }
-
-    // Save current "Normal" state
-    state.savedNormalState = {
-      pendingNew: [...state.pendingNew],
-      reviewQueue: state.reviewQueue.map((item) => ({ ...item })),
-      currentIndex: state.currentIndex,
-      currentSource: state.currentSource,
-      history: [...state.history],
-      historyPos: state.historyPos,
-    };
-
-    state.showStarredOnly = true;
-    updateStarredModeButton();
-
-    // Setup starred session: only these questions exist for now
-    state.pendingNew = [...starred];
-    state.reviewQueue = [];
-    state.history = [];
-    state.historyPos = -1;
-
-    // Pick first starred question
-    if (pickNextQuestion()) {
-      renderQuestion(true);
-    }
-  } else {
-    // Exiting Starred Mode
-    state.showStarredOnly = false;
-    updateStarredModeButton();
-
-    if (state.savedNormalState) {
-      state.pendingNew = state.savedNormalState.pendingNew;
-      state.reviewQueue = state.savedNormalState.reviewQueue;
-      state.currentIndex = state.savedNormalState.currentIndex;
-      state.current = state.questions[state.currentIndex];
-      state.currentSource = state.savedNormalState.currentSource;
-      state.history = state.savedNormalState.history;
-      state.historyPos = state.savedNormalState.historyPos;
-      delete state.savedNormalState;
-
-      renderQuestion(false);
-      applyStoredQuestionState(state.currentIndex);
-    } else {
-      // Fallback if no saved state
-      startSession();
-    }
-  }
-
-  updateStats();
   saveSession();
 }
 
@@ -1000,18 +898,6 @@ if (els.prevButton) {
 if (els.nextButton) {
   els.nextButton.addEventListener('click', () => {
     goNext();
-  });
-}
-
-if (els.starButton) {
-  els.starButton.addEventListener('click', () => {
-    toggleStar();
-  });
-}
-
-if (els.starredModeButton) {
-  els.starredModeButton.addEventListener('click', () => {
-    toggleStarredMode();
   });
 }
 
