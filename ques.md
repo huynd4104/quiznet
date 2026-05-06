@@ -2501,6 +2501,11 @@ a. Luôn phù hợp với từng đối tượng.
 b. Luôn luôn phù hợp với từng hoàn cảnh.
 c. Tất cả các phương án.
 @@@b###
+Theo Hồ Chí Minh, việc học tập, nghiên cứu, tuyên truyền chủ nghĩa Mác - Lênin phải:
+a. Luôn phù hợp với từng đối tượng.
+b. Luôn phù hợp với từng hoàn cảnh.
+c. Tất cả các phương án.
+@@@a###
 Hồ Chí Minh gọi đồng bào Miền nam với cái tên thân thương và trìu mến đó là
 a. Thành đồng tổ quốc
 b. Anh hùng bất khuất
