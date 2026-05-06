@@ -608,7 +608,7 @@ A. Bộ phận của tập thể
 B. Một tế bào của xã hội
 C. Đều là một cá thể trong xã hội
 D. Một phần của tập thể
-@@@B###
+@@@A###
 Hồ Chí Minh cho rằng xây dựng con người mới xã hội chủ nghĩa trước hết phải: (073-356-8678)
 A. Diệt trừ chủ nghĩa cá nhân
 B. Diệt trừ văn hóa phong kiến
