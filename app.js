@@ -865,16 +865,48 @@ function renderChatMessages(messages) {
   const html = messages.map(msg => {
     const isMe = msg.userId === currentUserId;
     return `
-      <div class="chat-msg ${isMe ? 'me' : 'others'}">
+      <div class="chat-msg ${isMe ? 'me' : 'others'}" data-id="${msg.id}">
         ${!isMe ? `<span class="name">${escapeHtml(msg.userName)}</span>` : ''}
         <div class="text">${escapeHtml(msg.text)}</div>
+        ${isMe ? `<button class="recall-btn" title="Thu hồi">&times;</button>` : ''}
       </div>
     `;
   }).join('');
 
   els.chatMessages.innerHTML = html;
+  
+  // Add recall listeners
+  els.chatMessages.querySelectorAll('.recall-btn').forEach(btn => {
+    btn.onclick = (e) => {
+      const msgId = e.target.closest('.chat-msg').dataset.id;
+      recallMessage(msgId);
+    };
+  });
+
   // Scroll to bottom
   els.chatMessages.scrollTop = els.chatMessages.scrollHeight;
+}
+
+async function recallMessage(messageId) {
+  if (!confirm('Bạn muốn thu hồi tin nhắn này?')) return;
+
+  try {
+    const response = await fetch('/api/chat', {
+      method: 'DELETE',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        messageId,
+        userId: getUserId()
+      })
+    });
+
+    if (response.ok) {
+      state.lastChatId = null; // Force re-render
+      loadChatMessages();
+    }
+  } catch (error) {
+    console.error('Failed to recall message:', error);
+  }
 }
 
 async function sendChatMessage(text) {
