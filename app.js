@@ -28,6 +28,8 @@ const els = {
   chatForm: document.getElementById('chatForm'),
   chatInput: document.getElementById('chatInput'),
   chatToggleBtn: document.getElementById('chatToggleBtn'),
+  imageModal: document.getElementById('imageModal'),
+  modalImg: document.getElementById('modalImg'),
 };
 
 const state = {
@@ -849,6 +851,19 @@ async function loadChatMessages() {
   }
 }
 
+function openImage(src) {
+  if (!els.imageModal || !els.modalImg) return;
+  els.modalImg.src = src;
+  els.imageModal.classList.remove('hidden');
+}
+
+if (els.imageModal) {
+  els.imageModal.addEventListener('click', () => {
+    els.imageModal.classList.add('hidden');
+    els.modalImg.src = '';
+  });
+}
+
 function renderChatMessages(messages) {
   if (!els.chatMessages) return;
   
@@ -870,7 +885,7 @@ function renderChatMessages(messages) {
         ${!isMe ? `<span class="name">${escapeHtml(msg.userName)}</span>` : ''}
         <div class="msg-content">
           ${msg.text ? `<div class="text">${escapeHtml(msg.text)}</div>` : ''}
-          ${msg.image ? `<div class="image"><img src="${msg.image}" alt="Pasted Image" onclick="window.open(this.src)" /></div>` : ''}
+          ${msg.image ? `<div class="image"><img src="${msg.image}" alt="Pasted Image" onclick="openImage(this.src)" /></div>` : ''}
         </div>
         ${isMe ? `<button class="recall-btn" title="Thu hồi">&times;</button>` : ''}
       </div>
