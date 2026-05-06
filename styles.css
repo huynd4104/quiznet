@@ -600,10 +600,50 @@ button.secondary,
 }
 
 .chat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   padding: 12px 16px;
   background: var(--panel);
   border-bottom: 1px solid var(--border);
   font-size: 0.9rem;
+}
+
+.chat-toggle-btn {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 4px !important;
+  color: var(--muted) !important;
+  cursor: pointer;
+  transition: transform 0.3s ease, color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: none !important;
+  border-radius: 8px !important;
+}
+
+.chat-toggle-btn:hover {
+  color: var(--text) !important;
+  background: var(--bg-2) !important;
+}
+
+.chat-container.collapsed {
+  height: auto !important;
+}
+
+.chat-container.collapsed .chat-messages,
+.chat-container.collapsed .chat-input-row {
+  display: none !important;
+}
+
+.chat-container.collapsed .chat-header {
+  border-bottom: none;
+}
+
+.chat-container.collapsed .chat-toggle-btn {
+  transform: rotate(-180deg) !important;
 }
 
 .chat-messages {

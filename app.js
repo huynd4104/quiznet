@@ -27,6 +27,7 @@ const els = {
   chatMessages: document.getElementById('chatMessages'),
   chatForm: document.getElementById('chatForm'),
   chatInput: document.getElementById('chatInput'),
+  chatToggleBtn: document.getElementById('chatToggleBtn'),
 };
 
 const state = {
@@ -937,6 +938,20 @@ if (els.chatForm) {
     e.preventDefault();
     const text = els.chatInput.value;
     sendChatMessage(text);
+  });
+}
+
+if (els.chatToggleBtn) {
+  els.chatToggleBtn.addEventListener('click', () => {
+    const container = document.querySelector('.chat-container');
+    const isExpanding = container.classList.contains('collapsed');
+    container.classList.toggle('collapsed');
+    
+    if (isExpanding && els.chatMessages) {
+      setTimeout(() => {
+        els.chatMessages.scrollTop = els.chatMessages.scrollHeight;
+      }, 300); // Wait for transition if any
+    }
   });
 }
 
