@@ -187,11 +187,13 @@ h3 {
 .wrong-count-line,
 .active-learners-line {
   margin: 0;
-  padding: 0.8rem 1rem;
+  padding: 0.9rem 1rem;
   border: 1px solid var(--border-strong);
   border-radius: 16px;
   color: var(--muted);
   background: rgba(255, 255, 255, 0.02);
+  text-align: center;
+  font-size: 0.9rem;
 }
 
 .wrong-count-line strong,
