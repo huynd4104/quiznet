@@ -970,6 +970,12 @@ button.secondary,
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid var(--border-strong);
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.chat-image-preview img:hover {
+  opacity: 0.8;
 }
 
 .remove-preview-btn {

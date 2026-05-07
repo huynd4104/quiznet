@@ -1005,6 +1005,14 @@ if (els.chatForm) {
       clearImagePreview();
     });
   }
+
+  if (els.previewImg) {
+    els.previewImg.addEventListener('click', () => {
+      if (state.pendingImage) {
+        openImage(state.pendingImage);
+      }
+    });
+  }
 }
 
 if (els.chatToggleBtn) {
