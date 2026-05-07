@@ -892,8 +892,8 @@ function renderChatMessages(messages) {
       <div class="chat-msg ${isMe ? 'me' : 'others'}" data-id="${msg.id}">
         ${!isMe ? `<span class="name">${escapeHtml(msg.userName)}</span>` : ''}
         <div class="msg-content">
-          ${msg.text ? `<div class="text">${escapeHtml(msg.text)}</div>` : ''}
           ${msg.image ? `<div class="image"><img src="${msg.image}" alt="Pasted Image" class="chat-img" /></div>` : ''}
+          ${msg.text ? `<div class="text">${escapeHtml(msg.text)}</div>` : ''}
         </div>
         ${isMe ? `<button class="recall-btn" title="Thu hồi">&times;</button>` : ''}
       </div>
