@@ -950,3 +950,50 @@ button.secondary,
 .modal.hidden {
   display: none !important;
 }
+
+/* Image Preview Styles */
+.chat-image-preview {
+  position: relative;
+  padding: 8px;
+  background: var(--panel);
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  animation: slideUp 0.2s ease-out;
+}
+
+.chat-image-preview img {
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid var(--border-strong);
+}
+
+.remove-preview-btn {
+  position: absolute;
+  top: 4px;
+  left: 60px;
+  transform: translateX(-50%);
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  border-radius: 50%;
+  background: var(--danger);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  border: 1px solid rgba(255,255,255,0.2);
+  cursor: pointer;
+  z-index: 10;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.remove-preview-btn:hover {
+  background: #9f1239;
+  transform: translateX(-50%) scale(1.1);
+}

@@ -19,8 +19,8 @@ export default async function handler(req, res) {
     const CHAT_KEY = 'quiznet_chat_messages';
 
     if (req.method === 'GET') {
-      // Get last 50 messages
-      const messages = await redis.lRange(CHAT_KEY, 0, 49);
+      // Get last 200 messages
+      const messages = await redis.lRange(CHAT_KEY, 0, 199);
       return res.status(200).json({ messages: messages.map(m => JSON.parse(m)).reverse() });
     }
 
@@ -41,8 +41,8 @@ export default async function handler(req, res) {
 
       // Push to the front of the list
       await redis.lPush(CHAT_KEY, JSON.stringify(message));
-      // Trim to keep only last 100 messages
-      await redis.lTrim(CHAT_KEY, 0, 99);
+      // Trim to keep only last 200 messages
+      await redis.lTrim(CHAT_KEY, 0, 199);
 
       return res.status(201).json(message);
     }

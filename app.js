@@ -33,6 +33,9 @@ const els = {
   emojiPicker: document.getElementById('emojiPicker'),
   emojiList: document.getElementById('emojiList'),
   emojiToggleBtn: document.getElementById('emojiToggleBtn'),
+  imagePreview: document.getElementById('imagePreview'),
+  previewImg: document.getElementById('previewImg'),
+  removePreviewBtn: document.getElementById('removePreviewBtn'),
 };
 
 const state = {
@@ -62,6 +65,7 @@ const state = {
   autoNextTimer: null,
   lastChatId: null,
   emojis: [],
+  pendingImage: null,
 };
 
 const SESSION_STORAGE_KEY = 'quiznet.study.session.v1';
@@ -959,6 +963,7 @@ async function sendChatMessage(text, image = null) {
     if (response.ok) {
       if (text) els.chatInput.value = '';
       if (els.emojiPicker) els.emojiPicker.classList.add('hidden');
+      clearImagePreview();
       loadChatMessages(); // Refresh immediately
     }
   } catch (error) {
@@ -966,11 +971,17 @@ async function sendChatMessage(text, image = null) {
   }
 }
 
+function clearImagePreview() {
+  state.pendingImage = null;
+  if (els.previewImg) els.previewImg.src = '';
+  if (els.imagePreview) els.imagePreview.classList.add('hidden');
+}
+
 if (els.chatForm) {
   els.chatForm.addEventListener('submit', (e) => {
     e.preventDefault();
     const text = els.chatInput.value;
-    sendChatMessage(text);
+    sendChatMessage(text, state.pendingImage);
   });
 
   els.chatInput.addEventListener('paste', (e) => {
@@ -980,12 +991,20 @@ if (els.chatForm) {
         const blob = item.getAsFile();
         const reader = new FileReader();
         reader.onload = (event) => {
-          sendChatMessage('', event.target.result);
+          state.pendingImage = event.target.result;
+          if (els.previewImg) els.previewImg.src = state.pendingImage;
+          if (els.imagePreview) els.imagePreview.classList.remove('hidden');
         };
         reader.readAsDataURL(blob);
       }
     }
   });
+
+  if (els.removePreviewBtn) {
+    els.removePreviewBtn.addEventListener('click', () => {
+      clearImagePreview();
+    });
+  }
 }
 
 if (els.chatToggleBtn) {
