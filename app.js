@@ -359,7 +359,7 @@ function applyAnsweredState(current, selected, isCorrect) {
   if (isCorrect) {
     showFeedback(true, `<strong>Đúng.</strong> Bạn có thể bấm Tiếp theo để sang câu khác.`, 'good', current.explanation);
   } else {
-    showFeedback(false, `${revealCorrectAnswer(current)}<br /><strong>Bạn chọn:</strong> ${chosenText}.`, 'bad', current.explanation);
+    showFeedback(false, `${revealCorrectAnswer(current)}`, 'bad', current.explanation);
   }
 
   if (els.nextButton) els.nextButton.disabled = false;
@@ -426,6 +426,7 @@ function renderQuestion(pushHistory = true) {
     if (isMulti) {
       const label = document.createElement('label');
       label.className = 'option-check';
+      label.dataset.letter = option.label;
 
       const checkbox = document.createElement('input');
       checkbox.type = 'checkbox';
