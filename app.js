@@ -1285,7 +1285,7 @@ function renderNoteContent(searchQuery = '') {
             itemHtml += `</ul>`;
           }
           if (item.warning && (!query || warningMatches || titleMatches || matchingNotes.length > 0)) {
-            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${escapeHtml(item.warning)}</div>`;
+            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${item.warning}</div>`;
           }
           itemHtml += `</div>`;
         }
@@ -1314,7 +1314,7 @@ function renderNoteContent(searchQuery = '') {
             itemHtml += `</ul>`;
           }
           if (item.warning && (!query || item.warning.toLowerCase().includes(query))) {
-            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${escapeHtml(item.warning)}</div>`;
+            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${item.warning}</div>`;
           }
           itemHtml += `</div>`;
         }
@@ -1341,7 +1341,7 @@ function renderNoteContent(searchQuery = '') {
           matchingRows.forEach((row) => {
             itemHtml += `<tr>`;
             row.forEach((cell) => {
-              itemHtml += `<td>${escapeHtml(cell)}</td>`;
+              itemHtml += `<td>${cell}</td>`;
             });
             itemHtml += `</tr>`;
           });
@@ -1371,7 +1371,7 @@ function renderNoteContent(searchQuery = '') {
           });
           itemHtml += `</ul>`;
           if (item.warning) {
-            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${escapeHtml(item.warning)}</div>`;
+            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${item.warning}</div>`;
           }
           itemHtml += `</div>`;
         } else if (item.type === 'list') {
@@ -1400,7 +1400,7 @@ function renderNoteContent(searchQuery = '') {
           item.rows.forEach((row) => {
             itemHtml += `<tr>`;
             row.forEach((cell) => {
-              itemHtml += `<td>${escapeHtml(cell)}</td>`;
+              itemHtml += `<td>${cell}</td>`;
             });
             itemHtml += `</tr>`;
           });
@@ -1452,14 +1452,19 @@ if (els.noteSearchInput) {
 const originalSetVisibility = setVisibility;
 setVisibility = function(hasQuestion) {
   if (isNoteViewActive) {
-    // Keep elements hidden if Note view is active
     if (els.heroCard) els.heroCard.classList.add('hidden');
     if (els.questionCard) els.questionCard.classList.add('hidden');
     if (els.emptyState) els.emptyState.classList.add('hidden');
     if (els.noteCard) els.noteCard.classList.remove('hidden');
   } else {
+    if (els.noteCard) els.noteCard.classList.add('hidden');
     originalSetVisibility(hasQuestion);
   }
 };
+
+// Initial load check if window.notesData is loaded
+if (typeof window.notesData !== 'undefined') {
+  renderNoteContent();
+}
 
 loadDefaultFile();
