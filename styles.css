@@ -1076,8 +1076,9 @@ button.secondary.active {
 }
 
 .note-section-title {
-  font-family: "Iowan Old Style", "Palatino Linotype", serif;
-  font-size: 1.3rem;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
   color: var(--accent-2);
   border-bottom: 2px solid var(--border-strong);
   padding-bottom: 6px;
