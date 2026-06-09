@@ -36,6 +36,7 @@ const els = {
   imagePreview: document.getElementById('imagePreview'),
   previewImg: document.getElementById('previewImg'),
   removePreviewBtn: document.getElementById('removePreviewBtn'),
+  resetQuestionButton: document.getElementById('resetQuestionButton'),
 };
 
 const state = {
@@ -1186,6 +1187,18 @@ if (els.prevButton) {
 if (els.nextButton) {
   els.nextButton.addEventListener('click', () => {
     goNext();
+  });
+}
+
+if (els.resetQuestionButton) {
+  els.resetQuestionButton.addEventListener('click', () => {
+    if (state.currentIndex === -1 || !state.current) return;
+    
+    // Clear the stored state for this question
+    delete state.questionStates[String(state.currentIndex)];
+    
+    // Re-render without pushing new history entry
+    renderQuestion(false);
   });
 }
 

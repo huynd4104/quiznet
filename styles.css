@@ -360,7 +360,20 @@ button.secondary,
 .question-topbar > div:first-child {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 6px;
+}
+
+.reset-q-btn {
+  padding: 4px 8px !important;
+  font-size: 0.9rem !important;
+  border-radius: 8px !important;
+  height: 28px !important;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  box-shadow: none !important;
 }
 
 .pill {
