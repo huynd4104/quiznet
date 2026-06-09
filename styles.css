@@ -250,6 +250,12 @@ button.secondary,
   box-shadow: none;
 }
 
+button.secondary.active {
+  border-color: rgba(5, 150, 105, 0.45);
+  background: rgba(5, 150, 105, 0.12);
+  color: #065f46;
+}
+
 .file-button {
   display: grid;
   place-items: center;

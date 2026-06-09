@@ -1228,7 +1228,6 @@ function showNote() {
   renderNoteContent();
   if (els.noteSearchInput) {
     els.noteSearchInput.value = '';
-    els.noteSearchInput.focus();
   }
 }
 
