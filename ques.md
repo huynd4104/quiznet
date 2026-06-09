@@ -1,3825 +1,3106 @@
-Theo Hồ Chí Minh, "Muốn xây dựng chủ nghĩa xã hội, trước hết cần có 
-a. con người xã hội chủ nghĩa"
-b. khoa học xã hội tiên tiến"
-c. công nông nghiệp hiện đại"
-d. nền kinh tế phát triển"
-@@@a
-(Kiểu hỏi khác: Theo Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có cái gì? 
-→ Con người xã hội chủ nghĩa
-(Kiểu hỏi khác: Theo Hồ Chí Minh muốn xây dựng chủ nghĩa xã hội, trước hết cần có: 
-→ Con người xã hội chủ nghĩa###
-<div class="dlozbfo"><p>Theo Hồ Chí Minh, <span class="bgB">biện pháp</span> nào quan trọng nhất trong xây dựng chủ nghĩa xã hội?</p><p>A. Tranh thủ tối đa sự giúp đỡ, viện trợ quốc tế</p><p>B. Kết hợp cải tạo xã hội cũ và xây dựng xã hội mới</p><p>C. Huy động các nguồn lực sẵn có trong dân</p><p>D. Kết hợp xây dựng và bảo vệ đất nước</p></div>
-@@@<div class="dlozbfo"><p>C</p><p>(Kiểu hỏi khác: Theo Hồ Chí Minh, <span class="bgB">cách</span> làm trong xây dựng xã hội mới là: </p><p>B. Đem của dân, tài dân, sức dân làm lợi cho dân )</p><p></p><p>Nếu hỏi Nguyên tắc thì là B, chiến lược thì là D</p></div>###
-Theo Hồ Chí Minh, biện pháp cơ bản nhất để xây dựng chủ nghĩa xã hội là:
-A. Đem của dân, tài dân, sức dân làm lợi cho dân
-B. Nhà nước phải ban phát từ trên xuống
-C. Phải dựa vào sự giúp đỡ của các nước xã hội chủ nghĩa
-D. Phải tự lực cánh sinh, dựa vào sức mình là chính
-@@@A###
-Con đường cứu nước của Hồ Chí Minh là:
-a. Độc lập dân tộc gắn liền với chủ nghĩa xã hội.
-b. Giải phóng dân tộc gắn liền với chủ nghĩa xã hội.
-c. Giải phóng dân tộc gắn với chủ nghĩa dân tộc.
-d. Độc lập dân tộc gắn liền với chế độ dân chủ.
-@@@a###
-Nói về đạo đức cách mạng Hồ Chí Minh chi rõ: "Vì muốn giải phóng cho dân tộc, giải phóng cho loài người là một công việc to tát, mà tự mình không có đạo đức, không có căn bản, tự mình đã hủ hóa, xấu xa thì còn làm nổi việc gì?". Câu nói trên của Hồ Chí Minh đề cập đến vấn đề gì sau đây ?
-A. Vai trò và sức mạnh của đạo đức
-B. Chuẩn mực và nguyên tắc xây dựng đạo đức mới
-C. Nguyên tắc xây dựng đạo đức mới
-D. Các phẩm chất đạo đức mới
-@@@A###
-Lực lượng đoàn kết quốc tế theo hồ chí minh cần phải đoàn kết với
-A. Giai cấp công nhân, lực lượng xhcn, phong trào cộng sản và công nhân quốc tế,với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới.
-B. Giai cấp nông dân, lực lượng xhcn, phong trào cộng sản và công nhân quốc tế,với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới.
-C. Giai cấp lao động, lực lượng xhcn, phong trào cộng sản và công nhân quốc tế,với các dân tộc thuộc địa bị áp bức và các lực lượng tiến bộ trên thế giới.
-@@@A###
-Theo Hồ Chí Minh, căn bệnh nào là một thứ vi trùng rất độc, đẻ ra hàng trăm thứ bệnh nguy hiểm?
-A. Chủ nghĩa tư bản
-B. Chủ nghĩa cá nhân
-C. Sự lười biếng
-D. Thói quen và truyền thống lạc hậu
-@@@B###
-Nguyên tắc cơ bản nào sau đây cần phải quán triệt trong nghiên cứu tư tưởng hồ chí minh?
-A. quan điểm kế thừa và phát triển
-B. quan điểm kế thừa và toàn diện
-C. quan điểm cách mạng và cụ thể
-D. quan điểm toàn diện và cụ thể
-@@@A###
-Chọn câu trả lời đúng nhất với tư tưởng Hồ Chí Minh về vai trò của đại đoàn kết dân tộc:
-A. Đại đoàn kết dân tộc là vấn đề chiến lược
-B. Đại đoàn kết dân tộc là vấn đề sách lược
-C. Đại đoàn kết dân tộc là thủ đoạn chính trị
-D. Đại đoàn kết dân tộc là phương pháp chính trị
-@@@A###
-Phạm vi vận dụng tư tưởng Hồ Chí Minh:
-A. Đối với cách mạng Việt Nam
-B. Đối với các dân tộc đang bị xâm lược và áp bức trên toàn thế giới
-C. Đối với mọi quốc gia, dân tộc
-D. Đối với cách mạng giải phóng dân tộc ở Việt Nam
-@@@A
-(Kiểu hỏi khác: Phạm vi vận dụng tư tưởng Hồ Chí Minh là đối tượng nào? 
-A. Đối với cách mạng Việt Nam 
-B. Đối với các nước tư sản 
-C. Đối với mọi quốc gia, dân tộc 
-D. Đối với cách mạng giải phóng dân tộc ở Việt Nam)###
-Hồ Chí Minh ví chính sách đối với Pháp sau khi giành độc lập như chính sách
-a. Tạm hòa
-b. Câu tiễn
-c. Tạm thời
-@@@b
-(Kiểu hỏi khác: Năm 1946 Hồ Chí Minh ví chính sách đối với Pháp sau khi giành độc lập như chính sách gì?
-A. Tạm hòa
-B. Câu Tiễn
-C. Tạm thời
-D. Thân thiện và hoà bình)###
-Nguyên tắc chung của Mặt trận dân tộc thống nhất được Hồ Chí Minh xác định cụ thể phù hợp là
-A. Độc lập, tự do
-B. Tất cả các phương án
-C. Đoàn kết chặt chẽ, lâu dài, thật sự, chân thành
-@@@C###
-Cách diễn đạt nào dưới đây là của Hồ Chí Minh?
-A. Lý luận mà không liên hệ với thực tiễn là lý luận mù quáng
-B. Lý luận mà không liên hệ với thực tiễn là lý luận suông
-C. Lý luận mà không liên hệ với thực tiễn là lý luận giáo điều
-D. Lý luận mà không liên hệ với thực tiễn là lý luận trống rỗng
-@@@B###
-Điền từ còn thiếu vào chỗ trống để hoàn thành luận điểm của Hồ Chí Minh khi đề cập đến nguyên tắc phương pháp luận "Thống nhất lý luận và thực tiễn" trong nghiên cứu môn học Tư tưởng Hồ Chí Minh: "Thực tiễn không có lý luận hướng dẫn thì thành thực tiễn mù quáng, dễ mắc bệnh...; lý luận mà không liên hệ với thực tiễn là lý luận suông".
-A. Quan liêu
-B. Tham ô
-C. Chủ quan
-D. Lãng phí
-@@@C###
-Một trong những giá trị của văn hoá phương Tây được Hồ Chí Minh tiếp thu để hình thành tư tưởng của mình là:
-A. Tư tưởng văn hoá dân chủ và cách mạng của cách mạng Pháp và cách mạng Mỹ
-B. Những mặt tích cực của Nho Giáo
-C. Triết học cổ điển Đức
-D. Kinh tế chính trị cổ điển Anh
-@@@A###
-Một trong những giá trị nào dưới đây dẫn đến hình thành tư tưởng Hồ Chí Minh?
-a. Chủ nghĩa yêu nước
-b. Chủ nghĩa xã hội
-c. Chủ nghĩa nhân đạo
-d. Chủ nghĩa nhân văn
-@@@a###
-Hồ Chí Minh vạch ra mục tiêu của cách mạng giải phóng dân tộc thuộc địa là gì?
-A. Đánh đổ ách thống trị của chủ nghĩa thực dân, giành độc lập dân tộc và thiết lập chính quyền của nhân dân 
-B. Đánh đổ ách thống trị của chủ nghĩa thực dân, giành độc lập dân tộc và thiết lập chính quyền về tay người lao động 
-C. Đánh đổ ách thống trị của chủ nghĩa thực dân, giành độc lập dân tộc và thiết lập chính quyền về tay lực lượng cách mạng 
-D. Đánh đổ ách thống trị của chủ nghĩa thực dân, giành độc lập dân tộc và thiết lập chính quyền của công nông
-@@@A###
-Theo Hồ Chí Minh, tính chất và nhiệm vụ hàng đầu của cách mạng ở thuộc địa là gì?
-A. Giải phóng nhân loại
-B. Giải phóng thế giới
-C. Giải phóng giai cấp
-D. Giải phóng dân tộc
-@@@D
-(Kiểu hỏi khác: Hồ Chí Minh vạch ra nhiệm vụ hàng đầu của cách mạng ở thuộc địa là)###
-Theo Hồ Chí Minh, muốn phát huy tinh thần đoàn kết Đảng phải
-A. Có chính sách mặt trận dân tộc đúng đắn
-B. Có chính sách đúng đắn thu hút quần chúng nhân dân
-C. Có chính sách dân chủ đúng đắn
-@@@A###
-Tư tưởng Hồ Chí Minh hình thành trên cơ sở
-A. Vận dụng và phát triển sáng tạo chủ nghĩa Mác- Lênin
-B. Tiếp thu toàn bộ chủ nghĩa Mác-Lênin
-C. Tiếp thu một bộ phận của chủ nghĩa Mác-Lênin
-D. Vận dụng hoàn toàn chủ nghĩa Mác - Lênin vào hoàn cảnh của Việt Nam
-@@@A###
-Chọn phương án trả lời không đúng với tư tưởng Hồ Chí Minh về nhà nước vì dân?
-A. Phục vụ nhân dân
-B. Chăm lo mọi mặt đời sống nhân dân
-C. Do dân làm chủ, tổ chức nên
-D. Đem lại lợi ích cho dân
-@@@C###
-Hồ Chí Minh đã nêu quan điểm về xây dựng một nền văn hóa mới là
-A. Xây dựng tâm lý, xây dựng luân lý
-B. Xây dựng tâm lý, xây dựng luân lý, xây dựng xã hội
-C. Xây dựng tâm lý, xây dựng luân lý, xây dựng xã hội, xây dựng chính trị
-D. Xây dựng tâm lý, xây dựng luân lý, xây dựng xã hội, xây dựng chính trị, xây dựng kinh tế
-@@@D###
-Con người trong quan điểm của Hồ Chí Minh được nhìn nhận như một:
-a. Chỉnh thể
-b. Tế bào
-c. Xã hội
-d. Cộng đồng
-@@@a
-(Kiểu hỏi khác: Hồ Chí Minh nhìn nhận con người như điều gì?
-A. Chỉnh thể
-B. Tế bào
-C. Xã hội
-D. Cộng đồng)###
-Luận điểm: "Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp ở mọi nơi. Đảng có vững thì cách mạng mới thành công, cũng như người cầm lái có vững thuyền mới chạy" được trích từ tác phẩm nào của Hồ Chí Minh?(073-356-8678)
-A. Bản án chế độ thực dân Pháp
-B. Đường kách mệnh
-C. Bản án chế độ thực dân Pháp
-D. Thường thức chính trị
-@@@B###
-Luận điểm: "Cách mệnh An Nam cũng là một bộ phận trong cách mệng thế giới. Ai làm cách mệnh trong thế giới đều là đồng chí của dân An Nam cả" được trích từ tác phẩm nào của Hồ Chí Minh?
-A. Đông Dương (1923-1924)
-B. Bản án chế dộ thực dân Pháp
-C. Đường Kách mệnh
-D. Tuyên ngôn Độc lập
-@@@C###
-Chọn phương án trả lời đúng nhất?
-A. Chủ nghĩa Mác - Lênin là nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng
-B. Tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng
-C. Cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho hành động của Đảng ta
-@@@C###
-Theo Tư tưởng Hồ Chí Minh, văn hoá có mấy chức năng chủ yếu?
-A. Hai
-B. Ba
-C. Bốn
-D. Năm
-@@@B
-(Kiểu hỏi khác: 
-Theo tư tưởng Hồ Chí Minh, văn hoá có chức năng: 
-a. Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp cho con người.
-b. Nâng cao dân trí.
-c. Bồi dưỡng những phẩm chính tốt đẹp, những phong cách, lối sống lành mạnh, luôn hướng con người vươn tới cái chân, cái thiện, cái mỹ, không ngừng hoàn thiện bản thân mình.
-d. Tất cả các phương án.)###
-Theo Hồ Chí Minh, để đánh bại các thế lực đế quốc thực dân chỉ có tinh thần yêu nước là chưa đủ, cách mạng muốn đến nơi, phải tập hợp được tất cả mọi lực lượng có thể tập hợp, xây dựng được.
-A. Chính sách dân tộc phù hợp
-B. Khối đại đoàn kết dân tộc bền vững
-C. Chương trình tập hợp lực lượng đoàn kết rộng rãi
-@@@B###
-Theo Hồ Chí Minh, mục đích của chủ nghĩa xã hội là.
-A. Xây dựng nền kinh tế hiện đại, có sức tăng trưởng cao.
-B. Không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân
-C. Phát triển mạnh mẽ khoa học - kỹ thuật
-D. Bảo đảm quyền làm chủ của nhân dân lao động
-@@@B###
-Theo Hồ Chí Minh, mục tiêu tổng quát của chủ nghĩa xã hội là gì?
-a. Một nền kinh tế hiện đại, khoa học kỹ thuật tiên tiến
-b. Không ngừng cải thiện và nâng cao đời sống của nhân dân lao động
-c. Phát triển mạnh mẽ khoa học - kỹ thuật, tư tưởng văn hóa tiến bộ
-d. Bảo đảm quyền làm chủ của nhân dân lao động
-@@@b###
-Theo Hồ Chí Minh, đánh giá cán bộ phải:
-A. Tiến hành thường xuyên
-B. Khách quan, trung thực
-C. Phải tự biết mình, biết người
-D. Phải đủ trong sạch
-@@@B 
-( Đánh giá cán bộ phải khách quan, toàn diện, công tâm, minh bạch )###
-Hãy chọn phương án trả lời đúng nhất: Lòng khoan dung độ lượng ở Hồ Chí Minh không phải là một sách lược, một thủ đoạn chính trị mà là sự nối tiếp và phát triển của :
-A. Chủ nghĩa yêu nước
-B. Chủ nghĩa dân tộc chân chính
-C. Truyền thống nhân ái, bao dung của dân tộc
-D. Mục tiêu cách mạng
-@@@C###
-Trong quan hệ quốc tế, Hồ Chí Minh nhấn mạnh: phải có thực lực, thực lực là cái (...), ngoại giao là cái tiếng, (....) có to tiếng mới lớn.
-A. Chiêng
-B. Trống
-C. Kèn
-D. Đàn
-@@@A###
-Hồ Chí Minh nhấn mạnh mục đích của Đảng Lao động Việt Nam là
-A. Liên kết toàn dân, chống giặc ngoại xâm
-B. Đoàn kết đoàn kết đại đoàn kết
-C. Đoàn kết toàn dân, phụng sự tổ quốc
-D. Đoàn kết dân tộc, phụng sự tổ quốc
-@@@C###
-Đâu là nguyên tắc xây dựng đạo đức mới trong tư tưởng hồ chí minh
-A. phải tu dưỡng đạo đức suốt đời
-B. phải tu dưỡng đạo đức thường xuyên
-C. phải tu dưỡng đạo đức hằng ngày
-@@@A###
-Đâu là nguyên tắc xây dựng đạo đức mới trong tư tưởng hồ chí minh
-a. nói đi đôi với làm, phải nêu gương về đạo đức
-b. nói đi đôi với làm, phải nêu gương về lối sống
-c. nói đi đôi với làm, phải nêu gương về học tập
-@@@a###
-Đâu là nguyên tắc xây dựng đạo đức mới trong tư tưởng hồ chí minh
-a. xây đi đôi với chống
-b. xây đi đôi với bảo vệ
-c. xây đi đôi với gia cố
-@@@a###
-Trong tư tưởng Hồ Chí Minh, Mặt trận dân tộc thống nhất càng rộng rãi, sức mạnh của khối liên minh công nông trí thức càng:
-A. Suy yếu và ngược lại.
-B. Được tăng cường và ngược lại.
-C. Gắn kết và ngược lại
-D. Thu hẹp và ngược lại
-@@@B###
-Thực chất của giải phóng giai cấp theo tư tưởng Hồ Chí Minh là gì?
-A. Xóa bỏ các giai cấp bóc lột với tính cách là giai cấp thống trị xã hội
-B. Tiêu diệt cá nhân những con người thuộc các giai cấp bóc lột
-C. Không chủ trương thủ tiêu giai cấp bóc lột thống trị xã hội
-D. Xóa bỏ triệt tiêu các giai cấp thuộc về xã hội cũ
-@@@A###
-Tư tưởng Hồ Chí Minh về cách mạng Việt Nam được hình thành về cơ bản trong thời kỳ nào?
-A. Từ 1911 den 1920
-B. Từ 1920 đến 1930
-C. Từ 1921 đến 1930
-D. Từ 1930 đến 1945
-@@@B###
-Trong tác phẩm "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân" viết trên báo 1969, Hồ Chí Minh ví chủ nghĩa cá nhân như:
-A. Bệnh mẹ
-B. Bệnh nguy hiểm
-C. Giặc ngoại xâm
-D. Bệnh cần loại bỏ
-@@@A###
-Hồ Chí Minh cho rằng giai cấp địa chủ ở Việt Nam
-a. Là giai cấp phản động
-b. Là giai cấp tiên tiến
-c. Là giai cấp không hoàn toàn phản động
-@@@C###
-Hồ chí minh cho rằng giai cấp địa chủ ở việt nam
-A. Là giai Cấp phản động
-B. Là giai cấp tiên tiến
-C. Có thể lợi dụng
-D. Cần phải loại bỏ
-@@@C###
-Vấn đề dân tộc trong tư tưởng Hồ Chí Minh là sự kết hợp nhuần nhuyễn:
-a. Dân tộc với giai cấp.
-b. Độc lập dân tộc và chủ nghĩa xã hội.
-c. Chủ nghĩa yêu nước với chủ nghĩa quốc tế.
-d. Tất cả các phương án.
-@@@d###
-Theo hồ chí minh, ngoài lợi ích của giai cấp, của nhân dân và toàn thể dân tộc việt nam, đảng:
-A. không còn lợi ích nào khác
-B. còn vì lợi ích của mình
-C. còn vì lợi ích của nhà nước
-D. Còn vì lợi ích của cá nhân
-@@@A###
-Hồ Chí Minh ví tuổi trẻ như:
-A. Mùa xuân của xã hội
-B. Mùa xuân của đất nước
-C. Mùa xuân của Đảng
-D. Mùa xuân của Nhà nước
-@@@A###
-Hồ Chí Minh lần đầu tiên đã đưa ra một định nghĩa về văn hoá trong tác phẩm nào?
-A. "Bản án chế độ thực dân Pháp"
-B. "Đường Kách mệnh"
-C. "Nhật ký trong tù"
-D. "Sửa đổi lối làm việc"
-@@@C
-(Hồ Chí Minh lần đầu tiên đưa ra định nghĩa văn hóa vào lúc nào?
-A. Vào thời gian Bác ở Pháp
-B. Vào thời điểm thành lập Đảng
-C. Vào thời gian đang ở nhà tủ của Tưởng Giối Thạch
-D. Vào thời điểm đọc Tuyên Ngôn Độc lập)###
-Các bài giảng của Nguyễn Ái Quốc tại các lớp huấn luyện cán bộ tuyên truyền của hội Liên hiệp các dân tộc bị áp bức bóc lột lập hợp lại và xuất bản thành tác phẩm gì?
-A. Bản án chế độ thực dân Pháp
-B. Lênin và Phương Đông
-C. Con Rồng tre
-D. Đường Kách mệnh
-@@@D###
-Trong quan điểm của hồ chí minh về bản chất của nhà nước có sự thống nhất giữa bản chất giai cấp công nhân với:
-a. tính nhân dân và tính dân tộc
-b. tính xã hội chủ nghĩa và tính dân tộc
-c. tính nhân dân và tính xã hội chủ nghĩa
-@@@a###
-Theo Hồ Chí Minh, Đại đoàn kết dân tộc là nhiệm vụ hàng đầu của Đảng, đồng thời cũng là nhiệm vụ hàng đầu của:
-a. Mọi giai đoạn cách mạng.
-b. Toàn quân.
-c. Toàn dân.
-@@@c
-(Kiểu hỏi khác: Theo tư tưởng Hồ Chí Minh thì đoàn kết trước hết là phải đoàn kết như thế nào?
-A. Toàn dân
-B. Toàn quân
-C. Toàn Đảng
-D. Toàn giai cấp)###
-Trong các luận điểm sau đây về văn hóa, luận điểm nào Hồ Chí Minh nói về tính chất của nền văn hóa?
-A. Phải nâng cao trình độ văn hóa của nhân dân
-B. Phải xây dựng một nền văn hóa dân tộc, khoa học và đại chúng
-C. Văn hóa cũng là một mặt trận
-D. Xây dựng chính trị dân quyền
-@@@B###
-Chọn phương án trả lời đúng với một trong những giai đoạn hình thành và phát triển tư tưởng hồ chí minh?
-A. Từ năm 1890 - 1911: thời kỳ nghiên cứu, khảo sát thực tế, đến với chủ nghĩa mác - lênin.
-B. Từ năm 1921 - 1930: thời kỳ hình thành cơ bản tư tưởng về con đường cách mạng việt nam.
-C. Từ năm 1911 - 1920: thời kỳ hình thành tư tưởng yêu nước, chí hướng cứu nước
-D. Từ năm 1890 - 1911: Thời kỳ vượt qua thứ thách, kiên trì giữ vững lập trường cách mạng
-@@@B###
-Quy luật ra đời của đảng được hồ chí minh vạch ra
-a. Là sự phát triển chủ nghĩa Mác- Lênin trong điều kiện Việt Nam
-b. Là sự phát triển chủ nghĩa Mác- Lênin trong điều kiện thay đổi
-c. Là sự phát triển chủ nghĩa Mác- Lênin trong điều kiện mới
-@@@a###
-Quy luật ra đời của Đảng được Hồ Chí Minh vạch ra
-a. Không phù hợp với tinh thần của chủ nghĩa Mác- Lênin
-b. Trái với tinh thần của chủ nghĩa Mác- Lênin
-c. Không trái với tinh thần của chủ nghĩa Mác- Lênin
-@@@c###
-Quy luật ra đời của Đảng được Hồ Chí Minh vạch ra
-a. Dựa trên thế giới quan và phương pháp luận của chủ nghĩa Mác-Lênin
-b. Dựa trên thế giới quan và phương pháp luận của chủ nghĩa Tam dân
-c. Dựa trên thế giới quan và phương pháp luận của chủ nghĩa dân tộc
-@@@a###
-Quy luật ra đời của Đảng được Hồ Chí Minh vạch ra
-a. Không khác với chủ nghĩa Mác-Lênin
-b. Khác với chủ nghĩa Mác-Lênin
-c. Không liên quan đến chủ nghĩa Mác-Lênin
-@@@a###
-Theo quan điểm của Chủ tịch Hồ Chí Minh, nhà nước của dân là gì.
-A. Quyền lực nhà nước thuộc về giai cấp nông dân
-B. Quyền lực nhà nước thuộc về nhân dân lao động
-C. Tất cả quyền lực của Nhà nước và trong xã hội đều thuộc về nhân dân
-D. Quyền lực nhà nước thuộc về giai cấp công nhân
-@@@C###
-Theo Hồ Chí Minh, để thực hiện được đoàn kết, cần xoá bỏ hết mọi thành kiến, cần phải (....) và giúp đỡ lẫn nhau cùng tiến bộ.
-A. Nghiêm túc hợp tác
-B. Thật thà hợp tác
-C. Sẵn sàng hợp tác
-D. Tích cực hợp tác
-@@@B###
-Hồ Chí Minh cho rằng khuyết điểm của thanh niên là
-A. Chuộng hình thức
-B. Chuộng tự do
-C. Chuộng lợi
-D. Chuộng bề ngoài
-@@@A###
-Tư tưởng Hồ Chí Minh Về cách mạng Việt Nam được xem là:
-A. Hệ thống các quan điểm cụ thể Về cách mạng Việt Nam
-B. Một nhóm các quan điểm cụ thể Về cách mạng Việt Nam
-C. Một hệ thống các học thuyết Về cách mạng Việt Nam
-@@@A###
-Theo Hồ Chí Minh, cuộc cách mạng nào đầu thế kỷ XX đã làm "thức tỉnh các dân tộc châu Á"
-A. Cách mạng Trung Quốc
-B. Cách mạng Ấn Độ
-C. Cách mạng tháng Mười Nga
-D. Cách mạng Pháp
-@@@C###
-Quá độ lên chủ nghĩa xã hội theo hồ chí minh là
-a. Xóa bỏ toàn bộ những thành tựu của xã hội cũ
-b. Kế thừa toàn bộ những gì xã hội cũ để lại
-c. Kế thừa những giá trị của xã hội cũ
-@@@c###
-Mục đích của văn hóa theo Hồ Chí Minh đó là
-a. Vì cuộc sống sinh tồn của loài người
-b. Vì cuộc sống sinh tồn của nhân dân
-c. Vì cuộc sống sinh tồn của cộng đồng
-@@@a###
-Mục đích của văn hóa theo Hồ Chí Minh đó là 
-A. Vì lẽ sinh tồn và mục đích của cuộc sống
-B. Vì cuộc sống sinh tồn của nhân dân
-C. Vì cuộc sống sinh tồn của cộng đồng
-D. Để nâng cao chất lượng giáo dục
-@@@A
-(Câu hỏi khác: Khi nói về nghĩa rộng của văn hóa, Hồ Chí Minh đã đề cập vì lí do gì mà con người sáng tạo ra các giá trị của văn hóa?)###
-Đối với Hồ Chí Minh, dân ta tài năng, trí tuệ và sáng tạo, họ biết "giải quyết nhiều vấn đề một cách giản đơn, mau chóng, đầy đủ, mà những người tài giỏi, những đoàn thể to lớn,....
-A. nghĩ mãi không ra".
-B. nghĩ mãi mới ra".
-C. làm mãi không được".
-D. làm mãi mới được".
-@@@A###
-Hồ Chí Minh cho rằng:
-a. Văn hoá tham gia vào nhiệm vụ các hoạt động kinh tế, chính trị, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có văn hoá
-b. Văn hoá tham gia vào nhiệm vụ các hoạt động kinh tế, chính trị, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có đạo đức
-c. Văn hoá tham gia vào nhiệm vụ các hoạt động kinh tế, chính trị, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có tinh thần cách mạng
-d. Văn hóa tham gia vào nhiệm vụ các hoạt động kinh tế, xã hội và trong hoạt động của kinh tế, chính trị, xã hội cũng phải có tinh thần quốc tế
-@@@a
-(Đâu là phương án chính xác nhất và đầy đủ nhất theo quan điểm Hồ Chí Minh về văn hóa?)###
-Hồ Chí Minh được coi là linh hồn của cuộc kháng chiến chống Pháp trong giai đoạn nào?
-A. 1946-1954
-B. 1945-1954
-C. 1930-1945
-D. 1939-1945
-@@@A###
-Nội dung quá độ lên chủ nghĩa xã hội theo Hồ Chí Minh phải tiến hành
-A. Chủ yếu là lĩnh vực kinh tế
-B. Chủ yếu là lĩnh vực văn hóa
-C. Trên mọi mặt của xã hội
-@@@C###
-Trong giai đoạn 1923 - 1924, Quảng Châu Trung Quốc được mệnh danh là?
-A. Moskva của Phương Đông
-B. Trung cách mạng vô sản
-C. Thủ Phủ cộng sản
-D. Căn cứ quốc tế vô sản
-@@@A###
-Quan điểm nào sau đây thuộc vấn đề tiêu chuẩn cán bộ theo tư tưởng Hồ Chí Minh
-a. Đạo đức cán bộ
-b. Đạo đức cách mạng
-c. Đạo đức lãnh đạo
-@@@b###
-Quan điểm nào sau đây thuộc vấn đề tiêu chuẩn cán bộ theo tư tưởng Hồ Chí Minh
-a. Trung thành với Đảng
-b. Trung thành với nhân dân
-c. Trung thành với nhà nước
-@@@a###
-Quan điểm nào sau đây thuộc vấn đề tiêu chuẩn cán bộ theo tư tưởng Hồ Chí Minh
-a. Có năng lực tổ chức thực tiễn
-b. Có năng lực tổ chức lãnh đạo
-c. Có năng lực tổ chức chỉ huy
-@@@a###
-Quan điểm nào sau đây thuộc vấn đề tiêu chuẩn cán bộ theo tư tưởng Hồ Chí Minh
-a. Liên hệ mật thiết với Đảng
-b. Liên hệ mật thiết với nhân dân
-c. Liên hệ mật thiết với mọi người
-@@@b###
-Quan điểm nào sau đây thuộc vấn đề tiêu chuẩn cán bộ theo tư tưởng Hồ Chí Minh
-a. Phẩm chất công tác tốt
-b. Phẩm chất tư duy tốt
-c. Phẩm chất năng lực tốt
-@@@a###
-Hồ Chí Minh chỉ rõ: "Ở nước ta chính quyền là của nhân dân, do nhân dân làm chủ. Nhân dân là (....) nắm chính quyền. Nhân dân bầu ra đại biểu thay mặt mình thi hành chính quyền ấy. Thế là dân chủ".
-a. Ông chủ
-b. Người đại diện
-c. Công bộc
-@@@a###
-Trong tư tưởng Hồ Chí Minh, Mặt trận dân tộc thống nhất là nơi quy tụ mọi tổ chức và cá nhân yêu nước người Việt Nam, bao gồm cả những người:
-A. Định cư ở nước ngoài
-B. Đang sống ở các nước cùng Châu lục
-C. Định cư ở các nước theo con đường xã hội chủ nghĩa
-D. Các cá nhân thuộc tổ chức phi chính phủ
-@@@A###
-Cách mạng giải phóng dân tộc muốn giành được thắng lợi cần phải:
-A. Tiến hành chủ động và sáng tạo
-B. Dựa vào sự thắng lợi của cách mạng ở các nước thuộc địa khác.
-C. Dựa vào thắng lợi của cách mạng vô sản ở chính quốc.
-D. Tiến hành song hành với cách mạng vô sản ở chính quốc .
-@@@A###
-Hồ Chí Minh cho rằng: "Người cách mạng phải có (....) làm nền tảng, mới hoàn thành được nhiệm vụ cách mạng vẻ vang".
-A. Trí tuệ
-B. Phương pháp cách mạng
-C. Đạo đức cách mạng
-D. Ý chí cách mạng
-@@@C###
-Hồ Chí Minh cho rằng giải phóng dân tộc phải gắn liền với
-a. Độc lập, tự do và hạnh phúc
-b. Dân quyền và tự do
-c. Nhân sinh và hạnh phúc
-@@@a###
-Hồ Chí Minh lưu ý
-A. Đảng cầm quyền, Đảng lãnh đạo để cho dân làm chủ
-B. Đảng cầm quyền, Đảng lãnh đạo để cho dân quản lý
-C. Đảng cầm quyền, Đảng lãnh đạo để cho dân giám sát
-@@@A###
-Mặt trận Liên Việt được thành lập vào thời gian nào?
-A. 1941
-В. 1945
-C. 1951
-D. 1960
-@@@C###
-Theo Hồ Chí Minh, đặc điểm của cách mạng tư sản là:
-a. Độc lập dân tộc
-b. Đấu tranh giải phóng dân tộc thuộc địa
-c. Không đến nơi
-d. Xây dựng nhà nước công nông
-@@@c###
-Quan điểm nào dưới đây thuộc về bản chất của CNXH trong tư tưởng Hồ Chí Minh: (073-356-8678)
-a. Là chế độ không còn người bóc lột người
-b. Là chế độ còn một ít người bóc lột
-c. Là chế độ người bóc lột bị khinh rẻ
-d. Là chế độ người bóc lột được thừa nhận
-@@@a###
-Chủ trương "Ỳ Pháp cầu tiến bộ", "khai dân trí chấn dân khí, hậu dân sinh" là đường lối của nhà yêu nước nào?
-A. Phan Châu Trinh
-B. Phan Bội Châu
-C. Hoàng Hoa Thám
-D. Hồ Chí Minh
-@@@A###
-Hồ Chí Minh cho rằng cán bộ muốn hướng dẫn nhân dân phải như thế nào?
-A. Làm mực thước cho nhân dân bắt chước
-B. Làm gương cho nhân dân
-C. Làm mô hình cho dân theo
-D. Làm quan cách mạng
-@@@A###
-Theo Hồ Chí Minh, trình độ văn hóa của nhân dân nâng cao sẽ giúp cho chúng ta đẩy mạnh công cuộc gì? Chọn phương án chính xác nhất
-A. Khôi phục kinh tế
-B. Khôi phục kinh tế, phát triển dân chủ
-C. Phát triển dân chủ
-D. Khôi phục văn hóa
-@@@B###
-Năm 1919, Nguyễn Ái Quốc gửi tới hội nghị Vecxay - Pháp bản yêu sách của nhân dân An Nam với hai nội dung chính đó là :
-A. Đòi quyền bình đẳng về pháp lý và đòi quyền tự do, dân chủ
-B. Đòi quyền dân tộc cơ bản và quyền tự quyết của dân tộc
-C. Đòi quyền cơ bản của con người và quyền tự quyết dân tộc
-D. Thể hiện tiếng nói của dân tộc và sự tôn trọng các nền văn hóa
-@@@A###
-Hồ Chí Minh viết
-a. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng hỏng
-b. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng cần phải xóa bỏ
-c. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng cần phải thay thế
-@@@a
-(Kiểu hỏi khác: Đâu là đáp án chính xác nhất về Đảng theo tư tưởng Hồ Chí Minh?
-A. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng hỏng
-B. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng cần phải xóa bỏ
-C. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng cần phải thay thế
-D. Một Đảng mà giấu giếm khuyết điểm của mình là một đảng cần phải thay đổi)###
-Trong thời gian ở nước ngoài, Nguyễn Tất Thành đã làm những công việc gì?
-A. Đốt lò, bán báo 
-B. Thợ ảnh, làm bánh 
-C. Phụ bếp, cào tuyết 
-D. Tất cả các công việc
-@@@D###
-Theo văn kiện Đại hội XI của Đảng Cộng sản Việt Nam (2011), Tư tưởng Hồ Chí Minh là tư tưởng về:
-A. Những vấn đề cơ bản của cách mạng Việt Nam
-B. Những vấn đề cơ bản của cách mạng thế giới
-C. Những vấn đề cơ bản của dân tộc
-D. Những vấn đề cơ bản của nhân loại
-@@@A###
-Quan điểm: "Đảng Cộng sản Việt Nam lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động" được nêu lần đầu tiên trong văn kiện của Đại hội đại biểu toàn quốc lần thứ mấy của Đảng?
-A. Đại hội đại biểu toàn quốc lần thứ VI
-B. Đại hội đại biểu toàn quốc lần thứ VII
-C. Đại hội đại biểu toàn quốc lần thứ IX
-D. Đại hội đại biểu toàn quốc lần thứ XI
-@@@B###
-Nguyên tắc cơ bản trong nghiên cứu tư tưởng Hồ Chí Minh là:
-A. Thống nhất giữa lí luận gắn liền và thực tiễn
-B. Thống nhất giữa tính Đảng và tính thực tiễn
-C. Thống nhất giữa tính khoa học và thực tiễn
-D. Quan điểm gắn liền với thực tiễn
-@@@A###
-Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh
-a. Trung với nước, hiếu với dân.
-b. Trung với nước, hiếu với đồng bào.
-c. Trung với nước, hiếu với cách mạng.
-@@@a
-(Kiểu hỏi khác: 
-Theo quan điểm của Hồ Chí Minh, phẩm chất đạo đúc nào là quan trọng nhất, bao trùm nhất, chi phối các phẩm chất khác?
-A. Cần kiệm, liêm, chính, chí công vô tư
-B. Có tinh thần quốc tế trong sắng
-C. Có tình yêu thương con người, sống có tình, có nghĩa
-D. Trung với nước, hiếu với dần
-Trong các mệnh đề về đạo đức của mình, theo Hồ Chí Minh, đâu là cái đức lớn nhất :
-A. Cần, kiệm, liêm, liêm, chính, chí công vô tư
-B. Tận tụy quên mình
-C. Trung với nước, hiếu với dân
-D. Khiêm tốn, giản dị )###
-Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh
-A. Cần, kiệm, liêm, chính, chí công vô tư.
-B. Cần, kiệm, liêm, chính, sáng suốt.
-C. Cần, kiệm, liêm, chính, tự do.
-@@@A###
-Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh
-a. Thương yêu con người, sống có tình nghĩa
-b. Thương yêu con người, sống có lý
-c. Thương yêu con người, sống có trách nhiệm
-@@@a###
-Đâu là chuẩn mực đạo đức cách mạng trong tư tưởng Hồ Chí Minh
-A. Có tinh thần quốc tế trong sáng
-B. Có tinh thần quốc tế cao đẹp
-C. Có tinh thần quốc tế chân chính
-@@@A###
-Cụ Hoàng Thị Loan đã có đức tính gì ảnh hưởng tới Hồ Chí Minh?
-A. Lòng nhân hậu và mẫn cảm
-B. Sự yêu thương và vị tha
-C. Tần tào và đảm đang
-D. Từ bi và vị tha
-@@@A###
-Đối với Hồ Chí Minh, toàn dân tộc chỉ trở thành lực lượng to lớn, có sức mạnh vô địch khi được tập hợp, tổ chức lại thành một khối vững chắc, được giác ngộ về mục tiêu chiến đấu chung và hoạt động theo:
-a. Một Đảng chính trị đúng đắn
-b. Một đường lối chính trị đúng đắn.
-c. Một tổ chức chính trị đúng đắn
-@@@b###
-Theo Hồ Chí Minh, chế độ xã hội chủ nghĩa là chế độ do dân làm chủ, thì mỗi con người được coi là
-A. Bộ phận của tập thể
-B. Một tế bào của xã hội
-C. Đều là một cá thể trong xã hội
-D. Một phần của tập thể
-@@@A###
-Hồ Chí Minh cho rằng xây dựng con người mới xã hội chủ nghĩa trước hết phải: (073-356-8678)
-A. Diệt trừ chủ nghĩa cá nhân
-B. Diệt trừ văn hóa phong kiến
-C. Diệt trừ văn hóa tư sản
-@@@A###
-Phẩm chất nào dưới đây không có trong nhân tố chủ quan dẫn đến hình thành tư tưởng Hồ Chí Minh?
-A. Một trái tim yêu nước thương dân, sẵn sàng chịu đựng hy sinh
-B. Tư duy độc lập, tự chủ, sáng tạo, đầu óc phê phán tình tường, sáng suốt
-C. Bản lĩnh kiên định, luôn tin vào nhân dân, khiêm tốn, bình dị, ham học hỏi
-D. Ham công danh, phú quý
-@@@D###
-Lực lượng làm nền tảng cho khối đại đoàn kết dân tộc theo tư tưởng Hồ Chí Minh là
+1. Nghị quyết "Về phát huy sức mạnh đại đoàn kết dân tộc vì dân giàu nước mạnh, xã hội công bằng, dân chủ, văn minh" được đề cập đến ở Hội nghị Trung ương nào?(NHUNG HOÀNG)
+A. Hội nghị Trung ương VII khoá IX
+B. Hội nghị Trung ương II khoá VII
+C. Hội nghị Trung ương V khóa VIII
+D. Hội nghị Trung ương VI khóa VIII
+@@@A. Hội nghị Trung ương VII khoá IX.
+###
+2. Quá độ gián tiếp lên chủ nghĩa xã hội là bỏ qua chế độ gì?
+A. Phong kiến
+B. Tư bản chủ nghĩa
+C. Chiếm hữu nô lệ
+D. Cộng sản nguyên thủy
+@@@B. Tư bản chủ nghĩa.
+###
+3. Hiện nay, kiểu gia đình nào đang trở nên rất phổ biến ở các đô thị và cả ở nông thôn Việt Nam ?
+A. Gia đình hạt nhân
+B. Gia đình truyền thống
+C. Gia đình đồng đại
+D. Gia đình kết nối
+@@@A. Gia đình hạt nhân.
+###
+4. Dựa vào bản chất chính trị thì yếu tố nào được xem là yếu tố quan trọng để đảm bảo quyền lực thực sự thuộc về nhân dân?
+A. Giai cấp nông dân lãnh đạo
+B. Đảng Cộng sản lãnh đạo
+C. Nhà nước lãnh đạo
+D. Giai cấp tư sản lãnh đạo
+@@@B. Đảng Cộng sản lãnh đạo.
+###
+5. Trong thời đại hiện nay, ở các nước phát triển, sự phát triển của giai cấp công nhân có mối quan hệ như thế nào với phát triển kinh tế?
+A. Tỷ lệ thất nghiệp gia tăng, làm tăng nguy cơ khủng hoảng
+B. Tỷ lệ thuận
+C. Tỷ lệ nghịch
+D. Mâu thuẫn đối kháng
+@@@B. Tỷ lệ thuận.
+###
+6. Theo cương lĩnh dân tộc của chủ nghĩa Mác - Lênin, trong các nội dung của quyền dân tộc tự quyết thì nội dung nào được coi là cơ bản nhất, tiên quyết nhất?
+a. Tự quyết về lãnh thổ
+b. Tự quyết về văn hóa
+c. Tự quyết về kinh tế
+d. Tự quyết về chính trị
+@@@D. Tự quyết về chính trị.
+###
+7. Câu nói sau đây do ai nói: "Vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại!"?
+A. V.I.Lênin
+B. Chủ tịch Hồ Chí Minh
+C. C.Mác
+D. Ph.Ăngghen
+@@@A. V.I.Lênin.
+###
+8. Theo V.I. Lênin, nguyên tắc cao nhất của chuyên chính vô sản ở Nga khi thực hiện cách mạng tháng Mười và cả giai đoạn sau đó là gì?
+a. Duy trì khối liên minh giữa giai cấp vô sản và nông dân để giai cấp vô sản có thẻ giữ được vai trò lãnh đạo
+b. Duy trì trấn áp giai cấp, duy trì quyền lãnh đạo duy nhất của giai cấp công nhân
+c. Duy trì khối liên minh tất cả giai cấp, tầng lớp sau khi đã giành được chính quyền
+d. Điều hòa mâu thuẫn giữa các giai cấp, bảo đảm các bên có quyền lợi và nghĩa vụ như nhau
+@@@A. Duy trì khối liên minh giữa giai cấp vô sản và nông dân để giai cấp vô sản có thẻ giữ được vai trò lãnh đạo.
+###
+9. Theo cấp độ quốc gia, đâu là tín ngưỡng truyền thống quan trọng của dân tộc Việt Nam?
+A. Tín ngưỡng thờ cúng tổ tiên
+B. Tín ngưỡng thành hoàng
+C. Tín ngưỡng thờ cúng vua Hùng
+D. Tất cả các đáp án đều đúng
+@@@C. Tín ngưỡng thờ cúng vua Hùng.
+###
+10. Đáp án nào không phải là một phương pháp nghiên cứu của chủ nghĩa xã hội khoa học?
+A. Phương pháp kết hợp lịch sử và logic
+B. Phương pháp khảo sát và phân tích về mặt chính trị xã hội
+C. Phương pháp trừu tượng hóa khoa học
+D. Phương pháp so sánh
+@@@C. Phương pháp trừu tượng hóa khoa học.
+###
+11. Xu hướng phát triển của mối quan hệ dân tộc nào nổi lên trong giai đoạn chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc đi bóc lột thuộc địa?
+(Kiểu hỏi khác: Theo V.I.Lênin, các xu hướng khách quan của sự phát triển quan hệ dân tộc là gì?)
+A. Cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập
+B. Các dân tộc trong từng quốc gia, thậm chí các dân tộc ở nhiều quốc gia muốn liên hiệp lại với nhau
+C. Cộng đồng dân tộc yếu thể có xu hướng sáp nhập với các dân tộc có trình độ phát triển cao hơn
+D. Cộng đồng dân tộc phát triển hưng thịnh sẽ có ý định tách ra hình thành quốc gia - dân tộc độc lập
+@@@B. Các dân tộc trong từng quốc gia, thậm chí các dân tộc ở nhiều quốc gia muốn liên hiệp lại với nhau.
+Lưu ý: câu hỏi chính hỏi xu hướng nổi lên khi chủ nghĩa tư bản phát triển thành chủ nghĩa đế quốc nên chọn B. Nếu đề hỏi đầy đủ “hai xu hướng khách quan của sự phát triển quan hệ dân tộc”, phải nêu cả xu hướng tách ra thành dân tộc độc lập và xu hướng liên hiệp giữa các dân tộc.
+###
+12. Tại sao trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp lại biến đổi phức tạp, đa dạng?
+A. Vì đó là thời kỳ chuyển tiếp giữa cái cũ và cái mới, có nhiều yếu tố đan xen
+B. Vì các giai cấp cạnh tranh quyền lực lãnh đạo của nhau
+C. Vì sự chống phá của các thế lực thù địch bên ngoài
+D. Vì trong xã hội còn tồn tại nhiều giai cấp, tầng lớp
+@@@A. Vì đó là thời kỳ chuyển tiếp giữa cái cũ và cái mới, có nhiều yếu tố đan xen.
+###
+13. Về phương diện kinh tế - xã hội, giai cấp công nhân lao động bằng phương thức công nghiệp ngày càng hiện đại với đặc điểm nổi bật nào?
+A. Sản xuất bằng máy móc
+B. Tạo ra những tiền đề của cải vật chất cho xã hội mới
+C. Lao động có tính chất xã hội hóa và năng suất lao động cao
+D. Tất cả các đáp án đều đúng
+@@@D. Tất cả các đáp án đều đúng.
+###
+14. Một trong những đặc trưng cơ bản của dân tộc - tộc người là gì?
+A. Cộng đồng về giáo dục
+B. Cộng đồng về y tế
+C. Cộng đồng về ngôn ngữ
+D. Cộng đồng lao động
+@@@C. Cộng đồng về ngôn ngữ.
+###
+15. Tại sao trong bất kì xã hội nào, muốn tiền lên chủ nghĩa xã hội đều tất yếu phải trải qua thời kỳ quá độ?
+A. Vì chủ nghĩa xã hội có bản chất đối lập với các chế độ xã hội bóc lột trước đó, giai cấp vô sản cần có thời gian để cải tạo xã hội cũ, xây dựng xã hội mới
+B. Vì chủ nghĩa xã hội là thực hiện ý chí chủ quan của giai cấp công nhân và nhân dân lao động
+C. Vì chủ nghĩa xã hội thực hiện sự thống trị của giai cấp, tầng lớp nghèo nàn trong xã hội
+D. Vì chủ nghĩa xã hội là giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa
+@@@A. Vì chủ nghĩa xã hội có bản chất đối lập với các chế độ xã hội bóc lột trước đó, giai cấp vô sản cần có thời gian để cải tạo xã hội cũ, xây dựng xã hội mới.
+###
+16. Nguồn gốc gây nên tình trạng thống trị của người đàn ông trong gia đình, sự bất bình đẳng nam, nữ, giữa vợ chồng, sự nô dịch đối với phụ nữ trong gia đình là gì?
+A. Là chế độ phong kiến
+B. Là chế độ hôn nhân phụ hệ
+C. Là chế độ tư hữu về tư liệu sản xuất
+D. Là các quan niệm đạo đức lỗi thời
+@@@C. Là chế độ tư hữu về tư liệu sản xuất.
+###
+17. Có bao nhiêu phương hướng được đề ra tại Văn kiện Đại hội đại biểu toàn quốc lần thứ XI trong thời kỳ quá độ lên chủ nghĩa xã hội?
+A. 5
+B. 6
+C. 8
+D. 9
+@@@C. 8.
+###
+18. Điểm khác biệt cơ bản nhất giữa cách hiểu về dân chủ thời cổ đại và hiện nay là gì? (Chọn 2 đáp án)
+A. Tính chất trực tiếp của mối quan hệ sở hữu quyền lực công cộng
+B. Nội hàm khái niệm nhân dân
+C. Giai Cấp tổ chức quyền lực dân chủ
+D. Tính triệt để hay không triệt để của dân chủ
+@@@A và B. Tính chất trực tiếp của mối quan hệ sở hữu quyền lực công cộng; Nội hàm khái niệm nhân dân.
+Dễ nhầm với phương án C. Điểm khác nhau căn bản giữa dân chủ cổ đại và dân chủ hiện đại nằm ở phạm vi của khái niệm “nhân dân” và cách nhân dân thực hiện quyền lực trực tiếp hay thông qua đại diện.
+###
+19. Ở nước ta, nội dung chính trị của liên minh công - nông - trí thức thể hiện ở điểm gì?
+A. Giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, vai trò lãnh đạo của Đảng Cộng sản Việt Nam, giữ vững độc lập dân tộc và định hướng đi lên chủ nghĩa xã hội
+B. Giữ vững nền kinh tế thị trường theo hướng hiện đại, kiên định con đường đi lên chủ nghĩa xã hội
+C. Giữ vững địa vị thống trị của giai cấp công nhân thông qua Đảng Cộng sản Việt Nam trong mối liên minh giai cấp
+D. Giữ vững vai trò định hướng, kim chỉ nam của kinh tế nhà nước trong nền kinh tế thị trường tự do hiện đại
+@@@A. Giữ vững lập trường chính trị - tư tưởng của giai cấp công nhân, vai trò lãnh đạo của Đảng Cộng sản Việt Nam, giữ vững độc lập dân tộc và định hướng đi lên chủ nghĩa xã hội.
+###
+20. Hình thức dân chủ ở Việt Nam mà người dân bầu ra cơ quan quyền lực nhà nước cao nhất, ủy quyền cho họ thực hiện quyền lực của nhân dân được gọi là hình thức dân chủ gì?
+A. Hình thức dân chủ trực tiếp
+B. Hình thức dân chủ gián tiếp
+C. Hình thức dân chủ đại nghị
+D. Hình thức dân chủ công khai
+@@@B. Hình thức dân chủ gián tiếp.
+Dân chủ gián tiếp là khái niệm rộng. “Dân chủ đại nghị” là một dạng biểu hiện của dân chủ gián tiếp, nhưng khi đề đã có phương án B thì chọn B.
+###
+21. Trên lĩnh vực kinh tế, trong thời kỳ quá độ lên chủ nghĩa xã hội tất yếu tồn tại nền kinh tế như thế nào?(NHUNG HOÀNG)
+A. Kinh tế nhiều thành phần, trong đó có thành phần đối lập
+B. Kinh tế kế hoạch hóa tập trung cao độ
+C. Kinh tế thị trường tự do
+D. Kinh tế hàng hóa giản đơn
+@@@A. Kinh tế nhiều thành phần, trong đó có thành phần đối lập.
+###
+22. Nguyên nhân nào làm xuất hiện các tầng lớp xã hội mới?
+A. Cơ cấu xã hội biến đổi phức tạp, đa dạng
+B. Cơ cấu giai cấp biến đổi phức tạp, đa dạng
+C. Cơ cấu xã hội - giai cấp thiếu tính đồng bộ
+D. Cơ cấu xã hội - giai cấp biến đổi phức tạp, đa dạng
+@@@D. Cơ cấu xã hội - giai cấp biến đổi phức tạp, đa dạng.
+###
+23. Giai cấp công nhân Việt Nam ra đời trong bối cảnh nào?
+A. Trong bối cảnh của các cuộc khai thác thuộc địa của thực dân Pháp ở Việt Nam
+B. Trong giai đoạn công nghiệp hóa phát triển mạnh mẽ ở nước ta
+C. Trong phong trào đấu tranh giành chính quyền từ khi có Đảng Cộng sản
+D. Trong lúc Đảng Cộng sản đã giành được chính quyền
+@@@A. Trong bối cảnh của các cuộc khai thác thuộc địa của thực dân Pháp ở Việt Nam.
+###
+24. Chức năng chính trị của gia đình thể hiện điều gì?
+A. Gia đình là nơi tổ chức thực hiện chính sách, pháp luật của nhà nước và hưởng lợi từ hệ thống chính sách, pháp luật đó
+B. Gia đình là một công cụ thực thi quyền lực thống trị chính trị, mang bản chất của giai cấp cầm quyền
+C. Gia đình là tổ chức chính trị nhỏ nhất trong xã hội, thực thi quyền lực thống trị của người giữ vai trò quyết định kinh tế
+D. Tất cả các đáp án đều đúng
+@@@A. Gia đình là nơi tổ chức thực hiện chính sách, pháp luật của nhà nước và hưởng lợi từ hệ thống chính sách, pháp luật đó.
+###
+25. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta hiện nay, giai Cấp nông dân có sự biến đã theo xu hướng nào?
+A. Giảm dần về số lượng và tỷ lệ trong cơ Cấu xã hội - giai Cấp
+B. Tăng dân vệ số lượng và tỷ lệ trong cơ Cấu xã hội - giai Cấp
+C. Giảm dần về số lượng nhưng tăng dần Về tỷ lệ trong cơ cấu xã hội - giai Cấp
+D. Tăng dân về số lượng nhưng giảm dần Về tỷ lệ trong cơ Cấu xã hội - giai Cấp
+@@@A. Giảm dần về số lượng và tỷ lệ trong cơ Cấu xã hội - giai Cấp.
+###
+26. Nội dung giáo dục gia đình hiện nay ở Việt Nam hướng đến giáo dục điều gì?
+A. Giáo dục kiến thức khoa học hiện đại, trang bị công cụ để con cái hòa nhập với thế giới
+B. Giáo dục tinh thần làm giàu, kinh doanh, sản mà
+C. Giáo dục con cái hướng đến các giá trị truyền thống xưa
+D. Tất cả các đáp án đều đúng
+@@@A. Giáo dục kiến thức khoa học hiện đại, trang bị công cụ để con cái hòa nhập với thế giới.
+Không chọn “tất cả các đáp án đều đúng” vì giáo dục gia đình hiện nay không chỉ hướng về giá trị truyền thống cũ và càng không đồng nhất với giáo dục tinh thần làm giàu, kinh doanh.
+###
+27. Điền cụm từ thích hợp vào (...): "cần phải có một thời kỳ quá độ khá lâu dài từ ... lên ..."
+A. Chủ nghĩa tư bản/ Chủ nghĩa xã hội
+B. Người bị bóc lột/ lên làm chủ
+C. Giai cấp công nhân/ người nắm chính quyền
+D. Chủ nghĩa xã hội/ Chủ nghĩa cộng sản
+@@@A. Chủ nghĩa tư bản/ Chủ nghĩa xã hội.
+###
+28. Những đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là gì?
+(Chọn 2 đáp án)
+A. Thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên mọi lĩnh vực
+B. Thời kì xây dựng từng bước cơ sở vật chất - kỹ thuật và đời sống tinh thần của chủ nghĩa xã hội
+C. Thời kỳ đấu tranh giai cấp khi tương quan lực lượng cân bằng
+D. Thời kỳ thực hiện nền chuyên chính lao động
+@@@A. Thời kỳ cải tạo cách mạng sâu sắc, triệt để xã hội tư bản chủ nghĩa trên mọi lĩnh vực; B. Thời kì xây dựng từng bước cơ sở vật chất - kỹ thuật và đời sống tinh thần của chủ nghĩa xã hội.
+###
+29. Vai trò của giai cấp công nhân là:
+A. Là khách thể của quá trình sản xuất vật chất để sản xuất ra của cải vật chất ngày càng nhiều đáp ứng nhu cầu ngày càng tăng của con người và xã hội
+B. Là chủ thể của quá trình sản xuất vật chất đã sản xuất ra của cải vật chất ngày càng nhiều đáp ứng nhu cầu ngày càng tăng của con người và xã hội
+C. Là chủ thể của quá trình sản xuất nông nghiệp
+D. Là chủ thể của quá trình sản xuất tinh thần
+@@@B. Là chủ thể của quá trình sản xuất vật chất đã sản xuất ra của cải vật chất ngày càng nhiều đáp ứng nhu cầu ngày càng tăng của con người và xã hội.
+###
+30. Theo nghĩa hẹp, chủ nghĩa xã hội khoa học được hiểu là gì?
+a. Là một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin
+b. Là những thành tựu của con người đạt được trong quá trình đấu tranh giai cấp
+c. Là sự chuyển biến tất yếu của xã hội loài người từ chủ nghĩa tư bản lên một xã hội tốt đẹp hơn
+d. Là một hình thái kinh tế - xã hội
+@@@A. Là một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin.
+###
+31. Ngày nay, xu hướng "trí tuệ hóa" tăng nhanh, đã tạo ra hệ quả gì cho giai cấp công nhân?
+A. Giai cấp công nhân tham gia ở những vị trí, cấp bậc cao hơn trong các công xưởng, doanh nghiệp và ngày càng có xu hướng thỏa hiệp với giai cấp tư sản
+B. Nhu cầu vật chất, tinh thần ngày càng tăng, phong phú và đa dạng hơn
+C. Xu hướng đình công, bãi công ngày càng diễn ra rộng rãi
+D. Giai cấp công nhân có trí tuệ cao hơn, có xu hướng chuyển biến thành giai cấp tư sản
+@@@B. Nhu cầu vật chất, tinh thần ngày càng tăng, phong phú và đa dạng hơn.
+###
+32. Theo chủ nghĩa Mác - Lênin, hình thái kinh tế- xã hội cộng sản chủ nghĩa có khác biệt đặc trưng nào với các hình thái kinh tế xã hội chiếm hữu nô lệ, phong kiến và tư bản chủ nghĩa?(NHUNG HOÀNG)
+A. Hình thái kinh tế- xã hội cộng sản chủ nghĩa là giai đoạn phát triển cao nhất và cuối cùng của lịch sử loài người
+B. Hình thái kinh tế — xã hội cộng sản chủ nghĩa khác biệt về chất, đó là xã hội không có giai Cấp đối kháng như các xã hội trước đó
+C. Hình thái kinh tế — xã hội cộng sản chủ nghĩa là phiên bản điều chỉnh tốt hơn tứ tư bản chủ nghĩa
+D. Hình thái kinh tế - xã hội cộng sản chủ nghĩa là quay trở lại công sản nguyên thủy
+@@@B. Hình thái kinh tế — xã hội cộng sản chủ nghĩa khác biệt về chất, đó là xã hội không có giai Cấp đối kháng như các xã hội trước đó.
+###
+33. Tại sao nói việc sở hữu một lượng tư liệu sản xuất xã hội thông qua chế độ cổ phần không làm thay đổi bản chất bị bóc lột của giai cấp công nhân trong xã hội tư bản chủ nghĩa?
+A. Do quá trình sản xuất và phân chia lợi nhuận vẫn bị phụ thuộc vào các nhà tư sản lớn
+B. Do tỷ lệ sở hữu của giai cấp công nhân không cao
+C. Tất cả các đáp án đều đúng
+D. Do việc làm và lao động vẫn là nhân tố quyết định mức thu nhập và đời sống của công nhân
+@@@A. Do quá trình sản xuất và phân chia lợi nhuận vẫn bị phụ thuộc vào các nhà tư sản lớn.
+Sở hữu một ít cổ phần không làm công nhân nắm quyền chi phối tư liệu sản xuất hay quyết định phân phối lợi nhuận. Vì vậy bản chất quan hệ bóc lột trong chủ nghĩa tư bản không thay đổi.
+###
+34. Trong hai mặt của vấn đề tôn giáo, mặt nào phản ánh mâu thuẫn mang tính chất đối kháng giữa các giai cấp và các thế lực lợi dụng tôn giáo chống lại sự nghiệp cách mạng của nhân dân lao động?
+A. Mặt chính trị
+B. Mặt tư tưởng
+C. Không có mặt nào có tính chất mâu thuẫn đối kháng
+D. Cả hai mặt đều có tính chất mâu thuẫn đối kháng
+@@@A. Mặt chính trị.
+###
+35. Dân chủ được hiểu là:
+A. Một giá trị xã hội phản ánh các quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp cầm quyền; có quá trình ra đời, phát triển cùng với lịch sử xã hội nhân loại
+B. Một giá trị xã hội phản ảnh các quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp tư sản cầm quyền; có quá trình ra đời, phát triển cùng với lịch sử xã hội nhân loại
+C. Một giá trị xã hội phản ánh các quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp thống trị cầm quyền; có quá trình ra đời, phát triển từ xã hội chiếm hữu nô lệ
+D. Một giá trị xã hội phản ánh các quyền cơ bản của con người; là một hình thức tổ chức
+@@@A. Một giá trị xã hội phản ánh các quyền cơ bản của con người; là một hình thức tổ chức nhà nước của giai cấp cầm quyền; có quá trình ra đời, phát triển cùng với lịch sử xã hội nhân loại.
+Phân biệt: dân chủ vừa là giá trị xã hội, vừa là hình thức tổ chức quyền lực nhà nước. Không nên thu hẹp dân chủ chỉ vào giai cấp tư sản hoặc chỉ từ xã hội chiếm hữu nô lệ.
+###
+36. Cho đến nay, hình thức quá độ lên chủ nghĩa xã hội nào chưa từng diễn ra trên thực tế?
+A. Quá độ toàn diện
+B. Quả độ trực tiếp
+C. Quá độ bộ phận
+D. Quá độ gián tiếp
+@@@B. Quả độ trực tiếp.
+###
+37. Nguyên tắc phân phối chủ yếu của chủ nghĩa xã hội là gì?
+A. Làm theo năng lực, hưởng theo nhu cầu
+B. Làm theo năng lực, hưởng theo lao động
+C. Làm theo năng lực, hưởng theo phúc lợi xã hội
+D. Làm theo công việc, hướng theo tiền lương
+@@@B. Làm theo năng lực, hưởng theo lao động.
+###
+38. Cùng với sự phát triển mạnh mẽ của nền đại công nghiệp cơ khí là sự trưởng thành vượt bậc cả về số lượng và chất lượng của giai cấp nào?
 A. Công nhân
-B. Công nhân, nông dân
-C. Học trò, nhà buôn
-D. Công nhân, nông dân, lao động trí óc
-@@@D###
-Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là Đảng
-a. Cầm quyền
-b. Quản lý
-c. Phân quyền
-d. Lãnh đạo
-@@@a###
-Theo Hồ Chí Minh, Đảng cộng sản Việt Nam là đảng
-a. Của xã hội
-b. Của nhân dân lao động và của dân tộc
-c. Của dân, do dân và vì dân
-@@@B
-bản chất của Nhà nước =&gt; của dân, do dân và vì dân###
-"Tinh thần yêu nước chân chính khác hẳn với tinh thần "vị quốc" của bọn đế quốc phản động. Nó là một bộ phận của tinh thần quốc tế" là câu nói được Hồ Chí Minh khẳng định trong Báo cáo chính trị của Đại hội đại biểu toàn quốc lần thứ mấy
-A. Lần thứ I
-B. Lần thứ II
-C. Lần thứ III
-D. Lần thứ IV
-@@@B###
-Khi nói về mặt trận, Hồ Chí Minh cho rằng
-a. Mặt trận phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của Đảng
-b. Mặt trận phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của mặt trân phản đế
-c. Mặt trận phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới sự lãnh đạo của giai cấp công nhân
-@@@a###
-Nguyên tắc quan trọng bậc nhất trong xây dựng một nền đạo đức mới theo tư tưởng Hồ Chí Minh là:
-a. Nói đi đôi với làm
-b. Nêu gương về đạo đức
-c. Xây đi đôi với chống
-d. Tu dưỡng đạo đức suốt đời
-@@@a###
-Hồ Chí Minh chỉ ra căn bệnh nguy hiểm nhất đối với cán bộ nhà nước là gì?
-A. Chủ nghĩa cá nhân
-B. Tham ô, lãng phí
-C. Kéo bè kéo cánh
-D. Lợi ích cá nhân
-@@@A###
-Để có thể tận dụng thời cơ, vượt qua thách thức, trên cơ sở nhận thức và vận dụng sáng tạo tư tưởng Hồ Chí Minh, cần tập trung vào vấn đề nào?
-A. Kiên định phương pháp cách mạng
-B. Kiên định cách mạng
-C. Kiên định theo chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh
-D. Kiên định con đường xây dựng đất nước
-@@@C###
-Hồ Chí Minh cho rằng
-A. Văn hoá là tổng hợp của mọi phương thức sinh hoạt cùng với biểu hiện của nó mà loài người đã sản sinh ra nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự sinh tồn
-B. Văn hoá là tổng hợp của mọi phương thức sinh hoạt cùng với biểu hiện của nó mà loài người đã sản sinh ra nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự sống còn
-C. Văn hoá là tổng hợp của mọi phương thức sinh hoạt cùng với biểu hiện của nó mà loài người đã sản sinh ra nhằm thích ứng những nhu cầu đời sống và đòi hỏi của sự trường tồn
-@@@A###
-Nguyễn Tất Thành ở Anh vào thời gian nào?
-A. 1911-1912
-B. 1912-1913
-C. 1914-1917
-D. 1911-1915
-@@@C###
-Hồ Chí Minh dạy học ở trường Dục Thanh - Phan Thiết trong khoảng thời gian nào?
-A. Năm 1909 - 1910
-B. Năm 1909 - 1911
-C. Năm 1908 - 1909
-D. Năm 1910 - 1911
-@@@D###
-Theo quan điểm của Đảng Cộng sản Việt Nam, Nhà nước pháp quyền là gì
-A. Nhà nước tạo ra sự ổn định về chính trị
-B. Tuyển dụng cán bộ nhà nước phải thông qua thi tuyển chặt chẽ
-C. Nhà nước quản lý xã hội bằng pháp luật và làm cho pháp luật có hiệu quả trong thực tế
-D. Khuyến khích nhân dân tham gia vào các công việc của Nhà nước
-@@@C###
-Hồ Chí Minh cho rằng văn hóa có tính:
-A. Dân tộc, khoa học và đại chúng
-B. Dân tộc, khoa học và nhân dân
-C. Dân tộc, khoa học và nhân bản
-@@@A###
-Theo Hồ Chí Minh, những tiêu cực của đội ngũ cán bộ trong hoạt động của bộ máy nhà nước là:
-a. Đặc quyền, đặc lợi.
-b. Tham ô, lãng phí, quan liêu.
-c. Tư túng, chia rẽ, kiêu ngạo.
-d. Tất cả các phương án.
-@@@d###
-Câu nói của Hồ Chí Minh "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công đại thành cũng" đó là cần phải đoàn kết ở đâu?
-A. Đoàn kết trong đảng, đoàn kết dân tộc và đoàn kết quốc tế
-B. Đoàn kết trong đảng, đoàn kết quân đội và đoàn kết dân tộc
-C. Đoàn kết dân tộc, đoàn kết tôn giáo tín ngưỡng và đồng bào ngoài nước
-@@@A###
-Một nhà nước pháp quyền có hiệu lực pháp lý mạnh mẽ theo tư tưởng Hồ Chí Minh phải là:
-a. Một nhà nước hợp hiến.
-b. Một nhà nước thống nhất, có chủ quyền quốc gia.
-c. Một nhà nước của dân, do dân, vì dân.
-d. Một nhà nước không có tiêu cực, không có đặc quyền đặc lợi.
-@@@a###
-Theo Hồ Chí Minh, không phải mọi con người đêu trở thành động lực, mà phải là những con người như thế nào?
-A. Được giác ngộ và tổ chức
-B. Có đạo đức
-C. Có năng lực
-D. Có trình độ và hiểu biết
-@@@A###
-Hồ Chí Minh cho rằng thầy cô giáo trong chế độ ta cần phải góp phần vào:
-A. Công cuộc xây dựng XHCN
-B. Công cuộc kháng chiến chống mỹ cứu nước
-C. Công cuộc xây dựng xã hội mới
-@@@A###
-Theo Hồ Chí Minh, chí công vô tư là nêu cao chủ nghĩa tập thể, trừ bỏ:
-A. chủ nghĩa cá nhân.
-B. chủ nghĩa tư nhân.
-C. chủ nghĩa tư bản.
-D. chủ nghĩa vị kỷ.
-@@@A###
-Điểm giống trong tư tưởng về xây dựng nhà nước của Hồ Chí Minh và các bậc tiền nhân trong lịch sử là:
-A. Dựa vào dân
-B. Dựa vào bạo lực vũ trang
-C. Dựa vào đạo đức cách mạng
-D. Dựa vào tài năng, trí tuệ, phán đoán
-@@@A###
-Nguyễn Ái Quốc đến Liên Xô lần đầu tiên học tại trường nào?
-A. Trường quốc tế Lênin
-B. Đại học Phương Đông
-C. Viện nghiên cứu các vấn đề dân tộc và thuộc địa
-D. Đại học Liên Xô
-@@@B###
-Trong tư tưởng Hồ Chí Minh, Quản lý nhà nước là quản lý bằng bộ máy, bằng pháp luật và bằng nhiều biện pháp khác nhau trong đó quan trọng bậc nhất là:
-A. Hiến pháp
-B. Quyền lực
-C. Mệnh lệnh
-D. Hình phạt
-@@@A###
-Luận điểm: "Bồi dưỡng thế hệ cách mạng cho đời sau là một việc rất quan trọng và rất cần thiết" được trích từ bài viết/ bài nói nào của Hồ Chí Minh?
-A. Đường Kách mệnh
-B. Cần kiệm liêm chính
-C. Di chúc
-D. Bài nói chuyện tại Lớp bồi dưỡng cán bộ về công tác mặt trận
-@@@C###
-Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc phải biến thành sức mạnh vật chất, trở thành lực lượng vật chất có tổ chức. Tổ chức đó chính là:
-A. Đoàn thể chính trị quần chúng.
-B. Đảng Cộng sản Việt Nam.
-C. Mặt trận dân tộc thống nhất.
-D. Đoàn thanh niên Cộng sản.
-@@@C###
-Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc:
-a. Là vấn đề cơ bản quyết định thành công của cách mạng.
-b. Là vấn đề có ý nghĩa sách lược, quyết định thành công của cách mạng.
-c. Là vấn đề cơ bản có ý nghĩa chiến lược, quyết định thành công của cách mạng.
-@@@c
-(Hồ Chí Minh đã khẳng định vị trí, vai trò của đại đoàn kết toàn dân tộc như thế nào?
-A. Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa chiến lược, quyết định thành công của cách mạng
-B. Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa sống còn, quyết định thành công cách mạng
-C. Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa lịch sử, quyết định thành công của cách mạng
-D. Đại đoàn kết toàn dân tộc là vấn đề có ý nghĩa đặc biệt quan trọng, quyết định thành công của cách)###
-Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là:
-a. Đoàn kết công-nông.
-b. Đoàn kết công-nông-lao động trí óc.
-c. Đoàn kết công-nông và các tầng lớp xã hội khác.
-d. Đại đoàn kết toàn dân.
-@@@d
-(Kiểu hỏi khác: Theo Hồ Chí Minh, thực hiện đại đoàn kết dân tộc phải đoàn kết được với ai?
-A. Đại đoàn kết toàn dân
-B. Đại đoàn kết toàn kết giai cấp
-C. Đại đoàn kết rộng rãi
-D. Đoàn kết với công nông)###
-Văn kiện nào của Đảng Lao động Việt Nam đã khẳng định: "Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ Tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta"?
-A. Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng
-B. Điếu văn của Ban Chấp hành Trung ương Đảng Lao động Việt Nam tại Lễ Truy điệu Chủ tịch Hồ Chí Minh
-C. Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ VI của Đảng
-D. Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ VII của Đảng
-@@@B###
-Theo quan điểm của Đảng Cộng sản Việt Nam tại Đại hội đại biểu toàn quốc lần thứ XI, Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng kế thừa giá trị nào?
-A. Sự phát triển chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta
-B. Sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta
-C. Sự vận dụng sáng tạo và phát triển chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta
-D. Sự vận dụng sáng tạo chủ nghĩa Mác - Lênin trong điều kiện cụ thể của nước ta
-@@@B###
-Vi trùng rất độc này đẻ ra hàng trăm thứ bệnh: quan liêu, mệnh lệnh, bè phái, chuyên quyền, tham ô, lãng phí, tự cao tự đại, độc đoán chuyên quyền, bảo thủ, rụt rè không dám nói, không dám làm, không dám đề ra ý kiến, tóm lại không dám đổi mới và sáng tạo. Theo Hồ Chí Minh là gì?
-a. Chủ nghĩa cá nhân
-b. Đế quốc
-c. Chủ nghĩa tư bản
-d. Giặc đói
-@@@a###
-Khẩu hiệu Tự do - Bình đẳng - Bác Ái ra đời ở đâu?
-a. Đại cách mạng Pháp
-b. Cách mạng Tân Hợi của Tôn Trung Sơn
-c. Cải cách Minh Trị - Nhật Bản
-d. Phong trào Duy Tân của Phan Châu Trinh
-@@@a###
-Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam mang bản chất gì?
-A. Mang bản chất giai cấp công nhân, dân tộc
-B. Mang bản chất giai cấp công nhân, nhân dân lao động và dân tộc
-C. Mang bản chất giai cấp công nhân, con người
-D. Mang bản chất giai cấp công nhân
-@@@B###
-Tìm phương án sai
-Khái niệm tư tưởng Hồ Chí Minh mà Đại hội IX (2001) nêu lên bao gồm:
-A. Bản chất cách mạng và khoa học của tư tưởng Hồ Chí Minh
-B. Nguồn gốc tư tưởng, lý luận của tư tưởng Hồ Chí Minh
-C. Nội dung tư tưởng Hồ Chí Minh
-D. Kết cấu tư tưởng Hồ Chí Minh
-@@@D###
-Theo Hồ Chí Minh, xây dựng khối đại đoàn kết toàn dân để tập hợp lực lượng, không được phép bỏ sót một lực lượng nào miễn không là Việt gian, không phản bội lại quyền lợi của dân chúng phải:
-a. Đứng vững trên lập trường nhân dân lao động, giải quyết hài hoà mối quan hệ giai cấp - dân tộc.
-b. Đứng vững trên lập trường giai cấp nông dân, giải quyết hài hoà mối quan hệ giai cấp - dân tộc.
-c. Đứng vững trên lập trường giai cấp công nhân, giải quyết hài hoà mối quan hệ giai cấp - dân tộc.
-@@@c
-(Kiểu hỏi khác: Theo Hồ Chí Minh, xãy dựng khối đại đoàn kết toàn dẫn phải đũng vũng trên lập trường nào?
-A. Lập trường giai cấp công nhân, giải quyết hài hòa mỗi quan hệ giai cấp - dân tộc
-B. Lập trường giai cấp tư sản, ứu tiên đấu tranh giai cấp
-C. Lập trường giai cấp nông dân, ưu tiên đấu tranh ruộng đất
-D. Lập trường trí thức, ưu tiên phát triển khoa học công nghệ)###
-Trong các luận điểm sau, luận điểm nào là của Hồ Chí Minh?
-A. Vô sản tất cả các nước, đoàn kết lại
-B. Vô sản tất cả các nước và các dân tộc bị áp bức đoàn kết lại
-C. Vô sản tất cả các nước liên hiệp lại
-D. Lao động tất cả các nước, đoàn kết lại
-@@@D###
-Phương thức tiếp cận về chủ nghĩa xã hội của Hồ Chí Minh thiên về hướng nào dưới đây? 
-A. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ phương diện kinh tế là chủ yếu
-B. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ phương diện văn hóa là chủ yếu
-C. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ nhiều góc độ khác nhau
-D. Hồ Chí Minh tiếp cận Chủ nghĩa xã hội từ phương diện chính trị là chủ yếu
-@@@C###
-Vận dụng tư tưởng Hồ Chí Minh cần phải nắm vững nguyên tắc:
-A. Quan điểm lịch sử thế giới
-B. Quan điểm lịch sử Việt Nam
-C. Quan điểm lịch sử cụ thể
-D. Quan điểm lịch sử toàn diện
-@@@C###
-Để tăng cường tính nghiêm minh của pháp luật đi đôi với đẩy mạnh giáo dục đạo đức cách mạng, Hồ Chí Minh đã kết kết hợp nhuần nhuyễn giữa:
-a. "đức trị" và "pháp trị".
-b. "nhân trị" và "pháp trị".
-c. "pháp trị" và "tiền lệ".
-d. "đức trị" và "tiền lệ".
-@@@a###
-Câu nói "Đồng bào Nam Bộ là dân nước Việt Nam. Sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi được Bắc trong tác phẩm nào?
-A. Thư gửi đồng bảo Nam Bộ
-B. Nam kỳ tự trị
-C. Bức thư gửi đồng chí Lê Duẩn
-D. Thành đồng tổ quốc
-@@@A###
-Hồ Chí Minh mất bao nhiêu năm bôn ba nước ngoài để tìm đường cứu nước?
-A. 10 năm
-B. 25 năm
-C. 30 năm
-D. 35 năm
-@@@C###
-Hồ Chí Minh yêu cầu: "phải phát huy hết ..., phải lột cho hết tinh thần dân tộc, để cổ vũ cho đồng bào ta, để giáo dục cho con cháu ta"
-A. Cốt cách dân tộc
-B. Hồn cốt dân tộc
-C. Văn hóa dân tộc
-D. Truyền thống dân tộc
-@@@A###
-Hồ Chí Minh có lần chỉ rõ: "Nói chung thì các dân tộc phương Đông đều giàu tình cảm và đối với họ một (.....) còn có giá trị hơn một trăm bài diễn văn tuyên truyền"
-a. Quyển sách
-b. Tấm gương sống
-c. Tác phẩm lý luận
-d. Câu chuyện ngụ ngôn
-@@@b###
-Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa Mác là gì?
-A. Bản chất cách mạng
-B. Chủ nghĩa nhân đạo triệt để
-C. Phương pháp làm việc biện chứng
-D. Bản chất khoa học
-@@@C###
-Theo Hồ Chí Minh, đạo đức là nhân tố tạo nên:
-a. sức mạnh, sức hấp dẫn của chủ nghĩa xã hội.
-b. sức mạnh, sức hấp dẫn của chủ nghĩa Mác-Lênin.
-c. sức mạnh, sức hấp dẫn của tư tưởng Hồ Chí Minh.
-@@@a###
-Luận điểm sáng tạo của Hồ Chí Minh về cách mạng thuộc địa dựa trên cơ sở nào?
-A. Tinh thần đấu tranh cách mạng của các dân tộc ở các nước thuộc địa
-B. Tinh thần đấu tranh của giai cấp vô sản ở chính quốc
-C. Sự thức tỉnh của các dân tộc thuộc địa
-D. Thuộc địa là khâu yếu nhất trong sợi dây xích của chủ nghĩa đế quốc
-@@@A###
-Hồ Chí Minh cho rằng bản chất của Pháp và Nhật:
-A. Chẳng khác gì nhau
-B. Khác nhau
-C. Rất đặc biệt
-@@@A
-(Khi so sánh vẽ bản chất của Nhật và Pháp, Hồ chí Minh nhận định như thế nào?
-A. Chẳng khác gì nhau
-B. Khác nhau
-C. Rất đặc biệt
-D. Giống nhau)###
-Nguyễn Ái Quốc gửi bản "Bản yêu sách của nhân dân An Nam" tới Hội nghị Vécxây, đòi chính phủ Pháp thừa nhận các quyền tự do, dân chủ và bình đẳng của nhân dân Việt Nam vào thời gian nào? 
-A. 6/1917
-B. 6/1918
-C. 6/1919
-D. 6/1920
-@@@C###
-Theo Hồ Chí Minh, trong Nhà nước vì dân, từ Chủ tịch nước đến công chức bình thường đều phải làm công bộc, làm đầy tớ cho nhân dân chứ không phải làm: 
-a. Tướng
-b. Quan
-c. Quan cách mạng
-d. Trâu, ngựa
-@@@c###
-Theo Hồ Chí Minh, chủ nghĩa xã hội phải do :
-A. Nhân dân lao động làm chủ
-B. Giai cấp công nhân làm chủ
-C. Giai cấp nông dân làm chủ
-@@@A###
-Hồ Chí Minh minh cho rằng đoàn kết phải gắn với
-a. Đấu tranh
-b. Lợi ích
-c. Tự do
-d. Phê bình
-@@@a###
-Theo tư tưởng Hồ Chí Minh, con người Việt Nam trong thời đại mới phải có:
-A. 3 phẩm chất cơ bản
-B. 4 phẩm chất cơ bản
-C. 5 phẩm chất cơ bản
-D. 6 phẩm chất cơ bản
-@@@B###
-Theo Hồ Chí Minh, tại sao phải đoàn kết quốc tế? (Chọn 2)
-A. Nhằm kết hợp sức mạnh dân tộc và sức mạnh thời đại, tạo sức mạnh tổng hợp cho cách mạng
-B. Góp phần cùng nhân dân thế giới thực hiện các mục tiêu cách mạng
-C. Vì đây là mục tiêu, nhiệm vụ hàng đầu của cách mạng Việt Nam
-D. Nhằm kế thừa truyền thống yêu nước, nhân nghĩa, đoàn kết của dân tộc
-@@@AB###
-Nguyễn Tất Thành ở Mỹ vào thời gian nào?
-A. 1911-1912
-B. 1912-1913
-C. 1914-1917
-D. 1911-1915
-@@@B###
-Theo Hồ Chí Minh, lực lượng của cách mạng giải phóng dân tộc là:
-A. Toàn dân tộc.
-B. Công nhân và nông dân.
-C. Trí thức, tiểu tư sản, tư sản dân tộc, địa chủ vừa và nhỏ.
-D. Công nhân, nông dân và trí thức
-@@@A###
-Hồ Chí Minh quân tâm mối quan hệ với Trung Quốc trên tinh thần.
-A. "Vừa là đồng chí, vừa là đồng đội"
-B. "Vừa là đồng đội, vừa là đồng chí".
-C. "Vừa là đồng chí, vừa là anh em".
-@@@C###
-So với các nền dân chủ trước đây, dân chủ XHCN có điểm gì khác biệt cơ bản?
-A. Là nền dân chủ phi lịch sử
-B. Là nền dân chủ dân túy
-C. Không còn mang tính giai cấp
-D. Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động
-@@@D###
-Theo Hồ Chí Minh, nhà nước do dân thể hiện ở chỗ
-a. Do nhân dân lập nên
-b. Do nhân dân làm chủ
-c. Do nhân dân ủng hộ
-d. Tất cả các phương án
-@@@d###
-Theo Hồ Chí Minh, nhà nước do dân thể hiện ở chỗ:
-A. Do nhân dân quyết định
-B. Do nhân dân chi phối
-C. Do nhân dân áp đặt
-D. Do nhân dân kiểm soát
-@@@D###
-Theo Hồ Chí Minh, xây dựng đạo đức mới, trước hết là thực hành đạo đức cách mạng, thực hành.....
-a. Chí công vô tư
-b. Cần kiệm liêm chính
-c. Trung với nước, hiếu với dân
-d. Cần, kiệm, liêm, chính, chí công vô tư
-@@@d###
-Hồ Chí Minh cho rằng, "Vì ... loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo, văn học, nghệ thuật, những công cụ cho sinh hoạt hằng ngày về mặc, ăn, ở và các phương thức sử dụng"".
-Chọn phương án đúng điền vào chỗ trống.
-A. lễ sinh tồn cũng như mục đích của cuộc sống
-B. nhu cầu đời sống và tinh thần
-C. mục đích phát triển và sinh tồn
-D. cuộc sống
-@@@A###
-Trong mục tiêu về chủ nghĩa xã hội, theo Hồ Chí Minh, mục tiêu kinh tế phải gắn bó với:
-A. mục tiêu văn hóa
-B. mục tiêu giáo dục
-C. mục tiêu chính trị
-D. mục tiêu xã hội
-@@@C###
-Hồ Chí Minh lưu ý xây dựng nhà nước có hiệu lực pháp lý mạnh mẽ phải
-A. Xây dựng đội ngũ cán bộ, công chức đủ đức, tài
-B. Xây dựng đội ngũ cán bộ, công chức đủ phẩm chất.
-C. Xây dựng đội ngũ cán bộ, công chức đủ tài đức.
-@@@A###
-Nội dung nào không đúng về giá trị lý luận và thực tiễn của Tư tưởng Hồ Chí Minh về vấn đề dân tộc và cách mạng giải phóng dân tộc: 
-A. Làm phong phú học thuyết Mác-Lênin về cách mạng thuộc địa.
-B. Soi đường thắng lợi cho cách mạng giải phóng dân tộc ở Việt Nam
-C. Nền tảng tư tưởng và kim chỉ nam cho hành động của cách mạng Việt Nam
-D. Là tiền đề cho thắng lợi của Cách mạng tháng 8
-@@@C###
-Theo Hồ Chí Minh, mục tiêu của chủ nghĩa xã hội gồm những nội dung nào sau đây?
-A. Chính trị, kinh tế, văn hóa xã hội và dân chủ
-B. Chính trị, dân chủ, kinh tế, tiến bộ
-C. Chính trị, kinh tế, văn hóa xã hội, con người
-D. Chính trị, kinh tế, văn hóa, tiến bộ
-@@@C###
-Hồ Chí Minh xem đạo đức cách mạng là gì?
-A. Đạo đức cách mạng là hòa mình với quần chúng thành một khối, tin quần chúng, hiểu quần chúng, lắng nghe ý kiến của quần chúng
-B. Đạo đức cách mạng là tin quần chúng, hiểu quần chúng, lắng nghe ý kiến của quần chúng
-C. Đạo đức cách mạng là hòa mình cộng đồng, lắng nghe ý kiến của cộng đồng
-@@@A###
-Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa Tam dân của Tôn Trung Sơn là gì?
-A. Chống phong kiến.
-B. Đấu tranh vì tự do, dân chủ.
-C. Phù hợp với điều kiện thực tế nước ta.
-@@@C###
-Lối sống ích kỷ, chỉ biết có riêng mình, thu vén cho riêng mình, chỉ thấy công lao của mình mà quên công lao của người khác. Theo Hồ Chí Minh là gì?
-a. Chủ nghĩa cá nhân
-b. Chủ nghĩa vị kỷ
-c. Chủ nghĩa tư bản
-d. Phong cách tiểu tư sản
-@@@a###
-Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản là nhân tố quyết định hàng đầu để đưa cách mạng Việt Nam đi đến thắng lợi là:
-a. Xác định vị thế cầm quyền của Đảng.
-b. Xác định vai trò lãnh đạo của Đảng.
-c. Xác định mục đích của Đảng.
-d. Xác định nhiệm vụ của Đảng.
-@@@b###
-Đâu là chức năng của văn hóa theo tư tưởng Hồ Chí Minh?
-a. Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp cho con người
-b. Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp cho xã hội
-c. Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp cho nhân loại
-@@@a###
-Đâu là chức năng của văn hóa theo tư tưởng Hồ Chí Minh
-a. Nâng cao dân trí
-b. Nâng cao nhân lực
-c. Nâng cao dân tài
-@@@a###
-Đâu là chức năng của văn hóa theo tư tưởng Hồ Chí Minh
-A. Bồi dưỡng những phẩm chất tốt đẹp và phong cách lành mạnh cho con người
-B. Bồi dưỡng những phẩm chất tốt đẹp và phong cách lành mạnh cho xã hội
-C. Bồi dưỡng những phẩm chất tốt đẹp và phong cách lành mạnh cho nhân dân
-@@@A###
-Đâu là chức năng của văn hóa theo tư tưởng Hồ Chí Minh
-a. Cải tạo xã hội
-b. Cải tạo thế giới
-c. Cải tạo cộng đồng
-@@@a###
-Đâu là chức năng của văn hóa theo tư tưởng Hồ Chí Minh?
-a. mở rộng hiểu biết, nâng cao dân trí.
-b. mở rộng hiểu biết, nâng cao quan trí.
-c. mở rộng hiểu biết, nâng cao trình độ.
-@@@a###
-Đâu là chức năng của văn hóa theo tư tưởng Hồ Chí Minh?
-a. Bồi dưỡng những phẩm chất, phong cách và lối sống tốt đẹp, lành mạnh; hướng con người đến chân, thiện, mỹ để hoàn thiện xã hội.
-b. Bồi dưỡng những phẩm chất, phong cách và lối sống tốt đẹp, lành mạnh; hướng con người đến chân, thiện, mỹ để hoàn thiện bản thân.
-c. Bồi dưỡng những phẩm chất, phong cách và lối sống tốt đẹp, lành mạnh; hướng con người đến chân, thiện, mỹ để hoàn thiện con người.
-@@@b###
-Đại đoàn kết quốc tế trong tư tưởng Hồ Chí Minh được xác định là:
-A. Một nhân tố thường xuyên và hết sức quan trọng giúp cho cách mạng Việt Nam đi đến thắng lợi hoàn toàn.
-B. Có ý nghĩa sống còn đối với cách mạng Việt Nam.
-C. Vấn đề cơ bản của cách mạng việt Nam.
-D. Sức mạnh giúp cho dân tộc ta vượt qua mọi thử thách, khó khăn trong dựng nước và giữ nước.
-@@@A###
-Luận điểm "Đoàn kết, đoàn kết, đại đoàn kết; Thành công, thành công, đại thành công" của Hồ Chí Minh được trích từ tác phẩm:
-A. Bài nói chuyện tại trong buổi Bế mạc Đại hội thành lập Mặt trận Tổ Quốc Việt Nam
-B. Bài nói chuyện tại Hội nghị mở rộng Ủy ban Mặt trận Tổ quốc Việt Nam
-C. Bài nói chuyện tại Đại hội đại biểu Mặt trận Tổ Quốc Việt Nam lần thứ II
-D. Buổi nói chuyện với cán bộ, chiến sĩ Đại đoàn Quân Tiên Phong
-@@@C###
-Mặt trận dân tộc thống nhất trong tư tưởng Hồ Chí Minh được xây dựng như thế nào?
-A. Là nơi tập hợp mọi người dân ở trong nước Việt Nam
-B. Là tổ chức tập hợp ngẫu nhiên quần chúng nhân dân
-C. Là khối đại đoàn kết chặt chẽ có tổ chức trên nền tảng khối liên minh công - nông - trí thức do Đảng Cộng sản lãnh đạo
-D. Là nơi quy tụ mọi người Việt Nam định cư ở nước ngoài, dù ở bất cứ phương trời nào
-@@@C###
-Trong Mặt trận dân tộc thống nhất, Đảng Cộng sản đóng vai trò là gì?
-A. Thành viên của Mặt trận dân tộc thống nhất
-B. Lực lượng lãnh đạo Mặt trận dân tộc thống nhất
-C. Vừa là thành viên, vừa là lực lượng lãnh đạo Mặt trận dân tộc thông nhất
-D. Đại biểu của giai cấp công nhân trong Mặt trận dân tộc thống nhất
-@@@C###
-Hồ Chí Minh nhấn mạnh vấn đề nào sau đây trong quan hệ giữa cán bộ nhà nước với nhân dân
-a. Kinh trọng nhân dân
-b. Tự tôn dân tộc
-c. Nghiên khắc
-d. Phục tùng
-@@@A###
-Theo Hồ Chí Minh, Đảng cộng sản Việt Nam ra đời trên cơ sở của những yếu tố nào?
-a. Chủ nghĩa Mác - Lênin, phong trào công nhân, phong trào cách mạng thế giới.
-b. Chủ nghĩa Mác - Lênin, phong trào yêu nước Việt Nam.
-c. Phong trào công nhân, phong trào yêu nước Việt Nam, phong trào cách mạng thế giới.
-d. Chủ nghĩa Mác - Lênin, phong trào công nhân, phong trào yêu nước Việt Nam.
-@@@d###
-Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam vừa là người lãnh đạo, vừa là người đầy tớ trung thành của nhân dân, Đảng phải chăm lo mối quan hệ giữa Đảng với dân là nhằm (nếu đề yêu cầu chọn 3 thì chọn abc):
-a. Xác định vị thế cầm quyền của Đảng.
-b. Xác định phương thức cầm quyền của Đảng.
-c. Xác định năng lực cầm quyền của Đảng.
-d. Xác định tính chất cầm quyền của Đảng.
-@@@D
-(Nếu chọn 3 thì chọn abc)###
-Theo Hồ Chí Minh, nguyên tắc hiệp thương dân chủ đòi hỏi tất cả mọi vấn đề của Mặt trận đều phải được đem ra cho tất cả các thành viên cùng nhau bàn bạc công khai, để đi đến nhất trí, loại trừ mọi sự áp đặt hay còn vấn đề nào khác nữa?
-A. Dân chủ hình thức
-B. Dân chủ tự nguyện
-C. Chuyên quyền độc đoán
-D. Không dân chủ
-@@@A###
-Hồ Chí Minh cho rằng xây dựng nhà nước trong sạch vững mạnh cần phải làm gì?
-a. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức cách mạng
-b. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức cán bộ
-c. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức quần chúng
-d. c. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức công - nông
-@@@a###
-Luận điểm "Công cuộc giải phóng anh em chỉ có thể thực hiện được bằng sự nỗ lực của bản thân anh em" là của:
-A. C. Mắc
-B. Ph. Ăngghen
-C. VILênin
-D. Hồ Chí Minh
-@@@D###
-Trong những nhiệm vụ cấp bách của Nhà nước Việt Nam Dân chủ cộng hòa, khi nói về vấn đề thứ hai - nạn dốt, Hồ Chí Minh đã đề nghị mở một chiến dịch gì? Chọn phương án chính xác nhất
-A. Một chiến dịch xây dựng đời sống mới
-B. Một chiến dịch để chống nạn mù chữ
-C. Một chiến dịch tuyên truyền nền giáo dục mỗi
-D. Một chiến dịch xây dựng nền văn hóa mới
-@@@B###
-Theo Hồ Chí Minh độc lập, tự do là:
-A. Quyền lợi của tất cả các quốc gia
-B. Quyền thiêng liêng và bất khả xâm phạm của tất cả các dân tộc
-C. Đặc quyền của mỗi một dân tộc
-D. Quyền thiêng liêng của tất cả các dân tộc
-@@@B###
-Hồ Chí Minh cho rằng đạo đức có vai trò thế nào?
-a. Đạo đức là gốc của người cách mạng
-b. Đạo đức là gốc của người xã hội
-c. Đạo đức là gốc của người công chúng
-@@@a
-(Kiểu hỏi khác: Đâu là quan điểm đúng với tư tưởng Hồ Chí Minh về người cách mạng)###
-Hồ Chính Minh nhấn mạnh khuyết điểm của thanh niên là
-a. Bệnh anh hùng
-b. Tự cao
-c. Tự đại
-@@@a###
-Hồ Chí Minh cho rằng:
-A. Đạo đức nhân văn xã hội chủ nghĩa là sức cuốn hút của chủ nghĩa cộng sản
-B. Đạo đức nhân văn xã hội chủ nghĩa là sức cuốn hút của chủ nghĩa xã hội
-C. Đạo đức nhân văn xã hội chủ nghĩa là sức cuốn hút của chủ nghĩa dân chủ
-@@@B###
-Theo Hồ Chí Minh, bọn đế quốc thực dân tuyên truyền khẩu hiệu "độc lập tự do" thực chất là che đậy bản chất:
-A. "ăn cướp" và "giết người"
-B. "ăn cắp" và "hại dân"
-C. "bóc lột" và "đàn áp"
-D. "cướp bóc" và "đàn áp"
-@@@A###
-Hồ Chí Minh tìm thấy con đường cứu nước giải phóng dân tộc trong thời kì nào?
-A. Từ 1911 đến 1920
-B. Từ 1921 đến 1930
-C. Từ 1890 đến 1911
-D. Từ 1930 đến 1945
-@@@A
-(Kiểu hỏi khác: Giai đoạn nào sau đây hình thành cơ bản tư tưởng Hồ Chí Minh trong việc tìm thấy con đường cứu nước, giải phóng dân tộc ?
-A. 1911 đến 1930
-B. 1911 đến 1920
-C. 1911 đến 1935
-D. 1908 đến 1911)###
-Khi nói về Hồ Chí Minh, báo Uruguay viết:
-A. Ông có một trái tim bao la như vũ trụ và tình yêu trẻ thơ vô bờ bến
-B. Ông người có tình cảm bao la như vũ trụ và tình yêu trẻ thơ vô bờ bến
-C. Ông có một trái tim như vũ trụ và tình yêu trẻ thơ vô bờ bến
-@@@A###
-Nội dung nào không phải là thực chất vấn đề dân tộc thuộc địa trong tư tưởng Hồ Chí Minh:
-a. Đấu tranh chống chủ nghĩa thực dân, giải phóng dân tộc.
-b. Lựa chọn con đường phát triển của dân tộc là CNXH.
-c. Đòi quyền tự do dân chủ tối thiểu cho nhân dân.
-@@@c###
-Đâu là luận điểm sáng tạo của Hồ Chí Minh về vấn đề lãnh đạo của Đảng
-A. Lý luận về Đảng Cộng sản cầm quyền
-B. Tư duy của Đảng Cộng sản
-C. Đường lối của Đảng Cộng sản
-@@@A###
-Tư tưởng văn hoá phương Tây nào sau đây ảnh hưởng đến sự hình thành tư tưởng dân chủ Hồ Chí Minh trước khi người ra đi tìm đường cứu nước?
-A. Truyền thống văn hoá dân chủ, tiến bộ của Đức
-B. Truyền thống văn hoá dân chủ, tiến bộ của Pháp
-C. Chủ nghĩa thực chứng Hoa Kỳ
-D. Triết học phương Tây
-@@@B###
-Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn thắng lợi:
-a. Phải đi theo con đường cách mạng vô sản.
-b. Phải đi theo con đường cách mạng Pháp, Mỹ.
-c. Phải đi theo con đường cách mạng tháng Mười Nga
-d. Phải đi theo con đường cách mạng của các bậc tiền bối Việt Nam.
-@@@a###
-Theo Hồ Chí Minh, muốn tăng cường đoàn kết quốc tế trong cuộc đấu tranh vì mục tiêu chung, các Đảng Cộng sản phải tiến hành có hiệu quả việc giáo dục chủ nghĩa yêu nước chân chính kết hợp với:
-a. Chủ nghĩa vô sản.
-b. Chủ nghĩa xã hội.
-c. Chủ nghĩa quốc tế.
-d. Chủ nghĩa Mác - Lênin.
-@@@c ( = chủ nghĩa quốc tế vô sản)###
-Theo Hồ Chí Minh, người cách mạng phải có đạo đức, không có đạo đức thì
-A. Dù tài giỏi mấy cũng bỏ đi
-B. Dù tài giỏi mấy cũng không đáng dùng
-C. Dù tài giỏi mấy cũng không lãnh đạo được nhân dân
-D. Dù tài giỏi mấy cũng không xứng đáng là người cách mạng
-@@@C###
-Theo Hồ Chí Minh, nhà nước vì dân là
-A. Do nhân dân lập nên
-B. Quyền lực của nhà nước và xã hội thuộc về nhân dân
-C. Tất cả các phương án
-D. Nhà nước lấy lợi ích chính đáng của nhân dân làm mục tiêu
-@@@C###
-Nguyễn Ái Quốc là người Việt Nam thứ mấy tham gia vào Đảng Cộng sản Pháp?
-A. Thứ nhất
-B. Thứ hai
-C. Thứ ba
-D. Thứ tư
-@@@A###
-Hồ Chí Minh cho rằng, phong trào cộng sản công nhân quốc tế trở thành lực lượng quyết định vẫn mệnh của loài người không chỉ do chiến lược và sách lược thiên tài của cách mạng vô sản, mà còn do
-A. Những phẩm chất đạo đức cao quý làm cho chủ nghĩa cộng sản trở thành một sức mạnh vô địch
-B. Vũ khí, đạn dược hiện đại làm cho chủ nghĩa cộng sản trở thành một sức mạnh vô địch
-C. Khoa học, kỹ thuật tiên tiến làm cho chủ nghĩa cộng sản trở thành một sức mạnh vô địch
-@@@A###
-Theo Hồ Chí Minh " Tất cả.. trong nước là của toàn thể nhân dân Việt Nam".
-A. Quyền hành
-B. Quyền lực
-C. Quyền bính
-D. Quyền binh
-@@@C###
-Khi nói về vấn đề độc lập dân tộc và giai cấp, Hồ Chí Minh cho rằng:
-A. Phải kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội, chủ nghĩa yêu nước với chủ nghĩa nhân văn
-B. Phải kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội, chủ nghĩa yêu nước với chủ nghĩa nhân đạo
-C. Phải kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội, chủ nghĩa yêu nước với chủ nghĩa quốc tế
-D. Phải kết hợp nhuẫn nhuyễn giữa giai cấp với dần tộc, chủ nghĩa xã hội và độc lập dần tộc, chủ nghĩa yêu nước và chủ nghĩa quốc tế đại đồng
-@@@C###
-Hồ Chí Minh đã đề ra Những nhiệm vụ cấp bách của Nhà nước Việt Nam Dân chủ Cộng hòa vào thời điểm nào?
-A. Năm 1947
-B. Năm 1946
-C. Năm 1945
-D. Năm 1944
-@@@C###
-Theo Hồ Chí Minh, mỗi cán bộ, đảng viên "đều là công bộc của dân, nghĩa là để gánh việc chung cho dân, chứ không phải để:
-a. Đè đầu dân.
-b. Hạch sách dân
-c. Làm khó cho dân
-@@@a###
-Theo Hồ Chí Minh, Nhà nước Việt Nam được xây dựng phải là:
-A. Nhà nước hợp pháp, hợp hiến
-B. Nhà nước quốc gia dân tộc
-C. Nhà nước tự lập, tự tôn
-D. Nhà nước bảo hộ cho phép
-@@@A###
-Hồ Chí Minh cho rằng xây dựng văn hóa mới trước hết cần phải làm gì?
-A. Tư tưởng phải được tự do
-B. Tư tưởng phải được nuôi dưỡng
-C. Phải xây dựng xã hội dân chủ
-@@@A###
-Điền vào chỗ trống. Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam đưa ra định nghĩa:"Tư tưởng Hồ Chí Minh là... toàn diện sâu sắc về những vẫn vấn đề cơ bản của cách mạng Việt Nam"
-A. Hệ thống các vấn đề
-B. Hệ thống các tư tưởng
-C. Hệ thống các luận điểm
-D. Hệ thống các quan điểm
-@@@D###
-Hồ Chí Minh cho rằng đoàn kết quốc tế phải.
-A. Nêu cao ngọn cờ hoà bình, công lý
-B. Nêu cao ngọn cờ hoà bình, tự do
-C. Nêu cao ngọn cờ hoà bình, bình đẳng
-@@@A###
-Đâu là quan điểm của Hồ Chí Minh về xây dựng con người
-a. Con người cụ thể, lịch sử
-b. Con người cụ thể, văn hóa
-c. Con người cụ thể, xã hội
-d. Con người lịch sử, văn hóa
-@@@a###
-Đâu là quan điểm của Hồ Chí Minh về xây dựng con người
-a. Bản chất con người mang tính xã hội
-b. Bản chất con người mang tính nhân dân
-c. Bản chất con người mang tính dân chủ
-d. Bản chất con người mang tính kế thừa
-@@@a
-(Đâu là quan điểm của Hồ Chí Minh vẽ bản chất con người?)###
-Đâu là quan điểm của Hồ Chí Minh về xây dựng con người mới
-a. Con người là mục tiêu, là động lực
-b. Con người là mục tiêu, là phương châm
-c. Con người là mục tiêu, là chiến lược
-@@@a###
-Ngoại ngữ nào sau đây được Hồ Chí Minh sử dụng trong thời gian học tập ở trường Quốc học Huế?
-a. Tiếng Anh
-b. Tiếng Pháp
-c. Tiếng Trung
-d. Tiếng Nga
-@@@b###
-Theo Hồ Chí Minh, chỉ có ..... mới giải phóng được các dân tộc bị áp bức và giai cấp công nhân toàn thế giới. 
-A. Chủ nghĩa xã hội và chủ nghĩa cộng sản.
-B. Giai cấp công nhân và giai cấp nông dân
-C. Giai cấp công nhân và nhân dân lao động
-D. Đảng Cộng sản và giai cấp công nhân
-@@@A###
-Hòa bình là phương pháp cách mạng
-A. Không hiệu quả
-B. Rất nhân văn
-C. Không cần thiết
-D. Mang tính chất giáo điều
-@@@B###
-Thực hành đạo đức cách mạng trong xã hội hiện nay , theo Hồ Chí Minh là :
-A. Làm đúng quyền hạn và bổn phận
-B. Làm đúng theo trách nhiệm và quyền hạn
-C. Luôn nghĩ về nhân dân , xuất phát từ dân mà làm , không phạm pháp luật
-D. Luôn luôn làm theo tư tưởng Hồ Chí Minh
-@@@C###
-Theo Hồ Chí Minh, con đường quá độ lên CNXH ở Việt Nam là:
-a. Quá độ lên chủ nghĩa xã hội không qua giai đoạn phát triển tư bản chủ nghĩa.
-b. Quá độ lên chủ nghĩa xã hội không qua giai đoạn phát triển xã hội phong kiến.
-c. Quá độ lên chủ nghĩa xã hội không qua giai đoạn phát triển xã hội dân chủ.
-d. Quá độ lên chủ nghĩa xã hội không qua giai đoạn phát triển cộng sản chủ nghĩa.
-@@@a###
-Trong quá trình xây dựng khối đại đoàn kết toàn dân tộc phải đứng vững trên lập trường của giai cấp nào?
-a. Giai cấp nông dân
-b. Tầng lớp trí thức
-c. Giai cấp công nhân
-d. Tư sản dân tộc
-@@@c###
-Quan điểm nào sau đây thuộc vấn đề công tác cán bộ theo tư tưởng Hồ Chí Minh ?
-A. Gần dân, học hỏi nhân dân, lắng nghe ý kiến ngoài đảng
-B. Gần dân, học hỏi nhân dân, lắng nghe ý kiến của mọi tầng lớp
-C. Gần dân, học hỏi nhân dân, lắng nghe ý kiến mọi người
-D. Gần dân, học hỏi nhân dân, lắng nghe ý kiến nhân dân
-@@@D###
-Trong Di chúc, khi nói về những người nạn nhân của chế độ xã hội cũ, như trộm cắp, gái điếm, cờ bạc, buôn lậu, v.v., Hồ Chí Minh đã căn dặn Nhà nước phải dùng biện pháp gì để cải tạo, giúp họ trở nên những người lao động lương thiện
-A. Giáo dục, pháp luật
-B. Nhắc nhở, trừng phạt
-C. Răn đe, pháp luật
-D. Giáo dục, đạo đức
-@@@A###
-Trong mối quan hệ giữa văn hóa, kinh tế, chính trị, theo Hồ Chí Minh chế độ chính trị và nền kinh tế được coi là
-A. Nền tảng và quyết định tính chất của văn hóa
-B. Cơ sở và quyết định đến bản chất của văn hóa
-C. Cái quyết định đến văn hóa
-D. Cơ sở phát triển văn hóa
-@@@A###
-Tiền đề tư tưởng, lí luận dẫn đến sự hình thành tư tưởng Hồ Chí Minh là
-A. Giá trị truyền thống Việt Nam
-B. Giá trị truyền thống văn hóa Việt Nam
-C. Giá trị tư tưởng Việt Nam
-@@@B###
-Truyền thống nào của dân tộc Việt Nam là nguồn gốc hình thành tư tưởng Hồ Chí Minh ?
-A. Truyền thống yêu nước, lạc quan, yêu đời; có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc
-B. Truyền thống lạc quan, yêu đời; có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc
-C. Truyền thống nhân nghĩa, thủy chung, lạc quan, yêu đời, có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc
-D. Truyền thống đoàn kết, lạc quan, yêu đời, có niềm tin vào chính nghĩa, tin vào sức mạnh của bản thân và dân tộc
-@@@A###
-Tính chất nhân văn trong bao lực cách mạng của Hồ Chí Minh là:
-A. Con đường bạo lực cách mạng gắn bó hữu cơ nhân đạo, tự do
-B. Con đường cách mạng bạo lực gắn bó hữu cơ với nhân văn, hòa bình
-C. Con đường cách mạng bạo lực gắn bó hữu cơ với tự do, hòa bình
-D. Con đường cách mạng bạo lực gắn bó hữu cơ với nhân đạo, hòa bình
-@@@D###
-Đâu là quan điểm của Hồ Chí Minh về chiến lược trồng người?
-a. "Trồng người" là trung tâm của phát triển xã hội
-b. "Trồng người" là trung tâm phát triển của nhân loại
-c. "Trồng người" là trung tâm phát triển thế giới
-@@@a###
-Theo Hồ Chí Minh, "dân là chủ" để đề cập đến điều gì?
-A. Đề cập tới vị trí của dân
-B. Đề cập tới trách nhiệm của dân
-C. Đề cập tới vị thế của dân
-D. Đề cập tới năng lực của dân
-@@@C###
-Một trong những yêu cầu cơ bản trong nghiên cứu tư tưởng Hồ Chí Minh là:
-a. Đảm bảo thống nhất nguyên tắc tính Đảng và tính khoa học
-b. Đảm bảo thống nhất nguyên tắc tính Nhà nước và tính khoa học
-c. Đảm bảo thống nhất nguyên tắc tính Đảng và tính Nhà nước
-d. Đảm bảo thống nhất nguyên tắc tính triết học và tính khoa học
-@@@a
-(Kiểu hỏi khác: Một trong những yêu cầu cơ bản trong nghiên cứu tư tưởng Hồ Chí Minh là:
-A. Đảm bảo thống nhất giữ nguyên tắc tính đảng và tính khoa học
-B. Đảm bảo thống nhất tính thực chứng và duy lý
-C. Đảm bảo thống nhất giữa khoa học và thực tiễn
-D. Đảm bảo tỉnh thực chứng và khoa học)###
-Ngoại ngữ nào sau đây được Hồ Chí Minh học đầu tiên?
-A. Tiếng Anh
-B. Tiếng Pháp
-C. Tiếng Trung
-D. Tiếng Nga
-@@@B
-(Tiếng Pháp là ngoại ngữ mà Bác Hồ được học đầu tiên, trên cả hai phương diện học chữ và học nói, còn tiếng Trung khi nhỏ tuổi thì Bác chỉ được học chữ chứ không được học nói.)###
-Chủ nghĩa nào sau đây ảnh hưởng đến sự hình thành tư tưởng Hồ Chí Minh?
-A. Chủ nghĩa dân tộc của Grady.
-B. Chủ nghĩa dân chủ của Kenedy.
-C. Chủ nghĩa tam dân của Tôn Trung Sơn.
-@@@C###
-Trong những câu nói sau đây, câu nào không phải là của Hồ Chí Minh?
-A "Muốn được dân yêu, muốn được lòng dân, trước hết phải yêu dân, phải đặt quyền lợi của dân trên hết thảy, phải có một tinh thần chí công vô tư".
-B. "Chúng ta đã xây dựng nên nước Việt Nam Dân chủ Cộng hòa. Nhưng nếu nước độc lập mà dân không được hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì".
-C. "Chính phủ nhân dân bao giờ cũng phải đặt quyền lợi của dân lên trên hết thảy. Việc gì có lợi cho dân thì phải hết sức làm. Việc gì hại đến dẫn thì phải hết sức tránh".
-D. "Khoan thư sức dân làm kế sâu rễ bền gốc".
-@@@D###
-Theo Hồ Chí Minh, vấn đề cốt lõi của cách mạng giải phóng dân tộc thuộc địa là
-a. Vấn đề tự do dân chủ
-b. Vấn đề độc lập dân tộc
-c. Vấn đề ruộng đất
-@@@b###
-Câu nói "Đảng là đạo đức, đảng là văn minh" được chủ tịch Hồ Chí minh đưa ra ở:
-A. Di chúc - 1969
-B. Diễn văn kỷ niệm 30 năm thành lập Đảng 1960
-C. Diễn văn khai mạc đại hội đại biểu toàn quốc lần thứ II tháng 2 - 1962
-D. Diễn văn khai mạc đại hội đại biểu toàn quốc lần thứ III của Đảng năm 1960
-@@@B###
-Theo Hồ Chí Minh, mâu thuẫn chủ yếu ở thuộc địa, không thể điều hòa được là gì.
-A. Mâu thuẫn giữa dân tộc thuộc địa với thực dân, đế quốc
-B. Mâu thuẫn giữa giai cấp công nhân với chủ nghĩa thực dân
-C. Mâu thuẫn giữa giai cấp nông dân với giai cấp địa chủ bản xứ
-D. Tất cả các phương án trên
-@@@A###
-Theo Hồ Chí Minh, mối quan hệ giữa văn hóa với kinh tế và chính trị như thế nào?
-A. Văn hóa đứng ngoài kinh tế
-B. Văn hóa đứng người chính trị
-C. Văn hóa không thể đứng ngoài mà phải ở trong kinh tế và chính trị
-D. Văn hóa đứng ngoài kinh tế và chính trị
-@@@C###
-Chọn đáp án đúng nhất: Phải kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội, chủ nghĩa yêu nước với chủ nghĩa quốc tế là nội dung gì trong tư tưởng Hồ Chí Minh:
-A. Tư tưởng Hồ Chí Minh về vấn đề dân tộc
-B. Tư tưởng Hồ Chí Minh về vấn đề giai cấp
-C. Tư tưởng Hồ Chí Minh về đoàn kết quốc tế
-D. Tư tưởng Hồ Chí Minh về chủ nghĩa xã hội
-@@@A###
-Trong bản Yêu sách của nhân dân An Nam, Hồ Chí Minh nhấn mạnh quốc gia cần phải có một:
-A. Chế độ dân chủ
-B. Chế độ ra các đạo luật
-C. Chế độ công bằng
-D. Chế độ ra sắc lệnh
-@@@B###
-Hãy chọn phương án đúng nhất. Theo Hồ Chí Minh, mục đích cơ bản của đoàn kết quốc tế là
-A. Tạo sức mạnh tổng hợp cho cách mạng Việt Nam và góp phần cùng với nhân dẫn thế giới thực hiện thắng lợi các mục tiêu cách mạng
-B. Hợp tác giáo dục và giao lưu văn hóa
-C. Tranh thủ sự viện trợ của các nước bên ngoài
-D. Học hỏi và trao đổi kinh nghiệm sản xuất
-@@@A###
-Tác phẩm Đời sống mới được Hồ Chí Minh công bố năm nào?
-A. 1930
-B. 1947
-C. 1951
-D. 1945
-@@@B###
-Theo Hồ Chí Minh, chủ nghĩa nào có "những điều thích hợp với điều kiện của nước ta"?
-A. Chủ nghĩa Găngđi
-B. Chủ nghĩa Mác
-C. Chủ nghĩa Tôn Dật Tiên
-D. Chủ nghĩa Lênin
-@@@C###
-Đâu là quan điểm của Hồ Chí Minh trong các quan điểm sau?
-A. Trong giai đoạn thuộc địa, giải phóng chính trị- Xã hội là trước hết, mỡ đường để giải phóng văn hóa
-B. Trong giai đoạn thuộc địa, giải phóng chính trị - xã hội là trước hết, mở đường để giải phóng nhân loạ
-C. Trong giai đoạn thuộc địa, giài phóng chính trị- xã hội là trước hết, mở đường để giải phóng dân tộc
-D. Trong giai đoạn thuộc địa, giải phóng chính trị - xã hội là trước hết, mở đường để giải phóng các dân tộc anh em
-@@@A###
-Hồ Chí Minh lưu ý trong công tác xây dựng mặt trận như sau.
-A. Khối đoàn kết trong Mặt trận phải xuất phát từ mục tiêu cụ thể
-B. Khối đoàn kết trong Mặt trận phải xuất phát từ mục tiêu cơ bản
-C. Khối đoàn kết trong Mặt trận phải xuất phát từ mục tiêu chung
-@@@C###
-Hồ Chí Minh cho rằng đoàn kết toàn dân để: 
-a. Phụng sự nhân dân
-b. Phụng sự cách mạng
-c. Phụng sự tổ quốc
-@@@c###
-Theo Hồ Chí Minh, lực lượng nào sau đây được coi "là gốc cách mệnh"?
-A. Công nông trí
-B. Công nhân
-C. Công nông
-D. Nông dân
-@@@C###
-Theo quan điểm của Đảng Cộng sản Việt Nam tại Đại hội đại biểu toàn quốc lần thứ VII, Tư tưởng Hồ Chí Minh là:
-A. Tài sản tinh thần to lớn của Đảng và dân tộc ta
-B. Tài sản tinh thần quý báu của Đảng và của cả dân tộc
-C. Tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta
-D. Tài sản tinh thần to lớn và vô cùng quý giá của Đảng và dân tộc ta
-@@@B###
-Tư tưởng tôn giáo nào sau đây ảnh hưởng đến sự hình thành tư tưởng Hồ Chí Minh?
-a. Tư duy, hành động, ứng xử của Phật giáo
-b. Tư duy, hành động, ứng xử của Hồi giáo
-c. Tư duy, hành động, ứng xử của Ấn độ giáo
-@@@a###
-Hồ Chí Minh nhấn mạnh xây dựng nhà nước trong sạch vững mạnh cần phải
-A. Kết hợp giáo dục pháp luật và đạo đức, hình thành pháp quyền nhân nghĩa
-B. Kết hợp giáo dục pháp luật và nghề nghiệp, hình thành pháp quyền nhân nghĩa
-C. Kết hợp giáo dục pháp luật và nhân cách, hình thành pháp quyền nhân nghĩa
-@@@A###
-Theo Hồ Chí Minh, Liêm là luôn tôn trọng của công và của dân. Phải:
-a. "trong sạch, không tham lam" tiền của, địa vị, danh tiếng.
-b. "trong sáng, không tham lam" tiền của, địa vị, danh tiếng.
-c. "trong sạch, không ham muốn" tiền của, địa vị, danh tiếng.
-d. "trong sạch, không đòi hỏi" tiền của, địa vị, danh tiếng.
-@@@a###
-Theo tư tưởng Hồ Chí Minh, con người mới xã hội chủ nghĩa là con người.
-A. Kế thừa những giá trị tốt đẹp của con người truyền thống
-B. Phá bỏ những truyền thống cũ
-C. Hình thành những phẩm chất mới xã hội chủ nghĩa
-D. Kế thừa những giá trị tốt đẹp của con người truyền thống hình thành những phẩm chất mới xã hội chủ nghĩa
-@@@D###
-Hồ Chí Minh tiếp thu tư tưởng về đạo đức của Nho giáo trong việc xây dựng, đổi mới, phát triển, đạo đức trong công tác gì?
-A. Xây dựng con người mới
-B. Xây dựng Đảng về đạo đức
-C. Xây dựng văn hóa mới
-D. Xây dựng xã hội mới
-@@@B###
-Theo Hồ Chí Minh, là người đày tớ của dân không có nghĩa là "tôi tớ, tôi đòi hay theo đuôi quần chúng" mà là:
-a. Hiểu và đánh giá đúng nhân dân nhằm đem lại các quyền và lợi ích cho nhân dân.
-b. Tận tâm, tận lực phụng sự nhân dân nhằm đem lại các quyền và lợi ích cho nhân dân.
-c. Tất cả các phương án
-@@@b###
-Chọn câu trả lời đúng và đầy đủ nhất theo tư tưởng Hồ Chí Minh :
-A. Đảng Cộng sản Việt Nam vừa là thành viên, vừa là lực lượng lãnh đạo Mặt trận
-B. Đảng Cộng sản Việt Nam là một thành viên của Mặt trận dân tộc thống nhất
-C. Đảng Cộng sản Việt Nam không là thành viên của Mặt trận dân tộc thống nhất
-D. Đảng Cộng sản Việt Nam là lực lượng lãnh đạo Mặt trận
-@@@A###
-Nguyễn Ái Quốc vào Đảng Xã hội Pháp năm nào?
-A. 1917
-B. 1918
-C. 1919
-D. 1920
-@@@C###
-Khi nói về điều kiện hình thành tư tưởng Hồ Chí Minh, điều kiện nào bị viết sai?
-A. Ngay từ khi còn nhỏ ở trong trưởng. Hồ Chí Minh đã nhận thức được đặc điểm thời đại
-B. Quê hương Hồ Chí Minh là mảnh đất giàu truyền thống yêu nước, chống giặc ngoại xâm
-C. Nhu cầu khách quan và bức thiết do cách mạng Việt Nam đặt ra là muốn cứu nước, phải tìm một con đường cách mạng mới
-D. Hồ Chí Minh sinh ra trong một gia đình nhà Nho yêu nước. gần gũi nhân dân, cụ thân sinh có tư tưởng thương dân, chủ trương lấy dân làm hậu thuẫn cho mọi cải cách chính trị
-@@@A###
-Theo Hồ Chí Minh, đạo đức mới chỉ có thể được xây dựng trên cơ sở sự tự giác tu dưỡng đạo đức của mỗi người thông qua hoạt động thực tiễn, phải kiên trì rèn luyện như:
-a. việc rửa mặt hàng ngày.
-b. việc đánh răng hàng ngày.
-c. việc ăn uống hàng ngày
-d. việc hít thở hàng ngày
-@@@a###
-Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải
-A. Là nhà nước hợp hiến
-B. Là nhà nước dân chủ
-C. Là nhà nước dân quyền
-@@@A###
-Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải
-a. Do ĐCS lãnh đạo và nhân dân làm chủ
-b. Do nhân dân quản lý và nhân dân làm chủ
-c. Do giai cấp công nhân lãnh đạo và nhân dân làm chủ
-@@@a###
-Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải
-a. Có hiệu lực pháp lý mạnh mẽ
-b. Có hiệu lực pháp lý toàn diện
-c. Có hiệu lực pháp lý chân chính
-@@@a###
-Hồ Chí Minh cho rằng, nhà nước của dân, do dân và vì dân phải mang bản chất
-a. Giai cấp công nhân và mang bản chất dân tộc
-b. Giai cấp công nhân và mang bản chất nhân văn
-c. Giai cấp công nhân và mang bản chất nhân đạo
-@@@a###
-Nội dung nào không đúng với tư tưởng Hồ Chí Minh trong việc thực thi Hiến pháp và pháp luật?
-A. Pháp luật phải đúng và phải đủ
-B. Tăng cường tuyên truyền, giáo dục pháp luật cho người cao tuổi
-C. Người thực thi luật pháp phải thật sự công tâm và nghiêm minh
-D. Bất kỳ ai vi phạm pháp luật cũng đều bị trừng trị nghiêm khắc, đúng người, đúng tội.
-@@@B###
-Đâu không phải là nguyên tắc xây dựng chủ nghĩa xã hội trong thời kỳ quá độ theo tư tưởng hồ chí minh?
-A. Mọi tư tưởng hành động phải tuân thủ tuyệt đối theo chủ nghĩa Mác - Lênin
-B. Phải giữ vững được độc lập dân tộc
-C. Phải đoàn kết, học tập kinh nghiệm từ thực tiễn
-D. Xây đi đôi với chống
-@@@A###
-Luận điểm nào là của Hồ Chí Minh?
-a. Hãy xóa bỏ tình trạng người bóc lột người thì tình trạng dân tộc này bóc lột dân tộc khác sẽ bị xóa bỏ.
-b. Khi mà sự đối kháng giữa các giai cấp trong nội bộ dân tộc không còn nữa thì sự thù địch giữa các dân tộc cũng đồng thời mất theo.
-c. Giải phóng giai cấp là nhiệm vụ trung tâm, là điều kiện để giải phóng dân tộc.
-d. Trong điều kiện các nước thuộc địa thì giải phóng dân tộc là cơ sở để giải phóng giai cấp, giải phóng con người.
-@@@d
-(Kiểu hỏi khác: Đâu là luận điểm của Hồ Chí Minh?
-A. Hãy xóa bỏ tình trạng người bóc lột người thì tình trạng dẫn tộc này bóc lột dẫn tộc khác sẽ bị xóa
-B. Khi mà sự đối kháng giữa các giai cấp trong nội bộ dân tộc không còn nữa thì sự thù địch giữa các dân tộc cũng đồng thời mất theo.
-C. Giải phóng dân tộc gắn với giải phóng giai cấp, trong đó giải phóng dân tộc là trước hết, trên hết
-D. Giải phóng giai cấp là nhiệm vụ hàng đầu, là điêu kiện tiên quyết trong giãi phóng dẫn tộc.)###
-Trong các quan điểm dưới đây, đâu là quan điểm của Hồ Chí Minh?
-A. Văn hóa ngang hàng với các lĩnh vực khác, có mỗi quan hệ với các lĩnh vực khác
-B. Văn hóá không như lĩnh vực khác, có mỗi quan hệ với các lĩnh vực khác
-C. Văn hoa là mọi lĩnh vực có môi quan hệ ngang hàng
-D. Văn hóa ngang hàng với các lĩnh vực khác, không có mỗi quan hệ với các lĩnh vực khác
-@@@A###
-Hồ Chí Minh cho rằng đoàn kết là
-a. Sức mạnh
-b. Sáng tạo
-c. Khôn ngoan
-@@@a###
-Tác phẩm "Cần Kiêm Liêm Chính" của Hồ Chí Minh được xuất bản vào thời gian nào?
-A. Năm 1950
-B. Năm 1947
-C. Năm 1949
-D. Năm 1948
-@@@C###
-Theo Hồ Chí Minh, nhà nước vì dân là
-A. Nhà nước phải phụng sự nhân dân
-B. Nhà nước phải phụng sự Đảng Cộng sản
-C. Nhà nước phải phụng sự giai cấp cầm quyền
-@@@A###
-Hồ Chí Minh lưu ý Đảng về vấn đề đại đoàn kết dân tộc thông qua luận điểm
-A. Đoàn kết không chỉ nằm ở chủ trương, đường lối, chính sách mà phải biến thành sức mạnh
-B. Đoàn kết không chỉ nằm ở chủ trương, đường lối, chính sách mà phải biến thành tư tưởng
-C. Đoàn kết không chỉ nằm ở chủ trương, đường lối, chính sách mà phải biến thành đường lối
-@@@A###
-Chế độ xã hội dưới sự lãnh đạo của Đảng Cộng sản và giai cấp công nhân, đánh đổ đế quốc và phong kiến,trên nền tảng công nông liên minh, nhân dân lao động làm chủ, nhân dân dân chủ chuyền chính theo tư tưởngMác - Lênin, theo Hồ Chí Minh đó là:
-A Chế độ chuyên chính vô sản
-B. Chế độ dân chủ nhân dân
-C. Chế độ dân chủ xã hội chủ nghĩa
-D. Chế độ dân chủ mới
-@@@C###
-Giai đoạn nào sau đây tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện?
-a. 1945 đến 1960
-b. 1930 đến 1969
-c. 1945 đến 1969
-d. 1930 đến 1945
-@@@c
-(Kiểu hỏi khác: Giai đoạn nào sau đây Hồ Chí Minh bổ sung và hoàn thiện tư tưởng của mình?
-A. 1911 đến 1920
-B. 1930 đến 1969
-C. 1941 đến 1969
-D. 1921 đến 1930)###
-Giai đoạn nào sau đây hình thành tư tưởng yêu nước và ý chí cứu nước của Hồ Chí Minh?
-a. 1911 đến 1920
-b. 1921 đến 1930
-c. 1930 đến 1945
-d. 1890 đến 1911
-@@@d###
-Giai đoạn nào sau đây Hồ Chí Minh vượt qua thử thách, kiên trì giữ vững lập trường cách mạng?
-a. 1911 đến 1920
-b. 1921 đến 1930
-c. 1930 đến 1945
-d. 1890 đến 1911
-@@@c###
-Giai đoạn nào sau đây hình thành cơ bản tư tưởng Hồ Chí Minh về cách mạng Việt Nam?
-a. 1945 đến 1969
-b. 1930 đến 1945
-c. 1921 đến 1930
-d. 1911 đến 1920
-@@@c###
-Theo tư tưởng Hồ Chí Minh, độc lập, tự do được hiểu là
-A. Quyền bất khả xâm phạm của tất cả các dân tộc
-B. Quyền thiêng liêng và bất khả xâm phạm của tất cả các dân tộc
-C. Quyền thiêng liêng của tất cả các dân tộc
-D. Đặc quyền của mỗi một dân tộc
-@@@B###
-Chọn phương án đúng nhất. Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam là
-A. Đảng của giai cấp công nhân, đồng thời là đảng của dân tộc Việt Nam
-B. Đông của giai cấp công nhân và nông dân Việt Nam
-C. Đảng của giai cấp công nhân Đông Dương
-D. Đảng của giai cấp công nhân Việt Nam
-@@@A
-(Kiểu hỏi khác: Theo Hồ Chí Minh, Đảng Lao động Việt Nam là Đảng của ai?)###
-Trong tư tưởng Hồ Chí Minh, lực lượng nào là chủ thể của khối đại đoàn kết dân tộc?
-a. Công nhân
-b. Toàn thể nhân dân
-c. Nhân dân
-d. Không xác định lực lượng chủ thể
-@@@b
-(Kiểu hỏi khác: Trong tư tưởng Hồ Chí Minh, lực lượng nào là chủ thể của khối đại đoàn kết dân tộc?
-a. Công nhân
-b. Công - nông
-c. Nhân dân
-d. Không xác định lực lượng chủ thể)###
-Theo Hồ Chí Minh, đoàn kết là
-a. Truyền thống quý báu của dân tộc ta
-b. Sức mạnh vô địch của dân tộc ta
-c. Ý chí tự lực, tự cường của dân tộc ta
-@@@a###
-Hồ Chí Minh cho rằng giải phóng dân tộc là sự nghiệp của
-a. Toàn dân
-b. Toàn quân
-c. Toàn Đảng
-d. Giai cấp công nhân
-@@@a###
-Hồ Chí Minh cho rằng giải phóng dân tộc là nhiệm vụ của cách mạng nào sau đây
-a. Cách mạng nhân sinh tự do
-b. Cách mạng dân chủ tư sản
-c. Cách mạng XHCN
-@@@c###
-"Đại đoàn kết tức là trước hết phải đoàn kết đại đa số nhân dân, mà đại đa số nhân dân ta là công nhân, nông dân và các tầng lớp nhân dân lao động khác. Đó là nền, gốc của đại đoàn kết. Đây là câu nói của Hồ Chí Minh trong bài Nói chuyện tại Hội nghị đại biểu Mặt trận Liên - Việt toàn quốc vào tháng, năm nào?
-A. Tháng 3-1951
-B. Tháng 9-1945
-C. Tháng 2, 1960
-D. Tháng 1-1955
-@@@D###
-Tư tưởng, văn hóa phương Tây lấy.
-A. Cảm tính và khoa học làm tiêu chuẩn
-B. Lý tính và khoa học là tiêu chuẩn
-C. Tư duy và sự phản biện làm tiêu chuẩn
-D. Sự phản biện và lý tính làm tiêu chuẩn
-@@@B###
-Hồ Chí Minh nhấn mạnh tầm quan trọng của mặt trận như sau
-a. Mặt trận là khối đoàn kết chặt chẽ, lâu dài, thật sự, chân thành
-b. Mặt trận là khối đoàn kết chặt chẽ, lâu dài, thật sự, chân chính
-c. Mặt trận là khối đoàn kết chặt chẽ, lâu dài, thật sự, chân thực
-@@@a###
-Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản Việt Nam là sản phẩm của sự kết hợp giữa chủ nghĩa Mác-Lênin với phong trào công nhân và phong trào yêu nước là:
-A. Xác định nhiệm vụ của Đảng.
-B. Xác định bản chất của Đảng.
-C. Xác định nguồn gốc ra đời của Đảng.
-D. Xác định năng lực của Đảng.
-@@@C###
-Hồ Chí Minh ví tham nhũng như giặc
-A. Ngoại xâm
-B. Mỹ
-C. Nội xâm
-@@@C
-(Kiểu hỏi khác: Theo Hồ Chí Minh, tham ô, lãng phí được ví như giặc gì?
-A. Ngoại xâm
-B. Nội xâm
-C. Mỹ
-D. Giặc dốt)###
-Theo Hồ Chí Minh, cách mạng XHCN phải tiến hành đồng thời với cách mạng nào?
-a. Cách mạng tư sản
-b. Cách mạng dân tộc dân chủ nhân dân
-c. Cách mạng văn hóa
-d. Cách mạng giai cấp
-@@@b###
-Hồ Chính Minh cho rằng cứ viết lên trán hai chữ cộng sản là
-a. Dân yêu dân mến
-b. Dân khâm phục
-c. Dân tin
-@@@a###
-Yếu tố nào sau đây ảnh hưởng đến sự hình thành tư tưởng Hồ Chí Minh:
-a. Lý luận và kinh nghiệm các cuộc cách mạng điển hình phương Tây
-b. Kinh nghiệm các cuộc cách mạng điển hình ở phương Đông
-c. Lý luận và thực tiễn các cuộc cách mạng điển hình trên thế giới
-d. Bài học xương máu của cách mạng Việt Nam
-@@@c###
-Hồ Chí Minh nhắc cán bộ nhà nước phải biết
-a. Học tập từ nhân dân
-b. Tự tôn dân tộc trước nhân dân
-c. Quan cách trước nhân dân
-@@@a###
-Hồ Chí Minh nhắc cán bộ nhà nước phải:
-a. Có mối liên hệ mật thiết với đại diện của nhân dân
-b. Có mối liên hệ mật thiết với giai cấp mình
-c. Có mối liên hệ mật thiết với chính quyền
-d. Có mối liên hệ mật thiết với nhân dân
-@@@D###
-Hồ chí minh nhắc cán bộ nhà nước phải biết làm điều gì?
-a. làm lợi cho dân
-b. lao động vì dân
-c. phấn đấu vì dân
-d. làm quan cách mạng
-@@@a###
-Theo Hồ Chí Minh, quyền lãnh đạo Mặt trận của Đảng không phải do Đảng tự phong cho mình, mà phải được:
-A. Nhân dân bỏ phiếu.
-B. Trưng cầu dân ý.
-C. Nhân dân thừa nhận.
-D. Chính quyền cho phép.
-@@@C###
-Đoạn viết dưới đây ghi tóm tắt lời giải thích của hồ chí minh về cần, kiệm, liêm, chính. hỏi: điểm tóm tắt nào đã bị ghi nhầm nội dung?
-A. Cần là lao động cần cù, siêng năng, lao động có kế hoạch, sáng tạo và có năng suất lao động cao...
-B. Kiệm là không xa xỉ, không hoang phí, không bừa bãi...
-C. Liêm là luôn tôn trọng của công và của dân, không tham tiền của, địa vị, danh tiếng.
-D. Chính là trong sạch, không tham lam đồng xu, hạt thóc của nhà nước, của dân.
-@@@D###
-Hãy chọn phương án trả lời đúng nhất. Theo Hồ Chí Minh, để tập hợp được mọi lực lượng vào khối đại đoàn kết toàn dân, cần phải:
-A. Có chính sách đúng đắn
-B. Có phương pháp phù hợp với từng đối tượng
-C. Vừa có chính sách đúng đắn, vừa có phương pháp phù hợp với từng đối tượng
-D. Chăm lo đời sống vật chất và tinh thần cho nhân dân
-@@@C###
-Quan điểm nào sau đây là nguyên tắc đoàn kết quốc tế của Hồ Chí Minh
-a. Dựa vào sức mình là chính, ủng hộ sự giúp đỡ quốc tế, có nghĩa vụ quốc tế.
-b. Dựa vào sức mình là chính, ủng hộ sự giúp đỡ quốc tế, có nghĩa của chính mình
-c. Dựa vào sức mình là chính, ủng hộ sự giúp đỡ quốc tế, có nghĩa vụ chính quốc.
-@@@a###
-Mối quan hệ giữa vấn đề dân tộc và vấn đề giai cấp trong tư tưởng Hồ Chí Minh là:
-a. Dân tộc với giai cấp có quan hệ chặt chẽ với nhau.
-b. Độc lập dân tộc gắn liền chủ nghĩa xã hội.
-c. Giải phóng dân tộc là tiền đề để giải phóng giai cấp.
-d. Tất cả các phương án
-@@@d###
-Điền vào chỗ trống. "Đại đoàn kết dân tộc là....của cách mạng".
-A. Mục tiêu, nhiệm vụ
-B. Chìa khóa, con đường
-C. Chìa khóa
-D. Biện pháp, phương hướng
-@@@A
-(Kiểu hỏi khác: Chọn phương án chính xác nhất điền vào chỗ trống. Đại đoàn kết dân tộc là một ...... hàng đầu của cách mạng Việt Nam"
-A. Mục tiêu, nhiệm vụ
-B. Chia khóa, con đường
-C. Chìa khóa
-D. Biện pháp, phương hướng)###
-Báo Le Paria (Người Cùng khổ) do Nguyễn Ái Quốc đồng sáng lập, ra số đầu tiên khi nào?
-A. 30/12/1920
-B. 1/4/1921
-C. 1/4/1922
-D. 1/4/1923
-@@@C###
-Hồ Chí Minh cho rằng:
-a. Đại đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược, quyết định sự thành công của cách mạng
-b. Đoàn kết dân tộc là vấn đề có ý nghĩa chiến lược tác động trực tiếp đến sự thành công của cách mạng
-c. Đại đoàn kết toàn dân là vấn đề có ý nghĩa chiến lược, quyết định sự trưởng thành của cách mạng
-@@@a###
-Theo Hồ Chí Minh, cách mạng giải phóng dân tộc cần tiến hành bằng:
-a. Con đường cách mạng bất bạo động
-b. Con đường cách mạng bạo lực
-c. Con đường cách mạng ôn hòa
-d. Con đường cách mạng cải lương
-@@@b###
-Hồ Chí Minh chủ trương tiến hành:
-A. Cách mạng tư sản dân quyền trước cách mạng thổ địa
-B. Cách mạng thổ địa trước cách mạng tư sản dân quyền
-C. Tiến hành động thời cách mạng tư sản dân quyền với cách mạng xã hội chủ nghĩa
-@@@A###
-Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:
-a. Trải qua nhiều bước
-b. Làm thật mau và rầm rộ
-c. Làm nhanh và rầm rộ qua nhiều bước
-@@@a###
-Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:
-A. Theo bước đi của các nước xã hội chủ nghĩa.
-B. Căn cứ vào đặc điểm lịch sử cụ thể của nước ta từ đó có bước đi phù hợp.
-C. Căn cứ vào đặc điểm lịch sử cụ thể của nước ta từ đó có bước đi phù hợp, đi bước nào vững chắc bước ấy.
-D. Bước đi chậm, mạnh, vững chắc.
-@@@C###
-Theo Hồ Chí Minh, nhân dân là
-A. Chủ thể của quyền lực
-B. Khách thể của quyền lực
-C. Nguồn gốc của quyền lực
-D. Sức mạnh của quyền lựcb
-@@@A
-(Kiểu hỏi khác: Theo Hồ Chí Minh, vai trò của nhân dân là gì?)###
-Theo Hồ Chí Minh, trong những ngành kinh tế chủ yếu: công - nông - thương nghiệp, những ngành nào được coi là "hai cái chân của nền kinh tế nước nhà" ?
-A. Nông nghiệp và thương nghiệp
-B. Nông nghiệp và công nghiệp nhẹ
-C. Công nghiệp nặng và nông nghiệp
-D. Công nghiệp và nông nghiệp
-@@@D###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"Nền kinh tế mà chúng ta xây dựng cần phải phát triển toàn diện các ngành, với những ngành chủ yếu là: công-nông-thương nghiệp; trong đó, (...........) là hai cái chân của nền kinh tế nước nhà".
-a. Nông nghiệp và thương nghiệp
-b. Nông nghiệp và công nghiệp nhẹ
-c. Công nghiệp nặng và nông nghiệp
-d. Công nghiệp và nông nghiệp
-@@@d###
-Lực lượng nào vừa là thành viên của Mặt trận dân tộc thống nhất vừa là lực lượng lãnh đạo Mặt trận?
-a. Các tổ chức chính trị xã hội
-b. Đảng cộng sản Việt Nam
-c. Nhà nước cộng hòa xã hội chủ nghĩa Việt Nam
-d. Quần chúng nhân dân
-@@@b###
-Theo Hồ Chí Minh, nhân dân lao động làm chủ Nhà nước thì dẫn đến một hệ quả là nhân dân có quyền: 
-A. Không chịu sự kiểm soát của Nhà nước
-B. Kiểm soát Nhà nước
-C. Không phải đóng thuế cho Nhà nước
-D. Không phải tuân theo pháp luật
-@@@B###
-Theo Hồ Chí Minh, một trong những đặc điểm của Nhà nước pháp quyền là
-A. Nguyên tắc cơ bản của Nhà nước là hiệp thương dân chủ
-B. Nhà nước lãnh đạo nhân dân thực hiện các nhiệm vụ cách mạng
-C. Sự lãnh đạo của Đảng đối với Nhà nước
-D. Nhà nước hợp hiến, hợp pháp
-@@@D###
-Hồ Chí Minh cho rằng:
-A. Chủ nghĩa dân tộc là động lực lớn của đất nước.
-B. Chủ nghĩa dân tộc là khát khao lớn của đất nước.
-C. Chủ nghĩa dân tộc là mục tiêu lớn của đất nước.
-D. Chủ nghĩa dân tộc là chiến lược hàng đầu của cách mạng.
-@@@A###
-Hãy chọn phương án đúng nhất Hồ Chí Minh luôn nhấn mạnh việc thực hành dân chủ, mà trước hết là dân chủ:
-A. Trong nhân dân
-B. Trong nội bộ Đảng
-C. Trong Nhà nước
-D. Trong giai cấp công nhân
-@@@B###
-Trong di chúc Hồ Chí Minh viết rằng
-A. Đảng phải có kế hoạch tốt để phát triển kinh tế, văn hóa
-B. Đảng phải có kế hoạch tốt để phát triển kinh tế, chính trị
-C. Đảng phải có kế hoạch tốt để phát triển kinh tế, xã hội
-D. Đảng phải có lộ trình để phát triển các vấn đề xã hội cần thiết
-@@@A
-(Kiểu hỏi khác: Đầu là câu trà lời chính xác nhất trong tác phẩm Di Chúc của Chủ tịch Hồ Chí Minh?)###
-Theo tư tưởng Hồ Chí Minh, Đảng Cộng Sản Việt Nam là Đảng cầm quyền, vì vậy, mỗi cán bộ đảng viên cần phải:
-a. Hết lòng phục vụ giai cấp công nhân
-b. Ra sức học tập, trau dồi chuyên môn, trình độ
-c. Thực hiện thấm nhuần đạo đức cách mạng, cần, kiệm, liêm, chính, chí công vô tư
-d. Xây dựng khối đại đoàn kết dân tộc
-@@@c###
-Điểm khác nhau trong tư tưởng và xây dựng nhà nước của Hồ Chí Minh và tiền nhân trong lịch sử
-A. Con đường cứu nước
-B. Phương pháp cứu nước
-C. Tinh thần yêu nước.
-D. Tất cả phương án tiến
-@@@A###
-Theo Hồ Chí Minh, đoàn kết là điểm nào sau đây?
-A. Điểm mẹ
-B. Điểm quyết định
-C. Điểm thắng lợi
-D. Điểm ăn tiền
-@@@A###
-Chọn phương án đúng nhất theo tư tưởng Hồ Chí Minh. Chủ nghĩa thực dân là kẻ thù của(073-356-8678)
-A. Các dân tộc thuộc địa
+B. Nông dân
+C. Tư sản
+D. Chủ nô
+@@@A. Công nhân.
+###
+39. Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?
+A. Tuyên ngôn của Đảng Cộng sản
+B. Tình cảnh nước Anh
+C. Bộ Tư bản
+D. Góp phần phê phán triết học pháp quyền của Hêghen - Lời nói đầu
+@@@A. Tuyên ngôn của Đảng Cộng sản.
+###
+40. Bản chất dân chủ của Chế độ nước ta hiện nay được hiểu như thế nào?
+A. Chế độ ta là do nhân dân làm chủ, quyền lực thuộc về nhân dân
+B. Chế đó ta là do Đảng Cộng sản Việt Nam làm chủ, là đại diện ý chí, nguyện vọng của nhân dân
+C. Chế đó ta là do giai Cấp công nhân làm chủ, quyền lực thuộc về giai Cấp công nhân
+D. Chế đó ta là do Cá nhân làm chủ, được hiện thực hóa thông qua vai trò làm chủ duy nhất của Đảng Cộng sản Việt Nam
+@@@A. Chế độ ta là do nhân dân làm chủ, quyền lực thuộc về nhân dân.
+###
+41. Tiền đề kinh tế- xã hội dẫn tới sự sụp đổ không tránh khỏi của chủ nghĩa tư bản là:
+A. Sự phát triển về lực lượng sản xuất và sự trưởng thành của giai cấp công nhân
+B. Sự phát triển về quan hệ sản xuất và sự trưởng thành của giai cấp công nhân
+C. Sự phát triển về lực lượng sản xuất và sự trưởng thành của giai cấp nông dân
+D. Sự phát triển về lực lượng sản xuất và sự trưởng thành của tầng lớp tri thức
+@@@A. Sự phát triển về lực lượng sản xuất và sự trưởng thành của giai cấp công nhân.
+###
+42. Điều kiện và tiền đề kinh tế - XH để xây dựng gia đình trong CNXH là gì?
+A. Xóa bỏ chế tư hữu, xác lập chế độ công hữu về tư liệu sản xuất.
+B. Phát triển kinh tế - XH
+C. Nhà nước XHCN ban hành và thực hiện luật hôn nhân và nâng cao trình độ văn hóa và dân trí cho mọi người dân
+D. Tất cả các đáp án đều đúng
+@@@A. Xóa bỏ chế độ tư hữu, xác lập chế độ công hữu về tư liệu sản xuất.
+Câu hỏi chỉ hỏi điều kiện, tiền đề kinh tế - xã hội. Phương án C thuộc cơ sở chính trị, pháp lý và văn hóa nên không chọn “tất cả các đáp án đều đúng”.
+###
+43. Ai đã khẳng định: "Từ khi bộ Tư bản ra đời... quan niệm duy vật lịch sử không còn là một giả thuyết của, ma là một nguyên lý đã được chứng minh một cách khoa học?
+A. V.I.Lênin
+B. Các Mác
+C. Ph.Ăngghen
+D. S.Phuriê
+@@@A. V.I.Lênin.
+###
+44. Phát hiện ra sự phân chia xã hội thành giai cấp và đấu tranh giai cấp là công lao của ai?
+A. Các Mác
+B. V.I. Lênin
+C. Ph.Ăng ghen
+D. Các nhà sử học tư sản trước Mác
+@@@D. Các nhà sử học tư sản trước Mác.
+###
+45. Để tạo sức mạnh tổng hợp đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa thì cần phải có sự lãnh đạo của tổ chức nào?
+A. Công đoàn
+B. Đảng Cộng sản
+C. Hội Thanh niên
+D. Đoàn Thanh niên Cộng sản Hồ Chí Minh
+@@@B. Đảng Cộng sản.
+###
+46. Hành vi nào dưới đây được cho là lợi dụng tín ngưỡng, tôn giáo mà Nhà nước Việt Nam nghiêm cấm?(Chọn 3)
+A. Hoạt động mê tín dị đoan
+B. Lợi dụng giáo dân và tôn giáo để hoạt động trái pháp luật và chính sách của Nhà nước
+C. Kích động chia rẽ nhân dân, chia rẽ dân tộc, gây rối, xâm phạm an ninh quốc gia
+D. Kêu gọi sự giúp đỡ từ tổ chức tôn giáo quốc tế đối với các tôn giáo du nhập từ bên ngoài
+@@@B. Lợi dụng giáo dân và tôn giáo để hoạt động trái pháp luật và chính sách của Nhà nước; C. Kích động chia rẽ nhân dân, chia rẽ dân tộc, gây rối, xâm phạm an ninh quốc gia.
+###
+47. Dân chủ xã hội chủ nghĩa chỉ có thể có và được duy trì với điều kiện tiên quyết là gì?
+A. Giai cấp công nhân phải nắm được quyền thống trị xã hội
+B. Bảo đảm vai trò lãnh đạo duy nhất của Đảng Cộng sản
+C. Thực hiện dân chủ rộng rãi đối với mọi giai cấp, tầng lớp
+D. Thực hiện đa nguyên chính trị
+@@@B. Bảo đảm vai trò lãnh đạo duy nhất của Đảng Cộng sản.
+###
+48. Gia đình Việt Nam hiện đại có mấy thế hệ cùng sống chung?
+A. 1
+B. 2
+C. 4
+D. 3
+@@@B. 2.
+###
+49. Sự kiện gì đánh dấu việc V.I.Lênin đã biến chủ nghĩa xã hội từ khoa học, lý luận thành hiện thực?
+A. Cách mạng tháng Mười Nga và sự ra đời của Nhà nước Xô - viết Nga 1917
+B. Sự ra đời của Liên Xô
+C. Sự chiến thắng của nước Nga trong giai đoạn nội chiến
+D. Tất cả các đáp án đều đúng
+@@@A. Cách mạng tháng Mười Nga và sự ra đời của Nhà nước Xô - viết Nga 1917.
+###
+50. Đâu là điều kiện tiên quyết để xây dựng nền dân chủ xã hội chủ nghĩa Việt Nam?
+A. Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh
+B. Xây dựng nhà nước pháp quyền xã hội chủ nghĩa của nhân dân, do nhân dân, vì nhân dân
+C. Xây dựng khối đại đoàn kết dân tộc
+D. Xây dựng nhà nước phát triển và hợp tác quốc tế tốt
+@@@A. Xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh.
+###
+51. Trong Văn kiện Đại hội đại biểu toàn quốc lần thứ IX, Đảng Cộng sản Việt Nam đã nêu rõ:
+(Kiểu hỏi khác: Đảng Cộng sản Việt Nam đã nêu rõ vấn để nào trong Văn kiện Đại hội đại biểu toàn quốc lần thứ XII?)
+A. Vấn đề dân tộc có vai trò quan trọng đối với sự nghiệp phát hiện kinh tế- xã hội ở nước ta hiện nay.
+B. Vấn đề dân tộc và đoàn kết các dân tộc luôn có vị trí chiến lược trong sự nghiệp cách mạng.
+C. Vấn đề dân tộc và đoàn kết các dân tộc có vị trí quyết định đến sự sống còn của dân tộc ta hiện nay.
+D. Vấn đề dân tộc và tăng cường khối đại đoàn kết toàn dân tộc là vấn đề chiến lược của Việt Nam hiện nay.
+@@@B. Vấn đề dân tộc và đoàn kết các dân tộc luôn có vị trí chiến lược trong sự nghiệp cách mạng.
+Lưu ý theo mốc văn kiện: hỏi Đại hội IX thì chọn B. Nếu đề đổi sang cách diễn đạt của Đại hội XII, cần đọc đúng nguyên văn vì phương án D có thể được dùng cho phiên bản câu hỏi đó.
+###
+52. Xây dựng gia đình Việt Nam hiện nay là xây dựng mô hình gia đình như thế nào?
+A. Hiện đại với tiến trình công nghiệp hóa, hiện đại hóa đất nước và hội nhập kinh tế quốc tế
+B. Hiện đại, phù hợp với tiến trình công nghiệp hóa, hiện đại hóa đất nước và hội nhập kinh tế quốc tế
+C. Phù hợp với tiến trình công nghiệp hóa, hiện đại hóa đất nước và hội nhập kinh tế quốc tế
+D. Hiện đại, phù hợp với tiến trình công nghiệp hóa đất nước và hội nhập kinh tế quốc tế
+@@@B. Hiện đại, phù hợp với tiến trình công nghiệp hóa, hiện đại hóa đất nước và hội nhập kinh tế quốc tế.
+###
+53. Dựa trên phương diện chính trị - xã hội, giai cấp công nhân được hiểu là:
+A. Là những người nông dân nghèo bị bóc lột sức lao động
+B. Là những người tri thức tham gia vào sản xuất
+C. Là sản phẩm xã hội của quá trình phát triển tư bản chủ nghĩa
+D. A và B đều đúng
+@@@C. Là sản phẩm xã hội của quá trình phát triển tư bản chủ nghĩa.
+###
+54. Các khẩu hiệu "sống có việc làm hay là chết trong đấu tranh" (1831) và "cộng hòa hay là chết (1834) xuất hiện trong phong trào đấu tranh của công nhân dệt ở Lion (Pháp) có ý nghĩa gì?
+A. Phong trào đấu tranh của giai cấp công nhân đã chuyển từ mục đích kinh tế sang mục đích chính trị
+B. Phong trào đấu tranh của giai cấp công nhân đã có lý luận soi đường
+C. Phong trào đấu tranh của giai cấp công nhân đã có những thắng lợi to lớn
+D. Phong trào đấu tranh của giai cấp công nhân chuyển từ tự phát sang tự giác
+@@@A. Phong trào đấu tranh của giai cấp công nhân đã chuyển từ mục đích kinh tế sang mục đích chính trị.
+###
+55. Vấn đề: "Tập hợp đồng bào theo tín ngưỡng, tôn giáo và đồng bào không theo tín ngưỡng, tôn giáo xây dựng khối đại đoàn kết toàn dân tộc, xây dựng và bảo vệ Tổ quốc" được đề cập trong Luật nào?
+A. Luật tín ngưỡng, tôn giáo
+B. Luật phòng, chống bạo lực gia đình
+C. Luật giáo dục
+D. Luật mê tín, tôn giáo
+@@@A. Luật tín ngưỡng, tôn giáo.
+###
+56. Mức độ tác động của gia đình đối với xã hội phụ thuộc vào yếu tố nào?(Chọn 3)
+A. Vào bản chất của từng chế độ xã hội
+B. Vào đường lối, chủ trương của giai Cấp cầm quyền
+C. Vào bản thân mô hình, kết cấu, đặc điểm của mới hình thức gia đình trong lịch sử
+D. Vào ý chí, nguyện vọng của các thành viên trong gia đình
+@@@B. Vào đường lối, chủ trương của giai Cấp cầm quyền; C. Vào bản thân mô hình, kết cấu, đặc điểm của mới hình thức gia đình trong lịch sử.
+###
+57. Sự ra đời của Đảng Cộng sản Việt Nam có tính đặc thù gì so với quy luật chung của sự ra đời các Đảng Cộng sản theo chủ nghĩa Mác - Lênin?
+A. Có sự kết hợp với phong trào yêu nước của dân tộc
+B. Có lãnh tụ xuất sắc
+C. Có sự ủng hộ của các Đảng Cộng sản khác
+D. Có sự liên kết với giai cấp nông dân
+@@@A. Có sự kết hợp với phong trào yêu nước của dân tộc.
+###
+58. Quan hệ nào được coi là quan hệ cơ bản nhất trong gia đình?
+A. Quan hệ hôn nhân và huyết thống
+B. Quan hệ quần tụ trong một không gian sinh tồn
+C. Quan hệ hôn nhân
+D. Quan hệ nuôi dưỡng
+@@@A. Quan hệ hôn nhân và huyết thống.
+###
+59. Thực chất của liên minh công - nông - tri thức ở nước ta Về nội dung kinh tế là gì?
+A. Là sự hợp tác giữa họ, đồng thời mở rộng liên kết với các lực lượng khác để xây dựng nền kinh tế mới xã hội chủ nghĩa hiện đại
+B. Là sự hợp tác giữa họ, đồng thời mô rộng liên kết với các lực lượng khác để xây dựng nền kinh tế thị trường tự do hiện đại
+C. Là sự hợp tác và đấu tranh giữa họ, đồng thời mở rộng liên kết và đấu tranh với các lực lượng khác để xây dựng nền kinh tế mới
+D. Là sự hợp tác giữa họ, đồng thời mở rộng liên kết với các lực lượng khác để xây dựng nền chính trị dân chủ
+@@@A. Là sự hợp tác giữa họ, đồng thời mở rộng liên kết với các lực lượng khác để xây dựng nền kinh tế mới xã hội chủ nghĩa hiện đại.
+###
+60. "Dân chủ quân sự" dùng để chỉ chế độ dân chủ nào?
+A. Chế độ cộng sản nguyên thủy
+B. Chế độ tư bản chủ nghĩa
+C. Chế độ phong kiến
+D. Chế độ chiếm hữu nô lệ
+@@@A. Chế độ cộng sản nguyên thủy.
+###
+61. Tôn giáo nào du nhập vào Việt Nam mà không chịu ảnh hưởng của bản sắc văn hóa Việt Nam?
+A. Phật giáo
+B. Công giáo
+C. Hồi giáo
+D. Không có
+@@@D. Không có.
+###
+62. Cơ sở chính trị - xã hội để xây dựng gia đình trong chủ nghĩa xã hội là gì?
+A. Tất cả các đáp án đều đúng
+B. Thiết lập chế độ công hữu về tư liệu sản xuất
+C. Xây dựng văn hóa xã hội chủ nghĩa
+D. Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa
+@@@D. Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa.
+###
+63. Giáo dục gia đình và giáo dục của xã hội có vị trí, vai trò như thế nào trong quá trình phát triển của mỗi cá nhân?
+A. Giáo dục gia đình đóng vai trò quyết định sự phát triển của cá nhân
+B. Giáo dục của xã hội đóng vai trò quyết định sự phát triển của cá nhân
+C. Giáo dục gia đình gắn liền với giáo dục của xã hội trong quá trình phát triển của mỗi cá nhân
+D. Giáo dục gia đình và giáo dục của xã hội chịu sự chi phối của quá trình nhận thức riêng biệt của mỗi cá nhân dựa trên tâm tư, tình cảm, tri thức chủ quan của cá nhân đó
+@@@C. Giáo dục gia đình gắn liền với giáo dục của xã hội trong quá trình phát triển của mỗi cá nhân.
+###
+64. Nền dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào?
+A. Giai cấp công nhân
+B. Giai cấp tư sản
+C. Giai cấp tiểu tư sản
+D. Giai cấp nông dân
+@@@A. Giai cấp công nhân.
+###
+65. Sứ mệnh của nhà nước xã hội chủ nghĩa là gì?
+A. Xây dựng thành công chủ nghĩa cộng sản, đưa tất cả các giai cấp, tầng lớp lên địa vị làm chủ trên tất cả các mặt của đời sống xã hội trong một xã hội phát triển cao - xã hội cộng sản chủ nghĩa
+B. Xây dựng thành công chủ nghĩa xã hội, đưa giai cấp công nhân lên địa vị thống trị trên tất cả các mặt của đời sống xã hội trong một xã hội phát triển cao - xã hội xã hội chủ nghĩa
+C. Xây dựng thành công chủ nghĩa xã hội, đưa nhân dân lao động lên địa vị làm chủ trên tất cả các mặt của đời sống xã hội trong một xã hội phát triển cao - xã hội xã hội chủ nghĩa
+D. Xây dựng thành công xã hội chủ nghĩa, đưa tất cả các giai cấp, tầng lớp lên địa vị
+@@@C. Xây dựng thành công chủ nghĩa xã hội, đưa nhân dân lao động lên địa vị làm chủ trên tất cả các mặt của đời sống xã hội trong một xã hội phát triển cao - xã hội xã hội chủ nghĩa.
+###
+66. Theo chủ nghĩa Mác - Lênin, tính chất chính trị của tôn giáo xuất hiện từ khi nào?
+A. Khi xã hội đã có phân chia giai cấp và đối kháng giai cấp
+B. Khi xã hội đã thủ tiêu được giai Cấp
+C. Khi loài người bước vào đêm trường trung cổ
+D. Khi chủ nghĩa Mác - Lênin ra đời
+@@@A. Khi xã hội đã có phân chia giai cấp và đối kháng giai cấp.
+###
+67. Nhằm xây dựng thành công chủ nghĩa xã hội, thì cơ cấu kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội cần vận động theo cơ chế nào?
+A. Cơ chế kinh tế
+B. Cơ chế quản lý
+C. Cơ chế định hướng xã hội chủ nghĩa
+D. Cơ chế thị trường
+@@@D. Cơ chế thị trường.
+###
+68. Theo chủ nghĩa Mác - Lênin, chủ nghĩa xã hội được hiểu là:
+A. Giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa
+B. Một hình thái kinh tế - xã hội
+C. Là một chế độ xã hội, trong đó sự thống trị của giai cấp công nhân được xác lập
+D. Là giai đoạn phát triển cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa
+@@@A. Giai đoạn đầu của hình thái kinh tế - xã hội cộng sản chủ nghĩa.
+###
+69. Cuộc đấu tranh của giai cấp vô sản chống lại nội dung gì của giai cấp tư sản?
+A. Chống lại sự thống trị, áp bức
+B. Chống lại chế độ độc tài
+C. Chống lại sự bóc lột
+D. Chống lại sự thống trị, độc tôn
+@@@A. Chống lại sự thống trị, áp bức.
+Về bản chất, đấu tranh của giai cấp vô sản chống cả sự thống trị, áp bức và bóc lột của giai cấp tư sản. Trong các lựa chọn hiện có, A bao quát hơn; phương án C chỉ nêu một mặt kinh tế.
+###
+70. Trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay, giai cấp, tầng lớp nào đang đóng góp tích cực vào việc thực hiện chiến lược phát triển kinh tế - xã hội, tạo việc làm cho người lao động?
+A. Giai cấp công nhân
+B. Giai cấp nông dân
+C. Tầng lớp trí thức
+D. Tầng lớp doanh nhân
+@@@D. Tầng lớp doanh nhân.
+###
+71. Cơ sở văn hóa để xây dựng gia đình trong chủ nghĩa xã hội là gì?
+A. Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa
+B. Thiết lập chế độ công hữu về tư liệu sản xuất
+C. Giá trị văn hóa được xây dựng trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân
+D. Tất cả các đáp án đều đúng
+@@@C. Giá trị văn hóa được xây dựng trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân.
+###
+72. Nội dung văn hóa - xã hội trong liên minh giai cấp, tầng lớp ở nước ta hiện nay đòi hỏi phải đảm bảo điều gì?
+A. Gắn tăng trưởng kinh tế với phát hiện văn hóa, phát triển con người và thực hiện tiến bộ, công bằng xã hội
+B. Gắn tăng trưởng kinh tế với độc lập, tự do, phát huy nguồn lực lãnh đạo của kinh tế tư nhân
+C. Thực hiện tăng trưởng kinh tế bằng mọi giá, tiến nhanh đến nền kinh tế thị trường hiện đại
+D. Tiếp thu toàn bộ các yếu tố văn hóa nhân loại trong tiến trình hội nhập và tăng trưởng kinh tế
+@@@A. Gắn tăng trưởng kinh tế với phát hiện văn hóa, phát triển con người và thực hiện tiến bộ, công bằng xã hội.
+###
+73. Dân chủ trong lĩnh vực nào là quan trọng hàng đầu và nổi bật nhất?
+A. Trong lĩnh vực kinh tế và chính trị
+B. Trong lĩnh vực văn hóa tinh thần và tư tưởng
+C. Trong lĩnh vực chính trị và tư tưởng
+D. Trong lĩnh vực kinh tế và tư tưởng
+@@@A. Trong lĩnh vực kinh tế và chính trị.
+###
+74. Trong giai đoạn hiện nay, lực lượng nào đi đầu trong sự nghiệp đẩy mạnh công nghiệp hóa, hiện đại hóa, gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên và môi trường?
+A. Công nhân tri thức
 B. Giai cấp công nhân
 C. Giai cấp nông dân
-D. Các dân tộc thuộc địa, giai cấp công nhân và nhân dân lao động toàn thế giới
-@@@D###
-Theo Hồ Chí Minh, đại đoàn kết dân tộc phải luôn được nhận thức là vấn đề sống còn, quyết định:
-A. Lực lượng của cách mạng.
-B. Thắng lợi của cách mạng.
-C. Thành bại của cách mạng.
-D. Đích đến của cách mạng
-@@@C###
-Theo Hồ Chí Minh, động lực chủ yếu để phát triển đất nước là gì?
-A. Sức mạnh đoàn kết của cả cộng đồng dân tộc
-B. Sức mạnh của cá nhân con người
-C. Sức mạnh thời đại
-D. Vai trò lãnh đạo của Đảng
-@@@A###
-Điền vào chỗ trống để hoàn thiện câu nói sau của Hồ Chí Minh:
-"Đối với nông dân, nông dân thật sự nắm (.........), nông dân phải được giải phóng.
-a. Ruộng đất
-b. Xí nghiệp, hầm mỏ
-c. Chính quyền
-d. Đảng
-@@@c###
-Theo Hồ Chí Minh, việc gì có hại cho dân dù nhỏ mấy cũng cố gắng:
-a. Làm
-b. Tránh
-c. Học
-d. Khắc phục
-@@@b###
-Hiến pháp năm 1959 đã tiếp tục khẳng định quan điểm gì trong tư tưởng Hồ Chí Minh?
-a. Bảo đảm dân quyền trong việc xác lập quyền lực của nhân dân.
-b. Bảo đảm dân chủ trong việc xác lập quyền lực của nhân dân.
-c. Bảo đảm dân chủ trong việc xác lập quyền lực của nhà nước.
-d. Bảo đảm dân quyền trong việc xác lập quyền lực của chính quyền.
-@@@b###
-Điền vào chỗ trống để hoàn thiện câu nói sau của Hồ Chí Minh:
-"Nước Việt Nam là một nước dân chủ cộng hoà, tất cả quyền bính trong nước là của toàn thể nhân dân Việt Nam, không phân biệt nòi giống, gái trai, giàu nghèo, giai cấp, tôn giáo; những việc quan hệ đến vận mệnh quốc gia sẽ đưa ra toàn (............) phúc quyết"
-a. Quốc
-b. Đảng
-c. Dân
-d. Quốc hội
-@@@c###
-Theo Hồ Chí Minh, ưu điểm lớn nhất của học thuyết Khổng Tử là gì?
-A. Tinh thần hiếu học.
-B. Quản lý xã hội bằng đạo đức.
-C. Sự tu dưỡng đạo đức cá nhân.
-@@@C###
-Cách mạng giải phóng dân tộc muốn thắng lợi phải:
-a. Có tổ chức đoàn thể lãnh đạo.
-b. Có Đảng của giai cấp công nhân lãnh đạo.
-c. Có một cá nhân xuất sắc lãnh đạo.
-d. Có một giai cấp lãnh đạo.
-@@@b###
-Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn thắng lợi phải do ai lãnh đạo?
-a. Đảng Cộng sản
-b. Giai cấp công nhân
-c. Giai cấp vô sản
-d. Đảng của giai cấp tư sản
-@@@a###
-Theo Hồ Chí Minh, phải kiên quyết khắc phục kịp thời các phản động lực trong con người và tổ chức. Đó là:
-A. Chủ nghĩa cá nhân.
-B. Chủ nghĩa vị kỷ
-C. Phong cách tiểu tư sản
-D. Phong cách tư sản
-@@@A###
-Đâu là sự sáng tạo của Hồ Chí Minh về chủ nghĩa xã hội ở Việt Nam
-a. Sáng tạo trong cách thức đi lên xây dựng chủ nghĩa xã hội
-b. Phương pháp bạo lực cách mạng
-c. Lựa chọn con đường đi lên xây dựng chủ nghĩa xã hội
-d. Phân tích đúng tình hình nước ta
-@@@a###
-Theo Hồ Chí Minh, để lãnh đạo Mặt trận, Đảng phải đi đúng đường lối quần chúng, không được: 
-A. Vận động, giáo dục, thuyết phục, nêu gương, lấy lòng chân thành để đối xử, cảm hóa, khơi gợi tinh thần tự giác, tự nguyện.
-B. Quan liêu, mệnh lệnh và gò ép.
-C. Lấy quyền uy để thuyết phục mọi người đi theo.
-@@@B###
-Hồ Chí Minh vạch ra mâu thuẫn cơ bản của cách mạng dân tộc thuộc địa là
-A. Nhân dân với thực dân, phong kiến
-B. Nhân dân với thực dân, địa chủ
-C. Nhân dân với thực dân, đế quốc
-@@@C###
-Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc vào thời gian nào?
-a. Khi Bác lên tàu từ bến Nhà Rồng năm 1911.
-b. Khi Bác tham gia sáng lập Đảng cộng sản Pháp tại Đại hội Tua 12/1920.
-c. Tại hội nghị Vécxay (Pháp) ngày 18/6/1919.
-d. Khi Bác sang Liên Xô làm việc ở Ban phương Đông của Quốc tế Cộng sản tháng 6/1923.
-@@@c###
-Quy luật ra đời của Đảng Cộng sản Việt Nam được Hồ Chí Minh vạch ra:
-A. Không khác với chủ nghĩa Mác-Lênin.
-B. Trái ngược với chủ nghĩa Mác-Lênin.
-C. Không liên quan đến chủ nghĩa Mác-Lênin.
-D. Bổ sung vào kho tàng lý luận của chủ nghĩa Mác - Lênin.
-@@@D###
-Nguyễn Ái Quốc đọc "Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa" của Lênin vào thời gian nào?
-a. 7/1917
-b. 7/1918
-c. 7/1919
-d. 7/1920
-@@@d###
-Văn hoá phương Tây nào sau đây ảnh hưởng đến sự hình thành tư tưởng Hồ Chí Minh trước khi người ra đi tìm đường cứu nước?
-a. Văn hoá dân chủ, tiến bộ của Đức
-b. Văn hoá dân chủ, tiến bộ của Pháp
-c. Văn hoá dân chủ, tiến bộ của Nga
-d. Văn hóa dân chủ, tiến bộ của Anh
-@@@b###
-Tư tưởng Hồ Chí Minh được hình thành và phát triển qua mấy giai đoạn?
-a. 3
-b. 4
-c. 5
-d. 6
-@@@c###
-Để chuẩn bị thành lập Đảng Cộng sản Việt Nam, Nguyễn Ái Quốc đã từ Liên Xô về Trung Quốc năm nào?
-a. 1925
-b. 1927
-c. 1923
-d. 1924
-@@@d###
-"Luận cương của V.I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao. Tôi vui mừng đến phát khóc lên. Ngồi một mình trong buồng mà tôi nói to lên như đang nói trước quần chúng đông đảo: hỡi đồng bào bị đọa đày đau khổ! Đây là cái cần thiết cho chúng ta, đây là con đường giải phóng chúng ta" Nguyễn Ái Quốc nói câu ấy khi đang ở đâu?
-A. Anh
+D. Tiểu tư sản
+@@@B. Giai cấp công nhân.
+###
+75. Sự biến đổi của cơ cấu xã hội nào sẽ tất yếu dẫn đến sự biến đổi của các cơ cấu xã hội khác và đồng thời làm biến đổi toàn bộ cơ cấu xã hội nói chung?
+A. Cơ cấu xã hội - chính trị
+B. Cơ cấu xã hội - giai cấp
+C. Cơ cấu xã hội - dân tộc
+D. Cơ cấu xã hội - kinh tế
+@@@B. Cơ cấu xã hội - giai cấp.
+###
+76. Việc thờ cúng các vị thần như: Bà Thiên Hậu, Quan Thánh Đế Quân, Na Tra, Thái Thượng Lão Quân trong cộng đồng người Hoa ở Việt Nam được gọi là gì?
+A. Tôn giáo
+B. Tín ngưỡng
+C. Mê tín
+D. Mê tín dị đoan
+@@@B. Tín ngưỡng.
+###
+77. Đại hội XII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2030 trên con đường xây dựng chủ nghĩa xã hội?
+A. Là nước đang phát triển, có thu nhập trung bình
+B. Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao
+C. Là nước phát triển, có thu nhập trung bình cao
+D. Là nước phát triển, có thu nhập cao
+@@@B. Là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao.
+###
+78. Đại hội XII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2025 trên con đường xây dựng chủ nghĩa xã hội?
+A. Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp
+B. Là nước phát triển, có công nghiệp hóa, hiện đại hóa cao, đạt mức thu nhập cao
+C. Là nước đang phát triển, có công nghiệp theo hướng hiện đại, đạt được mức thu nhập trung bình
+D. Là nước phát triển, có thành tựu khoa học - kỹ thuật hiện đại, phát triển nguồn lực nội sinh
+@@@A. Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp.
+###
+79. Đại hội XII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2045 trên con đường xây dựng chủ nghĩa xã hội?
+A. Trở thành nước phát triển, thu nhập cao
+B. Trở thành con rồng châu Á
+C. Trở thành nước phát triển thu nhập trung bình cao
+D. Trở thành nước phát triển, có kinh tế tri thức, thu nhập trung bình cao
+@@@A. Trở thành nước phát triển, thu nhập cao.
+###
+80. Trong giai đoạn 1843 -1844, C. Mác và Ph. Ăng ghen đã chuyển biến lập trường của mình như thế nào?( Chọn 2 Đáp án)
+A. Từ thế giới quan duy tâm sang thế giới quan duy vật
+B. Từ lập trường dân chủ cách mạng sang lập trường cộng sản chủ nghĩa
+C. Từ lập trường cách mạng dân chủ sáng lập trường dân tộc chủ nghĩa
+D. Từ phương pháp luận siêu hình sang phương pháp luận biện chứng
+@@@A. Từ thế giới quan duy tâm sang thế giới quan duy vật; B. Từ lập trường dân chủ cách mạng sang lập trường cộng sản chủ nghĩa.
+###
+81. Sự thống trị của giai cấp tư sản, đặc biệt của bộ phận tư sản công nghiệp là điều kiện ban đầu cho sự phát triển của giai cấp nào?
+A. Sự phát triển giai cấp tư sản
+B. Sự phát triển giai cấp chủ nô
+C. Sự phát triển giai cấp nông dân
+D. Sự phát triển giai cấp công nhân
+@@@D. Sự phát triển giai cấp công nhân.
+###
+82. Đâu là một trong những nội dung của mối quan hệ lớn trong xây dựng chủ nghĩa xã hội ở Việt Nam hiện nay?
+A. Giữa tăng trưởng kinh tế, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường sống
+B. Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, bảo vệ môi trường, y tế, giáo dục
+C. Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường
+D. Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội
+@@@C. Giữa tăng trưởng kinh tế và phát triển văn hóa, thực hiện tiến bộ, công bằng xã hội, bảo vệ môi trường.
+###
+83. Theo quan điểm của Đảng Cộng Sản Việt Nam, quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa, tức là:
+A. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa
+B. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất tư bản chủ nghĩa
+C. Bỏ qua việc xác lập vị trí thống trị của kiến trúc thượng tầng chủ nghĩa xã hội
+D. Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng chủ nghĩa xã hội
+84.1 Kiểu hỏi khác: Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bỏ qua chế độ gì?
+A. Phong kiến
+B. Tư bản chủ nghĩa
+C. Chiếm hữu nô lệ
+D. Cộng sản nguyên thủy
+@@@A. Phong kiến.
+###
+84. Chủ nghĩa xã hội có mấy đặc trưng bản chất?
+A. 4
+B. 5
+C. 6
+D. 7
+@@@C. 6.
+Lưu ý: số lượng đặc trưng có thể khác nếu đề dẫn từ văn kiện hoặc giáo trình khác. Với giáo trình Chủ nghĩa xã hội khoa học bản 2021 và cách hỏi về các đặc trưng bản chất, chọn 6.
+###
+85. Thuật ngữ "giai cấp công nhân" được các nhà kinh điển xác định theo bao nhiêu phương diện cơ bản?
+A. 2
+B. 3
+C. 4
+D. 5
+@@@A. 2.
+###
+86. Dân chủ xã hội chủ nghĩa có vai trò như thế nào đối với nhà nước xã hội chủ nghĩa?
+A. Dân chủ xã hội chủ nghĩa tạo ra cơ chế hạn chế quyền lực của nhà nước xã hội chủ nghĩa
+B. Dân chủ xã hội chủ nghĩa là nguyên nhân sinh ra nhà nước xã hội chủ nghĩa
+C. Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa
+D. Tất cả các đáp án đều đúng
+@@@C. Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước xã hội chủ nghĩa.
+###
+87. Trong quá trình giải quyết vấn đề tôn giáo, chúng ta cần phân biệt hai mặt nào của tôn giáo?
+A. Chính trị và pháp quyền
+B. Chính trị và tư tưởng
+C. Tư tưởng và văn hóa
+D. Giáo dục và tư tưởng
+@@@B. Chính trị và tư tưởng.
+###
+88. Giai cấp nào có sứ mệnh thủ tiêu chủ nghĩa tư bản, xây dựng thành công chủ nghĩa xã hội và chủ nghĩa cộng sản?
+a. Nông dân
+b. Tư sản
+c. Chủ nô
+d. Công nhân
+@@@D. Công nhân.
+###
+89. Một trong những hướng phát triển dân chủ mà Chủ tịch Hồ Chí Minh đã đề ra là
+A. Dân chủ là một giá trị nhân loại chung
+B. Dân chủ là người dân được tự do, hạnh phúc
+C. Dân chủ là phát triển đất nước Xã hội chủ nghĩa ở Việt Nam
+D. B và C đều đúng
+@@@D. B và C đều đúng.
+###
+90. Tại sao chủ nghĩa xã hội khoa học tập trung nghiên cứu cơ cấu xã hội - giai cấp mà không phải là các cơ cấu xã hội khác?
+A. Vì cơ cấu xã hội -giai cấp là cơ cấu phổ biến rộng rãi nhất
+B. Vì bản chất của chủ nghĩa xã hội là trấn áp giai Cấp
+C.Vì đó là một trong những cơ sở để nghiên cứu vấn đề liên minh giai cấp - tầng lớp trong một chế độ xã hội nhất định
+D. Vì đó là một trong những cơ sở để nghiên cứu văn đề phân chia quyền lực trong một Chế độ xã hội nhất định
+@@@C. Vì đó là một trong những cơ sở để nghiên cứu vấn đề liên minh giai cấp - tầng lớp trong một chế độ xã hội nhất định.
+###
+91. Theo V.I.Lênin: Thời kỳ quá độ ở nước Nga tồn tại bao nhiêu thành phần kinh tế?
+A. 3
+B. 4
+C. 5
+D. 6
+@@@C. 5.
+###
+92. Về phương diện chính trị - xã hội, giai cấp công nhân có vị trí như thế nào?
+A. Là những người nắm giữ tư liệu sản xuất của xã hội tư bản chủ nghĩa, tư tổ chức sản xuất kinh doanh lớn mà không hợp tác với giai cấp nào
+B. Là những người không có sở hữu tư liệu sản xuất chủ yếu của xã hội, phải bán sức lao động cho nhà tư bản và bị bóc lột giá trị thặng dư
+C. Là những người số hữu tư liệu sản xuất, hợp tác với nhà tư bản để kiếm sống
+D. Là những người có số hữu một số tư liệu sản xuất nhỏ, có thể tự sản xuất, nhưng nhỏ lẻ, để phá sản nên phải bán sức lao động cho nhà tư bản là chính
+@@@B. Là những người không có sở hữu tư liệu sản xuất chủ yếu của xã hội, phải bán sức lao động cho nhà tư bản và bị bóc lột giá trị thặng dư.
+###
+93. Đâu không phải là một chức năng của gia đình?
+A. Chức năng nghề nghiệp
+B. Chức năng nuôi dưỡng, giáo dục
+C. Chức năng kinh tế và tổ chức tiêu dùng
+D. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm
+@@@A. Chức năng nghề nghiệp.
+###
+94. Đặc điểm nào trong 06 đặc điểm dân tộc ở Việt Nam đã tạo điều kiện thuận lợi để các dân tộc tăng cường hiểu biết, mở rộng giao lưu, giúp đỡ nhau cùng phát triển?
+A. Có sự chênh lệch về dân số giữa các tộc người
+B. Dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở các địa bàn có vị trí chiến lược quan trọng
+C. Dân tộc ở Việt Nam có trình độ phát triển không đều
+D. Các dân tộc cư trú xen kẽ nhau
+@@@D. Các dân tộc cư trú xen kẽ nhau.
+###
+95. Trong giai đoạn hiện nay, Cách mạng công nghiệp lần thứ tư đang phát triển mạnh mẽ thì vai trò của lực lượng nào trong xã hội càng trở nên quan trọng?
+A. Công nhân
+B. Nông dân
+C. Trí thức
+D. Doanh nhân
+@@@C. Trí thức.
+###
+96. Điều kiện chủ quan đề giai cấp công nhân thực hiện sứ mệnh lịch sử của mình là gì?
+A. Sự phát triển của bản thân giai cấp công nhân về cả số lượng và chất lượng
+B. Phải có Đảng Cộng sản lãnh đạo
+C. Phải có sự liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác
+D. Tất cả các đáp án đều đúng
+@@@D. Tất cả các đáp án đều đúng.
+###
+97. Chế độ hôn nhân tiến bộ được đảm bảo trên nguyên tắc nào? (chọn 3)
+A. Hôn nhân tự nguyện
+B. Hôn nhân một vợ một chồng, vợ chồng bỉnh đảng
+C. Hôn nhân được đảm bảo về mặt pháp lý
+D. Hôn nhân được đảm bảo về mặt kinh tế
+@@@B. Hôn nhân một vợ một chồng, vợ chồng bỉnh đảng; C. Hôn nhân được đảm bảo về mặt pháp lý.
+###
+98. Ở nước ta, cư trú của các dân tộc có đặc trưng như thế nào?
+A. Mỗi dân tộc tập trung cư trú duy nhất trên một địa bàn, ngoại trừ dân tộc Kinh
+B. Các dân tộc cư trú xen kẽ nhau, không có một dân tộc nào tập trung duy nhất trên một địa bàn
+C. Các dân tộc phân bổ đồng đều
+D. Các dân tộc được phân chia lãnh thổ theo vị trí địa lý và đặc điểm ra đời, phát triển của dân tộc đó
+@@@B. Các dân tộc cư trú xen kẽ nhau, không có một dân tộc nào tập trung duy nhất trên một địa bàn.
+###
+99. Theo chủ nghĩa Mác - Lênin, để thực hiện được sứ mệnh lịch sử của mình, giai cấp công nhân phải thiết lập được sự liên minh với giai cấp, tầng lớp nào?
+a. Liên minh với giai cấp công nhân thế giới
+b. Liên minh với giai cấp nông dân và các tầng lớp lao động khác
+c. Liên minh với một bộ phận giai cấp tư sản tiến bộ
+d. Liên minh với giai cấp nông dân và tầng lớp tiểu tư sản
+@@@B. Liên minh với giai cấp nông dân và các tầng lớp lao động khác.
+###
+100. Ở Việt Nam, từ những năm 70 và 80 của thế kỉ XX, Nhà nước đã tuyên truyền, phổ biến và vận động, khuyến khích mỗi cặp vợ chồng có bao nhiêu con?
+A. Chỉ nên có từ 1 đến 2 con
+B. Có từ 4 con trở lên
+C. Có đủ 3 con
+D. Còn đông con càng tốt
+@@@A. Chỉ nên có từ 1 đến 2 con.
+###
+101. Cùng với sự phát triển của đại công nghiệp, các giai cấp khác đều suy tàn và tiêu vong, giai cấp nào là sản phẩm của bản thân nền đại công nghiệp?
+A. Nô lệ
+B. Tư sản
+C. Công nhân
+D. Nông dân
+@@@C. Công nhân.
+###
+102. Trong hệ thống chính sách xã hội của nước ta, các chính sách liên quan đến cơ cấu xã hội nào phải được đặt lên vị trí hàng đầu?
+A. Cơ cấu xã hội - giai cấp
+B. Cơ cấu xã hội - kinh tế
+C. Cơ cấu xã hội - nghề nghiệp
+D. Cơ cấu xã hội - dân tộc
+@@@A. Cơ cấu xã hội - giai cấp.
+###
+103. Theo nghĩa rộng, chủ nghĩa xã hội khoa học được hiểu là gì?
+A. Là một trong ba bộ phận hợp thành chủ nghĩa Mác - Lênin
+B. Là chủ nghĩa Mác - Lênin, luận giải từ các giác độ triết học, kinh tế học chính trị và chính trị xã hội về sự chuyển biến tất yếu của xã hội loài người từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản
+C. Là một học thuyết trình bày sự ra đời, phát triển và suy vong của chủ nghĩa tư bản
+D. Là một hình thái kinh tế - xã hội trong tiến trình lịch sử tự nhiên của loài người
+@@@B. Là chủ nghĩa Mác - Lênin, luận giải từ các giác độ triết học, kinh tế học chính trị và chính trị xã hội về sự chuyển biến tất yếu của xã hội loài người từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.
+###
+104. Nơi nào được xem là cộng đồng xã hội đầu tiên mà mỗi cá nhân sinh sống?
+A. Gia đình
+B. Trường học
+C. Quê hương
+D. Xã hội
+@@@A. Gia đình.
+###
+105. Ai đã khẳng định vấn đề sau: "Nước ta là nước dân chủ, địa vị cao nhất là dân, vì dân là chủ"?
+A. C.Mác
+B. V.I.Lênin
+C. Ph.Ăngghen
+D. Chủ tịch Hồ Chí Minh
+@@@D. Chủ tịch Hồ Chí Minh.
+###
+106. Ưu tiên đầu tư phát triển kinh tế - xã hội ở các vùng dân tộc và miền núi, trước hết, tập trung vào phát triển vấn đề gì?
+A. Giao thông và cơ sở hạ tầng, xóa đói giảm nghèo
+B. Cơ sở hạ tầng kỹ thuật, xóa đói giảm nghèo, y tế, giáo dục
+C. Giao thông và kiến trúc thượng tầng, xóa đói giảm nghèo
+D. Giao thông và cơ sở hạ tầng, y tế, giáo dục
+@@@A. Giao thông và cơ sở hạ tầng, xóa đói giảm nghèo.
+###
+107. Ở nước ta, nhân dân có quyền bầu ra những người đại diện cho mình để thực thi quyền làm chủ, đồng thời với quyền đó là quyền gì?
+a. Quyền giải tán hệ thống chính trị
+b. Quyền bãi miễn những đại biểu không xứng đáng
+c. Quyền tự mình tham gia trở thành đại biểu không qua bầu cử
+d. Quyền tự do ngôn luận
+@@@B. Quyền bãi miễn những đại biểu không xứng đáng.
+###
+108. Công tác tôn giáo ở nước ta hiện nay là trách nhiệm của ai?
+A. Của Đảng Cộng sản Việt Nam
+B. Của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam
+C. Của cả hệ thống chính trị
+D. Của quần chúng nhân dân
+@@@C. Của cả hệ thống chính trị.
+###
+109. Sự kiện gì được xem là cuộc cách mạng vô sản đầu tiên trên thế giới xóa bỏ được giai cấp tư sản và thiết lập chính quyền của giai cấp vô sản?
+A. Công xã Pari
+B. Phong trào Hiến chương Anh
+C. Cách mạng tháng Mười Nga
+D. Sự ra đời của Quốc tế I
+@@@C. Cách mạng tháng Mười Nga.
+###
+110. Ai đã đánh giá về chủ nghĩa của C. Mác là: "Học thuyết của Mác là học thuyết vạn năng vì nó là một học thuyết chính xác"?
+A. Tập Cận Bình
+B. Chủ tịch Hồ Chí Minh
+C. Ph.Ăngghen
+D. V.I.Lênin
+@@@D. V.I.Lênin.
+###
+111. Trong phạm vi một quốc gia, xu hướng nào thể hiện sự nỗ lực của từng dân tộc để đi tới sự tự do, bình đẳng và phồn vinh của dân tộc mình?
+A. Cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập
+B. Cộng đồng dân cư của một quốc gia thành lập cộng đồng dân tộc độc lập
+C. Cộng đồng xã hội muốn tách ra để phát triển đất nước
+D. Cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc
+@@@A. Cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập.
+###
+112. Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân là gì? (Chọn 2 đáp án )
+A. Là giai cấp có khả năng thống trị được toàn thể xã hội xây dựng xã hội mới
+B. Xuất thân từ giai cấp nông dân trong xã hội phong kiến cũ
+C. Địa vị chính trị - xã hội của giai cấp công nhân
+D. Địa vị kinh tế của giai cấp công nhân
+@@@C. Địa vị chính trị - xã hội của giai cấp công nhân; D. Địa vị kinh tế của giai cấp công nhân.
+###
+113. Khó khăn về xuất phát điểm của Việt Nam khi tiến vào thời kỳ quá độ lên chủ nghĩa xã hội là gì?
+a. Xuất phát từ một xã hội vốn là thuộc địa, nửa phong kiến, lực lượng sản xuất rất thấp, chiến tranh kéo dài, để lại nhiều tàn dư tiêu cực
+b. Xuất phát từ một xã hội phong kiến phát triển, trải qua thời kỳ thuộc địa nên bị đồng hóa nhiều về tư tưởng, văn hóa
+c. Xuất phát từ một xã hội phong kiến lạc hậu, trình độ lực lượng sản xuất nông nghiệp kém, được sử khai hóa của thực dân Pháp nhưng không có sự cải biến tốt hơn
+d. Xuất phát từ một nước công nghiệp phát hiện tiến lên chủ nghĩa xã hội
+@@@A. Xuất phát từ một xã hội vốn là thuộc địa, nửa phong kiến, lực lượng sản xuất rất thấp, chiến tranh kéo dài, để lại nhiều tàn dư tiêu cực.
+###
+114. Vấn đề: ... phải "bắc những nhịp cầu nhỏ" đi xuyên qua kinh tế tư bản để từng bước xây dựng Chủ nghĩa xã hội. Đồng thời, lưu ý "chúng ta phải hiểu những đường lối, thể thức, thủ đoạn và phương sách trung gian cần thiết để chuyển từ những quan hệ tiền tư bản chủ nghĩa lên chủ nghĩa xã hội. Đó là mẫu chốt của vấn đề. Thông qua vấn đề trên hãy cho biết VILênin muốn đề cập đến đó là hình thức cơ bản nào của thời kỳ quá độ lên chủ nghĩa xã hội?
+A. Trực tiếp
+B. Vừa trực tiếp vừa gián tiếp
+C. Gián tiếp
+D. Không trải qua
+@@@C. Gián tiếp.
+###
+115. Theo C.Mác và Ph.Ăngghen: "giai cấp tư sản không chỉ tạo ra vũ khí sẽ giết chết mình mà còn tạo ra những người sử dụng vũ khí đó ..." - những người đó là ai?
+A. Giai cấp công nhân hiện đại
+B. Giai cấp nông dân hiện đại
+C. Những nhà tư sản trí thức
+D. Tầng lớp trí thức
+@@@A. Giai cấp công nhân hiện đại.
+###
+116. Cho đến nay, kinh tế gia đình Việt Nam đã có bước chuyển biến mang tính bước ngoặt nào? ( chọn 2 đáp án)
+A. Từ kinh tế tự cấp, tự túc thành kinh tế hàng hóa
+B. Từ đơn vị kinh tế đáp ứng nhu cầu của thị trường quốc gia thành đơn vị kinh tế đáp ứng nhu cầu của thị trường toàn cầu
+C. Từ kinh tế hàng hóa thành kinh tế tự cấp, tự túc
+D. Từ kinh tế kế hoạch hóa tập trung sang kinh tế thị trường tự do
+@@@A. Từ kinh tế tự cấp, tự túc thành kinh tế hàng hóa; B. Từ đơn vị kinh tế đáp ứng nhu cầu của thị trường quốc gia thành đơn vị kinh tế đáp ứng nhu cầu của thị trường toàn cầu.
+###
+117. Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?
+A. Là những quy luật và tính quy luật chính trị -xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa
+B. Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội
+C. Là những quy luật và tính quy luật chính trị -xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội
+D. Tất Cả các đáp án đều đúng
+@@@A. Là những quy luật và tính quy luật chính trị -xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.
+###
+118. Chị B tuổi Dần quen với Anh A tuổi Hợi. Anh A đã dẫn chị B về nhà ra mắt gia đình để thảo luận về chuyện hôn nhân. Khi mẹ của Anh A biết chị B tuổi Dần, còn bản thân mình tuổi Tỵ, bà lập tức phán đoán về chuyện hôn sự. Bà cho rằng "khác tuổi", và nếu Anh A và Chị B kết hôn, gia đình sẽ gặp xui xẻo và chết. Đây được xem là mê tín (loại hình) nào sau đây?
+A. Tôn giáo
+B. Mê tín dị đoan
+C. Tín ngưỡng
+D. Mê tín
+@@@B. Mê tín dị đoan.
+###
+119. Chủ nghĩa xã hội khoa học ra đời dựa trên mấy tiền đề?
+A. 2
+B. 3
+C. 4
+D. 5
+@@@B. 3.
+###
+120. Sau Hội nghị Mátxcơva (1960), hoạt động lý luận và thực tiễn của Đảng Cộng sản và công nhân như thế nào?
+A. Tăng cường hơn trước
+B. Chỉ có công nhân phát triển
+C. Bị chủ nghĩa tư bản thủ tiêu
+D. Không phát triển
+@@@A. Tăng cường hơn trước.
+###
+121. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay tồn tại hình thức phân phối nào?
+A. Phân phối theo tiền lương
+B. Phân phối theo bao cấp
+C. Phân phối theo lao động, theo mức độ đóng góp và quỹ phúc lợi xã hội
+D. Phân phối theo tiền lương và phân phối theo nhu cầu
+122* (Kiểu hỏi khác:  Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay, hình thức phân phối nào giữ vai trò chủ đạo?
+A. Phân phối theo nhu cầu
+B. Phân phối theo lao động
+C. Phân phối theo bao cấp
+D. Phân phối quỹ phúc lợi xã hội )
+@@@C. Phân phối theo bao cấp.
+###
+122. Nền sản xuất đại công nghiệp và phương thức sản xuất tiên tiến đã rèn luyện giai cấp công nhân có những phẩm chất gì đặc biệt hơn các giai cấp khác?
+A. Tinh thần yêu thương. đùm bọc lẫn nhau
+B. Tính tổ chức. kỷ luật lao động. tinh thần hợp tác cao
+C. Phẩm chất cần cù. siêng năng và chịu khó
+D. Sự khổ luyện. kiên trì lao động vì tiền lương
+@@@B. Tính tổ chức. kỷ luật lao động. tinh thần hợp tác cao.
+###
+123. Dân chủ xã hội chủ nghĩa đã được phôi thai từ khi nào?
+A. Thực tiễn đấu tranh giai cấp ở Việt Nam
+B. Thực tiễn đấu tranh giai cấp ở Pháp và Công xã Pari năm 1871
+C. Thành công của cách mạng tháng 8 năm 1945
+D. Phong trào cách mạng 1930 -1931
+@@@B. Thực tiễn đấu tranh giai cấp ở Pháp và Công xã Pari năm 1871.
+###
+124. V.I.Lênin gọi thời kỳ quá độ lên chủ nghĩa xã hội là gì?
+A. "Cuộc đấu tranh giai cấp trong bối cảnh mới"
+B. "Quá trình gian nan. phức tạp"
+C. "Những cơn đau đẻ kéo dài"
+D. "Sự đảo lộn trật tự" sâu sắc"
+@@@C. "Những cơn đau đẻ kéo dài".
+###
+125. Nguyên tắc cơ bản của nền dân chủ xã hội chủ nghĩa là:
+A. Không ngừng mở rộng kiến trúc thượng tầng, nâng cao mức độ giải phóng cho những người lao động, thu hút họ tham gia tự giác vào công việc quản lý nhà nước, quản lý xã hội
+B. Không ngừng mở rộng kinh tế, nâng cao mức độ giải phóng cho những người thống trị, thu hút họ tham gia tự giác vào công việc quản lý nhà nước, quản lý xã hội
+C. Không ngừng mở rộng dân chủ, nâng cao mức độ giải phóng cho những người lao động,thu hút họ tham gia tự giác vào công việc quản lý nhà nước, quản lý xã hội
+D. Không ngừng mở rộng cơ sở hạ tầng, nâng cao mức độ giải phóng cho những người lao động, thu hút họ tham gia tự giác vào công việc quản lý nhà nước, quản lý
+@@@C. Không ngừng mở rộng dân chủ, nâng cao mức độ giải phóng cho những người lao động,thu hút họ tham gia tự giác vào công việc quản lý nhà nước, quản lý xã hội.
+###
+126. Đâu là căn cứ cơ bản để xây dựng chính sách phát triển kinh tế, văn hóa, xã hội của mỗi xã hội trong từng giai đoạn lịch sử cụ thể?
+A. Cơ cấu văn hóa, tư tưởng, giáo dục
+B. Cơ cấu tổ chức, quản lý và đào tạo
+C. Cơ cấu xã hội - giai cấp
+D. Cơ cấu kinh tế - xã hội
+@@@C. Cơ cấu xã hội - giai cấp.
+###
+127. Bản chất chính trị của dân chủ xã hội chủ nghĩa được thể hiện như thế nào?
+A. Thực hiện dân chủ đối với tất cả mọi người
+B. Nền dân chủ do Đảng Cộng sản là đảng duy nhất lãnh đạo, thực hiện quyền lợi và lợi ích của toàn thể nhân dân lao động
+C. Nền dân chủ do các đảng phái đối lập nhau cạnh tranh công bằng để nhận được sự tín nhiệm của mọi người
+D. Thực hiện nhất quân một nguyên tắc duy nhất là tập trung dân chủ
+@@@B. Nền dân chủ do Đảng Cộng sản là đảng duy nhất lãnh đạo, thực hiện quyền lợi và lợi ích của toàn thể nhân dân lao động.
+###
+128. Một trong ba phát kiến vĩ đại của C.Mác và Ph Ăngghen là gì?
+A. Ủng hộ nhân dân lao động
+B. A và B đều đúng
+C. Thành lập quốc tế cộng sản
+D. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân
+@@@D. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.
+###
+129. Ai đã đưa ra quan niệm "chủ nghĩa xã hội là sự phản kháng và đấu tranh chống sự bóc lột người lao động, mục tiêu cuộc đấu tranh nhằm hoàn toàn xóa bỏ sự bóc lột"?
+A. S.Phuriê
+B. V.l.Lênin
+C. C.Mác
+D. Ph.Ăngghen
+@@@B. V.l.Lênin.
+###
+130. Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là tạo ra sự biến đổi như thế nào của xã hội trên tất cả các lĩnh vực?
+A. Biến đổi về lượng
+B. Biến đổi về chất
+C. Khuynh hướng phát triển
+D. Thực hiện bước nhảy
+@@@B. Biến đổi về chất.
+###
+131. Về nội dung kinh tế, sứ mệnh lịch sử của giai cấp công nhân được thể hiện như thế nào?
+A. Giai cấp công nhân tạo tiền đề vật chất - kỹ thuật cho sự ra đời của xã hội mới
+B. Tất cả các đáp án đều đúng
+C. Giai cấp công nhân thực hiện tiến bộ và công bằng xã hội thông qua các nguyên tắc sở hữu. quản lý và phân phối phù hợp
+D. Giai cấp công nhân thiết lập một quan hệ sản xuất mới phù hợp với sự phát triển của lực lượng sản xuất
+Nếu không có Tất cả thì chọn D
+@@@D. Giai cấp công nhân thiết lập một quan hệ sản xuất mới phù hợp với sự phát triển của lực lượng sản xuất.
+###
+132. Nội dung cơ bản và trực tiếp để xây dựng gia đình ở Việt Nam hiện nay là gì?
+A. Phát triển kinh tế - xã hội
+B. Xây dựng gia đình no ấm, bình đẳng, tiến bộ và hạnh phúc
+C. Giải phóng người phụ nữ
+D. Nâng cao trình độ dân trí cho nhân dân lao động
+@@@B. Xây dựng gia đình no ấm, bình đẳng, tiến bộ và hạnh phúc.
+###
+133. Trong thời kỳ quá độ lên chủ nghĩa xã hội giai cấp tư sản có vị thế như thế nào?
+A. Đã bị đánh bại nhưng vẫn còn sức mạnh về kinh tế
+B. Đã tự thân mình chuyển biến thành giai cấp liên minh với giai cấp cách mạng
+C. Đã bị loại bỏ hoàn toàn
+D. Đã bị chuyển hóa thành giai cấp công nhân
+@@@A. Đã bị đánh bại nhưng vẫn còn sức mạnh về kinh tế.
+###
+134. Theo chủ nghĩa Mác - Lênin, quy luật chung, phố biển cho sự ra đời của Đảng Cộng sản là gì?
+A. Là sự kết hợp giữa phong trào công nhân với phong trào nông dân
+B. Là sự kết hợp giữa chủ nghĩa xã hội khoa học với phong trào công nhân
+C. Là sự kết hợp giữa chủ nghĩa xã hội khoa học và phong trào yêu nước
+D. Là sự kết hợp giữa phong trào công nhân và phong trào yêu nước
+@@@B. Là sự kết hợp giữa chủ nghĩa xã hội khoa học với phong trào công nhân.
+###
+135. Đại hội XI đã đề ra phương hướng phát triển nền kinh tế như thế nào trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam trong giai đoạn tới?
+a. Phát triển nền kinh tế thị trường xã hội chủ nghĩa
+b. Phát triển nền kinh tế thị trường hiệp đồng
+c. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa
+d. Phát triển nền kinh tế kế hoạch hóa tập trung
+@@@C. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.
+###
+136. Trong thời kỳ quá độ lên chủ nghĩa xã hội, các giai cấp và tầng lớp tồn tại như thế nào?
+A. Chỉ còn tồn tại giai cấp công nhân và các tầng lớp nhân dân lao động
+B. Tồn tại nhiều giai cấp. tầng lớp. mâu thuẫn. xung đột ngày càng gay gắt với nhau
+C. Không còn tồn tại giai cấp và đối kháng giai cấp
+D. Tồn tại nhiều giai cấp, tầng lớp, có sự khác biệt, vừa hợp tác, vừa đấu tranh với nhau
+@@@D. Tồn tại nhiều giai cấp, tầng lớp, có sự khác biệt, vừa hợp tác, vừa đấu tranh với nhau.
+###
+137. Làm thế nào để có thể tạo sự đồng thuận và phát huy tinh thần đoàn kết thống nhất giữa các lực lượng trong khối liên minh và toàn xã hội Việt Nam hiện nay?
+A. Xây dựng chủ trương, chính sách phù hợp, đúng dân, giải quyết hài hòa lợi ích của từng đã tượng liên minh cụ thể và đảm bảo lợi ích chung
+B. Mọi văn đề, mọi pháp luật khi đưa ra đều phải thông qua tất cả công dân để được ban hành, đảm bảo tính cũng thuận tuyệt đối
+C. Có chính sách gắn kết, ràng buộc lợi ích kinh tế giữa các giai Cấp, tầng lớp đã học thống nhất ký ích kinh tế với nhau, từ đó đồng thuận và đoàn kết trong mọi Vấn đề
+D. Tất cả đáp án đều đúng
+@@@A. Xây dựng chủ trương, chính sách phù hợp, đúng dân, giải quyết hài hòa lợi ích của từng đã tượng liên minh cụ thể và đảm bảo lợi ích chung.
+###
+138. Đâu không phải là một trong những chính sách đối với đội ngũ trí thức nhằm phát huy vai trò của tầng lớp này, trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay?
+A. Tôn trọng và phát huy tư do tư tưởng trong hoạt động nghiên cứu. sáng tạo
+B. Đảm bảo tư tưởng của giai cấp công nhân giữ vị trí chủ đạo trong hoạt động nghiên cứu, sáng tạo
+C. Trọng dụng trí thức trên cơ số đánh giá đúng phẩm chất, năng lực và kết quả công hiện
+D. Bảo Vệ quyền sở hữu trí tuệ, đãi ngộ và tôn Vinh xứng đáng những cống hiến của đội ngũ trí thức
+@@@B. Đảm bảo tư tưởng của giai cấp công nhân giữ vị trí chủ đạo trong hoạt động nghiên cứu, sáng tạo.
+###
+139. Với tư cách là một hình thái nhà nước, nền dân chủ nào là nền dân chủ của tất cả mọi người
+A. Dân chủ xã hội chủ nghĩa
+B. Dân chủ chủ nô
+C. Dân chủ tư sản
+D. Không có bất cứ nền dân chủ nào là của tất cả mọi người
+@@@D. Không có bất cứ nền dân chủ nào là của tất cả mọi người.
+###
+140. Nội dung cương lĩnh dân tộc của chủ nghĩa Mác — Lênin là:
+A. Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc lại.
+B. Các dân tộc đoàn kết, bình đẳng và liên hiệp công nhân tất cả các dân tộc lại.
+C. Các dân tộc có quyền tự quyết, các dân tộc có quyền bình đẳng, liên hiệp công nhân tất cả các dân tộc lại.
+D. Các dân tộc hoàn toàn bình đẳng, tự quyết và liên hiệp công nhân các nước.
+@@@A. Các dân tộc hoàn toàn bình đẳng, các dân tộc được quyền tự quyết, liên hiệp công nhân tất cả các dân tộc lại.
+###
+141. Chức năng cơ bản nào của gia đình được xem là chức năng đặc thù nhất?
+Kiểu hỏi khác (Trong 04 chức năng cơ bản của gia đình, thì chức năng nào được xem là chức năng đặc thủ của gia đình?)
+A. Chức năng nuôi dưỡng, giáo dục
+B. Chức năng kinh tế và tổ chức tiêu dùng
+C. Chức năng tái sản xuất ra con người
+D. Chức năng thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đinh
+@@@C. Chức năng tái sản xuất ra con người.
+###
+142. Chính sách dân tộc của nước ta về chính trị hướng tới đảm bảo đại đoàn kết toàn dân tộc thống nhất vì mục tiêu chung là gì?
+A. Lợi ích kinh tế
+B. Điều hòa mâu thuẫn giữa các dân tộc
+C. Dân giàu, nước mạnh, dân chủ, công bằng và văn minh
+D. Lợi ích thiết thân của từng dân tộc
+@@@C. Dân giàu, nước mạnh, dân chủ, công bằng và văn minh.
+###
+143. Dựa trên phương diện kinh tế - xã hội, giai cấp công nhân được hiểu là:
+A. Sản phẩm của nền sản xuất đại công nghiệp
+B. Chủ thể của nền sản xuất đại công nghiệp
+C. Là người mua sức lao động và đi bóc lột giá trị thặng dư
+D. A và B đều đúng
+@@@D. A và B đều đúng.
+###
+144. Sự biến đổi của cơ cấu xã hội - giai cấp tất yếu sẽ ảnh hưởng và tác động như thế nào đến toàn bộ cơ cấu xã hội?
+A. Tác động đến sự biến đổi của toàn bộ cơ cấu xã hội
+B. Ảnh hưởng đến sự biến đổi của các cơ cấu xã hội khác và tác động đến sự biến đổi của toàn bộ cơ cấu xã hội
+C. Ảnh hưởng đến sự phát triển và quản lý xã hội
+D. Ảnh hưởng đến sự biến đổi của các cơ cấu xã hội
+@@@B. Ảnh hưởng đến sự biến đổi của các cơ cấu xã hội khác và tác động đến sự biến đổi của toàn bộ cơ cấu xã hội.
+###
+145. Đảng Cộng sản Việt Nam chủ trương xây dựng chế độ dân chủ xã hội chủ nghĩa, mở rộng và phát huy quyền làm chủ của nhân dân dựa trên tư tưởng của ai?
+A. Ph Ăngghen.
+B. V.I.Lênin
+C. C.Mác
+D. Chủ tịch Hồ Chí Minh
+@@@D. Chủ tịch Hồ Chí Minh.
+###
+146. Chức năng tái sản xuất ra con người của gia đình nên được thực hiện theo xu hướng hạn chế hay khuyến khích?
+A. Tùy theo từng nơi, theo từng nhu cầu cụ thể của xã hội
+B. Cần khuyến khích phát triển để phát triển kinh tế
+C. Cần hạn chế để tránh dân số quá đông
+D. Không nên can thiệp, vì đây là chức năng tự nhiên. quyền tự do của mỗi gia đình
+@@@A. Tùy theo từng nơi, theo từng nhu cầu cụ thể của xã hội.
+###
+147. Phong trào công nhân ở Việt Nam vào thế kỉ XX cho thấy đặc trưng của giai cấp công nhân Việt Nam khác với giai cấp công nhân các nước tư bản như thế nào?
+a. Giai cấp công nhân Việt Nam chưa hăng hái trong các phong trào đấu tranh như công nhân các nước tư bản chủ nghĩa
+b. Giai cấp công nhân Việt Nam khi ra đời chưa có sự lãnh đạo kịp thời của Đảng Cộng sản như các nước tư bản chủ nghĩa
+c. Giai cấp công nhân Việt Nam thể hiện đặc tính cách mạng về ý thức giai cấp và cả về ý thức dân tộc
+d. Mâu thuẫn giữa giai cấp công nhân Việt Nam và giai cấp tư sản trong giai đoạn này chưa gay gắt như các nước tư bản chủ nghĩa
+@@@C. Giai cấp công nhân Việt Nam thể hiện đặc tính cách mạng về ý thức giai cấp và cả về ý thức dân tộc.
+###
+148. Theo chủ nghĩa Mác - Lênin, điều cần thiết trước hết để khắc phục dân các ảnh hưởng tiêu cực của tôn giáo là gì?
+A. Thực thi mệnh lệnh hành chính giảm bớt các tôn giáo
+B. Tuyên truyền chủ nghĩa Mác — Lênin
+C. Can thiệp vào công việc nội bộ của các tôn giáo
+D. Xác lập một thế giới hiện thực không có áp bức. bất công. nghèo đói và thất học...
+@@@D. Xác lập một thế giới hiện thực không có áp bức. bất công. nghèo đói và thất học.
+###
+149. Điền cụm từ thích hợp vào (...): "Tôn trọng, bảo đảm quyền tự do ... và không ... của nhân dân".
+a. Tôn giáo
+b. Tín ngưỡng
+c. Tín ngưỡng và tôn giáo
+d. Tôn giáo và tín ngưỡng
+@@@C. Tín ngưỡng và tôn giáo.
+###
+150. Tại sao nói dân chủ trong xã hội chiếm hữu nô lệ là dân chủ thiểu số?
+A. Vì số lượng con người thời đó rất ít
+B. Vì nội hàm của khái niệm "dân" chỉ bao gồm giai cấp chủ nô và một bộ phân nhỏ công dân tự do
+C. Vì sức tập trung lãnh thổ của các lãnh chúa nhỏ bé
+D. Vì quyền lực thực sự thuộc vào tay một lãnh chúa lớn nhất
+@@@B. Vì nội hàm của khái niệm "dân" chỉ bao gồm giai cấp chủ nô và một bộ phân nhỏ công dân tự do.
+###
+151. Quan hệ nào là quan hệ tự nhiên, là yếu tố mạnh mẽ nhất gắn kết các thành viên trong gia đình với nhau?
+A. Quan hệ nuôi dưỡng
+B. Quan hệ huyết thống
+C. Quan hệ kinh tế
+D. Quan hệ hôn nhân
+@@@B. Quan hệ huyết thống.
+###
+152. Quan hệ dân tộc và tôn giáo ở Việt Nam chịu sự chi phối mạnh mẽ bởi yếu tố nào?
+A. Yếu tố giai Cấp
+B. Yếu tố quản lý của Nhà nước
+C. Yếu tố tín ngưỡng truyền thống
+D. Tất cả các đáp án đều đúng
+@@@D. Tất cả các đáp án đều đúng.
+###
+153. Đâu là một phương hướng trong việc phát huy vai trò của phụ nữ trong cơ cấu xã hội Việt Nam hiện nay?
+A. Có kế hoạch chăm sóc sức khỏe sinh sản, đảm bảo quyền tự do kế hoạch hóa gia đình của phụ nữ
+B. Tăng tỷ lệ phụ nữ tham gia vào các cấp ủy và bộ máy quản lý các cấp
+C. Có chính sách ưu đãi xã hội đối với nữ giới để đảm bảo quyền bình đẳng
+D. Tăng cường đội ngũ doanh nhân nữ giới
+@@@B. Tăng tỷ lệ phụ nữ tham gia vào các cấp ủy và bộ máy quản lý các cấp.
+###
+154. Quan hệ dân tộc và tôn giáo ở nước ta được thiết lập và củng cố trên cơ sở nào?
+A. Sự thống nhất quản lý của Đảng Cộng sản Việt Nam
+B. Sự thống nhất lợi ích kinh tế giữa các giai cấp
+C. Sự thống nhất trong cùng cộng đồng quốc gia - dân tộc
+D. Tất cả các đáp án đều đúng
+@@@C. Sự thống nhất trong cùng cộng đồng quốc gia - dân tộc.
+###
+155. Cần làm gì để tăng cường công tác giám sát, phản biện xã hội, phát huy quyền làm chủ của ta?
+a. Công khai hóa, pháp luật hóa chủ trương, chính sách của Đảng và Nhà nước
+b. Công khai hóa, minh bạch hóa, dân chủ hóa về thông tin, chủ trương, chính sách của Đảng và Nhà nước
+c. Công khai hóa, thực thi hóa chủ trương, chính sách của Đảng, Nhà nước và của cả hệ thống chính trị
+d. Triển khai mạnh mẽ, đồng bộ hóa hệ thống pháp luật
+@@@B. Công khai hóa, minh bạch hóa, dân chủ hóa về thông tin, chủ trương, chính sách của Đảng và Nhà nước.
+###
+156. Theo quan điểm của chủ nghĩa Mác - Lênin, loài người đã trải qua các hình thức cộng đồng từ thấp đến cao theo thứ tự là
+A. Thị tộc, bộ lạc, bộ tộc và dân tộc
+B. Bộ tộc, bộ lạc, thị tộc và dân tộc
+C. Dân tộc, thị tộc, bộ lạc và bộ tộc
+D. Bộ lạc, bộ tộc, thị tộc và dân tộc
+@@@A. Thị tộc, bộ lạc, bộ tộc và dân tộc.
+###
+157. Câu nói sau do ai khẳng định: "Nếu không giải phóng phụ nữ là xây dựng chủ nghĩa xã hội chỉ một nửa" là của ai?
+A. V.I.Lênin
+B. C.Mác
+C. Chủ tịch Hồ Chí Minh
+D. Ph.Ăngghen
+@@@C. Chủ tịch Hồ Chí Minh.
+###
+158. Trong các nền dân chủ đã và đang tồn tại trong lịch sử loài người, thì nền dân chủ nào là nền dân chủ phát triển cao nhất về chất?
+A. Dân chủ xã hội chủ nghĩa
+B. Dân chủ cộng sản chủ nghĩa
+C. Dân chủ tư sản
+D. Dân chủ chủ nô
+@@@A. Dân chủ xã hội chủ nghĩa.
+###
+159. Nội dung cốt lõi của công tác tôn giáo ở nước ta hiện nay là gì?
+A. Công tác giáo dục chủ nghĩa duy vật biện chứng
+B. Công tác cảm hóa giáo dân
+C. Công tác vận động quần chúng
+D. Công tác điều hòa mâu thuẫn giữa các tôn giáo
+@@@C. Công tác vận động quần chúng.
+###
+160. Các tôn giáo ở nước ta có đặc điểm tồn tại như thể nào trong lòng quốc gia - dân tộc?
+A. Thống nhất dưới sự thống trị của Đảng Cộng sản Việt Nam
+B. Đa dạng, đan xen, đấu tranh với nhau để giành vị trí thống trị
+C. Đa dạng, đan xen, cạnh tranh với nhau
+D. Đa dạng, đan xen, chung sống hòa bình và không có xung đột, chiến tranh tôn giáo
+@@@D. Đa dạng, đan xen, chung sống hòa bình và không có xung đột, chiến tranh tôn giáo.
+###
+161. Quan hệ dân tộc và tôn giáo là gì?
+A. Là sự liên kết, tác động qua lại, chi phối lẫn nhau giữa dân tộc với tôn giáo trong nội bộ một quốc gia, hoặc giữa các quốc gia với nhau trong mọi lĩnh vực đời sống xã hội
+B. Là sự liên kết, tác động qua lại, chi phối lẫn nhau giữa dân tộc với tôn giáo trong nội bộ một quốc gia trong mọi lĩnh vực đời sống xã hội
+C. Là sự liên kết, tác động qua tại, chi phối lẫn nhau giữa dân tộc với tôn giáo giữa các quốc gia với nhau trong mọi lĩnh vực đời sống xã hội
+D. Là đấu tranh bài trừ lẫn nhau giữa dân tộc với tôn giáo trong nội bộ một quốc gia, hoặc giữa các quốc gia với nhau trong mọi lĩnh vực đời sống xã hội
+@@@A. Là sự liên kết, tác động qua lại, chi phối lẫn nhau giữa dân tộc với tôn giáo trong nội bộ một quốc gia, hoặc giữa các quốc gia với nhau trong mọi lĩnh vực đời sống xã hội.
+###
+162. Quy mô gia đình ở Việt Nam hiện nay tồn tại theo xu hướng nào?
+A. Thu nhỏ số lượng thành viên trong gia đình
+B. Mở rộng số lượng thành viên trong gia đình
+C. Liên kết các gia đình đơn
+D. Quy mô nhỏ ở nông thôn và quy mô lớn ở thành thị
+@@@A. Thu nhỏ số lượng thành viên trong gia đình.
+###
+163. Các yếu tố của chủ nghĩa xã hội xuất hiện
+A. Trong lòng xã hội chiếm hữu nô lệ
+B. Trong lòng xã hội tư bản
+C. Trong lòng xã hội phong kiến
+@@@B. Trong lòng xã hội tư bản.
+###
+164. Cuộc cải tổ xã hội chủ nghĩa diễn ra đầu tiên tại
+A. Liên Xô
+B. Việt Nam
+C. Trung Quốc
+@@@A. Liên Xô.
+###
+165. Theo chủ nghĩa Mác - Lênin, sự thay thế hình thái kinh tế - xã hội tư bản chủ nghĩa bằng hình thái kinh tế - xã hội cộng sản chủ nghĩa là:
+A. Một sự cải biến mang tính chất chủ quan
+B. Một bước ngoặt phát triển mới, đưa nhân loại thoát khỏi lối mòn cũ
+C. Một quá trình lịch sử - tự nhiên
+D. Một quá trình can thiệp của con người bằng ý chỉ nhằm cải biến lịch sử theo hướng nhân văn, tích cực hơn
+@@@C. Một quá trình lịch sử - tự nhiên.
+###
+166. Liên Xô và Đông Âu sụp đổ là do
+A. Bản chất của chủ nghĩa Mác- Lênin
+B. Vận dụng sai chủ nghĩa Mác- Lênin
+C. Sai lầm của chủ nghĩa Mác- Lênin
+@@@B. Vận dụng sai chủ nghĩa Mác- Lênin.
+###
+167. Theo C.Mác và Ph.Ăngghen, khi thực hiện cách mạng xã hội chủ nghĩa xóa bỏ được tình trạng người bóc lột người, giai cấp này bóc lột giai cấp khác thì có thể tiến tới xóa bỏ điều gì?
+a. Xóa bỏ tình trạng dân tộc này bóc lột dân tộc khác
+b. Xóa bỏ sự tồn tại của chế độ sở hữu tư nhân về công cụ lao động
+c. Xóa bỏ được tệ nạn xã hội
+d. Xóa bỏ được tôn giáo
+@@@A. Xóa bỏ tình trạng dân tộc này bóc lột dân tộc khác.
+###
+168. Cuộc cải cách và mở cửa diễn ra đầu tiên tại
+A. Liên Xô
+B. Đông Âu
+C. Trung Quốc
+@@@C. Trung Quốc.
+###
+169. Cách mạng xã hội chủ nghĩa muốn thành công phải bằng phương pháp
+A. Bạo lực
+B. Kinh tế
+C. Chính trị
+@@@A. Bạo lực.
+###
+170. Phát kiến nào của C.Mác và Ph.Ăngghen đã khắc phục triệt để được những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng Pháp?
+A. Chủ nghĩa duy vật lịch sử
+B. Chủ nghĩa duy vật biện chứng
+C. Học thuyết về giá trị thặng dư
+D. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân
+@@@D. Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.
+###
+171. Ở Việt Nam hiện nay, tổ chức nào đại diện cho quyền lợi, lợi ích hợp pháp và là nơi để giai cấp công nhân chủ động, tích cực tham gia xây dựng, chỉnh đốn Đảng, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ nhân dân?
+A. Hệ thống tổ chức Công đoàn
+B. Quốc hội
+C. Mặt trận Tổ quốc Việt Nam
+D. Hội đồng nhân dân các Cấp
+@@@A. Hệ thống tổ chức Công đoàn.
+###
+172. Mô hình kinh tế mới tại Liên Xô viết tắt là
+A. USR
+B. NEP
+C. CCCP
+@@@B. NEP.
+###
+173. Cuộc cách mạng xã hội chủ nghĩa đầu tiên trên thế giới là
+A. Cách mạng tháng Tám
+B. Cách mạng Tân Hợi
+C. Cách mạng tháng Mười Nga
+@@@C. Cách mạng tháng Mười Nga.
+###
+174. Cách mạng xã hội chân chính và triệt để phải
+A. Giải phóng loài người ra khỏi áp bức bóc lột
+B. Giải phóng xã hội ra khỏi áp bức bóc lột
+C. Giải phóng giai cấp công nhân ra khỏi áp bức bóc lột
+@@@A. Giải phóng loài người ra khỏi áp bức bóc lột.
+###
+175. Trích dẫn: "... các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản lại là sản phẩm của bản thân nền đại công nghiệp đó" được C.Mác Và Ph.Ăngghen đề cập trong tác phẩm nào?
+A. Tình cảnh công nhân Anh
+B. Bộ Tư bản
+C. Tuyên ngôn của Đảng Cộng sản
+D. Chống Đuyrinh
+@@@C. Tuyên ngôn của Đảng Cộng sản.
+###
+176. Sau khi lật đổ được sự thống trị của giai cấp thống trị, sứ mệnh lịch sử của giai cấp công nhân được tiếp tục thực hiện như thế nào?
+A. Thiết lập nhà nước kiểu mới, mang bản chất giai cấp công nhân
+B. Xây dựng nền dân chủ xã hội chủ nghĩa
+C. Thực hiện quyền lực, quyền làm chủ của tuyệt đại đa số nhân dân lao động
+D. Tiếp tục chiến đấu giải phóng giai cấp công nhân
+A(Câu trả lời khác: Nếu không có D chọn đáp án tất cả đều đúng)
+@@@A. Thiết lập nhà nước kiểu mới, mang bản chất giai cấp công nhân.
+###
+177. Về mặt thực tiễn, việc nghiên cứu chủ nghĩa xã hội khoa học có ý nghĩa gì?
+A. Thấy rõ khoảng cách giữa lý luận chủ nghĩa xã hội khoa học và thực tiễn vận dụng nó
+B. Sự sụp đổ của Liên Xô và Đông Âu là do đã nhận thức và hành động trên nhiều vấn đề trái Với chủ nghĩa xã hội khoa học, trải với chủ nghĩa Mác - Lênin chủ không phải là do đi theo chủ nghĩa xã hội khoa học làm cho các nước này khủng hoảng
+C. Cần có bản lĩnh vững vàng, sáng suốt và sáng tạo trong việc vận dụng chủ nghĩa xã hội khoa học và bối cảnh lịch sử cụ thể của từng quốc gia, tránh giáo điều, bảo thủ, duy ý chí.
+D. Tất cả các đáp án đều đúng
+@@@D. Tất cả các đáp án đều đúng.
+###
+178. Một bộ phận giai cấp công nhân đã tham gia vào sở hữu một lượng tư liệu sản xuất của xã hội thông qua chế độ cổ phần là một biểu hiện của xu hướng nào của giai cấp công nhân trong thời đại hiện nay?
+A. Xu hướng thỏa hiệp
+B. Xu hướng "trung lưu hóa"
+C. Xu hướng cải cách
+D. Xu hướng "trí tuệ hóa"
+@@@B. Xu hướng "trung lưu hóa".
+###
+179. *Công cuộc đổi mới xã hội chủ nghĩa diễn ra ở nước nào sau đây
+A. Cu Ba
 B. Trung Quốc
-C. Pháp
-@@@C###
-Giá trị đạo đức nào sau đây ảnh hưởng chủ yếu đến sự hình thành tư tưởng Hồ Chí Minh?
-a. Đạo đức Thiên chúa giáo
-b. Đạo đức Phật giáo
-c. Đạo đức Nho giáo
-@@@c###
-Nguyễn Ái Quốc đến Liên Xô lần đầu khi nào?
-a. 1921
-b. 1922
-c. 1923
-d. 1924
-@@@c###
-Hồ Chí Minh không thừa nhận bản thân mình là:
-a. Nhà khoa học
-b. Nhà thơ
-c. Nhà soạn nhac
-d. Nhà chính trị chuyên nghiệp
-@@@b###
-Nguyễn Tất Thành tham dự cuộc biểu tình chống thuế của nông dân tỉnh Thừa Thiên vào thời gian nào?
-a. 5/1905
-b. 5/1906
-c. 5/1908
-d. 6/1911
-@@@c###
-Nguồn gốc nào sau đây quyết định tư tưởng Hồ Chí Minh: 
-a. Tư tưởng Tam dân của Tôn Trung Sơn
-b. Tư tưởng của Khổng tử
-c. Tư tưởng của chủ nghĩa Mác-Lênin
-d. Tư tưởng của Giêsu
-@@@c###
-Người thầy giáo đầu tiên của Hồ Chí Minh là ai? 
-a. Vương Thúc Quý
-b. Phan Bội Châu
-c. Nguyễn Sinh Sắc
-d. Phan Châu Trình
-@@@c###
-Nguyễn Ái Quốc tham dự Đại hội Tua, tán thành Quốc tế 3, tham gia thành lập Đảng Cộng sản Pháp thời gian nào?
-a. 12/1921
-b. 12/1918
-c. 12/1919
-d. 12/1920
-@@@d###
-Theo Hồ Chí Minh, học chủ nghĩa Mác - Lênin nghĩa là gì?
-a. Học thuộc các luận điểm lý luận.
-b. Để sống với nhau có tình, có nghĩa.
-c. Để chứng tỏ trình độ lý luận.
-d. Tất cả các phương án.
-@@@b###
-Tư tưởng Hồ Chí Minh được hình thành trong bối cảnh nào?
-a. Chủ nghĩa tư bản đang trong giai đoạn tự do cạnh tranh.
-b. Chủ nghĩa tư bản từ giai đoạn tự do cạnh tranh sang giai đoạn độc quyền.
-c. Chủ nghĩa tư bản đang trong giai đoạn hình thành.
-d. Chủ nghĩa xã hội đang trong giai đoạn phát triển.
-@@@b###
-Một trong những quan điểm cơ bản nghiên cứu tư tưởng Hồ Chí Minh là: 
-a. Quan điểm đồng nhất
-b. Quan điểm lịch sử cụ thể
-c. Quan điểm cách mạng
-d. Quan điểm phát triển
-@@@b###
-Tư tưởng nào sau đây ảnh hưởng chủ yếu đến sự hình thành tư tưởng Hồ Chí Minh? 
-a. Đức hy sinh của Hồi giáo
-b. Đức hy sinh của Nho giáo
-c. Đức hy sinh của Ấn độ giáo
-d. Đức hy sinh của Thiên chúa giáo
-@@@b###
-Quan điểm nào sau đây thuộc về một trong những cơ sở phương pháp luận khi nghiên cứu tư tưởng Hồ Chí Minh?
-a. Quan điểm toàn diện và hệ thống
-b. Quan điểm khách quan và cụ thể
-c. Quan điểm cách mạng và khoa học
-d. Quan điểm toàn diện và cụ thể
-@@@a###
-Nguyễn Tất Thành ra đi tìm đường cứu nước tại bến cảng Nhà Rồng - Sài Gòn vào thời gian nào?
-a. 5/6/1911
-b. 6/5/1911
-c. 5/6/1910
-d. 6/5/1912
-@@@a###
-Một trong những tiền đề tư tưởng, lí luận dẫn đến sự hình thành tư tưởng Hồ Chí Minh là:
-a. Giá trị truyền thống dân tộc Việt Nam
-b. Giá trị văn hiến dân tộc Việt Nam
-c. Giá trị tư tưởng dân tộc Việt Nam
-d. Giá trị văn minh dân tộcViệt Nam
-@@@a###
-Một trong những nguyên tắc phương pháp luận khi nghiên cứu tư tưởng Hồ Chí Minh là:
-a. Kết hợp nghiên cứu các tác phẩm với thực tiễn chỉ đạo cách mạng của Hồ Chí Minh.
-b. Kết hợp nghiên cứu các tác phẩm với thực tiễn cách mạng thế giới.
-c. Kết hợp nghiên cứu các tác phẩm với thực tiễn cách mạng Việt Nam.
-d. Kết hợp thực tiễn cách mạng Việt Nam và cách mạng thế giới.
-@@@a###
-Một trong những truyền thống tốt đẹp của tư tưởng và văn hoá Việt Nam được Hồ Chí Minh tiếp thu để hình thành tư tưởng của mình là:
-a. Chủ nghĩa yêu nước Việt Nam.
-b. Những mặt tích cực của Nho Giáo
-c. Tư tưởng vị tha của Phật giáo
-d. Tư tưởng bác ái của Thiên Chúa Giáo.
-@@@a###
-Tháng 7 năm 1920, Hồ Chí Minh đọc ... của V.I.Lênin?
-a. Tác phẩm Làm gì.
-b. Sơ thảo lần thứ nhất Luận cương về các vấn đề dân tộc.
-c. Sơ thảo lần thứ nhất những Luận cương về các vấn đề dân tộc và vấn đề thuộc địa
-d. Tác phẩm Tuyên ngôn của Đảng Cộng sản
-@@@c###
-Vấn đề dân tộc trong tư tưởng Hồ Chí Minh trong thời đại cách mạng vô sản là vấn đề:
-a. Vấn đề dân tộc chủ nghĩa
-b. Vấn đề dân tộc thuộc địa
-c. Vấn đề dân tộc phương Đông
-d. Vấn đề dân tộc nói chung
-@@@b###
-Khi ở Pháp Hồ Chí Minh đã sử dụng vật dụng nào để sưởi ấm?
-a. Viên gạch
-b. Hòn đá
-c. Gối
-d. Lò sưởi
-@@@a###
-Mục đích chính để Hồ Chí Minh muốn ra nước ngoài là gì?
-A. Xem nước Pháp và các nước khác làm như thế nào, tôi sẽ trở về giúp đồng bào chúng ta.
-B. Xem nước Pháp và các nước khác học như thế nào, tôi sẽ trở về giúp đồng bào chúng ta.
-C. Xem nước Pháp và các nước khác văn minh như thế nào, tôi sẽ trở về giúp đồng bào chúng ta.
-D. Xem nước Pháp và các nước khác tiến bộ như thế
-@@@A###
-Theo Hồ Chí Minh đối tượng cơ bản của cách mạng thuộc địa là ai?
-A. Thực dân, tay sai phản động
-B. Thực dân, đế quốc
-C. Thực dân, tư sản
-D. Thực dân, phong kiến
-@@@A###
-Theo Hồ Chí Minh, giải quyết vấn đề dân tộc luôn gắn với vấn đề : 
-a. Xã hội
-b. Người lao động
-c. Giai cấp
-d. Nông dân
-@@@c###
-Các luận điểm sau đây đều thể hiện tư tưởng dựa vào sức mình là chính. Luận điểm nào không phải của Hồ Chí Minh? 
-a. Sự nghiệp giải phóng của giai cấp công nhân phải do bản thân giai cấp công nhân tự làm lấy.
-b. Công cuộc giải phóng các dân tộc thuộc địa chỉ có thể thực hiện được bằng sự nỗ lực của bản thân các dân tộc đó.
-c. Đem sức ta mà tự giải phóng cho ta.
-@@@a###
-Nguyễn Ái Quốc có tên là Hồ Chí Minh vào năm nào?
-a. Năm 1942
-b. Năm 1941
-c. Năm 1943
-d. Năm 1940
-@@@a###
-Hồ Chí Minh bị quân Tưởng Giới Thạch bắt năm nào?
-a. Năm 1944
-b. Năm 1942
-c. Năm 1941
-@@@b###
-Thực chất vấn đề dân tộc thuộc địa trong tư tưởng Hồ Chí Minh là:
-a. Thực hiện quyền tự quyết đối với tất cả các dân tộc.
-b. Đòi quyền tự do dân chủ tối thiểu cho nhân dân.
-c. Đấu tranh giải phóng các dân tộc thuộc địa khỏi sự áp bức, thống trị của nước ngoài, giành độc lập dân tộc, thành lập nhà nước dân tộc độc lập và đưa đất nước phát triển theo xu thế của t
-@@@c###
-Hồ Chí Minh hoạt động tại Thái Lan vào thời gian nào?
-a. 1933-1937
-b. 1930-1931
-c. 1932-1933
-d. 1928-1929
-@@@d###
-Một trong những nội dung cơ bản của bản Yêu sách gồm tám điểm của Nguyễn Ái Quốc gửi đến Hội nghị Vecxay (Pháp) là:
-A. Đòi quyền tự do dân chủ tối thiểu cho nhân dân.
-B. Đòi quyền tự trị của dân tộc.
-C. Đòi quyền độc lập dân tộc.
-D. Đòi quyền bình đẳng.
-@@@A###
-Hồ Chí Minh là người đấu tranh đòi quyền độc lập cho:
-A. Dân tộc Việt Nam .
-B. Các dân tộc thuộc địa ở phương Đông.
-C. Dân tộc Việt Nam và tất cả các dân tộc bị áp bức trên thế giới.
-D. Dân tộc thuộc địa ở Đông Dương.
-@@@C###
-Đâu là câu nói nổi tiếng của Hồ Chí Minh 
-a. Không có gì quý hơn độc lập tự do
-b. Hạnh phúc là đấu tranh
-c. Cách mạng là bạo lực
-@@@a###
-Theo Hồ Chí Minh
-a. Giữ vững độc lập của dân tộc mình đồng thời tôn trọng độc lập của các dân tộc khác
-b. Giữ vững độc lập của dân tộc mình đồng thời kính trọng độc lập của các dân tộc khác
-c. Giữ vững độc lập của dân tộc mình đồng thời tôn trọng tự do của các dân tộc khác
-d. Giữ vững độc lập của dân tộc mình đồng thời giữ vững độc lập của các dân tộc khác
-@@@a###
-Giải phóng dân tộc theo tư tưởng Hồ Chí Minh, xét về thực chất là:
-A. Đánh đổ ách áp bức, thống trị của đế quốc, thực dân giành độc lập dân tộc.
-B. Giành độc lập dân tộc, hình thành nhà nước dân tộc độc lập.
-C. Tự do lựa chọn con đường phát triển của dân tộc phù hợp với xu thế phát triển của thời đại.
-D. Giành được ruộng đất cho dân nghèo, đảm bảo đời sống nông dân ấm no
-@@@A
-(Chọn đáp án chọn tất cả nếu có)
-(Nếu hỏi: Đâu không phải là một ý nghĩa của giải phóng dân tộc theo Hồ Chí Minh? =&amp;gt; D)###
-Hồ Chí Minh đến Nga lần đầu tiên vào năm nào?
-A. Năm 1923
-B. Năm 1924
-C. Năm 1928
-D. Năm 1920
-@@@A###
-Theo Hồ Chí Minh
-A. Giải phóng dân tộc tạo tiền đề để giải phóng giai cấp
-B. Giải phóng dân tộc tạo tiền đề để giải phóng nhân loại
-C. Giải phóng dân tộc tạo tiền đề để giải phóng người lao động
-D. Giải phóng dân tộc tạo tiền đề để giải phóng xã hội
-@@@A###
-Bạo lực cách mạng theo tư tưởng Hồ Chí Minh là:
-a. Đấu tranh chính trị.
-b. Đấu tranh vũ trang.
-c. Kết hợp đấu tranh chính trị với đấu tranh vũ trang.
-d. Đấu tranh ngoại giao.
-@@@c###
-Hồ Chí Minh về nước lần đầu tiên vào năm nào?
-a. Cuối năm 1941
-b. Cuối năm 1942
-c. Cuối năm 1944
-d. Cuối năm 1911
-@@@a###
-Hồ Chí Minh cho rằng:
-a. Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của tất cả các dân tộc.
-b. Độc lập, tự do là tất yếu đối với các dân tộc.
-c. Độc lập, tự do là khát vọng thiêng liêng của mọi dân tộc.
-d. Độc lập, tự do là quyền thiêng liêng, bất khả xâm phạm của riêng dân tộc Việt Nam.
-@@@a###
-Nội dung cốt lõi của tư tưởng Hồ Chí Minh là:
-a. Độc lập dân tộc gắn liền với chủ nghĩa xã hội.
-b. Giải phóng giai cấp.
-c. Giải phóng dân tộc.
-d. Giải phóng con người.
-@@@a###
-Các lực lượng thực hiện giải phóng dân tộc, giải phóng giai cấp, giải phóng con người theo tư tưởng Hồ Chí Minh là:
-a. Đảng cộng sản.
-b. Khối đại đoàn kết dân tộc, đoàn kết toàn dân mà nòng cốt là liên minh công-nông-trí thức.
-c. Các lực lượng cách mạng thế giới.
-d. Tất cả các phương án.
-@@@d###
-Tư tưởng bạo lực cách mạng của Hồ Chí Minh gắn bó hữu cơ với: 
-a. Nhân văn, hòa bình
-b. Nhân đạo, hòa bình
-c. Tự do, hòa bình
-d. Dân chủ, hòa bình
-@@@b###
-Theo Hồ Chí Minh, cách mạng giải phóng dân tộc cần được tiến hành: 
-A. Chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc
-B. Chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng vô sản thế giới
-C. Chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng thuộc địa
-D. Chủ động, sáng tạo và có khả năng giành thắng lợi trước cách mạng tư sản ở chính quốc
-@@@A###
-Hồ Chí Minh ví trẻ em như
-a. Hoa trên cành
-b. Búp trên cành
-c. Lá non trên cành
-@@@b###
-Hồ Chí Minh trực tiếp chỉ huy chiến dịch nào sau đây trong kháng chiến chống Pháp?
-a. Chiến dịch Đông Xuân
-b. Chiến dịch Điện Biên Phủ
-c. Chiến dịch Biên giới
-@@@c###
-Trong tư tưởng Hồ Chí Minh, nhiệm vụ hàng đầu, trên hết, trước hết của cách mạng Việt Nam là :
-a. Giải phóng dân tộc.
-b. Giải phóng giai cấp.
-c. Giải phóng con người.
-d. Tất cả các phương án
-@@@a###
-Giải phóng con người theo tư tưởng Hồ Chí Minh là:
-a. Giải phóng con người với tư cách từng cá nhân
-b. Giải phóng con người với tư cách là cả loài người.
-c. Giải phóng con người với tư cách từng cá nhân và cả loài người.
-d. Giải phóng những người bị bóc lột.
-@@@c###
-Theo Hồ Chí Minh, nội dung cốt lõi của vấn đề dân tộc thuộc địa là gì?
-A. Tự do, dân chủ
-B. Độc lập, tự do
-C. Người cày có ruộng
-D. Quyền con người
-@@@B###
-Cách mạng giải phóng dân tộc là sự nghiệp đoàn kết của:
-a. Giai cấp công nhân.
-b. Giai cấp công nhân và nông dân
-c. Toàn dân, trên cơ sở liên minh công-nông.
-d. Công - nông - trí thức
-@@@c###
-Nội dung cốt lõi của vấn đề dân tộc thuộc địa được Hồ Chí Minh tiếp cận từ:
-a. Tự do dân chủ
-b. Quyền con người
-c. Khát vọng giải phóng dân tộc
-d. Chủ quyền dân tộc
-@@@b###
-Ai là người đầu tiên được Hồ Chí Minh phong hàm đại tướng?
-a. Võ Nguyên Giáp
-b. Nguyễn Sơn
-c. Nguyễn Chí Thanh
-@@@a###
-Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ ở nước ta là phải:
-a. Xây dựng nền tảng vật chất và kỹ thuật của chủ nghĩa xã hội.
-b. Cải tạo nền kinh tế cũ và xây dựng nền kinh tế mới.
-c. Tất cả các phương án.
-@@@c###
-Theo Hồ Chí Minh:
-a. Sự ra đời của CNXH ở Việt Nam là sản phẩm tất yếu của quá trình phát triển lịch sử, quá trình cách mạng Việt Nam.
-b. Sự ra đời của CNXH ở Việt Nam là sản phẩm tất yếu của quá trình phát triển lịch sử, quá trình cách mạng thế giới
-c. Sự ra đời của CNXH ở Việt Nam là sản phẩm tất yếu của quá trình phát triển lịch sử, quá trình cách mạng Đông Nam Á.
-@@@a
-(Kiểu hỏi khác: Hồ Chí Minh cho rằng: 
-A. Sự ra đời của CNXH trên phạm vi quốc tế là quy luật phát triển của lịch sữ xã hội 
-B. Sự ra đời của CNXH trên phạm vi quốc tế là quy luật phát triển của nhân loại 
-C. Sự ra đời của CNXH trên phạm vi quốc tế là quy luật phát triển của lịch sử thế giới)###
-Trong xây dựng chủ nghĩa xã hội, Hồ Chí Minh chủ trương đối xử với giai cấp tư sản dân tộc như thế nào?
-a. Xóa bỏ quyền sở hữu về tư liệu sản xuất của họ
-b. Không xóa bỏ quyền sở hữu tư liệu sản xuất của họ
-c. Đánh đổ họ với tư cách là giai cấp bóc lột
-d. Phát triển giai cấp này cả về số lượng và chất lượng
-@@@b###
-Quan điểm nào dưới đây thuộc về bản chất của CNXH trong tư tưởng Hồ Chí Minh?
-a. Có đạo đức, con người phát triển cao
-b. Có văn hóa, con người phát triển cao
-c. Có văn hóa, đạo đức phát triển cao
-@@@c###
-Theo Hồ Chí Minh, nền kinh tế mà chúng ta xây dựng phải được tạo lập trên cơ sở:
-a. Nền nông nghiệp hiện đại.
-b. Nền công nghiệp hiện đại.
-c. Khoa học kỹ thuật tiên tiến.
-d. Chế độ công hữu về tư liệu sản xuất.
-@@@d###
-Theo Hồ Chí Minh, trong thời kỳ quá độ còn tồn tại hình thức:
-A. Sở hữu của nhà nước và sở hữu của hợp tác xã.
-B. Sở hữu của người lao động riêng lẻ và sở hữu của nhà tư bản.
-C. Tất cả các phương án.
-@@@C###
-Con đường quá độ lên chủ nghĩa xã hội ở nước ta đươc Hồ Chí Minh vạch ra dựa trên: (073-356-8678)
-A. Chủ nghĩa Mác-Lênin.
-B. Chủ nghĩa dân chủ.
-C. Sự kết hợp giữa chủ nghĩa Mác-lênin với thực tế Việt Nam.
-D. Kết hợp giữa chủ nghĩa Tam dân và thực tế Việt Nam.
-@@@C###
-Theo Hồ Chí Minh, CNXH phải do:
-a. Nhân dân lao động làm chủ
-b. Giai cấp công nhân làm chủ
-c. Giai cấp nông dân làm chủ
-d. Công nhân - nông dân - trí thức làm chủ
-@@@a###
-Theo Hồ Chí Minh, con đường quá độ lên CNXH ở Việt Nam là:
-a. Quá độ trực tiếp.
-b. Quá độ gián tiếp.
-c. Quá độ kết hợp nhiều hình thức.
-d. Quá độ gián tiếp cụ thể.
-@@@d###
-Nội dung nào không đúng với tư tưởng Hồ Chí Minh, để xác định bước đi và tìm cách làm của chủ nghĩa xã hội phù hợp với Việt Nam cần phải:
-A. Theo bước đi của các nước xã hội chủ nghĩa, vừa làm vừa tìm kiếm mô hình phù hợp.
-B. Quán triệt các nguyên lý cơ bản của chủ nghĩa Mác-Lênin về xây dựng chế độ mới, có thể tham khảo, học tập kinh nghiệm của các nước anh em.
-@@@A###
-Quan điểm nào dưới đây thuộc về bản chất của CNXH trong tư tưởng Hồ Chí Minh?
-a. Chế độ chính trị do nhân dân làm chủ.
-b. Chế độ chính trị do nhân dân sáng tạo.
-c. Chế độ chính trị do nhà nước làm chủ.
-d. Chế độ chính trị do Đảng làm chủ.
-@@@a###
-Theo Hồ Chí Minh, nội dung nào không đúng để phát huy động lực con người?
-A. Phát huy sức mạnh đoàn kết của cả cộng đồng dân tộc
-B. Phát huy sức mạnh của cá nhân con người
-C. Phát huy các yếu tố chính trị, tinh thần
-D. Phát huy trí lực, tài lực và nhân lực của nhân dân
-@@@B###
-Quan điểm của Hồ Chí Minh là:
-a. Tiến lên chủ nghĩa xã hội là bước phát triển tất yếu đối với các nước phương Đông.
-b. Tiến lên chủ nghĩa xã hội là bước phát triển tất yếu của các nước đang phát triển.
-c. Tiến lên chủ nghĩa xã hội là bước phát triển tất yếu của các nước trên thế giới.
-d. Tiến lên chủ nghĩa xã hội là bước phát triển tất yếu ở Việt Nam sau khi nước nhà giành được độc lập theo con đường cách mạng vô sản.
-@@@d###
-Ham muốn tột bậc của Hồ Chí Minh là gì?
-a. Nước được độc lập
-b. Dân được tự do
-c. Đồng bào ai cũng có cơm ăn, áo mặc, được học hành
-d. Tất cả các phương án
-@@@d###
-Trong bản di chúc, Hồ Chí Minh có viết điều mong muốn cuối cùng là:
-a. Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh và góp phần xứng đáng vào sự nghiệp cách mạng thế giới.
-b. Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh và góp phần xứng đáng vào sự nghiệp cách mạng khu vực.
-c. Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh và góp phần xứng đáng vào sự nghiệp cách mạng chung.
-@@@a###
-Đâu là bản chất của CNXH trong tư tưởng Hồ Chí Minh?
-a. Có xã hội dân sự
-b. Có xã hội dân quyền
-c. Có nền chính trị dân chủ
-@@@c###
-Hồ Chí Minh cho rằng quá độ lên chủ nghĩa xã hội ở Việt Nam phải tiến hành:
-a. Dần dần, từng bước một
-b. Nhanh chóng, chính xác
-c. Cận thận, không chủ quan
-d. Tiến nhanh, tiến mạnh
-@@@a###
-Theo Hồ Chí Minh, động lực của CNXH gồm:
-a. Động lực tinh thần và bên ngoài.
-b. Động lực vật chất và bên trong.
-c. Động lực vật chất và tinh thần, nội sinh và ngoại sinh.
-d. Động lực tinh thần và nội sinh.
-@@@c###
-Theo Hồ Chí Minh nhân tố nào sau đây quyết định thành công của thời kỳ quá độ lên chủ nghĩa xã hội?
-a. Con người
-b. Văn hóa
-c. Xã hội
-d. Chính trị
-@@@a###
-Hồ Chí Minh cho rằng chủ nghĩa xã hội
-a. Phù hợp với các dân tộc phương Đông
-b. Phù hợp với các dân tộc phương Tây
-c. Phù hợp với các nước thuộc địa hơn các nước chính quốc
-@@@a###
-Theo quan điểm của Hồ Chí Minh, đặc điểm của thời kỳ quá độ ở Việt Nam là gì?
-A. Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn phát triển tư bản chủ nghĩa
-B. Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn phát triển xã hội dân chủ
-C. Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, không qua giai đoạn phát triển xã hội
-phong kiến
-D. Từ một nước nông nghiệp lạc hậu tiến thẳng lên chủ nghĩa xã hội, thông qua giai đoạn phát triển tư bản chủ nghĩa
-@@@A###
-Theo Hồ Chí Minh, trong thời kỳ quá độ, nền kinh tế phải ưu tiên là:
-A. Kinh tế hợp tác xã.
-B. Kinh tế tư bản tư nhân.
-C. Kinh tế thủ công và lao động riêng lẻ.
-D. Kinh tế quốc doanh.
-@@@D###
-Theo Hồ Chí Minh, cách mạng XHCN do:
-A. Đảng lãnh đạo
-B. Giai cấp công nhân lãnh đạo
-C. Tầng lớp trí thức lãnh đạo
-D. Công - nông - trí lãnh đạo
-@@@A
-(Kiểu hỏi khác: Theo Hồ Chí Minh, cách mạng xã hội chủ nghĩa phải tiến hành do ai lãnh đạo?
-A. Giai cấp nông dân và công nhân lãnh đạo
-B. Giai cấp công nhân lãnh đạo
-C. Tầng lớp trí thức lãnh đạo
-D. Giai cấp nông dân lãnh đạo)###
-Nội dung nào không có trong cách tiếp cận của Hồ Chí Minh về chủ nghĩa xã hội:
-a. Hồ Chí Minh tiếp cận chủ nghĩa xã hội trên phương diện kinh tế.
-b. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ khát vọng giải phóng dân tộc Việt Nam.
-c. Hồ Chí Minh tiếp cận chủ nghĩa xã hội trên phương diện đạo đức.
-d. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ văn hóa.
-@@@a###
-Theo Hồ Chí Minh, Đảng phải triệt để thực hành dân chủ, mà trước hết dân chủ trong:
-a. Nội bộ Đảng.
-b. Chính quyền.
-c. Nhân dân.
-@@@a###
-Quan điểm nào sau đây là tư cách Đảng viên theo tư tưởng Hồ Chí Minh?
-a. Đặt lợi ích của Đảng, của con người lên trên hết
-b. Đặt lợi ích của Đảng, của nhân dân lên trên hết
-c. Đặt lợi ích của Đảng, của đất nước lên trước hết
-@@@b###
-Theo Hồ Chí Minh, tập trung trong Đảng có nghĩa là thiểu số phục tùng đa số, cấp dưới phục tùng cấp trên, tất cả đảng viên chấp hành: 
-a. Vô điều kiện nghị quyết của Tổng bí thư.
-b. Vô điều kiện nghị quyết của Chủ tịch nước.
-c. Vô điều kiện nghị quyết của Đảng.
-d. Vô điều kiện nghị quyết của Quốc hội.
-@@@c###
-Theo Hồ Chí Minh, trong quá trình hoạt động, Đảng ta phải chủ ý học tập, kế thừa những kinh nghiệm tốt của các đảng cộng sản khác, đồng thời Đảng ta phải tổng kết kinh nghiệm của mình để:
-a. Bổ sung lý luận về Đảng Cộng sản cầm quyền
-b. Bổ sung tư duy của Đảng Cộng sản
-c. Bổ sung đường lối của Đảng Cộng sản
-d. Bổ sung chủ nghĩa Mác - Lênin.
-@@@a###
-Theo Hồ Chí Minh, một Đảng chân chính cách mạng phải có (...). (...) tạo nên uy tín, sức mạnh của Đảng, giúp Đảng đủ tư cách lãnh đạo, hướng dẫn quần chúng nhân dân.
-a. Đạo đức
-b. Lý luận
-c. Năng lực
-d. Tài năng
-@@@a###
-Bản chất giai cấp công nhân của Đảng Cộng sản Việt Nam thể hiện ở:
-a. Số lượng Đảng viên trong Đảng.
-b. Trình độ Đảng viên trong Đảng.
-c. Nền tảng lý luận, mục tiêu, đường lối, nguyên tắc tổ chức của Đảng.
-d. Tất cả các phương án.
-@@@c###
-Theo tư tưởng Hồ Chí Minh, Đảng phải thường xuyên tự đổi mới, tự chỉnh đốn về mặt:
-a. Chính trị, tư tưởng.
-b. Tư tưởng, tổ chức.
-c. Tổ chức, chính trị.
-d. Chính trị, tổ chức, tư tưởng.
-@@@d###
-Theo Hồ Chí Minh, người cán bộ phải có đủ đức và tài, phẩm chất và năng lực, trong đó:
-a. Đức là phẩm chất gốc.
-b. Tài là phẩm chất gốc.
-c. Năng lực là phẩm chất gốc.
-@@@a###
-Theo Hồ Chí Minh, việc vận dụng chủ nghĩa Mác - Lênin phải:
-a. Luôn phù hợp với từng đối tượng.
-b. Luôn luôn phù hợp với từng hoàn cảnh.
-c. Tất cả các phương án.
-@@@b###
-Theo Hồ Chí Minh, việc học tập, nghiên cứu, tuyên truyền chủ nghĩa Mác - Lênin phải:
-a. Luôn phù hợp với từng đối tượng.
-b. Luôn phù hợp với từng hoàn cảnh.
-c. Tất cả các phương án.
-@@@C###
-Hồ Chí Minh gọi đồng bào Miền nam với cái tên thân thương và trìu mến đó là
-a. Thành đồng tổ quốc
-b. Anh hùng bất khuất
-c. Anh dũng kiên cường
-d. Giai cấp cách mệnh
-@@@a###
-Theo Hồ Chí Minh, Muốn lãnh đạo được nhân dân lao động, trước hết Đảng phải có:
-a. Tư cách, phẩm chất, năng lực cần thiết.
-b. Quyền lực chính trị.
-c. Tiềm lực kinh tế.
-d. Chính quyền.
-@@@a###
-Hồ Chí Minh cho rằng cán bộ, đảng viên không được:
-a. Theo đuôi quần chúng
-b. Làm theo quần chúng
-c. Đi trước quần chúng
-d. Làm gương cho quần chúng
-@@@a###
-"Đường cách mệnh" là tác phẩm chính trị được Hồ Chí Minh viết tại nước nào sau đây:
-a. Pháp
-b. Trung Quốc
-c. Anh
-d. Liên Xô
-@@@b###
-Theo Hồ Chí Minh, công tác cán bộ là:
-a. Công tác gốc của chính quyền.
-b. Công tác của Đảng.
-c. Công tác gốc của Đảng.
-d. Công tác của chính quyền.
-@@@c###
-Một trong những nguyên tắc xây dựng Đảng của Hồ Chí Minh là:
-a. Tập thể lãnh đạo, quần chúng phụ trách.
-b. Tập thể lãnh đạo, cá nhân phụ trách.
-c. Tập thể lãnh đạo, đảng viên phụ trách.
-d. Cá nhân lãnh đạo, tập thể phụ trách.
-@@@b###
-"Lực lượng của giai cấp công nhân và nhân dân lao động là rất to lớn, là vô cùng vô tận. Nhưng lực lượng ấy cần có (....) mới chắc chắn thắng lợi"
-a. Chính quyền tổ chức
-b. Đảng lãnh đạo
-c. Nhà nước quản lý
-d. Đoàn thể lãnh đạo
-@@@b###
-Theo Hồ Chí Minh, quyền lực thuộc về nhân dân là bản chất, là nguyên tắc của chế độ mới, một khi xa rời nguyên tắc này, Đảng sẽ trở thành:
-a. Đối lập với nhà nước.
-b. Đối lập với nhân dân.
-c. Đối lập với chế độ.
-@@@b###
-Hồ Chí Minh cho rằng Cán bộ, Đảng viên phải lưu ý cái gì có hại cho dân dù nhỏ đến máy cũng phải
-a. Tránh
-b. Đề phòng
-c. Vượt qua
-@@@a###
-Hồ Chí Minh cho rằng:
-a. Do lời nói và việc làm, đảng viên, đoàn viên và cán bộ làm cho dân tin, dân phục, dân yêu
-b. Do hành động của đảng viên, đoàn viên và cán bộ làm cho dân tin, dân phục, dân yêu
-c. Do lời nói và việc làm, đảng viên, đoàn viên và cán bộ làm cho dân ấm no, hạnh phúc
-@@@a###
-Trong hệ thống các quan điểm của Hồ Chí Minh về Đảng Cộng sản, quan điểm nào không phải thật sự là sự sáng tạo riêng của Người góp phần cụ thể hóa và phát triển lý luận Mác - Lênin về Đảng Cộng sản?
-A.Mối quan hệ biện chứng giữa tính phổ biến và tính đặc thù của quy luật hình thành Đảng vô sản kiểu mới trong điều kiện từng nước.
-B. Quan điểm về sự thống nhất biện chứng giữa bản chất giai cấp công nhân với tính dân tộc và tính nhân dân của Đảng.
-C. Quan niệm về Đảng Cộng sản cầm quyền và các yếu tố bảo đảm vai trò cầm quyền của Đảng.
-D. Quan điểm về những vấn đề có tính nguyên tắc trong xây dựng Đảng Cộng sản Việt Nam trong sạch, vững mạnh.
-@@@D###
-Đối với Hồ Chí Minh, Đảng là "Đầy tớ trung thành" là để nhắc nhở và chỉ rõ vai trò, trách nhiệm của mỗi cán bộ, đảng viên trong mọi hoạt động của mình đều phải:
-a. Quan tâm thực sự đến sức khỏe của nhân dân.
-b. Quan tâm thực sự đến lợi ích của nhân dân.
-c. Quan tâm thực sự đến tinh thần của nhân dân.
-d. Quan tâm thực sự đến vật chất của nhân dân.
-@@@b###
-Hồ Chí Minh sử dụng bộ phận nào trong cơ thể con người để chỉ tầm quan trọng của đoàn kết trong đảng
-a. Con ngươi
-b. Bàn tay
-c. Trái tim
-d. Khối óc
-@@@a###
-Theo Hồ Chí Minh, đường lối chính trị là: 
-a. Một vấn đề cốt tử trong tồn tại và phát triển của Đảng.
-b. Một vấn đề không quan trọng trong tồn tại và phát triển của Đảng.
-c. Một vấn đề thứ yếu trong tồn tại và phát triển của Đảng.
-@@@a###
-Quy luật ra đời của Đảng Cộng sản Việt Nam được Hồ Chí Minh vạch ra: 
-a. Không phù hợp với tinh thần của chủ nghĩa Mác- Lênin
-b. Trái với tinh thần của chủ nghĩa Mác- Lênin
-c. Không trái với tinh thần của chủ nghĩa Mác- Lênin
-@@@c###
-Một trong những nguyên tắc xây dựng Đảng của Hồ Chí Minh là:
-a. Tập thể phê bình và tự phê bình
-b. Phê bình và tự phê bình
-c. Phê bình và tập thể phê bình
-d. Tự phê bình và cùng phê bình
-@@@B###
-Theo Hồ Chí Minh, dân chủ là tư tưởng phải được tự do. Tự do là đối với mọi vấn đề, mọi người tự do bày tỏ ý kiến của mình, góp phần tìm ra:
-a. Chân lý.
-b. Thực tiễn.
-c. Lý lẽ.
-d. Nguyên tắc.
-@@@A###
-Hồ Chí Minh ví công việc phê bình và tự phê bình như:
-a. Rửa mặt hằng ngày
-b. Ăn cơm hàng ngày
-c. Học tập hàng ngày
-d. Uống nước hàng ngày
-@@@A###
-Một trong những nguyên tắc xây dựng Đảng của Hồ Chí Minh là:
-a. Tập trung hợp tác
-b. Tập trung dân chủ
-c. Tập trung thống nhất
-d. Hợp tác dân chủ
-@@@b###
-Hồ Chí Minh nhận thức cán bộ là cái dây chuyền của bộ máy, là mắt khâu trung gian nối liền giữa: 
-a. Nhà nước với nhân dân.
-b. Đảng với dân.
-c. Đảng, Nhà nước với nhân dân.
-d. Đảng với Nhà nước.
-@@@c###
-Theo tư tưởng Hồ Chí Minh, nhân tố quyết định hàng đầu để đưa cách mạng Việt Nam đến thắng lợi là: 
-a. Đoàn kết dân tộc
-b. Đoàn kết giai cấp
-c. Kết hợp sức mạnh dân tộc với sức mạnh thời đại
-d. Phải có Đảng Cộng sản
-@@@d###
-"Muốn khỏi đi lạc phương hướng, (....) phải có Đảng lãnh đạo để nhận rõ tình hình, đường lối và định phương châm cho đúng"
-a. Quần chúng
-b. Nhân dân
-c. Dân tộc
-@@@a###
-Đại đoàn kết dân tộc được xác định là nhiệm vụ nào trong những nhiệm vụ dưới đây của Đảng và của toàn dân tộc ta?
-a. Cơ bản của Đảng và của dân tộc
-b. Hàng đầu của Đảng và của dân tộc
-c. Quan trọng của Đảng và của dân tộc ta
-d. Thiết yếu
-@@@b###
-Nguyên tắc tối cao để đoàn kết rộng rãi trong quần chúng nhân dân là:
-A. Yêu dân, tin dân, dựa vào dân, vì hạnh phúc của nhân dân
-B. Đoàn kết trên cơ sở độc lập tự chủ
-C. Đoàn kết chặt chẽ, chân thành
-D. Đoàn kết trên cơ sở tự nguyện
-@@@A###
-Theo Hồ Chí Minh, "Ai có tài, có đức, có sức, có lòng phụng sự Tổ quốc và phục vụ nhân dân thì ta (....) với họ".
-a. Hợp tác
-b. Đoàn kết
-c. Bắt tay
-d. Chia sẻ
-@@@b###
-Trong tư tưởng Hồ Chí Minh, mối quan hệ giữa Đảng và Mặt trận được xác định là mối quan hệ:
-a. Song song
-b. Máu thịt
-c. Biện chứng
-d. Độc lập
-@@@b###
-Theo Hồ Chí Minh, để thực hiện đoàn kết quốc tế thì đoàn kết (....) "là điều kiện quan trọng nhất để bảo đảm cho phong trào cộng sản và công nhân toàn thắng"
-a. Giữa các Đảng
-b. Giữa các chính phủ
-c. Giữa các dân tộc
-d. Tất cả các phương án
-@@@a###
-Hồ Chí Minh minh cho rằng "đoàn kết phải gắn với (....), (....) để tăng cường đoàn kết".
-a. Đấu tranh
-b. Lợi ích
-c. Tự do
-d. Dân chủ
-@@@a###
-Trong tư tưởng Hồ Chí Minh, nền tảng của khối đại đoàn kết dân tộc là:
-A. Liên minh công-nông
-B. Liên minh công-nông, lao động trí óc.
-C. Liên minh công-nông và các tầng lớp lao động khác.
-D. Liên minh công-nông và các lực lượng yêu nước khác.
-@@@B###
-Hồ Chí Minh chỉ ra nguyên tắc xây dựng mặt trận:
-A. Mặt trận phải hoạt động theo nguyên tắc hiệp thương dân chủ
-B. Mặt trận phải hoạt động theo nguyên tắc hiệp thương dân quyền
-C. Mặt trận phải hoạt động theo nguyên tắc hiệp thương quần chúng
-@@@A###
-Đâu là nguyên tắc đoàn kết quốc tế trong tư tưởng Hồ Chí Minh?
-a. Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình.
-b. Đoàn kết trên cơ sở thống nhất mục tiêu độc lập của dân tộc mình và mục tiêu của nhân loại
-c. Đoàn kết trên cơ sở thống nhất mục tiêu và mục đích, có lý, có tình.
-@@@a
-(Kiểu hỏi khác: Nội dung lớn trong xây dựng nguyên tắc đoàn kết quốc tế của Hồ Chí Minh là gì?
-A. Đoàn kết trên cơ sở thống nhất mục tiêu, và lợi ích có lý, có tình
-B. Đoàn kết trên cơ sở dân chủ
-C. Hợp tác quốc tế trên cơ sở giữ vững toàn vẹn lãnh thổ
-D. Kết hợp sức mạnh dân tộc và sức mạnh thời đại)###
-Khẩu hiệu chiến lược: "Giai cấp vô sản tất cả các nước và các dân tộc bị áp bức, đoàn kết lại" là của:
-A. C. Mác
-B. Ph. Ăngghen
-C. V.I.Lênin
-D. Hồ Chí Minh
-@@@C
-(Kiểu hỏi khác: Khẩu hiệu chiến lược: "Vô sản toàn thế giới và các dân tộc bị áp bức, đoàn kết lại" là của ai?)###
-Theo Hồ Chí Minh, xây dựng nhà nước trong sạch vững mạnh cần phải:
-a. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức cách mạng
-b. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức cán bộ
-c. Tăng cường tính nghiêm minh của pháp luật đi đôi với giáo dục đạo đức quần chúng
-@@@a###
-Đâu là quan điểm của Hồ Chí Minh về xây dựng nhà nước có hiệu lực pháp lý mạnh mẽ?
-A. Hoạt động quản lý nhà nước bằng Hiến pháp và pháp luật, chú trọng đưa pháp luật vào cuộc sống.
-B. Hoạt động quản lý nhà nước bằng quy định và đạo luật, chú trọng đưa quy định vào cuộc sống.
-C. Hoạt động quản lý nhà nước bằng Hiến pháp và sắc lệnh, chú trọng đưa sắc lệnh
-@@@A###
-Theo Hồ Chí Minh, nhà nước của dân là:
-a. Do nhân dân lập ra
-b. Do nhân dân lãnh đạo
-c. Do nhân dân quản lý
-d. Quyền lực của nhà nước và xã hội thuộc về nhân dân
-@@@d###
-Chọn phương án trả lời đúng nhất theo tư tưởng Hồ Chí Minh về bản chất của nhà nước Việt Nam?
-a. Mang bản chất giai cấp công nhân.
-b. Có tính dân tộc, tính nhân dân sâu sắc.
-c. Có sự thống nhất bản chất giai cấp công nhân với tính nhân dân và tính dân tộc.
-d. Mang tính dân tộc.
-@@@c###
-Theo Hồ Chí Minh, mọi người phải hiểu và tuyệt đối chấp hành pháp luật, bất kể người đó giữ cương vị nào. Vì thần linh pháp quyền là:
-a. Sức mạnh do thần linh và vì con người.
-b. Sức mạnh do con người và vì con người.
-c. Sức mạnh do con người và vì thần linh.
-@@@b###
-Quan điểm nào sau đây được xem là đánh giá của Hồ Chí Minh về giá trị của dân chủ:
-a. Dân chủ là của quý báu nhất của nhân dân
-b. Dân chủ là tài sản quý báu nhất của dân quyền
-c. Dân chủ là tài sản của mọi chế độ xã hội
-d. Dân chủ là tài sản vô giá của mọi xã hội không có sự phân chia giai cấp
-@@@a###
-Theo Hồ Chí Minh, dân làm chủ nghĩa là:
-a. Đề cập tới năng lực của dân
-b. Đề cập tới trách nhiệm của dân
-c. Tất cả các phương án
-@@@c###
-Theo Hồ Chí Minh, kỷ cương, phép nước thời nào cũng luôn được đề cao và phải được áp dụng cho tất cả mọi người. Từ đó Người đưa ra yêu cầu:
-a. Pháp luật phải thẳng tay trừng trị những kẻ bất liêm, bất kỳ kẻ ấy ở địa vị nào, làm nghề nghiệp gì.
-b. Phải cảm hoá những người có lỗi lầm, kéo họ đi với cách mạng, giáo dục những người mắc khuyết điểm để họ tránh phạm pháp.
-c. Tất cả các phương án.
-@@@c###
-Hồ Chí Minh cho rằng đạo đức cách mạng phải: 
-a. Tự mình tu dưỡng mà thành
-b. Tự mình phấn đấu mà thành
-c. Tự mình học tập mà thành
-@@@a###
-Hồ Chí Minh nói: "Đạo đức cũ như người đầu ngược xuống đất chân chổng lên trời. Đạo đức mới như người hai chân đứng vững được dưới đất, đầu: 
-a. ngửng lên trời".
-b. ngửa lên trời".
-c. chổng lên trời".
-@@@a###
-Trong tư tưởng Hồ Chí Minh: đức là gốc của tài hồng là gốc của chuyên phẩm chất là gốc của năng lực. Tài là thể hiện cụ thể của:
-a. Đức trong hiệu quả hành động.
-b. Năng lực trong hiệu quả hành động.
-c. Kỹ năng trong hiệu quả hành động.
-@@@a###
-Hồ Chí Minh đưa ra mấy điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc?
-a. Bốn
-b. Năm
-c. Sáu
-d. Ba
-@@@b###
-Trong tư tưởng Hồ Chí Minh, nhân dân được xác định vị trí như thế nào của cách mạng?
-A. Là mục tiêu của cách mạng
-B. Là động lực của cách mạng
-C. Vừa là mực tiêu vừa là động lực của cách mạng
-D. Là người bạn đường của cách mạng
-@@@C###
-Theo Hồ Chí Minh, văn nghệ (bao gồm văn học và nghệ thuật) là biểu hiện tập trung nhất của nền văn hóa, là đỉnh cao của đời sống tinh thần, là hình ảnh của:
-a. Trí tuệ dân tộc.
-b. Vật chất dân tộc .
-c. Tâm hồn dân tộc.
-@@@c###
-Theo Hồ Chí Minh: Trung với nước là tuyệt đối trung thành với sự nghiệp dựng nước và giữ nước, trung thành với con đường đi lên của đất nước là suốt đời phấn đấu cho:
-A. Đảng, cho cách mạng.
-B. Nhà nước, cho cách mạng.
-C. Dân tộc, cho cách mạng.
-D. Cách mạng, quần chúng
-@@@A###
-Theo Hồ Chí Minh, tính khoa học của nền văn hoá mới thể hiện ở tính hiện đại, tiên tiến, thuận với:
-A. Trào lưu tiến hoá của dân tộc.
-B. Trào lưu tiến hoá của thời đại.
-C. Trào lưu tiến hoá của khoa học kỹ thuật.
-@@@B###
-Theo Hồ Chí Minh, Cần là siêng năng, chăm chỉ lao động có kế hoạch, có hiệu quả, có năng suất cao với tinh thần:
-a. Tự lực cánh sinh.
-b. Chịu khó.
-c. Cầu thị.
-d. Nỗ lực.
-@@@a###
-Theo Hồ Chí Minh, con người luôn có xu hướng vươn lên cái Chân - Thiện - Mỹ, mặc dù:
-a. "có thế này, có thế khác".
-b. "có giàu, có nghèo".
-c. « có thiện, có ác ».
-d. « có sang, có hèn »
-@@@a###
-Theo Hồ Chí Minh, Hiếu với dân thể hiện ở chỗ thương dân, tin dân, phục vụ nhân dân hết lòng. Vì thế, phải gần dân, kính trọng và học tập nhân dân, phải dựa vào dân và lấy:
-a. dân làm gốc.
-b. dân làm chỗ dựa.
-c. dân làm điểm tựa.
-@@@a###
-Theo Hồ Chí Minh: "Trong bầu trời không gì quý bằng nhân dân, trong thế giới không gì mạnh bằng:
-a. lực lượng đoàn kết của nhân dân".
-b. lực lượng đoàn kết của nông dân".
-c. lực lượng đoàn kết của công nhân".
-@@@a###
-Hồ Chí Minh cho rằng: "Học để làm việc, (....) , làm cán bộ"
-a. Làm thầy
-b. Làm cách mạng
-c. Làm người
-d. Làm đầy tớ
-@@@c###
-Nội dung nào đúng về năm điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc theo tư tưởng Hồ Chí Minh?
-a. Xây dựng luân lý, tâm lý, xã hội, chính trị, kinh tế
-b. Xây dựng luân lý, tâm lý, xã hội, chính trị, luật pháp
-c. Xây dựng luân lý, tâm lý, xã hội, chính trị, khoa học
-@@@a###
-Đạo đức được Hồ chí Minh coi là gì của người cách mạng?
-a. Là sức mạnh của người cách mạng
-b. Là cái gốc của người cách mạng
-c. Là văn hóa của người cách mạng
-d. Tất cả các phương án
-@@@b###
-Hồ Chí Minh xác định trong thế giới không có gì mạnh bằng:
+C. Việt Nam
+@@@C. Việt Nam.
+###
+180. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, hình thức sở hữu và thành phần kinh tế nào tuy còn tồn tại nhưng không giữ vai trò chủ đạo?
+A. Sở hữu tư nhân tư bản chủ nghĩa và thành phần kinh tế tập thể
+B. Sở hữu tư nhân tư bản chủ nghĩa và thành phần kinh tế tư nhân tư bản chủ nghĩa
+C. Sở hữu tập thể và thành phần kinh tế tập thể
+D. Sở hữu hỗn hợp và thành phần kinh tế tư nhân tư bản chủ nghĩa
+@@@B. Sở hữu tư nhân tư bản chủ nghĩa và thành phần kinh tế tư nhân tư bản chủ nghĩa.
+###
+181. Vị trí của gia đình trong xã hội là:
+A. Gia đình là tổ ấm mang lại các giá trị hạnh phúc, sự hài hòa trong đời sống Cá nhân của mỗi thành viên
+B. Gia đình là cầu nối giữa cá nhân và xã hội
+C. Gia đình là tế bào của xã hội
+D. Tất Cả các đáp án đều đúng
+@@@D. Tất Cả các đáp án đều đúng.
+###
+182. Nội dung cơ bản, lâu dài tạo điều kiện cho liên minh giai cấp, tầng lớp phát triển bền vững ở nước ta là gì?(Chọn 3 đáp án)
+A. Nâng cao chất lượng nguồn nhân lực, xóa đói giảm nghèo
+B. Thực hiện tốt chính sách xã hội đối với các thành phần liên minh
+C. Chăm lo sức khỏe, nâng cao chất lượng sống, nâng cao dân trí cho mọi tầng lớp nhân dân
+D. Đảm bảo phân chia lợi ích kinh tế công bằng trong mô hình kinh tế thị trường tự do hiện đại
+@@@B. Thực hiện tốt chính sách xã hội đối với các thành phần liên minh; C. Chăm lo sức khỏe, nâng cao chất lượng sống, nâng cao dân trí cho mọi tầng lớp nhân dân.
+###
+183. Tôn giáo là một phạm trù lịch sử bởi vì:
+A. Là sản phẩm của con người
+B. Là do điều kiện kinh tế - xã hội sinh ra
+C. Tôn giáo ra đời, tồn tại và biến đổi trong một giai đoạn lịch sử nhất định của loài người
+D. Tôn giáo sẽ tồn tại và phát triển cùng Với sự phát triển của lịch sử nhân loại
+@@@C. Tôn giáo ra đời, tồn tại và biến đổi trong một giai đoạn lịch sử nhất định của loài người.
+###
+184. Đặc trưng cơ bản đầu tiên của chủ nghĩa xã hội là:
+A. Chủ nghĩa xã hội có nhà nước kiểu mới mang bản chất giai cấp công nhân, đại biểu cho lợi ích, quyền lực và ý chỉ của nhân dân lao động
+B. Chủ nghĩa xã hội là xã hội do nhân dân lao động làm chủ
+C. Chủ nghĩa xã hội có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu
+D. Chủ nghĩa xã hội giải phóng giai cấp, giải phóng dân tộc, giải phóng xã hội, giải phóng con người, tạo điều kiện để con người phát triển toàn diện
+@@@B. Chủ nghĩa xã hội là xã hội do nhân dân lao động làm chủ.
+###
+185. Sau khi chế độ xã hội chủ nghĩa Liên Xô và Đông Âu sụp đổ, chủ nghĩa xã hội khoa học được bổ sung và phát triển như thế nào?
+A. Được giới tri thức thế giới nghiên cứu như một học thuyết đã lỗi thời
+B. Được các nước xã hội chủ nghĩa bổ sung và phát triển trong tình hình mới, phù hợp với bối cảnh từng nước
+C. Các nước tư bản chủ nghĩa nghiên cứu chủ nghĩa xã hội khoa học như một học thuyết nhằm khắc phục các khuyết tật của thời đại mới
+D. Được dung hòa cùng với các học thuyết tư sản khác
+@@@B. Được các nước xã hội chủ nghĩa bổ sung và phát triển trong tình hình mới, phù hợp với bối cảnh từng nước.
+###
+186. Xu hướng phát triển cơ cấu xã hội - giai cấp ở Việt Nam trong thời kỳ quá độ mang tính đa dạng và thống nhất chủ yếu do yếu tố nào quyết định?
+a. Tất cả đều đúng
+b. Do sự mong muốn của giai cấp công nhân
+c. Do nền kinh tế nhiều thành phần
+d. Do trình độ phát triển không đồng đều
+@@@C. Do nền kinh tế nhiều thành phần.
+###
+187. C.Mác và Ph.Ăngghen đánh giá: "Giai cấp tư sản trong quá trình thống trị giai cấp chưa đầy một thế kỷ đã tạo ra một lực lượng sản xuất nhiều hơn và đồ sộ hơn lực lượng của tất cả các thế hệ trước đây gộp lại" trong tác phẩm nào?
+a. Chống Đuyrinh
+b. Lược khảo khoa kinh tế - chính trị
+c. Tuyên ngôn của Đảng Cộng sản
+d. Bộ Tư bản
+188* Kiểu hỏi khác: Vấn đề "Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những lực lượng sản xuất nhiều hơn và đồ số hơn lực lượng sản xuất của tất cả các thế hệ trước kia gộp lại" được C.Mác và Ph Ăngghen viết trong tác phẩm nào dưới đây ?
+A. Tuyên ngôn của Đảng Cộng sản
+B. Tư bản
+C. Góp phần phê phán triết học pháp quyền của Hêghen
+D. Gia đình thần thánh
+@@@C. Góp phần phê phán triết học pháp quyền của Hêghen.
+Câu trích dẫn nằm trong tác phẩm Tuyên ngôn của Đảng Cộng sản. Ở cách hỏi khác, phương án tương ứng là A.
+###
+188. Cơ cấu xã hội - giai cấp của nước ta trước thời kỳ đổi mới bao gồm các giai cấp, tầng lớp nào?(Chọn 3 đáp án)
+A. Đội ngũ đảng viên
+B. Đội ngũ trí thức
+C. Giai cấp công nhân
+D. Giai cấp nông dân
+@@@C. Giai cấp công nhân; D. Giai cấp nông dân.
+###
+189. Từ sau khi V.I.Lênin mất đến năm 1953, ai là người có ảnh hưởng trực tiếp trong việc vận dụng và phát triển chủ nghĩa xã hội khoa học?
+A. J.Stalin
+B. S.Phuriê
+C. G.Đi-mi-trốp
+D. S.Simon
+@@@A. J.Stalin.
+###
+190. Nhà nước xã hội chủ nghĩa ra đời là kết quả của:
+A. Cuộc cách mạng do giai cấp vô sản và nhân dân lao động tiến hành dưới sự lãnh đạo của Đảng Cộng sản
+B. Sự chuyển biến tích cực của nhà nước tư sản
+C. Cuộc cách mạng tư sản do giai Cấp tư sản và nhân dân lao động tiến hành dưới sự lãnh đạo của Đảng Cộng sản
+D. Cuộc cách mạng vô sản do giai Cấp nông nhân tiến hành
+@@@A. Cuộc cách mạng do giai cấp vô sản và nhân dân lao động tiến hành dưới sự lãnh đạo của Đảng Cộng sản.
+###
+191. Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định phương hướng đầu tiên, phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta là :
+A. Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường
+B. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa
+C. Xây dựng nền văn hoá tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân, thực hiện tiến bộ và công bằng xã hội
+D. Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội
+@@@A. Đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường.
+###
+192. Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định phương hướng thứ hai, phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta là:
+a. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa
+b. Xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc; xây dựng con người, nâng cao đời sống nhân dân, thực hiện tiến bộ và công bằng xã hội
+c. Bảo đảm vững chắc quốc phòng và an ninh quốc gia, trật tự, an toàn xã hội
+d. Thực hiện đường lối đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển; chủ động và tích cực hội nhập quốc tế
+@@@A. Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa.
+###
+193. Đại hội XI, trong Cương lĩnh xây dựng đất nước trong thời quá độ lên chủ nghĩa xã hội (Bổ sung và phát triển năm 2011) xác định bao nhiêu phương hướng phản ánh con đường đi lên chủ nghĩa xã hội ở nước ta?
+a. 5
+b. 6
+c. 7
+d. 8
+@@@D. 8.
+###
+194. Nền kinh tế thị trường phát triển mạnh với tính cạnh tranh cao, cộng với xu thế hội nhập ngày càng sâu rộng trong thời đại hiện nay đã làm cho các giai cấp, tầng lớp trong xã hội chuyển biến như thế nào?
+A. Làm cho các giai cấp, tầng lớp trở nên năng động, có khả năng thích ứng nhanh, chủ động và sáng tạo hơn
+B. Tất cả các đáp án đều đúng
+C. Làm thay đổi bản chất của các giai cấp cách mạng, chạy theo lợi nhuận mà đánh mất sứ mệnh lịch sử của mình
+D. Làm cho một bộ phận giai cấp công nhân, nông dân và trí thức không còn tin tưởng vào lý tưởng xã hội chủ nghĩa
+@@@A. Làm cho các giai cấp, tầng lớp trở nên năng động, có khả năng thích ứng nhanh, chủ động và sáng tạo hơn.
+###
+195. Xây dựng gia đình mới ở Việt Nam hiện nay cần phải kế thừa, phát huy truyền thống nào của gia đình truyền thống?
+a. Phong tục cưới hỏi
+b. Uy quyền tuyệt đối của người chồng
+c. Sự cố kết chặt chẽ giữa các thành viên
+d. Gia đình đông con
+@@@C. Sự cố kết chặt chẽ giữa các thành viên.
+###
+196. Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam coi yếu tố nào là chủ thể, là trung tâm của sự phát triển?
 a. Giai cấp công nhân
-b. Liên minh công - nông
-c. Lực lượng đoàn kết của nhân dân
-d. Sức mạnh đoàn kết quốc tế
-@@@c###
-Theo Hồ Chí Minh, để thực hiện chiến lược "trồng người", cần có nhiều biện pháp, nhưng biện pháp quan trọng bậc nhất là:
-a. Giáo dục - đào tạo
-b. Thuyết phục - nêu gương
-c. Cảm hóa - động viên
-d. Ép buộc - cưỡng chế
-@@@a###
-Đâu là nguyên tắc đoàn kết quốc tế trong tư tưởng Hồ Chí Minh?
-A. Đoàn kết trên cơ sở độc lập, tự chủ, tự lực, tự cường.
-B. Đoàn kết trên cơ sở dựa vào sức mình là chính, nhận sự giúp đỡ quốc tế.
-C. Đoàn kết trên cơ sở nhận sự giúp đỡ quốc tế và có nghĩa vụ quốc tế.
-D. Đoàn kết trên cơ sở kêu gọi sự giúp đỡ của các lực lượng tiến bộ trên thế giới
-@@@A###
-Theo Hồ Chí Minh, để quy tụ được mọi lực lượng vào khối đại đoàn kết toàn dân, cần phải có:
-a. Chính sách và phương pháp phù hợp.
-b. Lòng khoan dung rộng lớn.
-c. Tinh thần thương yêu con người.
-@@@a###
-Lực lượng chủ yếu của khối đại đoàn kết dân tộc theo tư tưởng Hồ Chí Minh là:
-a. Công nhân
-b. Công nhân, nông dân
-c. Học trò, nhà buôn
-d. Công nhân, nông dân, lao động trí óc.
-@@@d###
-Hồ Chí Minh cho rằng
-a. Đại đoàn kết là vấn đề chiến lược
-b. Đại đoàn kết là vấn đề sách lược
-c. Đại đoàn kết là vấn đề thời đại
-@@@a###
-Theo Hồ Chí Minh, để thực hành đoàn kết rộng rãi, cần có niềm tin vào (....).
-a. Dân
-b. Đảng
-c. Chính quyền
-@@@a###
-Theo Hồ Chí Minh, để lãnh đạo mặt trận, Đảng phải:
-A. Có chính sách mặt trận đúng đắn
-B. Có chính sách đoàn kết đúng đắn
-C. Có chính sách tập hợp đúng đắn
-@@@A###
-Mục đích chung của Mặt trận dân tộc thống nhất được Hồ Chí Minh xác định cụ thể phù hợp là:
-a. Đoàn kết chặt chẽ, lâu dài, thật sự, chân thành.
-b. Tất cả các phương án.
-c. Độc lập, tự do.
-@@@c###
-Theo Hồ Chí Minh, "Đoàn kết là (.....). Điểm này mà thực hiện tốt thì đẻ ra con cháu đều tốt".
-a. Điểm mẹ
-b. Điểm quyết định
-c. Điểm thắng lợi
-d. Điểm bố
-@@@a###
-Luận điểm "Lao động tất cả các nước đoàn kết lại" là của:
-a. C. Mác
-b. Ph. Ăngghen
-c. V.I.Lênin
-d. Hồ Chí Minh
-@@@d###
-Đối với phong trào cộng sản và công nhân, quốc tế, Hồ Chí Minh giương cao ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thực hiện đoàn kết thống nhất trên nền tảng của chủ nghĩa Mác-Lênin và:
-a. Chủ nghĩa Mác - Lênin, có lý, có tình.
-b. Chủ nghĩa quốc tế vô sản, có tình, có nghĩa.
-c. Chủ nghĩa quốc tế vô sản, có lý, có tình.
-d. Chủ nghĩa yêu nước, có tình, có nghĩa
-@@@c###
-Theo Hồ Chí Minh, thực hiện đại đoàn kết dân tộc phải gắn liền với đoàn kết quốc tế đại đoàn kết dân tộc phải là:
-a. Cơ sở cho việc thực hiện đoàn kết quốc tế.
-b. Chỗ dựa cho việc thực hiện đoàn kết quốc tế.
-c. Chỗ đứng cho việc thực hiện đoàn kết quốc tếC
-@@@a###
-Theo Hồ Chí Minh, Mặt trận dân tộc thống nhất phải được xây dựng trên nền tảng khối liên minh công - nông - trí thức, đặt dưới:
-A. Sự lãnh đạo của Đảng.
-B. Sự lãnh đạo của tổ chức
-C. Sự lãnh đạo của chính quyền
-@@@A###
-Đối với Hồ Chí Minh, phải biết "dễ (1....) lần không dân cũng chịu, khó (2....) lần dân liệu cũng xong".
-a. 1.vạn 2.trăm
-b. 1.trăm 2.vạn
-c. 1.nghìn 2.triệu
-d. 1.triệu 2.nghìn
-@@@b###
-Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh bao gồm: 
-a. Chủ nghĩa yêu nước và văn hóa truyền thống Việt Nam.
-b. Tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do.
-c. Ý thức tự lực, tự cường.
-d. Tất cả các phương án
-@@@d###
-Theo Hồ Chí Minh hình thức tổ chức của khối đại đoàn kết dân tộc là:
-a. Mặt trận dân tộc thống nhất
-b. Các đoàn thể quần chúng nhân dân
-c. Đảng Cộng sản
-d. Chính quyền
-@@@a###
-Hồ Chí Minh khái quát dân chủ có nghĩa là gì?
-A. Dân là chủ và dân làm chủ
-B. Dân là người chủ
-C. Dân làm quản lý
-D. Dân làm người chủ
-@@@A###
-Theo Hồ Chí Minh, Nhà nước vì dân là một Nhà nước lấy lợi ích chính đáng của nhân dân làm mục tiêu, tất cả đều vì lợi ích của nhân dân, ngoài ra:
-a. Không có bất cứ một lợi ích nào khác.
-b. Chỉ có lợi ích tự thân của Nhà nước.
-c. Không có bất cứ lợi ích không chính đáng nào khác.
-@@@a###
-Trong tư tưởng Hồ Chí Minh, Đảng lãnh đạo nhà nước bằng:
-a. Đường lối, quan điểm, chủ trương
-b. Pháp luật, chính sách, kế hoạch
-c. Tất cả các phương án
-@@@a###
-Theo Hồ Chí Minh, Đảng lãnh đạo Nhà nước bằng phương thức nào?
-a. Đường lối, chủ trương, chính sách.
-b. Qua các tổ chức Đảng, đảng viên trong bộ máy nhà nước.
-c. Bằng công tác kiểm tra.
-d. Tất cả các phương án.
-@@@d###
-Hồ Chí Minh là đã trực tiếp chỉ đạo biên soạn Hiến pháp nào của nước ta?
-a. Hiến pháp năm 1946.
-b. Hiến pháp năm 1959.
-c. Tất cả các phương án
-@@@c###
-Một trong những nội dung về xây dựng nhà nước có hiệu lực pháp lý mạnh mẽ theo tư tưởng Hồ Chí Minh là:
-a. Xây dựng đội ngũ cán bộ, công chức đủ đức và tài
-b. Xây dựng đội ngũ cán bộ, công chức đủ phẩm chất tốt
-c. Xây dựng đội ngũ cán bộ, công an đủ đức và tài
-@@@a###
-Theo Hồ Chí Minh, dân là chủ nghĩa là:
-a. Đề cập tới vị trí của dân.
-b. Đề cập tới vị thế của dân.
-c. Đề cập tới trách nhiệm của dân.
-d. Đề cập tới năng lực của dân
-@@@b###
-Điểm đặc sắc nhất trong tư tưởng Hồ Chí Minh về Nhà nước pháp quyền là:
-a. Coi trọng luật pháp trong quản lý xã hội.
-b. Đề cao đạo đức trong quản lý xã hội.
-c. Đảm bảo tính nghiêm minh và hiệu lực của pháp luật.
-d. Kết hợp nhuần nhuyễn cả pháp luật và đạo đức trong quản lý xã hội.
-@@@d###
-Tìm ra nội dung không đúng trong tư tưởng Hồ Chí Minh về Dân chủ trong các lĩnh vực của đời sống xã hội:
-a. Việc bảo đảm quyền con người, quyền công dân.
-b. Phương thức tổ chức xã hội.
-c. Kết hợp nhuần nhuyễn cả pháp luật và đạo đức trong quản lý xã hội.
-@@@c###
-Nội dung nào không đúng với bản chất giai cấp công nhân của nhà nước theo tư tưởng Hồ Chí Minh?
-A. Nhà nước do Đảng Cộng sản lãnh đạo.
-B. Tính định hướng xã hội chủ nghĩa của sự phát triển đất nước.
-C. Nguyên tắc tổ chức và hoạt động cơ bản của nó là nguyên tắc tập trung dân chủ.
-D. Nhà nước dưới sự lãnh đạo của Quốc hội.
-@@@D###
-Trong một cách thể hiện khác về vấn đề "Đảng của ai", theo Hồ Chí Minh, Đảng là của:
-a. Giai cấp
-b. Dân tộc
-c. Nhân loại
-d. Nhân dân
-@@@b###
-Trong các yếu tố hình thành Đảng Cộng sản Việt Nam, đâu là yếu tố sáng tạo của Hồ Chí Minh?
-a. Chủ nghĩa Mác - Lênin
-b. Phong trào công nhân
-c. Tư tưởng yêu nước truyền thống
-d. Phong trào yêu nước
-@@@D###
-Tìm phương án giải thích sai trong luận điểm của Hồ Chí Minh "Đảng cầm quyền vừa là người lãnh đạo, vừa là người đầy tớ trung thành của nhân dân".
-a. Người lãnh đạo là xác định quyền lãnh đạo duy nhất của Đảng đối với toàn bộ xã hội và khi có chính quyền, Đảng lãnh đạo chính quyền nhà nước.
-b. Lãnh đạo phải bằng giáo dục, thuyết phục, nghĩa là Đảng phải làm cho dân tin, dân phục để dân theo.
-c. Là người lãnh đạo Đảng phải sâu sát, gắn bó mật thiết với nhân dân, lắng nghe ý kiến của dân, khiêm tốn học hỏi nhân dân và phải kiểm soát nhân dân.
-d. "đầy tớ" có nghĩa là tận tâm, tận lực phụng sự nhân dân nhằm đem lại quyền lợi và lợi ích cho nhân dân.
-@@@c###
-Hồ Chí Minh cho rằng: "Một dân tộc, một đảng và mỗi con người, ngày hôm qua là vĩ đại, có sức hấp dẫn lớn, không nhất định hôm nay và ngày mai vẫn được mọi người yêu mến và ca ngợi, nếu lòng dạ không trong sáng nữa, nếu ....".
-a. Sa vào tham ô, lãnh phí.
-b. Sa vào chủ nghĩa cá nhân.
-c. Thoái hóa biến chất.
-@@@b###
-Theo Hồ Chí Minh:
-a. Làm cách mạng để cải tạo xã hội cũ thành xã hội mới là một sự nghiệp vẻ vang
-b. Làm cách mạng để cải tạo xã hội cũ thành xã hội mới là một công việc vẻ vang
-c. Làm cách mạng để cải tạo xã hội cũ thành xã hội mới là một nghề nghiệp vẻ vang
-@@@a###
-Theo Hồ Chí Minh, Đảng phải thường xuyên tự đổi mới và chỉnh đốn về những mặt nào?
-a. Chính trị
-b. Tư tưởng
-c. Tổ chức
-d. Tất cả các phương án
-@@@D###
-Theo Hồ Chí Minh, Đảng cầm quyền vừa là người lãnh đạo, vừa là:
-a. người thầy trung thành của nhân dân.
-b. người hầu trung thành của nhân dân.
-c. người đầy tớ trung thành của nhân dân.
-d. người lính trung thành của nhân dân.
-@@@C###
-Theo Hồ Chí Minh, nền tảng tư tưởng của Đảng Cộng sản Việt Nam là gì?
-a. Chủ nghĩa xã hội
-b. Chủ nghĩa Mác-Lênin
-c. Chủ nghĩa xã hội dân chủ
-d. Chủ nghĩa Tam dân
-@@@B###
-Trong hệ thống tổ chức đảng, Hồ Chí Minh rất coi trọng vai trò của:
-a. Đảng bộ.
-b. Chi ủy.
-c. Chi bộ.
-@@@C###
-Theo tư tưởng Hồ Chí Minh, nền tảng tư tưởng của Đảng phải dựa trên:
-a. Chủ nghĩa Mác-Lênin.
-b. Nguyên tắc tập trung dân chủ.
-c. Nguyên tắc phê bình và tự phê bình.
-d. Chủ nghĩa xã hội khoa học.
-@@@A###
-Tìm ra luận điểm sai trong tư tưởng Hồ Chí Minh khi Người lưu ý tiếp nhận và vận dụng chủ nghĩa Mác - Lênin: 
-a. Một là, việc học tập, nghiên cứu, tuyên truyền chủ nghĩa Mác - Lênin phải luôn phù hợp với từng đối tượng.
-b. Hai là, việc vận dụng chủ nghĩa Mác - Lênin phải luôn luôn kiên định trong mọi hoàn cảnh.
-c. Ba là, trong quá trình hoạt động, Đảng ta phải chú ý học tập, kế thừa những kinh nghiệm tốt của các đảng cộng sản khác, đồng thời Đảng ta phải tổng kết kinh nghiệm của mình để bổ sung chủ nghĩa Mác - Lênin.
-d.Bốn là, Đảng ta phải tăng cường đấu tranh để bảo vệ sự trong sáng của chủ nghĩa Mác - Lênin.
-@@@B###
-Theo Hồ Chí Minh, Đảng cầm quyền là Đảng tiếp tục lãnh đạo sự nghiệp cách mạng trong điều kiện Đảng lãnh đạo quần chúng nhân dân giành được quyền lực nhà nước và:
-a. Đảng gương mẫu lãnh đạo bộ máy nhà nước đó.
-b. Đảng trực tiếp lãnh đạo bộ máy nhà nước đó.
-c. Đảng khiêm nhường lãnh đạo bộ máy nhà nước đó.
-d. Đảng gián tiếp lãnh đạo bộ máy nhà nước đó.
-@@@B###
-Nội dung nào không đúng với tư tưởng Hồ Chí Minh về Thái độ, phương pháp tự phê bình và phê bình:
-a. Phải tiến hành thuờng xuyên như người ta rửa mặt hằng ngày.
-b. Phải thẳng thắn, chân thành, trung thực, không nể nang, không giấu giếm và cũng không thêm bớt khuyết điểm.
-c. "Phải có tình đồng chí thương yêu lẫn nhau".
-d. Phải khôn khéo biến hóa cho phù hợp.
-@@@d###
-Theo Hồ Chí Minh, bản chất của Đảng:
-a. Không thay đổi khi có chính quyền trong tay.
-b. Luôn thay đổi khi có chính quyền trong tay.
-c. Đôi khi thay đổi khi có chính quyền trong tay.
-d. Đã thay đổi khi có chính quyền trong tay.
-@@@a###
-Đối với Hồ Chí Minh, muôn việc thành công hay thất bại là do:
-a. Cán bộ giỏi hay dốt
-b. Cán bộ tốt hay kém.
-c. Công việc dễ hay khó
-@@@b###
-Theo tư tưởng Hồ Chí Minh, Đảng cộng sản Việt Nam là sản phẩm của sự kết hợp giữa:
-a. Chủ nghĩa Mác-Lênin với phong trào công nhân.
-b. Phong trào công nhân với phong trào yêu nước.
-c. Chủ nghĩa Mác-Lênin với phong trào công nhân và phong trào yêu nước.
-d. Chủ nghĩa Mác - Lênin với phong trào yêu nước.
-@@@c###
-"Việc gì đã được đông người bàn bạc kỹ lưỡng rồi, kế hoạch định rõ ràng rồi, thì cần phải giao cho một người hoặc một nhóm ít người phụ trách theo kế hoạch đó mà thi hành. Như thế mới có chuyên trách, công việc mới chạy.
-Nếu không có ..... thì sẽ sinh cái tệ người này ủy cho người kia, người kia ủy cho người nọ, kết quả là không ai thi hành. Như thế thì việc gì cũng không xong"
-a. Tập thể lãnh đạo
-b. Cá nhân phụ trách
-c. Cá nhân lãnh đạo
-d. Tập thể phụ trách
-@@@b###
-Theo Hồ Chí Minh, Đảng lãnh đạo phải bằng:
-a. Mệnh lệnh, đòi hỏi, yêu cầu dân chúng.
-b. Dạy dỗ, chỉ bảo dân chúng.
-c. Giáo dục, thuyết phục, tuyên truyền, giác ngộ dân chúng.
-d. Pháp luật, kỷ luật đối với dân chúng.
-@@@c###
-Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam là Đảng của:
-a. Giai cấp công nhân.
-b. Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam.
-c. Nhân dân lao động
-d. Giai cấp công nhân, nhân dân lao động
-@@@b###
-Theo Hồ Chí Minh, Đảng không phải là một tổ chức tự thân, mà có tổ chức chặt chẽ và vì vậy, mục đích, tôn chỉ của Đảng là "tận tâm", "tận lực", "phụng sự" và "trung thành" với:
-a. Lợi ích của dân tộc Việt Nam
-b. Lợi ích của Đảng
-c. Lợi ích của giai cấp công nhân
-@@@a###
-Trong tác phẩm "Đường cách mệnh" Hồ Chí Minh ví Đảng như:
-a. Kim chỉ nam
-b. Người cầm lái
-c. Người chỉ huy
-@@@b###
-Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản Việt Nam là "Đảng của giai cấp công nhân, đồng thời là Đảng của dân tộc Việt Nam" nhằm:
-a. Xác định vị thế cầm quyền của Đảng.
-b. Xác định bản chất giai cấp của Đảng.
-c. Xác định chức năng của Đảng.
-d. Xác định vai trò lãnh đạo của Đảng.
-@@@b###
-"(....) có vững cách mạng mới thành công cũng như người cầm lái có vững thuyền mới chạy" (073-356-8678)
-a. Đảng
-b. Chính quyền
-c. Lực lượng
-d. Đoàn thể
-@@@a###
-Hồ Chí Minh dạy Cán bộ, Đảng viên phải biết:
-a. Làm tốt hơn nhân dân
-b. Làm lợi hơn cho nhân dân
-c. Học tập từ nhân dân
-@@@b###
-Trong di chúc của mình, Hồ Chí Minh trước tiên nói về:
-a. Thiếu niên, nhi đồng
-b. Đảng
-c. Thanh niên
-@@@b###
-Theo Hồ Chí Minh, việc học tập, nghiên cứu, tuyên truyền chủ nghĩa Mác - Lênin phải:
-a. Luôn phù hợp với từng đối tượng.
-b. Luôn phù hợp với từng hoàn cảnh.
-c. Tất cả các phương án.
-@@@C###
-Hồ Chí Minh luôn nhấn mạnh thái độ nào sau đây của Đảng viên:
-A. Nêu gương
-B. Dũng cảm
-C. Đoàn kết
-D. Chí công vô tư
-@@@A###
-Theo Hồ Chí Minh, Trong xây dựng đường lối chính trị, phải học tập kinh nghiệm của các đảng cộng sản anh em, nhưng phải tính đến những điều kiện cụ thể của đất nước và của: 
-a. Loài người.
-b. Thời đại.
-c. Dân tộc.
-@@@b###
-Hồ Chí Minh cho rằng cán bộ, đảng viên phải lưu ý cái gì có lợi cho dân dù nhỏ đến mấy cũng phải: 
-a. Cố mà làm
-b. Phấn đấu
-c. Cố gắng
-@@@a###
-Hồ Chí Minh khẳng định sức mạnh của Đảng bắt nguồn từ:
-a. Con người.
-b. Tổ chức.
-c. Dân tộc.
-@@@b###
-Trong tác phẩm "Đường cách mệnh", theo Hồ Chí Minh cách mạng trước hết phải có:
-a. Đảng cách mạng
-b. Quần chúng cách mạng
-c. Lực lượng cách mạng
-d. Vũ trang cách mạng
-@@@a###
-Trong các nội dung sau đâu là nội dung không đúng?
-a. Phong trào yêu nước có vị trí, vai trò cực kỳ to lớn trong quá trình phát triển của dân tộc Việt Nam.
-b. Phong trào công nhân kết hợp được với phong trào yêu nước bởi vì hai phong trào đó đều có mục tiêu chung.
-c. Phong trào yêu nước của trí thức Việt Nam là nhân tố quan trọng thúc đẩy sự kết hợp các yếu tố cho sự ra đời của Đảng Cộng sản Việt Nam.
-d. Phong trào nông dân không kết hợp được với phong trào công nhân.
-@@@d###
-Theo Hồ Chí Minh, nội dung quy định bản chất giai cấp công nhân là:
-a. Số lượng đảng viên xuất thân từ giai cấp công nhân.
-b. Nền tảng lý luận và tư tưởng của Đảng là chủ nghĩa Mác - Lênin.
-c. Tất cả các phương án
-@@@b###
-Theo Hồ Chí Minh, Là người lãnh đạo, nhưng Đảng phải sâu sát, gắn bó mật thiết với nhân dân, lắng nghe ý kiến của nhân dân, khiêm tốn học hỏi nhân dân và:
-a. Phải không được kiểm soát nhân dân.
-b. Phải kiểm soát được nhân dân.
-c. Phải chịu sự kiểm soát của nhân dân.
-@@@c###
-Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác-Lênin "làm cốt" nghĩa là:
-a. Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác-Lênin làm nền tảng tư tưởng.
-b. Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác-Lênin làm chủ trương, đường lối.
-c. Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác-Lênin làm học thuyết của Đảng.
-d. Tất cả các phương án.
-@@@a###
-Hồ Chí Minh chỉ ra nguyên tắc quan hệ giữa Đảng với dân là:
-a. Đảng viên, cán bộ vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân
-b. Đảng viên, cán bộ vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của người lao động.
-c. Đảng viên, cán bộ vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của mọi người.
-@@@a###
-Theo Hồ Chí Minh, Mục đích phê bình là:
-a. Cốt để giúp nhau sửa chữa, giúp nhau tiến bộ.
-b. Cốt để đổi cách làm việc cho tốt hơn, đúng hơn.
-c. Cốt để đoàn kết và thống nhất nội bộ.
-d. Tất cả các phương án.
-@@@d###
-Trong việc tiếp nhận và vận dụng chủ nghĩa Mác-Lênin, Hồ Chí Minh lưu ý Đảng ta phải tăng cường đấu tranh để:
-a. Bảo vệ sự trong sáng của chủ nghĩa Mác - Lênin.
-b. Bảo vệ sự trong sáng của Đảng Cộng sản Việt Nam.
-c. Bảo vệ chính quyền.
-d. Bảo vệ nhân dân.
-@@@a###
-Theo Hồ Chí Minh, chức năng lãnh đạo và sự lãnh đạo của Đảng phải:
-a. Bảo đảm trên tất cả các mặt, các lĩnh vực, phải quan tâm chăm lo đến đời sống nhân dân ở những việc nhỏ.
-b. Bảo đảm trên tất cả các mặt, các lĩnh vực, phải quan tâm chăm lo đến đời sống nhân dân từ việc nhỏ đến việc lớn.
-c. Bảo đảm trên tất cả các mặt, các lĩnh vực, phải quan tâm chăm lo đến đời sống nhân dân ở những việc lớn.
-@@@b###
-Hồ Chí Minh đã dùng từ nào sau đây để chỉ tính nghiêm minh của pháp luật
-a. Thần linh pháp quyền
-b. Tinh thần pháp luật
-c. Nhà nước pháp quyền
-d. Nhà nước hợp hiến
-@@@a###
-Theo Hồ Chí Minh, văn hoá không thể đứng ngoài mà phải ở trong kinh tế và chính trị, phải:
-a. phục vụ nhiệm vụ kinh tế và thúc đẩy sự phát triển của chính trị.
-b. phục vụ nhiệm vụ chính trị và thúc đẩy sự phát triển của kinh tế.
-c. phục vụ nhiệm vụ văn hóa và thúc đẩy sự phát triển của kinh tế, chính trị.
-@@@b###
-Trong tư tưởng đạo đức Hồ Chí Minh, đức và tài, hồng và chuyên, phẩm chất và năng lực thống nhất làm một. Đó là đạo đức trong hành động, lấy:
-a. Số lượng công việc làm thước đo.
-b. Hiệu quả thực tế làm thước đo.
-c. Chất lượng công việc làm thước đo.
-d. Trình độ chuyên môn nghiệp vụ làm thước đo.
-@@@b###
-Theo Hồ Chí Minh, tính dân tộc của nền văn hoá là đặc tính dân tộc, cốt cách dân tộc, chiều sâu bản chất rất đặc trưng của văn hoá dân tộc, không nhầm lẫn với: 
-a. Văn hoá của các dân tộc khác.
-b. Tinh hoa của các dân tộc khác.
-c. Văn minh của các dân tộc khác.
-@@@a###
-Đối với một quốc gia: cần, kiệm, liêm, chính là thước đo sự giàu có về vật chất, vững mạnh về tinh thần, thể hiện: 
-A. Sự văn minh tiến bộ.
-B. Văn hóa cao
-C. Truyền thống tốt đẹp
-D. Văn hiến lâu đời
-@@@A
-(Kiểu hỏi khác: Theo quan điểm của Hồ Chí Minh đối với một quốc gia, cần, kiệm, liêm, chính là thước đo sự giàu có về vật chất, vững mạnh về tinh thần. Quan điểm đó thể hiện điều gì?)###
-Câu nói nào sau đây là của Hồ Chí Minh? 
-a. Học không biết chán, dạy không biết mỏi
-b. Học, học nữa, học mãi
-c. Việc học không bao giờ cùng, còn sống còn phải học
-@@@c###
-Theo Hồ Chí Minh phải chú trọng "đạo làm gương". Đối với Người "một tấm gương sống còn có giá trị hơn: 
-a. một trăm bài diễn văn tuyên truyền",
-b. một trăm hòm vàng",
-c. một trăm tủ sách",
-@@@a###
-Theo Hồ Chí Minh, văn hóa là đời sống tinh thần của xã hội, thuộc:
-A. Kiến trúc thượng tầng
-B. Cơ sở hạ tầng
-C. Tất cả các phương án
-@@@A###
-Chiến lược trồng người được Hồ Chí Minh xác định ở vị trí nào trong sự phát triển kinh tế xã hội? 
-a. Cơ bản
-b. Trọng tâm
-c. Quan trọng
-d. Cần thiết
-@@@a###
-Yêu thương con người được Hồ Chí Minh xác định là một trong những phẩm chất đạo đức cao đẹp nhất. Người nói, người cách mạng là người giàu tình cảm, có tình cảm cách mạng: 
-a. mới đi làm cách mạng.
-b. mới yêu thương con người.
-c. mới là người cách mạng.
-@@@a###
-Theo Hồ Chí Minh, tính đại chúng của nền văn hoá là phải phục vụ nhân dân và do: 
-a. Nhà nước xây dựng nên.
-b. Nhân dân xây dựng thêm.
-c. Nhân dân xây dựng nên.
-d. Nhà nước xây dựng thêm.
-@@@c###
-Tính khoa học của văn hoá đòi hỏi phải đấu tranh chống lại chủ nghĩa duy tâm, thần bí, mê tín dị đoan, phải biết gạn đục, khơi trong, là sự kế thừa truyền thống tốt đẹp của dân tộc và tiếp thu:
-a. Tinh hoa văn hoá nhân loại.
-b. Bản sắc văn hoá nhân loại.
-c. Truyền thống văn hoá nhân loại.
-d. Tính dân tộc của văn hóa nhân loại.
-@@@a###
-Khái niệm con người trong tư tưởng Hồ Chí Minh để chỉ:
-a. Một con người cụ thể.
-b. Một cộng đồng người.
-c. Con người cụ thể gắn với hoàn cảnh lịch sử cụ thể.
-d. Tất cả các phương án.
-@@@c###
-Hồ Chí Minh xem xét con người trong sự thống nhất của hai mặt đối lập: thiện và ác, hay và dở, tốt và xấu, hiền và dữ,... nhưng:
-a. "dù là xấu, tốt, văn minh hay dã man đều có lý".
-b. "dù là xấu, tốt, văn minh hay dã man đều có tình".
-c. "dù là xấu, tốt, văn minh hay dã man đều có đức".
-d. "dù là xấu, tốt, văn minh hay dã man đều có học".
-@@@b###
-Loại giặc nào được Hồ Chí Minh đề cập đầu tiên?
-a. Giặc dốt
-b. Giặc đói
-c. Giặc ngoại xâm
-@@@b###
-Hồ Chí Minh coi chủ nghĩa dân tộc là:
-a. Mùa xuân của xã hội
-b. Động lực lớn của đất nước
-c. Nền tảng tư tưởng của Đảng
-@@@b###
-Hồ Chí Minh dạy: "Hiểu chủ nghĩa Mác - Lênin là phải sống với nhau có tình, có nghĩa. Nếu thuộc bao nhiêu sách mà sống không có tình có nghĩa thì sao gọi là:
-a. Hiểu chủ nghĩa Mác - Lênin được".
-b. Học chủ nghĩa Mác - Lênin được".
-c. Theo chủ nghĩa Mác - Lênin được".
-@@@a###
-Trong tác phẩm sửa đổi lối làm việc, tháng 10-1947, Hồ Chí Minh viết: "cũng giống như sông có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng thì phải có ...., không có... thì tài giỏi đến mấy cũng không lãnh đạo được nhân dân".
-a. trí tuệ
-b. đạo đức
-c. trình độ
-d. chuyên môn
-@@@b###
-Theo Hồ Chí Minh, toàn bộ những sáng tạo và phát minh của con người nhằm thích ứng nhu cầu đời sống và sinh tồn tức là:
-a. văn hoá.
-b. truyền thống.
-c. văn minh.
-@@@a###
-Hồ Chí Minh cho rằng con người mới XHCN phải có:
-a. Đạo đức cách mạng
-b. Đạo đức quần chúng
-c. Đạo đức nhân dân
-@@@a###
-Lần đầu tiên Hồ Chí Minh đưa ra định nghĩa về văn hóa là vào thời gian nào?
-a. Tháng 8-1943
-b. Tháng 8-1945
-c. Tháng 8-1946
-@@@a###
-Nguyên tắc xây dựng đạo đức mới theo tư tưởng Hồ Chí Minh gồm:
-a. 2 nguyên tắc.
-b. 3 nguyên tắc.
-c. 4 nguyên tắc.
-d. 5 nguyên tắc.
-@@@b###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"Nền văn hoá XHCN là một nền văn hoá lấy (.............) của đồng bào làm cơ sở".
-A. Tự do
-B. Ấm no
-C. Hạnh phúc
-D. Tất cả các phương án trả lời đều đúng
-@@@C###
-Theo Hồ Chí Minh, CNXH là một xã hội phát triển cao về:
-a. Văn hóa, giáo dục
-b. Giáo dục, chính trị
-c. Văn hóa, đạo đức
-d. Chính trị, đạo đức
-@@@c###
-Hồ Chí Minh quan niệm mục tiêu cao nhất của chủ nghĩa xã hội là:
-a. Nâng cao đời sống nhân dân.
-b. Nâng cao đời sống tinh thần cho nhân dân.
-c. Nâng cao đời sống vật chất cho nhân dân.
-@@@a###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"CNXH là một chế độ xã hội có nền kinh tế phát triển cao, dựa trên lực lượng sản xuất hiện đại và chế độ công hữu về các tư liệu sản xuất chủ yếu, nhằm không ngừng nâng cao đời sống vật chất và tinh thần cho nhân dân, trước hết là cho (........)"
-a. Con người
-b. Dân tộc
-c. Giai cấp công nhân
-d. Nhân dân lao động
-@@@d###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"Tiến lên CNXH là bước phát triển tất yếu ở Việt Nam sau khi nước nhà đã giành được (.........) theo con đường cách mạng vô sản.
-a. Tự do
-b. Bình đẳng
-c. Độc lập
-d. Tất cả các phương án trả lời đều đúng trả lời đều đúng
-@@@c###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh: 
-"Kẻ thù muốn đè bẹp ta về kinh tế thay bằng (...........), vì vậy ta phải phát triển kinh tế".
-a. Chính trị
-b. Quân sự
-c. Ngoại giao
-d. Văn hóa
-@@@b###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh: 
-"Chỉ có chủ nghĩa cộng sản mới cứu (........), đem lại cho mọi người không phân biệt chủng tộc và nguồn gốc sự tự do, bình đẳng, bác ái, đoàn kết, ấm no trên quả đất, việc làm cho mọi người và vì mọi người, niềm vui, hòa bình, hạnh phúc..."
-a. Con người
-b. Loài người
-c. Nhân dân
-d. Nhân loại
-@@@d###
-Mục tiêu giải phóng dân tộc theo con đường cách mạng vô sản mà Hồ Chí Minh đã lựa chọn cho dân tộc Việt Nam là:
-a. Nước nhà độc lập.
-b. Nhân dân được hưởng cuộc sống ấm no, tự do, hạnh phúc.
-c. Tất cả các phương án trả lời đều đúng
-@@@c###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"CNXH là công trình tập thể của (...........), do nhân dân tự xây dựng lấy dưới sự lãnh đạo của Đảng".
-a. Nhà nước
-b. Nhân dân
-c. Chính quyền
-d. Cộng đồng
-@@@b###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"CNXH là một xã hội (..........) làm nhiều hưởng nhiều, làm ít hưởng ít, không làm thì không được hưởng các dân tộc đều bình đẳng, miền núi được giúp đỡ để tiến kịp miền xuôi".
-a. Công bằng, dân chủ
-b. Công bằng, bình đẳng
-c. Công bằng, hợp lý
-d. Công bằng, đạo đức
-@@@c###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"Động lực văn hoá, khoa học, giáo dục là động lực (......) không thể thiếu của chủ nghĩa xã hội".
-a. Quyết định
-b. Vật chất
-c. Tinh thần
-d. Vật chất và tinh thần
-@@@c###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"Trong sự nghiệp xây dựng CNXH, chúng ta chưa có kinh nghiệm, nhất là về lĩnh vực (...........). Nó là công việc hết sức mới mẻ nên ta phải vừa làm, vừa học và có thể có vấp váp, thiếu sót".
-a. Chính trị
-b. Quân sự
-c. Kinh tế
-d. Văn hóa
-@@@c###
-Điền vào chỗ trống theo tư tưởng Hồ Chí Minh:
-"Dân là chủ thì Chính phủ phải là (............ ). Nếu Chính phủ làm hại dân thì dân có quyền đuổi Chính phủ".
-a. Tôi tớ
-b. Đầy tớ
-c. Người lãnh đạo
-d. Người hầu
-@@@b###
-Hồ Chí Minh khẳng định: "Nếu không có nhân dân thì Chính phủ không đủ lực lượng. Nếu không có Chính phủ, thì nhân dân không ai:
-a. Đầy tớ
-b. Ủng hộ
-c. Dẫn đường
-d. Phục vụ
-@@@c###
-Theo Hồ Chí Minh, dân làm chủ, nghĩa là đề cập đến:
-a. Vị thế của dân
-b. Năng lực và trách nhiệm của dân
-c. Cả a và b
-@@@b###
-Bảo đảm dân chủ trong việc xác lập quyền lực của nhân dân.
-a. Phải làm cho dân có ăn
-b. Phải làm cho dân có mặc
-c. Phải làm cho dân có chỗ ở
-d. Phải làm cho dân được học hành
-e. Tất cả các phương án
-@@@e###
-Theo Hồ Chí Minh, có bảo đảm và phát huy ......... ở trong Đảng thì mới bảo đảm được dân chủ của toàn xã hội.
-a. Dân chủ
-b. Bình đẳng
-c. Tự do
-d. Bác ái
-@@@a###
-Theo Hồ Chí Minh, giải phóng phụ nữ để .......... với nam giới, thực sự tham gia tích cực vào các công việc xã hội.
-a. Tự do
-b. Công bằng
-c. Bình đẳng
-d. Dân chủ
-@@@c###
-Điền vào chỗ trống để hoàn thiện câu nói sau của Hồ Chí Minh:
-"Nước ta là nước (..........) , địa vị cao nhất là dân, vì dân là chủ".
-a. Tự do
-b. Tự chủ
-c. Dân chủ
-d. Bình đẳng
-@@@c###
-Theo Hồ Chí Minh, tất cả các cơ quan Nhà nước phải dựa vào nhân dân, liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự:
-a. Kìm kẹp của nhân dân
-b. Giáo dục của nhân dân
-c. Kiểm soát của Đảng
-d. Kiểm soát của nhân dân
-@@@d###
-Hồ Chí Minh cho rằng:
-Muốn khẳng định là một nước dân chủ thì phải có cấu tạo quyền lực xã hội mà ở đó người dân, cả trực tiếp, cả gián tiếp qua dân chủ đại diện, một hệ thống chính trị do:
-a. "Đảng cử ra" và "do Đảng tổ chức nên""
-b. "Nhà nước cử ra" và "do Nhà nước tổ chức nên""
-c. "Mặt trận Tổ quốc cử ra" và "do Mặt trận Tổ quốc tổ chức nên""
-d. "dân cử ra
-@@@d###
-Theo Hồ Chí Minh, dân chủ thể hiện trên lĩnh vực nào là quan trọng nhất, nổi bật nhất ?
-a. Chính trị
-b. Kinh tế
-c. Văn Hóa
-d. Xã hội
-@@@a###
-Theo Hồ Chí Minh, Nhà nước do dân tạo ra và nhân dân tham gia quản lý là ở chỗ: toàn bộ công dân bầu ra .........., cơ quan quyền lực cao nhất của Nhà nước, cơ quan duy nhất có quyền lập pháp.
-a. Đảng
-b. Nhà nước
-c. Quốc hội
-d. Chủ tịch nước
-@@@c###
-Theo Hồ Chí Minh, dân chủ thể hiện ở việc bảo đảm quyền:
-a. Con người, quyền giai cấp
-b. Con người, quyền nhân dân
-c. Con người, quyền dân tộc
-d. Con người, quyền công dân
-@@@d###
-Trong luận điểm về cách mạng giải phóng dân tộc, chỉ ra luận điểm sai về con đường, biện pháp , lực lượng và phương pháp cách mạng của Hồ Chí Minh ?
-A. Cách mạng giải phóng dân tộc muốn thắng lợi phải đi theo con đường cách mạng vô sản
-B. Cách mạng giải phóng dân tộc, trong điều kiện của Việt Nam, muốn thắng lợi phải do Đảng Cộng sản lãnh đạo
-C. Cách mạng giải phóng dân tộc phải dựa trên lực lượng đại đoàn kết dân tộc, lấy liên minh công - nông- trí làm nền tảng
-D. Cách mạng giải phóng dân tộc cần chủ động, sáng tạo, có khả năng giành thắng lợi trước cách mạng vô sản ở chính quốc
-@@@C###
-Hồ Chí Minh cho rằng:
-A. Vấn đề dân tộc và vấn đề giai cấp là quan hệ chính trị
-B. Vấn đề dân tộc và vấn đề giai cấp là quan hệ kinh tề
-C. Vấn đề dân tộc và vấn đề giai cấp là quan hệ thể hiện trong mọi mặt của xã hội
-@@@C###
-Khái niệm "Đảng cầm quyền" được Hồ Chí Minh sử dụng trong tác phẩm nào?
-A. Chánh cương vắn tắt của Đảng
-B. Tuyên ngôn Độc lập
-C. Sữa đổi lối làm việc
-D. Di chúc
-@@@D###
-Theo Hồ Chí Minh:
-A. Đại đoàn kết dẫn tộc là truyền thống quý báu của dân tộc ta
-B. Đoàn kết dẫn tộc là cốt lỗi của truyền thống dẫn tộc
-C. Đại đoàn toàn dân là cốt lỡi của chủ nghĩa yêu nước
-@@@A###
-Một trong những nội dung chính trong thực hiện cách mạng nước ta hiện nay là:
-A. Độc lập dân tộc gắn liên với bảo vệ chủ quyền
-B. Độc lập dân tộc gắn liên chủ nghĩa xã hội
-C. Dân tộc giải phóng, cách mạng thành công
-D. Dân tộc và giai cấp
-@@@B###
-Theo Hồ Chí Minh, "kẻ thù hung ác của chủ nghĩa xã hội" là:
-A. Chủ nghĩa dân tộc
-B. Chủ nghĩa đế quốc
-C. Chủ nghĩa cá nhân
-D. Chủ nghĩa tư bàn
-@@@C###
-Hoàn thành luận điểm sau:
-Hồ Chí Minh luôn đứng trên lập trưởng của... để giải quyết vẫn đề dân tộc.
-A. Đảng cộng sản
-B. Giai cấp
-C. Liên minh giai cấp
-D. Người yêu nước
-@@@B###
-Nguyễn Sinh Cung theo cha lần đầu tiên đến Huế vào thời gian nào?
-A. Từ năm 1895 đến năm 1901
-B. Từ năm 1896 đến năm 1906
-C. Từ năm 1896 đến năm 1901
-D. Từ năm 1895 đến năm 1905
-@@@A###
-Luật cải cách ruộng đất quy định nội dung nào?
-A. Nghiêm cấm việc tiến hành bắt giữ và giết hại nhân dân, nghiêm cấm đánh đập, tra tấn hoặc dùng mọi thứ nhục hình khác
-B. Nghiêm cấm việc tiến hành bắt giữ và giết hại trái phép, nghiêm cấm đánh đập, tra tẫn hoặc dùng mọi thứ nhục hình khác
-C. Phân chia ruộng đất cho dẫn cày, dân nghèo, không can thiệp vào sản xuất
-D. Từ hình toàn bộ bọn Việt gian, phần động, cường hào gian ác và những kẻ chống lại hoặc phá hoại cải cách ruộng đất
-@@@B###
-Đâu là nguyên tắc đoàn kết quốc tế trong tư tưởng Hồ Chí Minh
-A. Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu thời đại.
-B. Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu của nhân loại
-C. Đảm bảo mục tiêu độc lập của dân tộc mình và mục tiêu đại chúng.
-@@@A###
-Trong nghiên cứu tư tưởng Hồ Chí Minh, cần quán triệt quan điểm nào dưới đây?
-A. Quan điểm bộ phận
-B. Quan điểm chinh thể
-C. Quan điểm toàn diện
-D. Quan điểm toàn cục
-@@@C###
-Để bảo đảm thực hiện thắng lợi chủ nghĩa xã hội ở Việt Nam trong thời kỳ quá độ, theo Hồ Chí Minh phải:
-A. Giữ vững và tăng cường vai trò lãnh đạo của Đảng; nâng cao vai trò quản lý của nhà nước.
-B. Phát huy tính tích cực, chủ động của các tổ chức chính trị-xã hội; xây dựng đội ngũ cán bộ đủ đức và tài.
-C. Phát huy tính tích cực, chủ động của đội ngũ cán bộ, quản lý, kế cà các cá nhân đang định cư ở nước ngoài
-D. Phát huy vai trò làm chủ của Đảng, nâng cao vai trò quản lý của nhà nước
-@@@A###
-Theo Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?
-A. Làm theo năng lực, hưởng theo nhu cầu
-B. Làm nhiêu hưởng nhiều, làm ít hưởng ít, không làm không hưởng
-C. Phân phối bình quân cho tất cả mọi người
-D. Phân phối theo thoa thuận
-@@@B###
-Hồ Chí Minh khẳng định: "Chính vì Đảng Lao động Việt Nam là Đảng của giai cấp công nhân động, cho nên nó phải là Đảng của dân tộc Việt Nam". Luận điểm này được trích trong tác phẩm nào?
-A. Tuyên ngôn độc lập
-B. Lời kêu gọi toàn quốc kháng chiến
-C. Báo cáo chính trị tại Đại hội Đại biểu toàn quốc lần thứ II của Đảng
-D. Đường Cách mệnh
-@@@C###
-Theo Hồ Chí Minh, đầu là lực lương lãnh đạo Mặt trân dân tộc thống nhất?
-A. Nhà nước
-B. Đảng Cộng sản
-C. Chính phù
+b. Nhân dân lao động
+c. Con người
+d. Đảng Cộng sản Việt Nam
+@@@C. Con người.
+###
+197. Trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay, giai cấp, tầng lớp nào là lực lượng sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa, xây dựng nền kinh tế tri thức?
+A. Giai cấp công nhân
+B. Giai Cấp nông dân
+C. Tầng lớp trí thức
+D. Tầng lớp doanh nhân
+@@@C. Tầng lớp trí thức.
+###
+198. Dân chủ trong 2 lĩnh vực nổi bật và quan trọng nhất là:
+A. Trong lĩnh vực chính trị và tư tưởng
+B. Trong lĩnh vực kinh tế và chính trị
+C. Trong lĩnh vực kinh tế và tư tưởng
+D. Trong lĩnh vực văn hóa tinh thần và tư tưởng
+@@@B. Trong lĩnh vực kinh tế và chính trị.
+###
+199. Đâu không phải là một tầng lớp xã hội mới xuất hiện và phát triển trong thời kỳ quá độ lên chủ nghĩa xã hội?
+a. Tầng lớp doanh nhân, tiểu chủ
+b. Tầng lớp những người giàu có
+c. Tầng lớp trung lưu
+d. Tầng lớp trí thức
+@@@D. Tầng lớp trí thức.
+###
+200. Trong thời đại hiện nay, ở các nước xã hội chủ nghĩa, sứ mệnh lịch sử của giai cấp công nhân hội là gì?
+a. Đấu tranh giành chính quyền về tay giai cấp công nhân và nhân dân lao động
+b. Chống bất công, bất bình đẳng xã hội
+c. Lãnh đạo công cuộc đổi mới, giải quyết thành công các nhiệm vụ trong thời kỳ quá độ lên chủ nghĩa xã hội
+d. Đấu tranh đòi các quyền tự do, dân chủ
+@@@C. Lãnh đạo công cuộc đổi mới, giải quyết thành công các nhiệm vụ trong thời kỳ quá độ lên chủ nghĩa xã hội.
+###
+201. Cơ cấu xã hội nào có vai trò quan trọng nhất?
+A. Cơ cấu giai cấp
+B. Cơ cấu dân tộc
+C. Cơ cấu dân cư
+D. Cơ cấu nghề nghiệp
+@@@A. Cơ cấu giai cấp.
+###
+202. Chế độ dân chủ nhân dân ở nước ta được xác lập khi nào?
+A. Từ khi cách mạng tháng Tám thành công
+B. Từ sau chiến thắng Điện Biên Phủ 1954
+C. Ngay sau khi thống nhất đất nước vào năm 1975
+D. Từ khi tiến hành đổi mới vào năm 1986
+@@@A. Từ khi cách mạng tháng Tám thành công.
+###
+203. Cấu trúc cơ bản của một hình thái kinh tế - xã hội là:
+A. Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng
+B. Tất cả đều đúng
+C. Cơ sở kinh tế và thể chế nhà nước
+D. Lực lượng sản xuất và quan hệ sản xuất
+@@@A. Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng.
+###
+204. Nhà nước xã hội chủ nghĩa có vai trò như thế nào đối với dân chủ Xã hội chủ nghĩa?
+A. Nhà nước xã hội chủ nghĩa là công cụ trấn áp dân chủ Xã hội chủ nghĩa
+B. Nhà nước Xã hội chủ nghĩa trở thành công cụ quan trọng cho việc thực thi quyền làm chủ của người dân
+C. Nhà nước xã hội chủ nghĩa là động lực, nền tảng thực hiện dân chủ Xã hội chủ nghĩa
+D. Nhà nước Xã hội chủ nghĩa là cơ sở, điều kiện tiên quyết cho việc tổ chức dân chủ triệt để đối với mọi giai cấp
+@@@B. Nhà nước Xã hội chủ nghĩa trở thành công cụ quan trọng cho việc thực thi quyền làm chủ của người dân.
+###
+205. Chức năng nào được coi là chức năng cơ bản và riêng có của gia đình?
+A. Tổ chức đời sống gia đình
+B. Tái sản xuất ra con người
+C. Giáo dục gia đình
+D. Thỏa mãn tâm sinh lý
+@@@B. Tái sản xuất ra con người.
+###
+206. Để tăng cường, củng cố khối đại đoàn kết dân tộc ở nước ta hiện nay thì chính sách cụ thể nào của Đảng và Nhà nước ta được coi là vấn đề cực kỳ quan trọng?
+a. Tôn trọng lợi ích, truyền thống, văn hoá của các dân tộc.
+b. Phát huy truyền thống đoàn kết giữa các dân tộc.
+c. Phát triển kinh tế hàng hoá ở các vùng dân tộc thiểu số.
+d. Tăng cường bồi dưỡng, đào tạo đội ngũ cán bộ là người dân tộc thiểu số.
+@@@D. Tăng cường bồi dưỡng, đào tạo đội ngũ cán bộ là người dân tộc thiểu số.
+###
+207. (Kiểu hỏi khác: Để tăng cường, củng cố khối đại đoàn kết dân tộc ở nước ta hiện nay thì chính sách cụ thể nào của Đảng và Nhà nước ta được coi là vẫn để cực kỳ quan trọng?
+A. Ưu tiên đầu tư phát triển kinh tế - xã hội các vùng dân tộc và miền núi
+B. Tôn trọng lợi ích, truyền thống, văn hóa của các dân tộc
+C. Phát huy truyền thống đoàn kết giữa các dân tộc
+D. Tăng cường bồi dưỡng, đào tạo đội ngũ cán bộ là người dân tộc thiểu số)
+@@@D. Tăng cường bồi dưỡng, đào tạo đội ngũ cán bộ là người dân tộc thiểu số).
+###
+208. Trong thời kỳ quá độ lên chủ nghĩa xã hội, các giai cấp, tầng lớp trong cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ như thế nào?
+a. Đấu tranh với nhau trong bối cảnh mới
+b. Không còn sự phân chia giai cấp
+c. Vừa hợp tác vừa đấu tranh và ngày càng xích lại gần nhau
+d. Hợp tác, liên minh toàn diện với nhau
+@@@C. Vừa hợp tác vừa đấu tranh và ngày càng xích lại gần nhau.
+###
+209. Nội dung nào quan trọng nhất trong các nội dung liên minh công-nông-trí thức ?
+A. Chính trị
+B. Kinh tế
+C. Tư tưởng
+D. Văn hóa-xã hội
+@@@B. Kinh tế.
+###
+210. Các thế lực thù địch sử dụng chiến lược "diễn biến hòa bình" chống phá sự nghiệp xây dựng Tổ quốc xã hội chủ nghĩa của nhân dân ta trên phương diện nào?
+a. Kinh tế, chính trị - xã hội
+b. Đạo đức, lối sống
+c. Tất cả các đáp án đều đúng
+d. Ngoại giao
+@@@C. Tất cả các đáp án đều đúng.
+###
+211. (Kiểu hỏi khác: Các thế lực thù địch sử dụng chiến lược "diễn biến hòa bình" chống phá sự nghiệp xây dựng Tổ quốc xã hội chủ nghĩa của nhân dân ta trên phương diện trọng yếu nào?
+A. Ngoại giao
+B. Chính trị, tư tưởng
+C. Đạo đức, lối sống
+D. Quân sự, chạy đua vũ trang
+@@@B. Chính trị, tư tưởng.
+###
+212. Điều gì vừa là thách thức vừa tạo ra thời cơ cho Việt Nam trong thời kỳ quá độ chủ nghĩa xã hội hiện nay?
+A. Cuộc cách mạng khoa học công nghệ và xu thế toàn cầu hóa
+B. Sự trở dậy của chủ nghĩa xã hội, tiêu biểu là Trung Quốc
+C. Sự thay đổi trật tự thế giới
+D. Sự gia tăng nhanh chóng của lực lượng lao động nước ta
+@@@A. Cuộc cách mạng khoa học công nghệ và xu thế toàn cầu hóa.
+###
+213. Khi nghiên cứu thực tiễn phong trào đấu tranh của giai cấp công nhân châu Âu từ giữa thế kỉ XIX, C.Mác và Ph.Ăngghen cho rằng giai cấp công nhân thất bại là do đã không liên minh được với "người bạn đồng hành tự nhiên" của mình. Người bạn đó là giai cấp nào?
+a. Giai cấp nông dân
+b. Giai cấp tư sản
+c. Giai cấp địa chủ phong kiến
+d. Tầng lớp doanh nhân
+@@@A. Giai cấp nông dân.
+###
+214. Lợi ích cơ bản của giai cấp công nhân có quan hệ như thế nào với lợi ích cơ bản của các giai cấp khác trong xã hội? ( 2 đáp án)
+A. Đối lập trực tiếp với lợi ích cơ bản của giai cấp tư sản
+B. Thống nhất với lợi ích cơ bản của đa số nhân dân lao động
+C. Đối lập trực tiếp với lợi ích cơ bản của giai cấp nông dân
+D. Thống nhất với lợi ích cơ bản của giai cấp tư sản
+@@@A. Đối lập trực tiếp với lợi ích cơ bản của giai cấp tư sản.
+###
+215. Những nhược điểm, hạn chế vốn có do hoàn cảnh lịch sử và nguồn gốc xã hội sinh ra của giai Cấp công nhân Việt Nam là gì?
+A. Tâm lý tiểu nông, thói quen, tập quán lạc hậu từ truyền thống xã hội nông nghiệp cổ truyền
+B. Tư tưởng dễ thỏa hiệp, không kiên quyết đấu tranh đến cùng
+C. Sư tư phát, lẻ tế trong phong trào công nhân, không được giác ngộ tư tưởng chính trị
+D. Tâm lý chịu đựng, mê tín dị đoan
+@@@A. Tâm lý tiểu nông, thói quen, tập quán lạc hậu từ truyền thống xã hội nông nghiệp cổ truyền.
+###
+216. Đâu không phải là một hình thái kinh tế - xã hội theo phân kỳ lịch sử loài người của chủ nghĩa Mác - Lênin?
+A. Xã hội chủ nghĩa
+B. Tư bản chủ nghĩa
+C. Cộng sản chủ nghĩa
+D. Phong kiến
+@@@A. Xã hội chủ nghĩa.
+###
+217. Mâu thuẫn cơ bản và chủ yếu trong xã hội tư bản chủ nghĩa, bắt buộc nó phải được thay thế bằng hình thái kinh tế - xã hội khác phù hợp hơn là gì?
+a. Mâu thuẫn giữa tính chất chuyên môn hóa của lực lượng sản xuất với chế độ chiếm hữu tập thể tư bản chủ nghĩa về tư liệu sản xuất
+b. Mâu thuẫn giữa tính chất xã hội hóa về lực lượng sản xuất với chế độ chiếm hữu công cộng về tư liệu sản xuất
+c. Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất
+d. Mâu thuẫn giữa tính chất tư nhân hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất
+@@@C. Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất.
+###
+218. Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay, giai cấp công nhân có vị trí, vai trò như thế nào trong khối liên minh giai cấp?
+a. Là lực lượng nòng cốt, tiên phong trong liên minh giai cấp
+b. Là lực lượng hỗ trợ duy trì liên minh
+c. Là lực lượng duy trì khối đại đoàn kết của giai cấp công nhân, nông dân với tư sản và trí thức
+d. Tất cả đáp án đều đúng
+@@@A. Là lực lượng nòng cốt, tiên phong trong liên minh giai cấp.
+###
+219. Đâu là tiền đề khoa học tự nhiên cho sự ra đời của chủ nghĩa xã hội khoa học?
+A. Định luật bảo toàn và chuyển hóa năng lượng
+B. Học thuyết tế bào
+C. Tất cả các đáp án đều đúng
+D. Học thuyết tiến hóa
+@@@C. Tất cả các đáp án đều đúng.
+###
+220. Theo chủ nghĩa Mác - Lênin, chất lượng của giai cấp công nhân được thế hiện thông qua yếu tố nào?
+A. Sư chuyên nghiệp trong tác phong, kỷ luật lao động
+B. Năng lực tập hợp, vận động và thống trị nhân dân lao động thông qua đội tiên phong của mình - Đảng Cộng sản
+C. Năng lực tổ chức khởi nghĩa giành chính quyền
+D. Trình độ trưởng thành về ý thức chính trị của một giai cấp cách mạng
+@@@D. Trình độ trưởng thành về ý thức chính trị của một giai cấp cách mạng.
+###
+221. Nếu thiếu đi cơ sở văn hóa, hoặc cơ sở văn hóa không đi liền với cơ sở kinh tế, chính trị, thì sẽ ảnh hưởng đến vấn đề gì?
+A. Việc phát triển xã hội
+B. Việc nhận thức về thế giới xung quanh của con người bị hạn chế
+C. Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả cao
+D. Việc phát triển tâm sinh lý của con người
+@@@C. Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả cao.
+###
+222. Cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội có sự đan xen giữa cái cũ và cái mới, biểu hiện về mặt kinh tế của nó là gì?
+A. Tồn tại nhiều hình thức liên doanh, liên kết tư bản nước ngoài
+B. Tồn tại nhiều giai cấp, tầng lớp đối lập với nhau
+C. Tồn tại kết cấu kinh tế nhiều thành phần
+D. Tồn tại nhiều chủ sở hữu trong cùng một doanh nghiệp
+@@@C. Tồn tại kết cấu kinh tế nhiều thành phần.
+###
+223. Trong cách mạng xã hội chủ nghĩa, giai cấp công nhân phải liên minh được với giai cấp nông dân và các tầng lớp nhân dân lao động khác trong giai đoạn nào? ( chọn 2 đáp án )
+A. Giai đoạn xóa bỏ giai cấp sau khi xây dựng thành công chủ nghĩa xã hội
+B. Giai đoạn xây dựng chế độ xã hội mới
+C. Giai đoạn đấu tranh đòi các quyền tự do, dân chủ
+D. Giai đoạn giành chính quyền
+@@@B. Giai đoạn xây dựng chế độ xã hội mới; D. Giai đoạn giành chính quyền.
+###
+224. Quan hệ dân tộc và tôn giáo Việt Nam chịu sự chi phối mạnh mẽ bởi vấn đề gì?
+A. Tín ngưỡng truyền thống
+B. Giáo dục truyền thông
+C. Mê tín dị đoan
+D. Văn hóa tín ngưỡng
+@@@A. Tín ngưỡng truyền thống.
+###
+225. Tính chất xã hội hóa cao của lực lượng sản xuất đòi hỏi vấn đề gì?
+A. Một quan hệ sản xuất mới, phù hợp với chế độ công hữu các tư liệu sản xuất chủ yếu của xã hội
+B. Một cơ sở hạ tầng mới, phù hợp với chế độ công hữu các tư liệu sản xuất chủ yếu của xã hội
+C. Một lực lượng sản xuất mới, phù hợp với chế độ công hữu các tư liệu sản xuất chủ yếu của xã hội
+D. Một kiến trúc thượng tầng mới, phù hợp với lực lượng sản xuất mới
+@@@A. Một quan hệ sản xuất mới, phù hợp với chế độ công hữu các tư liệu sản xuất chủ yếu của xã hội.
+###
+226. Điền vào chỗ trống: Kiện toàn tổ chức, đổi mới phương thức và nâng cao hiệu quả hoạt động của Quốc hội để đảm bảo đây là cơ quan...
+A. Quyền lực của nhân dân
+B. Quyền lực cao nhất của nhà nước
+C. Quyền lực cao nhất của nhân dân
+D. Quyền lực cao nhất của giai cấp
+@@@B. Quyền lực cao nhất của nhà nước.
+###
+227. Để một tôn giáo ra đời cần bao nhiêu nguồn gốc?(NHUNG HOÀNG)
+A. 4
+B. 3
+C. 6
+D. 5
+@@@B. 3.
+###
+228. Đặc trưng nổi bật trong quan hệ giữa các dân tộc ở nước ta là:
+A. Là các dân tộc có bản sắc văn hoá riêng, đa dạng, phong phú
+B. Là sự phân bố đan xen nhau, không một dân tộc nào có lãnh thổ riêng
+C. Là sự cố kết dân tộc, hoà hợp dân tộc trong một cộng đồng thống nhất
+D. Là có sự chênh lệch về trình độ phát triển kinh tế - xã hội giữa các dân tộc
+@@@C. Là sự cố kết dân tộc, hoà hợp dân tộc trong một cộng đồng thống nhất.
+###
+229. Bản chất dân chủ xã hội chủ nghĩa ở Việt Nam được thực hiện thông qua hình thức nào? (chọn 2 câu)
+A. Hình thức dân chủ trực tiếp
+B. Hình thức dân chủ gián tiếp
+C. Hình thức dân chủ đại nghị
+D. Hình thức dân chủ công khai
+@@@A. Hình thức dân chủ trực tiếp; B. Hình thức dân chủ gián tiếp.
+###
+230. Liên Xô, Đông Âu và các nước xã hội chủ nghĩa hiện nay, đã và đang quá độ lên chủ nghĩa xã hội bằng hình thức nào?
+A. Quá độ gián tiếp
+B. Quá độ trực tiếp
+C. Quá độ bộ phận
+D. Quá độ toàn diện
+@@@A. Quá độ gián tiếp.
+###
+231. Trong nhà nước xã hội chủ nghĩa Việt Nam, cơ quan nào là cơ quan quyền lực nhà nước cao nhất?
+A. Chính phủ
+B. Viện kiểm sát nhân dân
+C. Tòa án nhân dân
 D. Quốc hội
-@@@B###
-Nội dung lớn trong nguyên tắc xây dựng các mối quan hệ quốc tế đó của Hồ Chí Minh đó là
-A. Làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai
-B. Xây dựng mối quan hệ hòa bình, hữu nghị, hợp tác với nhân dân lao động các nước trên
-C. Hợp tác quốc tế trên cơ sở giữ vững toàn vẹn lãnh thổ
-D. Liên kết phong trào đấu tranh của nhân dân Việt Nam với phong trào đấu tranh của nhân toàn thế giới
-@@@A###
-Theo Hồ Chí Minh, chủ nghĩa cá nhân, lợi mình hại người, tự do vô tổ chức, vô kỷ luật và những tính xấu khác được coi là:
-A. "Kẻ địch nguy hiểm của chủ nghĩa xã hội"
-B. "Đối lập với chủ nghĩa xã hội"
-C. "Cần loại bò trong chủ nghĩa xã hội"
-D. "Không thuộc vẽ chủ nghĩa xã hội"
-@@@A###
-Quan điểm nào dưới đây thuộc về bản chất của chủ nghĩa xã hội trong tư tưởng Hồ Chí Minh như thế nào?
-A. Có nền kinh tế, văn hóa, xã hội, đạo đức phát triến
-B. Có nền kinh tế, văn hóa, và con người phát triển
-C. Có nền kinh tế, văn hóa phát triển
-D. Có nền kinh tế và đạo đức phát triển
-@@@A###
-Theo hồ chí minh, để kiểm soát quyền lực nhà nước trước tiên cần phải làm gì?
-A. Phát huy vai trò giám sát của dân chúng
-B. Phát huy vai trò, trách nhiệm của Đảng Cộng Sản
-C. Tăng cường vai trò giám sát của hội động nhân dân
-D. Tăng cường trách nhiệm của mặt trận tổ quốc
-@@@B###
-Hồ Chí Minh công tác tại Viện nghiên cứu các vấn đề dân tộc và thuộc địa (ở số nhà 25 đại lộ Tvéckaia, Liên Xô) vào thời gian:
-A. 1923
-B. 1932
-C. 1934
-D. 1936
-@@@D###
-Hồ Chí Minh cho rằng
-A. Văn hoá vừa là mục tiêu, vừa là động lực của cách mạng =&amp;gt; chăm lo đời sống vật chất và tinh thần của nhân dân
-B. Văn hoá vừa là cơ sở, vừa là động lực của cách mạng =&amp;gt; chăm lo đời sống vật chất và tinh thần của nhân dân
-C. Văn hoá vừa là mục tiêu, vừa là nhân tố quyết định của cách mạng =&amp;gt; chăm lo đời sống vật chất và tinh thần của nhân dân
-@@@A###
-Pháp quyền nhân nghĩa được hiểu là:
-A. Nhà nước phải tôn trọng, đảm bảo thực hiện đây đủ quyền con người, chăm lo đến lợi ích của mọi người
-B. Nhà nước phải tôn trọng nhũng quyền tự do cá nhân, vì lợi ích của con người
-C. Nhà nước phải đàm bảo tính nhân văn trong pháp luật, quan tâm đến lợi ích mỗi người
-D. Nhà nước phải tôn trọng những quyền tự do cá nhân vì mục đích nhân văn cao cả
-@@@A###
-Hồ Chí Minh xác định huy hiệu của thanh niên là:
-A. Tay cầm cờ đỏ sao vàng tiến lên
-B. Tây cầm súng tiến lên
-C. Tay cầm khẩu hiệu tiến lên
-@@@A###
-Trong xã hội hiện nay, vận dụng tư tưởng HCM về đạo đức cán bộ có còn phù hợp không?
-A. Có. Vì tư tưởng của Người vẫn mang tính thời sự
-B. Không. Vì tư tưởng của Người đã không còn phù hợp
-C. Có. Vì tư tưởng của Người luôn mang tính thời sự vì vậy phải áp dụng phù hợp với từng nước.
-D. Không. Vì cán bộ hiện nay đều được rèn luyện đạo đức cách mạng trước khi thực hiện đặc biệt và thấm nhuần chủ nghĩa Mác-Lênin
-@@@C###
-Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ ở nước ta là phải:
-A. Xóa bỏ những tàn tích của chế độ xã hội cũ, xây dựng các giá trị mới phù hợp trên tất cà các lĩnh vực đời sống xã hội
-B. Củng cố và phát triển các giá trị của xã hội cũ vẫn còn phù hợp để xây dựng chủ nghĩa xã hội
-C. Đấu tranh cải tạo, xóa bỏ tàn tích của chế độ xã hội cũ, xây dựng các yếu tố mỗi phù hợp với quy luật tiến lên chủ nghĩa xã hội trên tất cả các lĩnh vực đời sống
-D. Cải cách xã hội, kiên quyết đấu tranh bải trữ các giá trị của xã hội cũ để xây dựng chủ nghĩa xã hội trên tất cả các lĩnh vực đời sống
-@@@C###
-Vận dụng tư tưởng Hồ Chí Minh trong chiến lược đoàn kết quốc tế thì bộ phận nào là hạt nhân đoàn kết dân tộc và đoàn kết quốc tế?
-A. Đảng Cộng sản Việt Nam
-B. Nhà nước
-C. Đoàn thanh niên
-D. Mặt trận tổ quốc
-@@@A###
-Điền vào chỗ trống: Theo Nguyễn Ái Quốc "Công nông là gốc cách mạng, còn học trò, địa chủ nhỏ, nhà buôn nhỏ là... của cách mạng"?
-A. Liên minh
-B. Bầu bạn
-C. Đồng minh
-D. Bạn bè
-@@@B###
-Hồ Chí Minh khẳng định: "Văn hoá phải soi đường cho quốc dân đi" là nói đến vấn đề gì?
-A. Văn hoá là tiêu chỉ để đánh giá trình độ dân tộc
-B. Văn hoá chính trị là một trong những động lực cho sự phát triển
-C. Văn hoá là bản sắc dân tộc
-D. Văn hoá là niềm tin của quần chúng
-@@@B###
-Khi bàn về vấn đề đại đoàn kết toàn dân tộc, Hồ Chí Minh đi đến kết luận có tính tổng kết: "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công". Ý nghĩa của tổng kết này là gì?
-A. Nói về mục tiêu của đại đoàn kết toàn dân tộc
-B. Nói về hình thức của đại đoàn kết toàn dân tộc
-C. Nói về bản chất của đại đoàn kết toàn dân tộc
-D. Nói về vai trò của đai đoàn kết toàn dân tôc
-@@@D###
-Theo Hồ Chí Minh, đoàn kết phải căn cứ vào điều gì? 
-A. Tự do 
-B. Phê bình 
-C. Đầu tranh 
-D. Lợi ích chung
-@@@D###
-Theo quan điểm của Hồ Chí Minh, nội dung xây dựng con người cần quan tâm xây dựng con người toàn diện như thế nào?
-A. Vừa "hồng" vừa "chuyên"
-B. Vừa "cần" vừa "kiệm"
-C. Vừa "kiệm" vừa "liêm"
-D. Vừa "chuyên" vửa "cần"
-@@@A###
-Hồ Chí Minh cho rằng phát triển giáo dục để làm gì?
-A. Nâng cao dân trí
-B. Phát triển lâu dài
-C. Chuẩn bị nhân tài
-D. Mục tiêu bên vũng
-@@@A###
-Hồ Chí Minh vạch ra lực lượng cách mạng giải phóng dân tộc:
-A. Cách mạng là sự nghiệp của quần chúng bị áp bức
-B. Cách mạng là sự nghiệp của công nông
-C. Cách mạng là sự nghiệp của mọi người dân
-@@@A###
-Theo quan điểm của Hồ Chí Minh, tố chức nào sau đây có nhiệm vụ thực hiện sự khối đại đoàn kết toàn dân tộc?
-A. Mặt trận dân tộc thống nhất
-B. Mặt trận dân chủ
-C. Mặt trận nhãn dẫn
-D. Mặt trận Việt Minh
-@@@A###
-Chủ trương cầu ngoại viện, dùng bạo lực để khôi phục độc lập dân tộc là đường lối của nhà yêu nước nào?
-A. Phan Bội Châu
-B. Phan Chu Trinh
-C. Hồ Chí Minh
-D. Hoàng Hoa Thám
-@@@A###
-Đối tượng chủ yếu của tư tưởng Hồ Chí Minh là:(073-356-8678)
-A. Cách mạng xã hội chủ nghĩa
-B. Cách mạng Việt Nam
-C. Cách mạng Đông Dương
-D. Cách mạng dân tộc dân chủ nhân dân
-@@@B###
-Nội dung nào sau đây thuộc luận điểm sáng tạo của Hồ Chí Minh về vấn đề Đảng cộng sản?
-A. Về quy luật ra đời của Đảng Cộng sản Việt Nam
-B. Về vấn đề tổ chức của Đảng Cộng sản Việt Nam 
-C. Về nguyên tắc xây dựng Đảng Cộng sản Việt Nam
-@@@C###
-Theo Hồ Chí Minh, vi trùng rất độc này đẻ ra... không dám đổi mới sáng tạo. Người đang đề cập đến vấn đề gì?
-A. Chủ nghĩa cá nhân
-B. Đế quốc
-C. Chủ nghĩa tư bản
-D. Giặc đói
-@@@A###
-Luận điểm "Không có sự đồng tình ủng hộ của đại đa số nhân dân lao động đối với đội tiền phong của mình tức là đối với giai cấp vô sản, thì cách mạng vô sản không thể thực hiện được" là của ai?
-A. C. Mác
-B. Ph. Ångghen
-C. VI Lênin
-D. Hồ Chí Minh
-@@@C###
-Đâu không phải là điểm giống nhau giữa chủ nghĩa xã hội và chủ nghĩa cộng sản theo Hồ Chí Minh?
-A. Sức sản xuất phát triển dựa trên chế độ tư hữu
-B. Tư liệu sản xuất là của chung
-C. Không còn giai cấp áp bức bóc lột
-D. Năng suất lao động phát triển
-@@@A###
-Hồ Chí Minh cho rằng đoàn kết có ý nghĩa thế nào?
-A. Đoàn kết là yêu nước
-B. Đoàn kết là sáng tạo
-C. Đoàn kết là sức mạnh
-D. Đoàn kết là khôn ngoan
-@@@C###
-Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh bao gồm những thành tố nào?
-A. Chủ nghĩa yêu nước và văn hóa truyền thống Việt Nam Chủ nghĩa yêu nước và truyền thống văn hóa Việt Nam; tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do; và tĩnh thần quốc tế vô sản
-B. Tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do
-C. Ý chí tự lực, tự cường và tinh thần quốc tế vô sản
-D. Chủ nghĩa yêu nước và truyền thống văn hóa Việt Nam; tinh thần đoàn kết, ý thức đấu tranh cho độc lập, tự do; và ý chí tự lực, tự cường
-@@@D###
-Việt Nam Độc lập Đồng minh được thành lập vào thời gian nào?
-A. 19/5/1941
-B. 19/5/1930
-C. 26/3/1941
-D. 3/9/1945
-@@@A###
-Theo Hồ Chí Minh cho rằng đạo đức cách mạng không phải là điều gì?
-A. Từ trên trời sa xuống
-B. Phẩm chất vốn có
-C. Tự nhiên mà có
-D. Có sẵn trong tự nhiên
-@@@A###
-Theo Hồ Chí Minh, đường lối của nhà yêu nước nào còn "nặng cốt cách phong kiến"?
-A. Phan Châu Trinh
-B. Phan Bội Châu
-C. Hoàng Hoa Thám
-D. Nguyễn Thái Học
-@@@C###
-Hồ Chí Minh cho rằng công tác cán bộ cần chú ý.
-A. Hiểu và đánh giá đúng đảng viên
-B. Hiểu và đánh giá đúng cán bộ
-C. Hiểu và đánh giá đúng quần chúng
-@@@B###
-Nội dung cốt lõi của tư tưởng Hồ Chí Minh về mối quan hệ giữa độc lập dân tộc và chủ nghĩa xã hội là gì?
-A. Độc lập dân tộc là cơ sở, tiền đề để tiến lên chủ nghĩa xã hội, chủ nghĩa xã hội là điều kiện để bảo đảm nền độc lập dân tộc vững chắc
-B. Hồ Chí Minh đã chỉ ra độc lập dân tộc là bao gồm cả nội dung dân tộc và dân chủ
-C. Độc lập dân tộc mà dân vẫn không có cơm ăn, áo mặc, không được học hành thì độc lập đó không có ý nghĩa gì
-D. Cuộc cách mạng giải phóng dân tộc ở Việt Nam ngay từ đầu đã được Hồ Chí Minh xác định đi theo con đường cách mạng vô sản
-@@@A###
-Điều kiện thực hiện khối đại đoàn kết tư tưởng Hồ Chí Minh về khối đại đoàn kết dân tộc?
-A. Truyền thống yêu thiên nhiên
-B. Truyền thống yêu con người
-C. Truyền thống yêu nước, nhân ái, tinh thần cố kết cộng đồng
-D. Truyền thống yêu hoà bình
-@@@C###
-Con người xã hội chủ nghĩa theo Hồ Chí Minh đó là
-A. "Có tư tưởng và tác phong xã hội chủ nghĩa"
-B. "Những người nằm trong xã hội chủ nghĩa"
-C. "Có ý thức xây dựng đất nước"
-D. "Chăm lao động"
-@@@B###
-Theo quan điểm của Hồ Chí Minh, đại đoàn kết dân tộc là một mục tiêu, nhiệm vụ hàng đầu của cách mạng Việt Nam và đồng thời cách mạng là sự nghiệp của ai?
-A. Của quần chúng, do quần chúng và vì quần chúng
-B. Của dân, do dân và vì dân
-C. Của người lao động nói chung
-D. Của công - nông - trí
-@@@A###
-Vì sao Hồ Chí Minh lại khẳng định: đại đoàn kết toàn dân tộc phải được xác định là nhiệm vụ hàng đầu của Đảng?
-A. Vì đại đoàn kết toàn dân tộc không chi là khẩu hiệu chiến lược, mà còn là mục đích của cách mạng cần phải được quán triệt trong tất cả mọi lĩnh vực, từ đường lối, chủ trương, chính sách tới hoạt động thực tiễn của Đảng
-B. Vì Đảng là lực lượng vận động, thuyết phục và hướng dẫn quần chúng nhân dân
-C. Vì Đảng là lực lượng lãnh đạo cách mạng Việt Nam
-D. Vì Đảng là lực lượng giáo dục, giác ngộ quần chúng nhân dân và liên lạc với vô sản các nước
-@@@A###
-Tóm tắt nội dung chữ "Cần" theo tư tưởng Hồ Chí Minh là gì?
-A. Cần tức là lao động cần cù, siêng năng; lao động có kế hoạch, sáng tạo, có năng suất cao
-B. Cần tức là siêng năng, chịu khó, cố gắng hoàn thành công việc
-C. Cần tức là làm việc cần mẫn, giành nhiều thời gian cho công việc
-D. Cần tức là siêng năng, cố gắng, tích cực trong công tác
-@@@A###
-Điểm khác biệt giữa tinh thần nhân ái của Hồ Chí Minh và Khổng Từ ở chỗ
-A. Không chỉ tình thương cho dân tộc mình, mà còn cho các dân tộc khác
-B. Không chỉ tình thương cho con người, mà còn cho cả giai cấp
-C. Không chỉ tình thương cho đồng bào, mà còn cho cả nhân loại
-D. Không chỉ thình thương giai cấp minh, mà còn cho các giai cấp khác
-@@@C###
-Nhận định nào sau đây đúng với khải niệm con người trong tư tưởng Hồ Chí Minh?
-A. Dùng để chỉ con người chung chung
-B. Dùng đẽ chỉ một cộng đông người
-C. Dùng để chỉ con người cụ thế gắn với hoàn cảnh lịch sử cụ thế
-D. Dùng để chỉ con người trừu tượng
-@@@C###
-Hồ Chí Minh cho rằng thầy giáo, cô giáo trong chế độ ta cần phải góp phần vào:
-A. Công cuộc xây dựng CNXH
-B. Công cuộc kháng chiến chống Mỹ cứu nước
-C. Công cuộc xây dựng xã hội mới
-@@@A###
-Đâu là quan điểm của Hồ Chí Minh về văn hóa?
-A. Theo Hồ Chí Minh, văn hóa không thụ động, ngồi chờ cho kinh tế phát triển. Phát triển văn hóa tạo điều kiện thúc đẩy phát triển kinh tế
-B. Theo Hồ Chí Minh, văn hóa không thụ động, ngồi chờ cho kinh tế phát triển. Phát triển văn hóa tạo điều kiện thúc đẩy phát triển xã hội
-C. Theo Hồ Chí Minh, văn hóa không thụ động, ngồi chờ cho kinh tế phát triển. Phát triển văn hóá tạo điều kiện thúc đẩy phát triển chính trị
-D. Theo Hồ Chí Minh, văn hóa không thụ động, ngồi chờ cho kinh tế phát triển. Phát triển văn hóá tạo điều kiện thúc đẩy phát triển thiết chế pháp luật
-@@@A###
-Đề cập đến vấn đề dân tộc thuộc địa, khác với Mác và Lênin, Hồ Chí Minh bàn nhiều về cuộc đấu tranh nào:
-A. Chống chủ nghĩa phát xít, giải phóng giai cấp
-B. Chống địa chủ phong kiến, giải phóng cho nông dân
-C. Chống chủ nghĩa thực dân, đầu tranh giải phóng dân tộc ở thuộc địa
-D. Chống chủ nghĩa tư bản, giải phóng cho giai cấp
-@@@C###
-Quan điểm nào dưới đây là phương thức tiếp cận về chủ nghĩa xã hội của Hồ Chí Minh?
-A. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ phương diện đạo đức. Chủ nghĩa xã hội là đối lập với chủ nghĩa cá nhân.
-B. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ phương diện đạo đức. Chủ nghĩa xã hội là đối lập với chủ nghĩa nhân văn.
-C. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ phương diện đạo đức. Chủ nghĩa xã hội là đối lập với chủ nghĩa vị lợi.
-D. Hồ Chí Minh tiếp cận chủ nghĩa xã hội từ phương diện đạo đức. Chủ nghĩa xã hội là đối lập với chủ nghĩa vị kỷ.
-@@@A###
-Người cho rằng: "Trước mặt quần chúng, không phải ta cứ viết lên trán chữ "cộng sản" mà ta được họ yêu mến. Quần chúng chi quý mến những người có...". Từ nào còn thiếu trong câu trên?
-A. tư cách, đạo đức
-B. tư cách, học thức
-C. đạo đức, học thức
-D. uy quyền, đạo đức
-@@@A###
-"Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!". Điều khẳng định trên được Hồ Chí Minh nêu ra tại văn kiện nào sau đây?
-A. Lời kêu gọi toàn quốc kháng chiến
-B. Bài phát biểu tại lễ kỷ niệm 30 năm thành lập Đảng
-C. Lời kêu gọi đồng bào và chiến sĩ cả nước
-D. Di chúc
-@@@C###
-Để có thể biến sức mạnh tinh thần đoàn kết thành sức mạnh vật chất, theo Hồ Chí Minh cần xây dựng tổ chúc nào?
-A. Đàng Cộng sản
-B. Quân đội
-C. Nhà nước
-D. Mặt trận dân tộc thống nhất
-@@@D###
+@@@D. Quốc hội.
+###
+232. Thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ đấu tranh giai cấp trong điều kiện mới, điều kiện đó là gì?
+A. Đảng Cộng sản đã được thành lập, và ngày càng thể hiện vai trò lãnh đạo tích cực trong phong trào đấu tranh giành chính quyền
+B. Giai cấp tư sản đã trở thành lực lượng phản động
+C. Giai cấp công nhân và nhân dân lao động đã trở thành giai cấp cầm quyền
+D. Sự phát triển của công nghiệp hóa dẫn đến thất nghiệp tràn lan
+@@@C. Giai cấp công nhân và nhân dân lao động đã trở thành giai cấp cầm quyền.
+###
+233. Đâu là một tôn giáo nội sinh của Việt Nam?
+A. Đạo Cao đài
+B. Tin lành
+C. Phật giáo
+D. Hội Thánh Đức chúa trời
+@@@A. Đạo Cao đài.
+###
+234. Căn cứ vào tính chất của quyền lực nhà nước, chức năng nào của nhà nước xã hội chủ nghĩa là quan trọng nhất, mang ý nghĩa then chốt, quyết định?
+A. Chức năng giai Cấp (trấn áp)
+B. Chức năng đối nội
+C. Chức năng đối ngoại
+D. Chức năng xã hội (tổ chức và xây dựng)
+@@@D. Chức năng xã hội (tổ chức và xây dựng).
+###
+235. Đâu là các đại biểu của chủ nghĩa xã hội không tưởng phê phán Pháp? (Chọn 3 đáp án)
+A. Xanh Ximông
+B. S. Phurie
+C. R.Oen
+D. Ph.Hêghen
+@@@B. S. Phurie; C. R.Oen.
+###
+236. Các chủ trương, chính sách phát triển kinh tế - xã hội miền núi, vùng đồng bào các dân tộc thiểu số ở nước ta nhằm mục đích gì?
+A. Phát huy tiềm năng phát triển, rút ngắn khoảng cách chênh lệch giữa các vùng, các dân tộc
+B. Bù đắp cho đồng bào ở các nơi này để động viên họ cố gắng giữ gìn bờ cõi quốc gia
+C. Giảm thiểu sự lợi dụng điều kiện sống cực khổ của các nơi này để kích động thực hiện mưu đồ chia rẽ
+D. Tận dụng mọi nguồn lực để tăng trưởng kinh tế khi ở các vùng đồng bằng đã cạn kiệt
+@@@A. Phát huy tiềm năng phát triển, rút ngắn khoảng cách chênh lệch giữa các vùng, các dân tộc.
+###
+237. Trong quá trình xây dựng chủ nghĩa xã hội, chủ trương bảo vệ chế độ hôn nhân một vợ, một chồng nhằm mục đích gì?
+a. Tất cả các đáp án đều đúng
+b. Điều hòa mâu thuẫn trong gia đình
+c. Thực hiện bình đẳng trong gia đình, giải phóng phụ nữ
+d. Hạn chế các tệ nạn xã hội như mại dâm, bạo lực gia đình
+e.Đảm bảo hiệu quả cho sự quản lý nhà nước về gia đình
+Nếu không có a chọn c
+@@@C. Thực hiện bình đẳng trong gia đình, giải phóng phụ nữ.
+###
+238. Quá độ từ xã hội tiền tư bản chủ nghĩa phát triển lên chủ nghĩa xã hội là hình thức quá độ nào?
+A. Quá độ gián tiếp
+B. Quá độ trực tiếp
+C. Quá độ bộ phận
+D. Quá độ toàn diện
+@@@A. Quá độ gián tiếp.
+###
+239. Tổ chức quyền lực của Nhà nước pháp quyền xã hội chủ nghĩa đảm bảo quyền lực nhà nước là:
+A. Đồng nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước
+B. Cùng nhau, có sự phân công và phối hợp giữa các cơ quan nhà nước
+C. Thống nhất, có sự phản công và phối hợp giữa các cơ quan nhà nước
+D. Chia đều, có sự phân công và phối hợp giữa các cơ quan nhà nước
+@@@C. Thống nhất, có sự phản công và phối hợp giữa các cơ quan nhà nước.
+###
+240. Xét trên phương diện kinh tế - xã hội, thì giai cấp nào là những người lao động trực tiếp hay gián tiếp vận hành các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại và xã hội hóa cao?
+A. Địa chủ
+B. Tư sản
+C. Công nhân
+D. Nông dân
+@@@C. Công nhân.
+###
+241. Tại sao nói gia đình là tế bào của xã hội?
+A. Vì bất kì ai cũng có gia đình riêng, có con cái và cha mẹ
+B. Tất cả các đáp án đều đúng
+C. Vì gia đình là cơ chế quản lý xã hội ở cấp độ nhỏ nhất, không thể phân chia được nữa
+D. Vì gia đình sản xuất ra tư liệu tiêu dùng, tư liệu sản xuất và tái sản xuất ra con người
+@@@D. Vì gia đình sản xuất ra tư liệu tiêu dùng, tư liệu sản xuất và tái sản xuất ra con người.
+###
+242. Những giá trị nào sau đây được nhân loại thừa nhận và phấn đấu thực hiện?
+A. Lao động, sáng tạo, công bằng, dân chủ, bình đẳng, phát triển
+B. Lao động, sáng tạo, công bằng, dân chủ, tự do
+C. Lao động, sáng tạo, công bằng, dân chủ, bình đẳng, tự do
+D. Lao động, sáng tạo, công bằng, dân chủ, bình đẳng
+@@@C. Lao động, sáng tạo, công bằng, dân chủ, bình đẳng, tự do.
+###
+243. Theo quan điểm của chủ nghĩa Mác - Lênin, từ chủ nghĩa tư bản lên chủ nghĩa xã hội tất yếu phải trải qua thời kỳ gì?(NHUNG HOÀNG)
+A. Phát triển của loài người
+B. Phát triển lực lượng sản xuất và quan hệ sản xuất
+C. Quá độ chính trị
+D. Thay đổi phương thức sản xuất
+@@@C. Quá độ chính trị.
+###
+244. Vấn đề sau đây do ai khẳng định: "Trong mọi thời đại lịch sử, sản xuất kinh tế và cơ cấu xã hội - cơ cấu này tất yếu phải do sản xuất kinh tế mà ra, - cả hai cái đó cấu thành cơ sở của lịch sử chính trị và lịch sử tư tưởng của thời đại ấy..."?
+A. Chủ tịch Hồ Chí Minh
+B. C.Mác
+C. Ph.Ăngghen
+D. V.I.Lênin
+@@@C. Ph.Ăngghen.
+###
+245. Trong bối cảnh hội nhập kinh tế quốc tế và cạnh tranh hàng hóa trong khu vực và thế giới, kinh tế gia đình gặp khó khăn, trở ngại do nguyên nhân gì?
+A. Do thói quen, tập quán an phận, ngại thay đổi của nền tảng gia đình cũ
+B. Do chính sách điều tiết của Nhà nước thúc đẩy kinh tế hộ gia đình phát triển thành doanh nghiệp
+C. Do gia đình ngày càng ít thành viên hơn
+D. Do kinh tế gia đình phần lớn có quy mô nhỏ, lao động ít, tự sản xuất là chính
+@@@D. Do kinh tế gia đình phần lớn có quy mô nhỏ, lao động ít, tự sản xuất là chính.
+###
+246. Các dân tộc đều có quyền và nghĩa vụ ngang nhau trên tất cả các lĩnh vực đời sống xã hội, không phân biệt dân tộc lớn hay nhỏ, trình độ phát triển cao hay thấp là quyền gì trong Cương lĩnh dân tộc của V.I.Lênin?
+A. Quyền công bằng xã hội
+B. Quyền hoàn toàn bình đẳng giữa các dân tộc
+C. Quyền dân tộc tự quyết
+D. Quyền sống, quyền tự do và quyền hạnh phúc của các dân tộc
+@@@B. Quyền hoàn toàn bình đẳng giữa các dân tộc.
+###
+247. Dân chủ với tư cách là một giá trị xã hội, thì nó là:
+A. Phạm trù lịch sử, tồn tại ngoài chế độ quân chủ phong kiến
+B. Phạm trù vĩnh viễn, tồn tại trong mọi chế độ xã hội
+C. Phạm trù lịch sử, mất đi khi tiến lên chủ nghĩa xã hội
+D. Pham trù lịch sử, mất đi khi nhà nước tiêu vong
+@@@B. Phạm trù vĩnh viễn, tồn tại trong mọi chế độ xã hội.
+###
+248. Sứ mệnh lịch sử thế giới của giai cấp công nhân là:
+A. Xóa bỏ sự thống trị áp bức của chủ nghĩa tư bản, xây dựng thành công chế độ xã hội mới - xã hội chủ nghĩa và cộng sản chủ nghĩa, tiến tới một xã hội không còn giai cấp
+B. Xóa bỏ sự thống trị áp bức của chế độ phong kiến, xây dựng thành công chế độ xã hội mới - xã hội chủ nghĩa và cộng sản chủ nghĩa, tiến tới một xã hội không còn giai cấp
+C. Xóa bỏ sự thống trị áp bức của chế độ công xã nguyên thủy, xây dựng thành công chế độ xã hội mới - xã hội chủ nghĩa và cộng sản chủ nghĩa, tiến tới một xã hội không còn giai cấp
+D. Xóa bỏ sự thống trị áp bức của chủ nghĩa tư bản, xây dựng thành công chế độ xã hội mới - phong kiến
+@@@A. Xóa bỏ sự thống trị áp bức của chủ nghĩa tư bản, xây dựng thành công chế độ xã hội mới - xã hội chủ nghĩa và cộng sản chủ nghĩa, tiến tới một xã hội không còn giai cấp.
+###
+249. Vấn đề: "Dân chủ là quyền lực thuộc về nhân dân, nhân dân là chủ nhân của nhà nước" được đề cập trên phương diện nào theo chủ nghĩa Mác - Lênin Về dân chủ?
+A. Phương diện tổ chức và quản lý xã hội
+B. Phương diện quyền lực
+C. Phương diện chế độ xã hội và trong lĩnh vực chính trị
+D. Phương diện bảo vệ xã hội
+@@@B. Phương diện quyền lực.
+###
+250. Trong thời gian qua, việc tăng cường các chương trình đào tạo quốc tế, hướng đến công dân toàn cầu, người lao động có trình độ cao thích ứng với toàn cầu hóa nằm trong giải pháp thứ mấy của các giải pháp xây dựng giai cấp công nhân hiện nay?
+A. 1
+B. 2
+C. 3
+D. 4
+@@@B. 2.
+###
+251. Theo VI Lênin: Giai Cấp công nhân nếu không liên minh với giai cấp nào thì không thể có được chính quyền của giai cấp vô sản?
+A. Nông dân
+B. Bóc lột
+C. Tư sản
+D. Địa chủ
+@@@A. Nông dân.
+###
+252. Theo chủ nghĩa Mác - Lênin, tôn giáo là gì?
+A. Là một thiết chế xã hội phản ánh chân thật hiện thực khách quan
+B. Là một hình thái ý thức xã hội, phản ánh hư ảo hiện thực khách quan
+C. Là một cơ sở xã hội, phản ánh các ý chí, nguyện vọng của tin đó theo một giáo lý nào đó
+D. Là một thực thể xã hội, điều chỉnh tâm lý con người hiệu quả
+@@@B. Là một hình thái ý thức xã hội, phản ánh hư ảo hiện thực khách quan.
+###
+253. Đâu là một trong tám đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam được đề cập trong Văn kiện Đại hội đại biểu toàn quốc lần thứ XI của Đảng Cộng sản Việt Nam?
+A. Dân giàu, nước mạnh, dân chủ, văn minh
+B. Dân giàu, nước mạnh, con người có cuộc sống ấm no
+C. Do nhân dân làm chủ
+D. Nhà nước pháp quyền xã hội chủ nghĩa, nhà nước của nhân dân lao động
+@@@A. Dân giàu, nước mạnh, dân chủ, văn minh.
+###
+254. Nhà nước Xã hội chủ nghĩa là nhà nước của
+A. Thiểu số thống trị đa Số
+B. Đa số thống trị thiểu số
+C. Sự dung hòa lợi ích các giai cấp
+D. Sự đấu tranh quyền lực trong bối cảnh mới
+@@@B. Đa số thống trị thiểu số.
+###
+255. Trong thời kỳ quá độ lên chủ nghĩa xã hội, bên cạnh sự liên minh chặt chẽ trên cơ sở thống nhất lợi ích kinh tế giữa giai cấp công nhân, nông dân và trí thức, còn xuất hiện vấn đề gì?
+A. Xuất hiện những mâu thuẫn lợi ích ở những mức độ khác nhau
+B. Xuất hiện sự đấu tranh kịch liệt trong hệ thống chuyên chính vô sản
+C. Xuất hiện sự chống phá của các giai cấp trong liên minh
+D. Xuất hiện sự chuyên quyền, độc đoán của một bộ phận
+@@@A. Xuất hiện những mâu thuẫn lợi ích ở những mức độ khác nhau.
+###
+256. Quá trình phát triển của nền dân chủ xã hội chủ nghĩa được diễn ra như thế nào?
+A. Từ thấp đến cao, từ chưa hoàn thiện đến hoàn thiện
+B. Từ thấp đến cao, từ đơn giản đến phức tạp
+C. Từ thấp đến cao, diễn ra khó khăn
+D. Từ thấp đến cao, diễn ra một cách từ từ
+@@@A. Từ thấp đến cao, từ chưa hoàn thiện đến hoàn thiện.
+###
+257. Theo V.I.Lênin, mục đích cao cả nhất mà chủ nghĩa xã hội cần đạt đến là gì? ( Choose 3 answers)
+A. Xóa bỏ sự phân chia xã hội thành giai cấp
+B. Biến tất cả thành viên trong xã hội thành người lao động
+C. Tiêu diệt cơ sở của mọi tình trạng người bóc lột người
+D. Thiết lập quyền thống trị xã hội của giai cấp công nhân và nhân dân lao động
+@@@B. Biến tất cả thành viên trong xã hội thành người lao động.
+###
+258. Gia đình văn hóa là một mô hình gia đình như thế nào?
+A. Phát triển
+B. Tiến bộ
+C. Huyết thống
+D. Không được bảo vệ
+@@@B. Tiến bộ.
+###
+259. Hôn nhân một vợ một chồng xuất hiện lần đầu tiên khi nào?
+A. Khi có sự thắng lợi của chế độ tư hữu đối với chế độ công hữu nguyên thủy
+B. Khi có sự thắng thế của chế độ tư bản đối với chế độ phong kiến
+C. Khi các quốc gia bước vào thời kỳ quá độ lên chủ nghĩa xã hội
+D. Khi con người xuất hiện
+@@@A. Khi có sự thắng lợi của chế độ tư hữu đối với chế độ công hữu nguyên thủy.
+###
+260. "Sống có việc làm hay là chết trong đấu tranh" là khẩu hiệu của giai cấp công nhân ở đâu?
+A. Công xã Pari
+B. Vương Quốc Anh
+C. Đức
+D. Nhà máy dệt Lion
+@@@D. Nhà máy dệt Lion.
+###
+261. Vấn đề chiến lược, cơ bản, lâu dài và cấp bách trong việc giải quyết mối quan hệ dân tộc và tôn giáo ở Việt Nam hiện nay là gì?
+A. Đảm bảo sự lãnh đạo của Đảng Cộng sản Việt Nam, tuân thủ nguyên tắc, lập trường chính trị của giai cấp công nhân
+B. Đảm bảo các tôn giáo, dân tộc chuyển biến tích cực
+C. Đảm bảo hài hòa lợi ích, giảm thiểu tới mức tối đa mâu thuẫn lợi ích, nhất là mâu thuẫn lợi ích kinh tế
+D. Củng cố mối quan hệ tốt đẹp giữa dân tộc và tôn giáo, củng cố khối đại đoàn kết toàn dân tộc và đoàn kết tôn giáo
+@@@D. Củng cố mối quan hệ tốt đẹp giữa dân tộc và tôn giáo, củng cố khối đại đoàn kết toàn dân tộc và đoàn kết tôn giáo.
+###
+262. Dân chủ xã hội chủ nghĩa có bản chất kinh tế khác với dân chủ tư sản ở điểm nào? (Chọn 2)
+A. Chế độ công hữu về tư liệu sản xuất chủ yếu
+B. Thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu
+C. Sự tổ chức quyền lực nhà nước do đảng cộng sản lãnh đạo
+D. Sự đa dạng, phong phú về chế độ sở hữu chủ yếu
+@@@A. Chế độ công hữu về tư liệu sản xuất chủ yếu; B. Thực hiện chế độ phân phối lợi ích theo kết quả lao động là chủ yếu.
+###
+263. Theo quan điểm của chủ nghĩa Mác - Lênin, Về bản Chất, tôn giáo do ai sáng tạo ra?
+A. Chúa trời
+B. Đức Phật
+C. Các thế lực siêu nhiên
+D. Con người
+@@@D. Con người.
+###
+264. Những lực lượng nào đóng vai trò quan trọng trong việc đẩy mạnh nghiên cứu sáng tạo và ứng dụng các thành tựu khoa học - công nghệ hiện đại?
+A. Đội ngũ trí thức, đội ngũ doanh nhân
+B. Giai cấp công nhân, đội ngũ trí thức
+C. Đội ngũ trí thức, giai cấp nông dân
+D. Đội ngũ doanh nhân, tầng lớp lao động trong xã hội
+@@@B. Giai cấp công nhân, đội ngũ trí thức.
+###
+265. Tại sao trong gia đình Việt Nam truyền thống trước kia lại quan niệm có càng đông con càng tốt và nhất thiết phải có con trai nối dõi?
+A. Do dân số ít và nam giới quá hiếm
+B. Do không có các biện pháp kế hoạch hóa gia đình
+C. Do con cái mang họ cha
+D. Do ảnh hưởng phong tục, tập quán và nhu cầu sản xuất nông nghiệp
+@@@D. Do ảnh hưởng phong tục, tập quán và nhu cầu sản xuất nông nghiệp.
+###
+266. Ba bộ phận hợp thành chủ nghĩa Mác - Lênin là gì?
+A. Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin và Chủ nghĩa xã hội không tưởng phê phán
+B. Kinh tế chính trị Mác - Lênin, Tư tưởng Hồ Chí Minh và Chủ nghĩa xã hội không tưởng phê phán
+C. Triết học Mác - Lênin, Tư tưởng Hồ Chí Minh và Kinh tế chính trị học cổ điển Anh
+D. Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin và Chủ nghĩa xã hội khoa học
+@@@D. Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin và Chủ nghĩa xã hội khoa học.
+###
+267. Chủ nghĩa xã hội khoa học có chức năng giác ngộ và hướng dẫn giai cấp công nhân thực hiện sứ mệnh lịch sử của mình trong thời kỳ nào?
+A. Thời kỳ đấu tranh lật đổ sự thống trị của giai cấp tư sản, giành chính quyền, xây dựng chủ nghĩa xã hội
+B. Thời kỳ đấu tranh lật đổ sự thống trị của giai cấp địa chủ, giành chính quyền, xây dựng chủ nghĩa xã hội
+C. Thời kỳ đấu tranh lật đổ sự thống trị của giai cấp tư sản, giành chính quyền,
+D. Thời kỳ đấu tranh lật đổ sự thống trị của giai cấp chủ nô, giành chính quyền, xây dựng chủ nghĩa xã hội
+@@@A. Thời kỳ đấu tranh lật đổ sự thống trị của giai cấp tư sản, giành chính quyền, xây dựng chủ nghĩa xã hội.
+###
+268. Theo chủ nghĩa Mác - Lênin thi lịch sử xã hội đã trải qua mấy hình thái kinh tế - xã hội?
+A. 2
+B. 3
+C. 4
+D. 5
+(Kiểu hỏi khác: Chủ nghĩa Mác Lênin đã chia lịch sử vận động và phát triển của xã hội thành mấy hình thái kinh tế xã hội?)
+@@@D. 5.
+###
+269. Phương thức căn bản và quan trọng để thực hiện và tăng cường liên minh công - nông - trí thức ở Việt Nam hiện nay là gì?
+A. Đẩy mạnh công nghiệp hóa, hiện đại hóa; xây dựng nông thôn mới; phát triển kinh tế tri thức, nâng cao trình độ khoa học, công nghệ trong các ngành, lĩnh vực
+B. Đẩy mạnh nghiên cứu, sáng tạo các giải pháp mới nhằm thu hẹp nông thôn, mở rộng công nghiệp, chuyển đổi nhanh chóng cơ cấu kinh tế theo hướng dịch vụ và công nghiệp
+C. Từng bước xác lập vị trí chủ đạo của nền kinh tế tri thức và vai trò quan trọng bật nhất của đội ngũ trí thức
+D. Từng bước xác lập vị trí then chốt của kinh tế thị trường và vai trò quan trọng bật nhất của đội ngũ doanh nhân
+@@@A. Đẩy mạnh công nghiệp hóa, hiện đại hóa; xây dựng nông thôn mới; phát triển kinh tế tri thức, nâng cao trình độ khoa học, công nghệ trong các ngành, lĩnh vực.
+###
+270. Trong thời kỳ quá độ lên chủ nghĩa xã hội, yếu tố nào quyết định mối quan hệ hợp tác và gắn bó chặt chẽ giữa các giai cấp, tầng lớp và các nhóm xã hội?
+A. Họ cùng nhau chung sức cải tạo xã hội cũ, xây dựng xã hội mới trong mọi lĩnh vực của đời sống xã hội
+B. Họ cùng nhau phân chia quyền lực trong một chế độ nhà nước, vừa canh tranh, vữa động hành cùng nhau trong mọi lĩnh vực của đời sống xã hội
+C. Họ cùng sống trong một chế độ xã hội, một quốc gia dân tộc cụ thể, cho nên tính dân tộc bắt buộc họ phải gắn bó chặt chẽ với nhau
+D. Tất cả đáp án đều đúng
+@@@A. Họ cùng nhau chung sức cải tạo xã hội cũ, xây dựng xã hội mới trong mọi lĩnh vực của đời sống xã hội.
+###
+271. Hình thức gia đình nào hình thành sớm nhất trong lịch sử?(NHUNG HOÀNG)
+a. Gia đình một vợ một chồng
+b. Gia đình phụ hệ
+c. Đại gia đình phụ hệ
+d. Gia đình mẫu hệ
+@@@D. Gia đình mẫu hệ.
+###
+272. Trong thời đại ngày nay, mục tiêu chính trị chủ yếu của mọi quốc gia khi giải quyết các vấn đề quốc gia - dân tộc là gì?(NHUNG HOÀNG)
+a. Độc lập dân tộc
+b. Lợi ích kinh tế
+c. Phân chia quyền lực nhà nước
+d. Tất cả đáp án đều đúng
+@@@A. Độc lập dân tộc.
+###
+273. Các quan hệ gia đình biến đổi, phát triển phụ thuộc vào điều gì?
+a. Trình độ phát triển kinh tế và thể chế chính trị - xã hội
+b. Số lượng thành viên trong gia đình
+c. Điều kiện kinh tế của từng cá nhân trong gia đình
+d. Các yếu tố đạo đức của một xã hội
+@@@A. Trình độ phát triển kinh tế và thể chế chính trị - xã hội.
+###
+274. Tại sao nói nhà nước xã hội chủ nghĩa là nhà nước kiểu mới?
+a. Vì nó xuất hiện trễ nhất trong các kiểu nhà nước
+b. Vì bản chất của nó đối lập với các kiểu nhà nước bóc lột từng có trong lịch sử
+c. Vì do không tuân theo các quy tắc tổ chức nhà nước cổ điển
+d. Tất cả các đáp án đều đúng
+@@@B. Vì bản chất của nó đối lập với các kiểu nhà nước bóc lột từng có trong lịch sử.
+###
+275. Xã hội loài người đã trải qua 5 hình thái kinh tế - xã hội đó, hình thái nào được xem là "thai nghén" trong lòng xã hội tư bản chủ nghĩa?
+a. Hình thái kinh tế - xã hội chiếm hữu nô lệ
+b. Hình thái kinh tế - xã hội phong kiến
+c. Hình thái kinh tế - xã hội tư bản chủ nghĩa
+d. Hình thái kinh tế - xã hội cộng sản chủ nghĩa
+@@@D. Hình thái kinh tế - xã hội cộng sản chủ nghĩa.
+###
+276. Với sự phát triển của hệ thống giáo dục xã hội và sự phát triển kinh tế hiện nay, vai trò giáo dục của các chủ thể trong gia đình có sự biến đổi như thế nào?
+a. Vai trò giáo dục của các thành viên trong gia đình có xu hướng giảm xuống
+b. Vai trò giáo dục của các thành viên trong gia đình có xu hướng gia tăng
+c. Vai trò giáo dục của cha mẹ ngày càng được tăng cường, dành nhiều thời gian chăm sóc, giáo dục con cái hơn
+d. Vai trò giáo dục của ông bà ngày càng quan trọng hơn
+@@@A. Vai trò giáo dục của các thành viên trong gia đình có xu hướng giảm xuống.
+###
+277. Hôn nhân tiến bộ là hôn nhân xuất phát từ đâu?
+A. Từ tình yêu giữa nam và nữ
+B. Từ quan hệ kinh tế - xã hội
+C. Từ cơ sở pháp lý được xã hội công nhân
+D. Từ các yếu tố đạo đức truyền thống
+@@@A. Từ tình yêu giữa nam và nữ.
+###
+278. Trong các chế độ xã hội trước, sự thống trị của người đàn ông trong gia đình là kết quả của việc gì?
+a. Của sự thống trị về kinh tế
+b. Của sự phát triển chế độ quân chủ
+c. Của sự thống trị về văn hóa
+d. Của sự thống trị về chính trị
+@@@A. Của sự thống trị về kinh tế.
+###
+279. Điền cụm từ thích hợp vào (...): "Giai cấp ..., trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những ... nhiều hơn và đồ sộ hơn lực lượng sản xuất của tất cả các thế hệ trước kia gộp lại".
+a. Tư sản/ Lực lượng sản xuất
+b. Tư sản/ Quan hệ sản xuất
+c. Vô sản/ Tư sản
+d. Vô sản/ Giai cấp nông dân
+@@@A. Tư sản/ Lực lượng sản xuất.
+###
+280. "Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp" được đề cập tại Đại hội lần thứ bao nhiêu của Đảng?
+a. X
+b. XI
+c. XII
+d. XIII
+@@@D. XIII.
+###
+281. Theo C.Mác và Ph.Ăngghen thì hình thái kinh tế - xã hội cộng sản chủ nghĩa phát triển như thế nào?
+a. Phát triển theo hình xoáy ốc
+b. Phát triển ý muốn chủ quan của con người
+c. Phát triển theo sở thích của một đấng siêu nhiên nào đó trong vũ trụ
+d. Phát triển từ thấp lên cao
+@@@D. Phát triển từ thấp lên cao.
+###
+282. Để các nước đang trong thời kỳ quá độ lên chủ nghĩa xã hội xây dựng được cơ sở kinh tế vững mạnh, chế độ chính trị xã hội ngày càng được củng cố vững chắc thì cần phải có sự liên minh của những lực lượng nào?
+a. Giai cấp công nhân, giai cấp nông dân, tầng lớp nhân dân lao động khác
+b. Giai cấp nông dân, giai cấp tư sản, chính quyền
+c. Giai cấp nông dân, đội ngũ trí thức, đội ngũ doanh nghiệp
+d. Giai cấp công nhân, đội ngũ trí thức, đội ngũ doanh nghiệp
+@@@A. Giai cấp công nhân, giai cấp nông dân, tầng lớp nhân dân lao động khác.
+###
+283. Vấn đề: "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh" là đặc trưng thứ mấy trong 08 đặc trưng cơ bản của chủ nghĩa xã hội ở Việt Nam? (Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội bổ sung, phát triển năm 2011)
+a. 1
+b. 3
+c. 6
+d. 8
+@@@A. 1.
+###
+284. Mâu thuẫn cơ bản của hình thái kinh tế - xã hội tư bản chủ nghĩa biểu hiện về mặt xã hội là:
+A. Mâu thuẫn xung đột lợi ích của các nhà tư sản khác nhau
+B. Cuộc đấu tranh của giai cấp công nhân chống lại giai cấp tư sản ngày càng gay gắt
+C. Cuộc cạnh tranh giành việc làm của những người công nhân để tránh không bị thất nghiệp
+D. Cuộc đấu tranh giành quyền điều hành quốc gia của các đảng phải tư sản
+@@@B. Cuộc đấu tranh của giai cấp công nhân chống lại giai cấp tư sản ngày càng gay gắt.
+###
+285. Trong thời đại ngày nay ở Việt Nam, đội ngũ công nhân trong thành phần kinh tế nào là tiêu biểu, đóng vai trò nòng cốt và chủ đạo?
+A. Thành phần kinh tế tư nhân
+B. Thành phần kinh tế tập thế
+C. Thành phần kinh tế nhà nước
+D. Thành phần kinh tế có Vốn đầu tư nước ngoài
+@@@C. Thành phần kinh tế nhà nước.
+###
+286. Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam mang bản chất giai cấp của giai cấp nào?
+A. Công nhân
+B. Nông dân
+C. Tư sản
+D. Tri thức
+@@@A. Công nhân.
+###
+287. Cơ cấu xã hội ở Việt Nam muốn biến đổi theo hướng tích cực phải dựa trên cơ sở gì?
+A. Tăng trưởng kinh tế bảng mới giá
+B. Sự giàu mạnh của các tổ chức, tập đoàn kinh tế lớn, cạnh tranh được với nước ngoài
+C. Sự phát triển của thành phần kinh tế nhà nước và tập thể
+D. Tăng trưởng, phát triển kinh tế nhanh và bền vững
+@@@D. Tăng trưởng, phát triển kinh tế nhanh và bền vững.
+###
+288. Cơ sở để xác định thời đại và phân chia thời đại là gì?
+A. Hình thái kinh tế - xã hội và vị trí của một giai cấp đứng ở vị trí trung tâm
+B. Vị trí của một giai cấp đứng ở vị trí trung tâm
+C. Sư phát triển của lực lượng sản xuất và một quan hệ sản xuất phù hợp
+D. Cách mạng xã hội chủ nghĩa do giai cấp công nhân lãnh đạo thành công
+@@@A. Hình thái kinh tế - xã hội và vị trí của một giai cấp đứng ở vị trí trung tâm.
+###
+289. Chính sách dân tộc của nước ta hiện nay giải quyết văn đề văn hóa của các dân tộc như thế nào?
+A. Tăng cường phát huy văn hóa tiên tiến của đồng bào dân tộc Kinh, vì chiếm đa số trong xã hội
+B. Loại bỏ các giá trị văn hóa truyền thông của các dân tộc thiểu sỡ đẽ phù hợp hơn với thời đại
+C. Giữ gìn và phát huy giá trị văn hóa truyền thống của các tộc người, phát triển ngôn ngữ, nâng cao trình độ văn hóa cho nhân dân các dân tộc
+D. Tăng cường cải tạo văn hóa của các dân tộc để thống nhất chung một bản sắc văn hóa Việt Nam
+@@@C. Giữ gìn và phát huy giá trị văn hóa truyền thống của các tộc người, phát triển ngôn ngữ, nâng cao trình độ văn hóa cho nhân dân các dân tộc.
+###
+290. Đúng hay sai khi cho rằng dân chủ ở nước ta là mọi công dân đều có quyền tự do tuyệt đối trong tất cả các mặt của đời sống xã hội mà không cần phải tuân theo bất kì điều gì?
+A. Đúng, dân chủ thật sự phải thực hiện được mọi nguyện vọng của bất kì người dân nào
+B. Không, đó là hệ giá trị dân chủ rộng rãi nhất mà nhân loại hướng tới, nhưng hiện tại ở nước ta chưa đạt tới trình độ đó
+C. Không đúng, dân chủ phải trong khuôn khổ của kỷ cương, pháp luật
+D. Không có đáp án nào dùng
+@@@C. Không đúng, dân chủ phải trong khuôn khổ của kỷ cương, pháp luật.
+###
+291. Theo nghĩa rộng, khái niệm dân tộc dùng để chỉ:
+A. Một quốc gia, toàn bộ nhân dân của một nước
+B. Một dân tộc cụ thể cùng chung sống trong một lãnh thổ quốc gia nhất định
+C. Tất cả các quốc gia đang sinh sống trên trái đất
+D.Tất cả các đáp án đều đúng
+@@@A. Một quốc gia, toàn bộ nhân dân của một nước.
+###
+292. Đâu không phải là một trong những loại của cơ cấu xã hội?
+A. Cơ cấu xã hội - giai Cấp
+B. Cơ Cấu xã hội - nghề nghiệp
+C. Cơ Cấu xã hội - hạ tầng
+D. Cơ cấu xã hội - tôn giáo
+@@@C. Cơ Cấu xã hội - hạ tầng.
+###
+293. Gia đình được hình thành, củng cố và duy trì dựa trên mối quan hệ nào?
+(chọn 3 đáp án)
+A. Quan hệ hôn nhân
+B. Quan hệ huyết thống
+C. Quan hệ nuôi dưỡng
+D. Quan hệ kinh tế
+@@@B. Quan hệ huyết thống; C. Quan hệ nuôi dưỡng.
+###
+294. Cơ cấu xã hội - giai cấp của nước ta trong thời kỳ quá độ lên chủ nghĩa xã hội hiện nay bao gồm những giai cấp, tầng lớp cơ bản nào? (chọn 3)
+A. Giai Cấp công nhân
+B. Giai Cấp nông dân
+C. Đội ngũ trí thức và đội ngũ doanh nhân
+D. Đội ngũ trí thức và đội ngũ đảng viên
+@@@B. Giai Cấp nông dân; C. Đội ngũ trí thức và đội ngũ doanh nhân.
+###
+295. Đâu không phải là một trong những điều kiện kinh tế - xã hội cho sự ra đời của chủ nghĩa xã hội khoa học?
+A. Các thành tựu khoa học tự nhiên của nhân loại thế kỉ XIX
+B. Sự xuất hiện của nền đại công nghiệp
+C. Sự ra đời của hai giai Cấp: giai Cấp tư sản và giai Cấp vô sản
+D. Phong trào đấu tranh của giai cấp vô sản chống lại sự thống trị áp bức của giai cấp tư sản
+@@@A. Các thành tựu khoa học tự nhiên của nhân loại thế kỉ XIX.
+###
+296. Trong một quốc gia đa tộc người thì vấn đề gì cần giải quyết được coi là có ý nghĩa cơ bản nhất để thực hiện quyền bình đẳng giữa các dân tộc?
+A. Ban hành hệ thống hiến pháp và pháp luật về quyền bình đẳng giữa các dân tộc
+B. Nâng cao trình độ dân trí, văn hoá cho động bảo
+C. Chống tư tưởng phân biệt chủng tộc, kỳ thị và chia rẽ dân tộc
+D. Xóa bỏ dần sự chênh lệch về mọi mặt giữa các dân tộc do lịch sử để lại
+@@@D. Xóa bỏ dần sự chênh lệch về mọi mặt giữa các dân tộc do lịch sử để lại.
+###
+297. Nếu trước kia, gia đình Việt Nam tiêu dùng sản phẩm do mình làm ra là chính, thì hiện nay, gia tỉnh Việt Nam đang tiến tới xu hướng tiêu dùng chủ yếu nào?
+A. Xu hướng sử dụng hàng hóa, dịch vụ của phúc lợi Nhà nước
+B. Xu hướng tiêu dùng sản phẩm do người khác làm ra
+C. Xu hướng tiêu dùng sản phẩm nước ngoài
+D. Tiêu dùng sản phẩm được cấp phát
+@@@B. Xu hướng tiêu dùng sản phẩm do người khác làm ra.
+###
+298. Tư tưởng xã hội chủ nghĩa là gì?
+A. Là một hệ thống những quan niệm phản ánh những nhu cầu, những ước mơ, nguyện vọng của các giai cấp lao động về một xã hội không có áp bức và bóc lột, mọi người đều bình đẳng và có cuộc sống ấm no, hạnh phúc.
+B. Là những thành tựu của con người đạt được trong quá trình đấu tranh giải phóng giai cấp.
+C. Là chế độ xã hội không có áp bức bóc lột, mọi người đều bình đẳng tự do.
+D. Cả a, b, c
+@@@A. Là một hệ thống những quan niệm phản ánh những nhu cầu, những ước mơ, nguyện vọng của các giai cấp lao động về một xã hội không có áp bức và bóc lột, mọi người đều bình đẳng và có cuộc sống ấm no, hạnh phúc.
+###
+299. Tai sao trong thời gian đầu, giai Cấp công nhân Việt Nam chậm phát triển?
+A. Vi sinh ra và lớn lên ở một nước thuộc địa, nửa phong kiến dưới ách thống trị của thực dân Pháp
+B. Vì lực lượng không thực sự đông đảo
+C. Vì không có tinh thần kỷ luật và cách mạng triệt để như đặc điểm chung của giai Cấp công nhân các nước
+tư bản phát triển
+D. Vì chưa có tinh thần đấu tranh giai cấp, đấu tranh giải phóng dân tộc
+@@@A. Vi sinh ra và lớn lên ở một nước thuộc địa, nửa phong kiến dưới ách thống trị của thực dân Pháp.
+###
+300. Nhiệm vụ Cấp bách, lâu đài của quá trình xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở nước ta là:
+A. Phòng chống tham nhũng, lãng phí và thực hành tiết kiệm
+B. Miễn nhiệm những người không hoàn thành nhiệm vụ
+C. Nâng cao chất lượng đội ngũ cán bộ, công chức
+D. Có chính sách đãi ngộ, động viên, khuyến khích cán bộ, công chức
+@@@C. Nâng cao chất lượng đội ngũ cán bộ, công chức.
+###
+301. Khác biệt về sự ra đời của hình thái kinh tế - xã hội cộng sản chủ nghĩa với sự ra đời của các hình thái kinh tế-xã hội trước đây là gì?
+A. Phải được thực hiện thông qua cuộc cách mạng vô sản
+B. Phải được thực hiện thông qua cuộc cách mạng tư sản
+C. Phải được thực hiện thông qua một sự cải biến sâu sắc về trình độ phát triển của công nghiệp và người lao động
+D. Phải có sự hội tụ đầy đủ các yếu tố Về kinh tế và chính trị
+@@@A. Phải được thực hiện thông qua cuộc cách mạng vô sản.
+###
+302. Trong thời kỳ quá độ lên chủ nghĩa xã hội, vấn đề tín ngưỡng và tôn giáo của nhân dân cần được giải quyết trên cơ sở nguyên tắc nào?
+A. Hạn chế sự tham gia vào tôn giáo của nhân dân bằng các chính sách xã hội, không can thiệp bằng mệnh lệnh hành chính
+B. Quyền tự do tín ngưỡng, tôn giáo được tôn trọng và bảo vệ, không ai có quyền can thiệp bằng bất cứ hình thức nào
+C. Nhà nước liên hiệp với giáo hội các tôn giáo để điệu chính họ theo hướng duy vật, vô thần dần dần theo thời gian
+D. Có những ưu tiên đối với công dân không theo bất cứ tôn giáo nào
+@@@B. Quyền tự do tín ngưỡng, tôn giáo được tôn trọng và bảo vệ, không ai có quyền can thiệp bằng bất cứ hình thức nào.
+###
+303. Về mặt lý thuyết, con đường cách mạng vô sản nào có thể tiến hành, nhưng vô cùng hiếm, quý và chưa từng xảy ra trên thực tế?
+A. Con đường bạo lực cách mạng
+B. Con đường hòa bình
+C. Con đường khởi nghĩa vũ trang
+D. Con đường bạo động lật đổ
+@@@B. Con đường hòa bình.
+###
+304. Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là gì?
+A. Là thời kỳ cải biến cách mạng từ xã hội tiền tư bản và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa
+B. Là thời kỳ cải biến cách mạng từ xã hội cộng sản nguyên thủy lên xã hội xã hội chủ nghĩa
+C. Là thời kỳ cải biến cách mạng tư xã hội chiếm hữu nô lệ lên xã hội xã hội chủ nghĩa
+D. Là thời kỳ cải biến cách mạng từ xã hội xã hội chủ nghĩa lên xã hội cộng sản chủ nghĩa
+@@@A. Là thời kỳ cải biến cách mạng từ xã hội tiền tư bản và tư bản chủ nghĩa sang xã hội xã hội chủ nghĩa.
+###
+305. Nâng cao chất lượng đội ngũ cán bộ, công chức về những phẩm chất nào?
+A. Bản lĩnh kinh tế, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước
+B. Bản lĩnh chính trị, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước
+C. Bản lĩnh quốc phòng, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước
+D. Bản lĩnh xã hội, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước
+@@@B. Bản lĩnh chính trị, phẩm chất đạo đức, năng lực lãnh đạo, điều hành quản lý đất nước.
+###
+306. Trong thời đại hiện nay, sứ mệnh lịch sử của giai cấp công nhân trong lĩnh vực văn hóa, tư tưởng là gì?
+A. Đấu tranh bảo vệ nền tảng tư tưởng của Đảng Cộng sản, giáo dục nhận thức và cũng có niềm tin khoa học đời vôi lí tưởng, mục tiêu của chủ nghĩa xã hội
+B. Tuyên truyền cho quần chúng lao động vệ hệ tư tưởng Mác - Lênin để tiến đến chủ nghĩa cộng sản
+C. Xét lại, bổ sung chủ nghĩa Mác - Lênin để dung hợp với các học thuyết tư sản mới
+D. Tất Cả các đáp án đều đúng
+@@@A. Đấu tranh bảo vệ nền tảng tư tưởng của Đảng Cộng sản, giáo dục nhận thức và cũng có niềm tin khoa học đời vôi lí tưởng, mục tiêu của chủ nghĩa xã hội.
+###
+307. Tính quần chúng của tôn giáo cho thấy điều gì?
+A. Tôn giáo là một hiện tượng cứu rồi dành cho những người yếu thế trong xã hội
+B. Tôn giáo là một hiện tượng xã hội phổ biến ở tất cả các quốc gia, dân tộc và châu lục
+C. Tôn giáo tồn tại trong suốt hàng nghìn năm lịch sử và được quần chúng nhân dân xây dựng và phát triển
+D. Tất cả các đáp án đều đúng
+@@@B. Tôn giáo là một hiện tượng xã hội phổ biến ở tất cả các quốc gia, dân tộc và châu lục.
+###
+308. Chức năng văn hóa của gia đình thể hiện điều gì?
+A. Gia đình là nơi lưu giữ truyền thống văn hóa của dân tộc, là nơi sáng tạo và thụ hưởng những giá trị văn hóa của xã hội
+B. Gia đình là nơi chịu sự chi phối, chế ước của các yếu tố văn hóa cũ và mới đan xen
+C. Gia đình là nơi thực thi các chính sách văn hóa, mang đậm dấu ấn của giai cấp thống trị
+D. Tất cả các đáp án đều đúng
+@@@A. Gia đình là nơi lưu giữ truyền thống văn hóa của dân tộc, là nơi sáng tạo và thụ hưởng những giá trị văn hóa của xã hội.
+###
+309. Tại đại hội X, theo quan điểm của đảng cộng sản Việt Nam, quá độ lên chủ nghĩa xã hội bộ qua chế độ tư bản chủ nghĩa là:
+A. Con đường cách mạng chủ quan, con đường xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta
+B. Con đường cách mạng tất yếu khách quan, con đường xây dựng đất nước trong thời kỳ quá độ lên phong kiến ở nước ta
+C. Con đường cách mạng tất yếu khách quan, con đường xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta
+D. Con đường mong muốn riêng của đất nước ta
+C
+@@@C. Con đường cách mạng tất yếu khách quan, con đường xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta.
+###
+310. Quá độ từ chủ nghĩa xã hội là sự phản kháng và đấu tranh là hình thức quá độ nào?
+A. Quá độ gián tiếp
+B. Quá độ trực tiếp
+C. Quá độ bộ Phản
+D. Quá độ toàn diện
+@@@A. Quá độ gián tiếp.
+###
+311. Đâu không phải là một trong những nhiệm vụ của các chính sách liên quan đến cơ cấu xã hội giai cấp?
+A. Giải quyết tốt các mối quan hệ nội bộ từng giai Cấp
+B. Hướng tới đảm bảo công bằng Xã hội, thu hẹp dần khoảng cách phát triển và sự phân hóa giàu nghèo giữa các giai Cấp, tầng lớp
+C. Giải quyết tốt các mối quan hệ giữa giai Cấp, tầng lớp này với giai Cấp, tầng lớp khác
+D. Tạo điều kiện thuận lợi để các giai Cấp công nhân có thể cạnh tranh tốt trên tất cả các lĩnh vực của đời sống xã hội
+@@@D. Tạo điều kiện thuận lợi để các giai Cấp công nhân có thể cạnh tranh tốt trên tất cả các lĩnh vực của đời sống xã hội.
+###
+312. Thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội còn tồn tại nhiều tư tưởng khác nhau, chủ yếu là:
+A. Tư tưởng vô sản và tư tưởng tư sản
+B. Tư tưởng vô sản và tư tưởng địa chủ phong kiến
+C. Tư tưởng chủ nó và tư tưởng tư sản
+D. Tư tưởng vô sản và tư tưởng chủ nô
+@@@A. Tư tưởng vô sản và tư tưởng tư sản.
+###
+313. Trong thời đại hiện nay, hao phí lao động chủ yếu của giai Cấp công nhân đã biến đổi như thế nào?
+A. Giảm bớt hao phí sức lực cơ bắp, gia tăng hao phí về trí lực
+B. Đồng thời gia tăng cả hao phí sức lực và trí lực
+C. Gia tăng yếu tố tâm lực trong quá trình lao động
+D. Giảm bớt hao phí về trí lực, gia tăng hao phí sức lực
+@@@A. Giảm bớt hao phí sức lực cơ bắp, gia tăng hao phí về trí lực.
+###
+314. Trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay, giai cấp, tầng lớp nào có nhiệm vụ phát huy bản sắc văn hóa dân tộc và bảo vệ môi trường sinh thái?
+A. Giai Cấp công nhân
+B. Giai cấp nông dân
+C. Tầng lớp trí thức
+D. Đội ngũ doanh nhân
+@@@B. Giai cấp nông dân.
+###
+315. Với tư cách là một hình thái nhà nước, một chế độ chính trị, cho đến nay đã có những nền dân chủ nào đã và đang tồn tại? (chọn 3)
+A. Dân chủ chủ nô
+B. Dân chủ tư sản
+C. Dân chủ xã hội chủ nghĩa
+D. Dân chủ cộng sản chủ nghĩa
+@@@B. Dân chủ tư sản; C. Dân chủ xã hội chủ nghĩa.
+###
+316. Điểm tương đồng giữa giáo dục gia đình truyền thông và giáo dục gia đình trong xã hội mới của Việt Nam hiện nay là gì?
+A. Tinh thần cố kết làng xã
+B. Nhấn mạnh sự hy sinh của cá nhân cho cộng đồng
+C. Ý thức vươn lên làm giàu
+D. Tất cả các đáp án đều đúng
+@@@D. Tất cả các đáp án đều đúng.
+###
+317. Các quy chế dân chủ từ cơ sở đến Trung ương và trong các tổ chức chính trị- xã hội ở nước ta đều thực hiện theo phương châm nào?
+A. Dân biết, dân bàn, dân kiểm tra, dân hưởng thụ
+B. Dân bàn, dân kiểm tra, dân làm, dân hưởng thụ
+C. Dân biết, dân bàn, dân làm, dân kiểm tra
+D. Dân bàn, dân làm, dân kiểm tra
+@@@C. Dân biết, dân bàn, dân làm, dân kiểm tra.
+###
+318. Bản chất tư tưởng - văn hóa - xã hội của nền dân chủ xã hội chủ nghĩa là gì?
+a. Lấy hệ tư tưởng Mác - Lênin làm chủ đạo, kế thừa, phát huy tinh hoa truyền thống dân tộc và những giá trị tư tưởng - văn hóa văn minh, tiến bộ nhân loại
+b. Lấy hệ tư tưởng Mác - Lênin làm chủ đạo, kế thừa, phát huy toàn bộ tư tưởng - văn hóa nhân loại
+c. Lấy hệ tư tưởng Mác - Lênin làm hệ tư tưởng chính trị, kế thừa toàn bộ những yếu tố truyền thống của dân tộc
+d. Lấy hệ tư tưởng Mác - Lênin làm chủ đạo, kế thừa truyền thống tốt đẹp của dân tộc, ngăn chặn yếu tố ngoại lai xâm phạm
+@@@A. Lấy hệ tư tưởng Mác - Lênin làm chủ đạo, kế thừa, phát huy tinh hoa truyền thống dân tộc và những giá trị tư tưởng - văn hóa văn minh, tiến bộ nhân loại.
+###
+319. Đáp án nào không phải là một giải pháp nhằm cải cách thể chế và phương thức hoạt động của Nhà nước xã hội chủ nghĩa Việt Nam?
+a. Kiện toàn tổ chức, đổi mới phương thức và nâng cao hiệu quả hoạt động của Quốc hội
+b. Đẩy mạnh cải cách hành chính, giảm bớt và bãi bỏ các thủ tục hành chính gây phiền hà cho tổ chức và công dân
+c. Đẩy mạnh xã hội hóa các ngành dịch vụ công phù hợp với cơ chế thị trường định hướng xã hội chủ nghĩa
+d. Củng cố và nâng cao quyền lãnh đạo của Đảng Cộng sản Việt Nam đối với bộ máy nhà nước
+@@@D. Củng cố và nâng cao quyền lãnh đạo của Đảng Cộng sản Việt Nam đối với bộ máy nhà nước.
+###
+320. Yếu tố nào quyết định sự liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức?
+a. Do có những lợi ích cơ bản thống nhất với nhau
+b. Do giai cấp công nhân mong muốn
+c. Do có cùng một kẻ thù là giai cấp tư sản
+d. Do mục tiêu về chính trị của giai cấp công nhân
+@@@A. Do có những lợi ích cơ bản thống nhất với nhau.
+###
+321. Ở nước ta, các dân tộc thiểu số phân bố chủ yếu ở các địa bàn có đặc điểm như thế nào?
+a. Có vị trí chiến lược quan trọng
+b. Có điều kiện phát triển kinh tế - xã hội tốt nhất
+c. Ở đồng bằng trù phú
+d. Ở các hải đảo xa xôi
+@@@A. Có vị trí chiến lược quan trọng.
+###
+322. Cơ cấu xã hội là gì?
+a. Là những cộng đồng người hợp thành một chế độ xã hội
+b. Là những người trong cùng một giai cấp, tầng lớp thực hiện phần chia quyền lực
+c. Là những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên
+d. Là những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động của cộng đồng người ấy với tự nhiên tạo nên
+@@@C. Là những cộng đồng người cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên.
+###
+323. Đặc trưng bản chất của chủ nghĩa xã hội về phương diện kinh tế là gì? Chọn các đáp án đúng.
+A. Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại
+B. Chế độ công hữu về tư liệu sản xuất chủ yếu
+C. Nền kinh tế phát triển cao dựa trên lực lượng sản xuất công nghiệp cơ khí
+D. Chế độ sở hữu tập thể, hỗn hợp của tư nhân và công cộng
+Nếu chọn 1 thì chọn A
+@@@A. Nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại.
+###
+324. Nội dung cơ bản của dân chủ về phương diện quyền lực là gì?
+A. Là quyền lực thuộc về nhân dân, nhân dân là chủ nhân của nhà nước
+B. Là một hình thái nhà nước
+C. Là một nguyên tắc tổ chức xã hội
+D. Là quyền thống trị của nhân dân trong lĩnh vực kinh tế
+@@@A. Là quyền lực thuộc về nhân dân, nhân dân là chủ nhân của nhà nước.
+###
+325. Tại sao nói giai cấp công nhân là giai cấp có tinh thần cách mạng triệt để nhất?
+A. Vì giai cấp công nhân có lợi ích cơ bản thống nhất với đại đa số nhân dân lao động, có sứ mệnh lịch sử xóa bỏ mọi chế độ bóc lột, bất công
+B. Vì giai cấp công nhân là giai cấp đông đào nhất trong xã hội
+C. Vì giai cấp công nhân là giai cấp duy nhất bị bóc lột và có mâu thuẫn đối kháng trực tiếp với giai cấp thống trị
+D. Vì giai cấp công nhân được lãnh đạo bởi Đảng Cộng sản
+@@@A. Vì giai cấp công nhân có lợi ích cơ bản thống nhất với đại đa số nhân dân lao động, có sứ mệnh lịch sử xóa bỏ mọi chế độ bóc lột, bất công.
+###
+326. Tôn trọng tự do tín ngưỡng cũng chính là tôn trọng vấn đề gì?
+A. Tôn trọng xã hội
+B. Tôn trọng pháp luật
+C. Tôn trọng quyền con người
+D. Tôn trọng tôn giáo
+@@@C. Tôn trọng quyền con người.
+###
+327. Theo quan điểm của Đảng cộng sản Việt Nam, quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa đòi hỏi phải:
+A. Tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chủ nghĩa tư bản
+B. Tiếp thu, kế thừa những thành tựu mà chế độ phong kiến đã đạt được
+C. Bò qua những thành tựu mà nhân loại đã đạt được trong chủ nghĩa tư bản
+D. Loại bỏ tất cả những gì có liên quan đến chủ nghĩa tư bản
+(Nếu đề hỏi: Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa có nghĩa là gì?(lựa chọn ba đáp án) =>ABD)
+@@@A. Tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chủ nghĩa tư bản.
+###
+328. Thuật ngữ "dân chủ" được ra đời khi nào?(NHUNG HOÀNG)
+A. Thế kỷ VI - VIII
+B. Thế kỷ VII - VI trước Công nguyên
+C. Thế kỷ V - IV trước Công nguyên
+D. Thế kỷ XXI
+@@@C. Thế kỷ V - IV trước Công nguyên.
+###
+329. Theo quan điểm của chủ nghĩa Mác - Lênin, tôn giáo có các nguồn gốc nào? Chọn các đáp án đúng. (3 đáp án)
+A. Nguồn gốc tự nhiên, kinh tế - xã hội
+B. Nguồn gốc nhận thức
+C. Nguồn gốc tâm lý
+D. Nguồn gốc siêu nhiên
+@@@B. Nguồn gốc nhận thức.
+###
+330. Hai yếu tố nào cấu thành cơ sở của lịch sử chính trị và lịch sử tư tưởng của thời đại?
+A. Chính trị xã hội và văn hóa
+B. Cơ sở hạ tầng và kiến trúc thượng tầng
+C. Sản xuất kinh tế và cơ cấu xã hội
+D. Lực lượng sản xuất và quan hệ sản xuất
+@@@C. Sản xuất kinh tế và cơ cấu xã hội.
+###
+331. Đặc trưng bản chất nào của chủ nghĩa xã hội thể hiện đây là chế độ xã hội vì con người, do con người?
+A. Chủ nghĩa xã hội có nền kinh tế phát triển cao, dựa trên chế độ tư hữu về tư liệu sản xuất chủ yếu
+B. Chủ nghĩa xã hội là chế độ xã hội do nhân dân lao động làm chủ
+C. Chủ nghĩa xã hội giải phóng giai cấp công nhân, nhân dân lao động và động thời đàn áp giai cấp thống trị tàn bạo là giai cấp tư sản
+D. Chủ nghĩa xã hội có nhà nước kiểu mới mang bản chất giai cấp công nhân, đại biểu cho lợi ích, quyền lực và ý chí của riêng giai cấp công nhân
+@@@B. Chủ nghĩa xã hội là chế độ xã hội do nhân dân lao động làm chủ.
+###
+332. Đâu là một trong những phương hướng cơ bản xây dựng và phát triển gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?
+A. Tiếp tục phát triển và nâng cao chất lượng phong trào xây dựng gia đình văn hóa
+B. Xây dựng gia đình văn hóa, bình đẳng giới, con cái được học hành
+C. Gia đình từ một đến hai con, ấm no, hạnh phúc
+D. Mọi thành viên trong gia đình phải tôn trong, phát huy quyền làm chủ trong gia định
+@@@A. Tiếp tục phát triển và nâng cao chất lượng phong trào xây dựng gia đình văn hóa.
+###
+333. Giai cấp nào là đại biểu cho lực lượng sản xuất tiên tiến, cho phương thức sản xuất hiện đại?
+A. Tư sản
+B. Nông dân
+C. Công nhân
+D. Thống trị
+@@@C. Công nhân.
+###
+334. Để giai cấp công nhân phát triển cả về số lượng và chất lượng, theo chủ nghĩa Mác - Lênin phải đặc biệt chú ý đến biện pháp nào?
+A. Phát triển công nghiệp và sự trưởng thành của Đảng Cộng sản
+B. Phát triển công - nông nghiệp phù hợp
+C. Kết nạp ngày càng nhiều các giai cấp, tầng lớp lao động khác vào hàng ngũ của Đảng Cộng sản để tăng trưởng nhanh về số lượng
+D. Đẩy mạnh phong trào công nhân từ tự giác đến tự phát
+@@@A. Phát triển công nghiệp và sự trưởng thành của Đảng Cộng sản.
+###
+335. Cơ cấu kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam tuy vận động theo cơ chế thị trường, song có sự quản lý của:
+A. Giai cấp công nhân
+B. Đảng Cộng sản Việt Nam
+C. Nhà nước pháp quyền xã hội chủ nghĩa
+D. Tầng lớp thống trị trong xã hội
+@@@C. Nhà nước pháp quyền xã hội chủ nghĩa.
+###
+336. Trong hệ thống chính sách xã hội, các chính sách liên quan đến vấn để gì được đặt lên vị trí hàng đầu?
+A. Tôn giáo, y tế
+B. Giáo dục, y tế
+C. Cơ cấu xã hội - giai cấp
+D. Cơ cấu giai cấp, giáo dục
+@@@C. Cơ cấu xã hội - giai cấp.
+###
+337. Đâu không phải là một trong những chính sách đối với giai cấp nông dân để đảm bảo sự biến đổi tích cực của giai cấp này trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay?
+A. Hỗ trợ, khuyến khích nông dân học nghề, chuyển dịch cơ cấu lao động
+B. Tạo điều kiện thuận lợi để tiếp nhận và ứng dụng khoa học - công nghệ, nâng cao năng suất lao động, và từng bước công nghiệp hóa nông nghiệp
+C. Tạo điều kiện thuận lợi để nông dân chuyển sang làm công nghiệp và dịch vụ
+D. Ngăn chặn tình trạng chuyển đổi mục đích sử dụng đất nông nghiệp thành các mục đích khác để đảm bảo sinh kế của người nông dân
+@@@D. Ngăn chặn tình trạng chuyển đổi mục đích sử dụng đất nông nghiệp thành các mục đích khác để đảm bảo sinh kế của người nông dân.
+###
+338. Việc thực hiện chức năng nào của gia đình quyết định mật độ dân cư và nguồn lực lao động của một quốc gia và quốc tế?
+A. Chức năng kinh tế và tổ chức tiêu dùng
+B. Chức năng định cư
+C. Chức năng tái sản xuất ra con người
+D. Chức năng giáo dục, nuôi dưỡng
+@@@C. Chức năng tái sản xuất ra con người.
+###
+339. Trong thời đại hiện nay, ở các nước tư bản chủ nghĩa, mục tiêu đấu tranh lâu dài để thực hiện sứ mệnh lịch sử của giai cấp công nhân vẽ chính trị - xã hội là gì?
+A. Chống bất công, bất bình đẳng xã hội
+B. Thỏa hiệp với giai cấp tư sản để tiến tới chủ nghĩa xã hội bằng con đường hòa bình
+C. Giành chính quyền về tay giai cấp công nhân và nhân dân lao động
+D. Đấu tranh đòi các quyền tự do, dân chủ
+@@@C. Giành chính quyền về tay giai cấp công nhân và nhân dân lao động.
+###
+340. Câu nói sau đây do ai nói: "... nếu nghĩa vụ của vợ chồng là phải thương yêu nhau thì nghĩa vụ của những kẻ yêu nhau há chẳng phải là kết hôn với nhau và không được kết hôn với người khác hay sao?"?
+A. Ph. Ăngghen
+B. V.I.Lênin
+C. Chủ tịch Hồ Chí Minh
+D. C.Mác
+@@@A. Ph. Ăngghen.
+###
+341. Tư duy của Nhà triết học nào được xem là "cái hạt nhân" hợp lý của phép biện chứng?
+A. V.I.Lênin
+B. C.Mác
+C. G.V.Ph.Hêghen
+D. Ph. Ăngghen
+@@@C. G.V.Ph.Hêghen.
+###
+342. Đâu không phải là một trong những điểm tương đối ổn định của giai cấp công nhân ngày nay so với thế kỉ XIX?
+A. Giai cấp công nhân vẫn là lực lượng sản xuất hàng đầu của xã hội hiện đại
+B. Giai cấp công nhân vẫn bị chủ nghĩa tư bản và giai cấp tư sản bóc lột giá trị thặng dư
+C. Giai cấp công nhân vẫn có lợi ích cơ bản xung đột với lợi ích cơ bản của giai cấp tư sản
+D. Giai cấp công nhân vẫn làm việc với cường độ cao, trình độ lao động ngày càng yếu kém
+@@@D. Giai cấp công nhân vẫn làm việc với cường độ cao, trình độ lao động ngày càng yếu kém.
+###
+343. Sự ra đời của công nghiệp cơ khí là bước tiến to lớn của lực lượng sản xuất trong cuộc cách mạng công nghiệp lần thứ mấy?
+A. Cách mạng công nghiệp lần thứ nhất
+B. Cách mạng công nghiệp lần thứ hai
+C. Cách mạng công nghiệp lần thứ ba
+D. Cách mạng công nghiệp lần thứ tư
+@@@A. Cách mạng công nghiệp lần thứ nhất.
+###
+344. Trong gia đình truyền thống, ai được xem là trụ cột của gia đình?
+A. Người vợ
+B. Người chồng
+C. Cà vợ và chồng
+D. Người con trong gia đình
+@@@B. Người chồng.
+###
+345. Theo V.I.Lênin, đối với những nước chưa có chủ nghĩa tư bản phát triển cao thì cần phải có một thời kỳ gì để từ chủ nghĩa tư bản lên chủ nghĩa xã hội?
+A. Thời kỳ khai sáng
+B. Thời kỳ tiến lên
+C. Thời kỳ quá độ
+D. Thời kỳ phát triển
+@@@C. Thời kỳ quá độ.
+###
+346. Mâu thuẫn cơ bản của phương thức sản xuất tư bản chủ nghĩa là:
+A. Mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất
+B. Mâu thuẫn giữa quan hệ sản xuất xã hội hóa ngày càng rộng lớn với lực lượng sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất
+C. Mâu thuẫn giữa cơ sở hạ tầng và kiến trúc thượng tầng
+D. Mâu thuẫn giữa tôn tại xã hội và ý thức xã hội
+@@@A. Mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất.
+###
+347. Mâu thuẫn cơ bản của phương thức sản xuất tư bản chủ nghĩa là:
+a. Mâu thuẫn giữa giai cấp tư sản và giai cấp vô sản
+b. Mâu thuẫn giữa chủ nghĩa tư bản và chủ nghĩa xã hội
+c. Mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất
+d. Mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất
+@@@C. Mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất.
+###
+348. Nguyên tắc phân phối chủ yếu của chủ nghĩa cộng sản là gì?
+A. Làm theo năng lực, hưởng theo nhu cầu
+B. Làm theo năng lực, hưởng theo lao động
+C. Làm theo năng lực, hưởng theo phúc lợi xã hội
+D. Làm theo công việc, hướng theo tiền lương
+@@@A. Làm theo năng lực, hưởng theo nhu cầu.
+###
+349. Trình độ phát triển của các dân tộc ở Việt Nam như thế nào?
+A. Đồng đều, có sự hỗ trợ của nhà nước
+B. Không đồng đều, có sự chênh lệch khá lớn
+C. Tương đối đồng đều, trong đó dân tộc Kinh phát triển cao nhất
+D. Không thế so sánh
+@@@B. Không đồng đều, có sự chênh lệch khá lớn.
+###
+350. Trong các kiểu nhà nước dưới dây, nhà nước nào là nhà nước của tất cả mọi người, mọi giai cấp
+A. Nhà nước chiếm hữu nô lệ
+B. Nhà nước tư sản
+C. Nhà nước xã hội chủ nghĩa
+D. Không có kiểu nhà nước nào là của tất cả giai cấp
+@@@D. Không có kiểu nhà nước nào là của tất cả giai cấp.
+###
+351. Đánh giá sau được trích trong tác phẩm nào: "tác phẩm chủ yếu và cơ bản ấy trình bày chủ nghĩa xã hội khoa học... những yếu tổ tử đó này sinh ra chế độ tương lai"?
+A. Chống Đuyring
+B. Đường Kách mệnh
+C. Tuyên ngôn của Đảng Cộng sản
+D. Tư bản
+@@@D. Tư bản.
+###
+352. Ở Việt Nam hiện nay, tồn tại mô hình người chủ gia đình nào?
+A. Người đàn ông - người chồng làm chủ gia đình
+B. Người phụ nữ - người vợ làm chủ gia đình
+C. Cả hai vợ chồng cùng làm chủ gia đình
+D. Tất cả các đáp án đều đúng
+@@@D. Tất cả các đáp án đều đúng.
+###
+353. Học thuyết về hình thái kinh tế - xã hội do ai khởi xướng, và sau đó được ai bổ sung, phát triển?
+A. C.Mác - V.I.Lênin khôi xướng, Ph. Ăngghen bổ sung phát triển
+B. C.Mác - Ph. Ăngghen khởi xướng, V.I Lênin bổ sung phát triển
+C. C.Mác - Ph. Ăngghen khởi xướng, Chủ tịch Hồ Chí Minh bổ sung phát triển
+D. C.Mác khởi xướng, Ph. Ăngghen bổ sung phát triển
+@@@B. C.Mác - Ph. Ăngghen khởi xướng, V.I Lênin bổ sung phát triển.
+###
+354. Đâu là truyền thống quý báu của các dân tộc ở Việt Nam góp phần quyết định mọi thắng lợi của dân tộc trong các giai đoạn lịch sử?
+A. Yêu nước, yêu quê hương
+B. Đoàn kết dân tộc
+C. Tinh thần học tập không ngừng
+D. Hiếu thảo với ông bà cha mẹ
+Câu trả lời khác: Chống giặc ngoại xâm
+@@@B. Đoàn kết dân tộc.
+###
+355. Những biến đối và khác biệt của giai cấp công nhân hiện đại so với giai cấp công nhân thế kỷ XIX là gì? (Chọn 3)
+A. Xu hướng trí tuệ hóa tăng nhanh
+B. Xu hướng trung lưu hóa gia tăng
+C. Là giai cấp giữ vai trò lãnh đạo, cầm quyền trong quá trình xây dựng chủ nghĩa xã hội ở một số quốc gia
+D. Xu hướng bần cùng hóa gia tăng nhanh chóng
+@@@B. Xu hướng trung lưu hóa gia tăng; C. Là giai cấp giữ vai trò lãnh đạo, cầm quyền trong quá trình xây dựng chủ nghĩa xã hội ở một số quốc gia.
+###
+356. Tín đồ có chức vụ, phẩm sắc trong tôn giáo được gọi là gì?
+A. Lãnh đạo tôn giáo
+B. Quản lý tôn giáo
+C. Giáo chủ tôn giáo
+D. Chức sắc tôn giáo
+@@@D. Chức sắc tôn giáo.
+###
+357. Quyền tự do kết hôn trên cơ sở tình yêu và quyền tự do ly hôn là hai quyền thực hiện nguyên tắc nào của chế độ hôn nhân tiến bộ?
+A. Hôn nhân tự nguyện
+B. Hôn nhân một vợ một chồng, vợ chồng bình đẳng
+C. Hôn nhân được đảm bảo về mặt pháp lý
+D. Hôn nhân được đảm bảo về mặt kinh tế
+@@@A. Hôn nhân tự nguyện.
+###
+358. Đâu không phải là hôn nhân tiến bộ?
+A. Hôn nhân tự nguyện
+B. Hôn nhân một vợ, một chồng, vợ chồng bình đẳng
+C. Hôn nhân một vợ, một chồng, chồng nắm quyền
+D. Hôn nhân được đảm bảo về pháp lý
+@@@C. Hôn nhân một vợ, một chồng, chồng nắm quyền.
+###
+359. Trong sứ mệnh lịch sử của giai cấp công nhân trên lĩnh vực văn hóa - tư tưởng, hệ giá trị mỗi mà giai cấp công nhân cần tập trung xây dựng là gì?
+A. Lao động, công bằng; dân chủ, bình đẳng và tự do
+B. Tự do; bình đẳng; bác ái
+C. Độc lập; tự do; dân chủ, văn minh
+D. Dân giàu, nước mạnh; công bằng dân chủ và văn minh
+@@@A. Lao động, công bằng; dân chủ, bình đẳng và tự do.
+###
+360. Hôn nhân xuất phát từ tình yêu giữa nam và nữ được xem là hôn nhân như thế nào?
+A. Hôn nhân chậm tiến bộ
+B. Hôn nhân tiến bộ
+C. Hôn nhân không được đảm bảo
+D. Hôn nhân huyết thống
+@@@B. Hôn nhân tiến bộ.
+###
+361. Nền dân chủ xã hội chủ nghĩa đầu tiên chính thức được xác lập khi nào?
+A. Cách mạng tháng 8 năm 1945 thành công
+B. Bản tuyên ngôn nhân quyền và dân quyền của Pháp (1789)
+C. Tuyên ngôn độc lập của Mỹ (1776)
+D. Cách mạng Tháng Mười Nga thành công với sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới (1917)
+@@@D. Cách mạng Tháng Mười Nga thành công với sự ra đời của nhà nước xã hội chủ nghĩa đầu tiên trên thế giới (1917).
+###
+362. Dân chủ xã hội chủ nghĩa được xem là phôi thai tử thực tiễn đấu tranh giai cấp ở quốc gia nào?
+A. Ở Đức
+B. Ở Pháp
+C. Ở Liên Xô
+D. Ở Trung Quốc
+@@@B. Ở Pháp.
+###
+363. Có bao nhiêu phương hướng cơ bản xây dựng và phát triển gia đình Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội?
+A. 3
+B. 4
+C. 5
+D. 6
+@@@B. 4.
+###
+364. Về nội dung văn hóa, tư tưởng, sứ mệnh lịch sử của giai cấp công nhân được thể hiện như thế nào?
+A. Giai cấp công nhân thực hiện xây dựng và củng cố ý thức hệ tiên tiến của mình.
+B. Giai cấp công nhân thực hiện xây dựng đạo đức và lối sống mới xã hội chủ nghĩa
+C. Tất cả các đáp án đều đúng
+D. Giai cấp công nhân thực hiện xây dựng con người mới xã hội chủ nghĩa
+@@@C. Tất cả các đáp án đều đúng.
+###
+365. Sự biến đổi của cơ cấu xã hội - giai cấp gắn liền và được quy định bởi sự biến động của cơ cấu nào?
+A. Cơ cấu xã hội - dân số
+B. Cơ cấu xã hội - kinh tế
+C. Cơ cấu xã hội - dân tộc
+D. Cơ cấu xã hội - dân cư
+@@@B. Cơ cấu xã hội - kinh tế.
+###
+366. Điền cụm từ thích hợp vào (_):"Các dân tộc hoàn toàn ..., các dân tộc được quyền tự quyết, liên hiệp... tất cả các dân tộc lại"
+A. Bình đẳng/ công nhân
+B. Hòa bình/ công nhân
+C. Công nhân/ nông dân
+D. Hòa bình/ bình đẳng
+@@@A. Bình đẳng/ công nhân.
+###
+367. "Tôn giáo là một hiện tượng xã hội - văn hóa do con người sáng tạo ra" là khẳng định xuất phát từ:
+A. Tư tưởng Hồ Chí Minh
+B. Đảng Cộng sản Việt Nam
+C. Chủ nghĩa Mác - Lênin
+D. Ph. Ăngghen
+@@@C. Chủ nghĩa Mác - Lênin.
+###
+368. Điền cụm từ thích hợp vào (.): Tôn giáo là một hiện tượng ... -... do con người sáng tạo.
+A. Xã hội/ văn hóa
+B. Kinh tế/ văn hóa
+C. Chính trị/ xã hội
+D. Giáo dục/ y tế
+@@@A. Xã hội/ văn hóa.
+###
+369. Trong gia đình Việt Nam hiện đại, sự bền vững của hôn nhân phụ thuộc rất nhiều vào yếu tố nào?
+A. Có con hay không có con
+B. Có con trai hay không có con trai
+C. Tâm lý, tình cảm, kinh tế
+D. Địa vị xã hội, kinh tế
+@@@C. Tâm lý, tình cảm, kinh tế.
+###
+370. Hình thức dân chủ nào ở Việt Nam mà thông qua nó, người dân băng hành động của minh thực hiện quyền làm chủ nhà nước và xã hội, không thông qua chủ thế trung gian?
+A. Hình thức dân chủ trực tiếp
+B. Hình thức dân chủ gián tiếp
+C. Hình thức dân chủ đại nghị
+D. Hình thức dân chủ công khai
+@@@A. Hình thức dân chủ trực tiếp.
+###
+371. Tuyên ngôn của Đảng Cộng sản đánh dấu sự ra đời của:
+A. Chủ nghĩa Mác - Lênin
+B. Kinh tế chính trị Mác - Lênin
+C. Chủ nghĩa xã hội khoa học
+D. Triết học Mác - Lênin
+@@@C. Chủ nghĩa xã hội khoa học.
+###
+372. Đâu là tác phẩm kinh điển chủ yếu của chủ nghĩa xã hội khoa học?
+A. "Tuyên ngôn của Đảng Cộng sản"
+B. "Ngày 18 tháng Sương mù"
+C. "Tình cành công nhân Anh"
+D. "Tư bản"
+@@@A. "Tuyên ngôn của Đảng Cộng sản".
+###
+373. Thách thức lớn nhất đặt ra cho các gia đình Việt Nam hiện nay là gì?
+A. Vấn đề thất nghiệp, mất ổn định về kinh tế
+B. Vấn đề học tập, phát triển của con cái - thế hệ tương lai
+C. Vấn đề mâu thuẫn giữa các thế hệ do sự khác biệt về tuổi tác
+D. Vấn đề kế hoạch hóa gia đình
+@@@C. Vấn đề mâu thuẫn giữa các thế hệ do sự khác biệt về tuổi tác.
+###
+374. Cuối thế kỷ XIV - đầu thế kỷ XV, giai cấp tư sản với những tư tưởng tiến bộ về tự do, công bằng, dân chủ đã mở đường cho sự ra đời của nền dân chủ nào?
+A. Dân chủ nông dân
+B. Dân chủ tư sản
+C. Dân chủ vô sản
+D. Dân chủ hòa bình
+@@@B. Dân chủ tư sản.
+###
+375. Điền cụm từ thích hợp vào (...): "Về lý luận, không thể nghi ngờ gì được rằng giữa ... và ..., có một thời kỳ quá độ nhất định"
+A. Chủ nghĩa tư bản/ chủ nghĩa cộng sản
+B. Chủ nghĩa tư bản/ Giai cấp công nhân
+C. Nhân dân lao động/ chính quyền
+D. Chính trị/ xã hội
+@@@A. Chủ nghĩa tư bản/ chủ nghĩa cộng sản.
+###
+376. Làm sao để xóa bỏ triệt để ngay lập tức các giai cấp, tầng lớp của cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội?
+A. Giai cấp công nhân, liên minh cùng với các giai cấp, tầng lớp khác tổ chức nhà nước và thực hiện công cụ chuyên chính vô sản thực thi xóa bỏ ngay lập tức giai cấp tư sản, và sau đó xóa bỏ luôn giai cấp mình
+B. Các giai cấp, tầng lớp chủ động đứng vào hàng ngũ của Đảng Cộng sản để thống nhất xóa bỏ sự tồn tại của giai cấp
+C. Sự tôn tại các giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội là vấn đề mang tính quy luật, chỉ có thể cải tạo dần chứ chưa thể xóa bỏ triệt để, ngay lập tức được
+D. Quốc hữu hóa tất cả tài sản, tịch thu ruộng đất, gia
+@@@C. Sự tôn tại các giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội là vấn đề mang tính quy luật, chỉ có thể cải tạo dần chứ chưa thể xóa bỏ triệt để, ngay lập tức được.
+###
+377. Trong quá trình xây dựng chủ nghĩa xã hội, liên minh giữa giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức dưới góc độ nào giữ vai trò quyết định?
+A. Chính trị
+B. Kinh tế
+C. Văn hoá
+D. Tư tưởng
+@@@B. Kinh tế.
+###
+378. Dân chủ với tư cách là một hình thức tổ chức thiết chế chính trị hay một hình thái nhà nước, thì nó là:
+A. Phạm trù vĩnh viễn, tồn tại trong mọi chế độ xã hội
+B. Phạm trù lịch sử, mất đi khi nhà nước tiêu vong
+C. Phạm trù lịch sử, mất đi khi tiến lên chủ nghĩa xã hội
+D. Phạm trù lịch sử, tồn tại trong các chế độ xã hội ngoài chế độ quân chủ phong kiến
+@@@B. Phạm trù lịch sử, mất đi khi nhà nước tiêu vong.
+###
+379. Theo nghĩa rộng, dân tộc có bao nhiêu đặc trưng cơ bản?
+A. 4
+B. 5
+C. 6
+D. 7
+@@@A. 4.
+###
+380. Theo nghĩa hẹp, dân tộc có bao nhiêu đặc trưng cơ bản?
+A. 3
+B. 4
+C. 5
+D. 6
+@@@A. 3.
+###
+381. Tổ chức và hoạt động của bộ máy nhà nước pháp quyền xã hội chủ nghĩa Việt Nam thực hiện theo nguyên tắc nào?
+A. Nguyên tắc tập trung dân chủ
+B. Nguyên tắc dân chủ rộng rãi
+C. Nguyên tắc cá nhân phụ trách
+D. Nguyên tắc lập pháp
+@@@A. Nguyên tắc tập trung dân chủ.
+###
+382. Công cuộc đổi mới do Đảng Cộng sản Việt Nam khởi xướng và lãnh đạo tại Đại hội lần thứ bao nhiêu?
+A. Lần thứ IV
+B. Lần thứ VI
+C. Lần thứ X
+D. Lần thứ XIII
+@@@B. Lần thứ VI.
+###
+383. Về mặt thực tiễn, đâu không phải là một ý nghĩa của việc nghiên cứu chủ nghĩa xã hội khoa học?
+A. Thấy rõ khoảng cách giữa lý luận chủ nghĩa xã hội khoa học và thực tiễn vận dụng nó
+B. Sự sụp đổ của Liên Xô và Đông Âu là do đã nhận thức và hành động trên nhiều vấn đề trái với chủ nghĩa xã hội khoa học, trái với chủ nghĩa Mác - Lênin chứ không phải là do đi theo chủ nghĩa xã hội khoa học làm cho các nước này khủng hoảng
+C. Cần có bản lĩnh vững vàng, sáng suốt và sáng tạo trong việc vận dụng chủ nghĩa xã hội khoa học vào bối cảnh lịch sử cụ thể của từng quốc gia, tránh giáo điều, bảo thủ, duy ý chí
+D. Giúp chúng ta có căn cứ nhận thức khoa học để luôn cảnh giác, phân tích đúng và đấu tranh chống
+@@@A. Thấy rõ khoảng cách giữa lý luận chủ nghĩa xã hội khoa học và thực tiễn vận dụng nó.
+###
+384. Giải quyết hai vấn đề nào sau đây cần phải đặt trong mối quan hệ với cộng đồng quốc gia - dân tộc thống nhất theo định hướng xã hội chủ nghĩa?
+A. Văn hóa và hội nhập quốc tế
+B. Tư sản và vô sản
+C. Giáo dục và y tế
+D. Dân tộc và tôn giáo
+@@@D. Dân tộc và tôn giáo.
+###
+385. Trong thời kỳ quá độ lên chủ nghĩa xã hội, yếu tố nào quyết định mối quan hệ hợp tác, gắn bó chặt chẽ giữa các giai cấp, tầng lớp?
+A. Họ cùng nhau cải tạo xã hội cũ, xây dựng xã hội mới trong mọi lĩnh vực của đời sống xã hội
+B. Họ cùng nhau xây dựng xã hội mới trong mọi lĩnh vực của đời sống xã hội
+C. Họ cùng nhau cải tạo xã hội cũ trong mọi lĩnh vực của đời sống xã hội
+D. Họ cùng nhau cải tạo xã hội cũ, xây dựng xã hội mới trong lĩnh vực kinh tế, chính trị
+@@@A. Họ cùng nhau cải tạo xã hội cũ, xây dựng xã hội mới trong mọi lĩnh vực của đời sống xã hội.
+###
+386. Vấn đề: "Xây dựng nhà nước do nhân dân lao động làm chủ, đó là Nhà nước của dân, do dân, vì dân" là đặc điểm thứ mấy trong các đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam?
+A. 1
+B. 3
+C. 5
+D. 6
+@@@A. 1.
+###
+387. Đâu không phải là hạn chế của chủ nghĩa xã hội không tưởng Pháp?
+A. Không chỉ ra được những biện pháp để hiện thực hóa học thuyết của mình
+B. Không phát hiện ra quy luật phát triển vận động của xã hội nói chung và của xã hội tư bản chủ nghĩa nói riêng
+C. Không phát hiện ra sứ mệnh lịch sử của giai cấp công nhân
+D. Không biết được vai trò của nô lệ trong cách mạng xã hội
+@@@D. Không biết được vai trò của nô lệ trong cách mạng xã hội.
+###
+388. Vấn đề nổi bật nhất đối với việc thực hiện sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay là gì?
+A. Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước
+B. Phát huy vai trò của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước
+C. Phát huy trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước
+D. Phát huy sức chiến đấu của bản thân trong sự nghiệp đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước
+@@@A. Phát huy vai trò và trách nhiệm của lực lượng đi đầu trong sự nghiệp đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước.
+###
+389. Quyền nào là cơ sở để thực hiện quyền dân tộc tự quyết và xây dựng mối quan hệ hữu nghị, hợp tác giữa các dân tộc?
+A. Quyền tự quyết của các dân tộc
+B. Quyền tự do ngôn luận
+C. Quyền bình đẳng giữa các dân tộc
+D. Quyền lập pháp của các dân tộc
+@@@C. Quyền bình đẳng giữa các dân tộc.
+###
+390. Trong gia đình Việt Nam hiện nay, người chủ gia đình là ai?
+A. Người lớn tuổi nhất trong gia đình
+B. Người có trình độ cao nhất trong gia đình
+C. Người lớn tuổi nhất và có trình độ cao nhất trong gia đình
+D. Có thể là người đàn ông, người phụ nữ hoặc cả hai
+@@@D. Có thể là người đàn ông, người phụ nữ hoặc cả hai.
+###
+391. Nếu thiếu đi cơ sở văn hóa, hoặc cơ sở văn hóa không đi liền với cơ sở kinh tế, chính trị thì việc xây dựng gia đình sẽ bị ảnh hưởng như thế nào?
+A. Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả
+B. Hệ thống chính sách, pháp luật về xây dựng gia đình sẽ không thể hoàn thiện
+C. Việc xây dựng gia đình không còn dựa trên nền tảng hệ tư tưởng chính trị
+D. Việc xây dựng gia đình sẽ không hướng tới đời sống văn hóa, tinh thần
+@@@A. Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả.
+###
+392. Theo nghĩa hẹp, các tiêu chí xác định các đặc trưng cơ bản của một dân tộc - tộc người là gì? Lựa chọn các đáp án đúng. (3)
+A. Cộng đồng về ngôn ngữ
+B. Cộng đồng về văn hóa
+C. Ý thức tự giác tộc người
+D. Cộng đồng về lãnh thổ
+@@@B. Cộng đồng về văn hóa.
+###
+393. Trong các cơ cấu xã hội, cơ cấu xã hội nào có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?(NHUNG HOÀNG)
+A. Cơ cấu xã hội - dân tộc
+B. Cơ cấu xã hội dân cư
+C. Cơ cấu xã hội - nghề nghiệp
+D. Cơ cấu xã hội - giai cấp
+@@@D. Cơ cấu xã hội - giai cấp.
+###
+394. "Do lực lượng sản xuất chưa phát triển, con người cảm thấy yếu đuối, bất lực, không giải thích được, nên con người đã gán cho tự nhiên một sức mạnh, quyền lực thần bí, vấn đề này nói lên nguồn gốc nào của tôn giáo?(NHUNG HOÀNG)
+A. Nguồn gốc tâm lý
+B. Nguồn gốc nhận thức
+C. Nguồn gốc tự nhiên, kinh tế - xã hội
+D. Nguồn gốc ý chí
+@@@C. Nguồn gốc tự nhiên, kinh tế - xã hội.
+###
+395. Giai cấp nào được xem là con đẻ của nền đại công nghiệp tư bản chủ nghĩa?
+A. Tư sản
+B. Nông dân
+C. Công nhân
+D. Bị bóc lột
+@@@C. Công nhân.
+###
+396. Đâu không phải là một cơ sở xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội?
+A. Cơ sở kinh tế - xã hội
+B. Cơ sở chính trị - xã hội
+C. Cơ sở văn hóa
+D. Cơ sở lao động, sản xuất
+@@@D. Cơ sở lao động, sản xuất.
+###
+397. Nhân tố nào sau đây có vai trò quyết định đến sự tồn tại và phát triển của xã hội?
+A. Con người
+B. Gia đinh
+C. Tư duy
+D. Khoa học kỹ thuật
+@@@B. Gia đinh.
+###
+398. Ở nước ta hiện nay, sự bền vững của hôn nhân phụ thuộc vào yếu tố nào?
+A. Yếu tố con cái nhiều hay ít
+B. Yếu tố con cái là trai hay gái
+C. Yếu tố truyền thống gia trưởng
+D. Yếu tố tâm lý, tình cảm và kinh tế
+@@@D. Yếu tố tâm lý, tình cảm và kinh tế.
+###
+399. Chức năng và nhiệm vụ của chủ nghĩa xã hội khoa học là gì?
+A. Là trang bị những tri thức khoa học của chủ nghĩa Mác - Lênin đã phát hiện ra và luận giải về quá trình tất yếu lịch sử dẫn đến hình thành, phát triển hình thái kinh tế - xã hội cộng sản, giải phóng xã hội, giải phóng con người.
+B. Là giáo dục, trang bị lập trường tư tưởng chính trị của giai cấp công nhân cho đảng cộng sản, giai cấp công nhân và nhân dân lao động.
+C. Là định hướng về chính trị - xã hội cho mọi hoạt động của giai cấp công nhân, của đảng cộng sản, của nhà nước và của nhân dân lao động trên mọi lĩnh vực.
+D. Cả a, b và c đều đúng
+@@@D. Cả a, b và c đều đúng.
+###
+400. Nội dung văn hóa - xã hội của liên minh giai cấp, tầng lớp là gì?
+A. Xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện
+B. Xây dựng nền văn hóa và nhà nước của dân, do dân, vì dân
+C. Xây dựng nền văn hóa và xây dựng Đảng trong sạch, vững mạnh
+D. Xây dựng nền văn hóa và tăng cường bản chất giai cấp công nhân
+@@@A. Xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện.
+###
+401. Vấn đề nào dễ dẫn tới nguy cơ gây mất ổn định chính trị, xã hội, dễ tạo cơ hội cho các thế lực thù địch bên ngoài can thiệp vào công việc nội bộ của đất nước?
+A. Vấn đề tôn giáo và dân tộc
+B. Vấn đề mê tín dị đoan và thờ cúng ông bà
+C. Vấn đề ngoại giao
+D. Vấn đề chính trị
+@@@A. Vấn đề tôn giáo và dân tộc.
+###
+402. Bản chất của chủ nghĩa xã hội ở nước Nga Xô Viết có mấy đặc trưng?
+A. 3
+B. 4
+C. 5
+D. 6
+@@@C. 5.
+###
+403. Về phương diện thế giới quan, đa số các tôn giáo mang thế giới quan nào?
+A. Duy tâm
+B. Duy vật
+C. Duy vật biện chứng
+D. Duy vật siêu hình
+@@@A. Duy tâm.
+###
+404. Cơ sở kinh tế - xã hội để xây dựng gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội là gì?
+A. Là sự phát triển của lực lượng sản xuất và tương ứng với nó là quan hệ sản xuất mới, xã hội chủ nghĩa
+B. Là sự phát triển của trình độ lao động, khoa học kỹ thuật của xã hội
+C. Là điều kiện lao động, công ăn, việc làm và thu nhập của công dân
+D. Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động
+@@@A. Là sự phát triển của lực lượng sản xuất và tương ứng với nó là quan hệ sản xuất mới, xã hội chủ nghĩa.
+###
+405. Trong giai đoạn hiện nay, tại sao Nhà nước lại khuyến khích mỗi cặp vợ chồng “nên sinh đủ hai con”?
+A. Do Việt Nam đang chuyển sang giai đoạn già hóa dân số
+B. Do dân số Việt Nam quá ít so với mật độ trung bình của thế giới
+C. Do tỷ lệ tử vong và tuổi thọ trung bình người Việt Nam quá thấp
+D. Tất cả các đáp án đều đúng
+@@@A. Do Việt Nam đang chuyển sang giai đoạn già hóa dân số.
+###
+406. Gia đình có bao nhiêu chức năng cơ bản?
+A. 3
+B. 4
+C. 5
+D. 6
+@@@B. 4.
+###
+407. Phát kiến học thuyết giá trị thặng dư của C.Mác và Ph.Ăngghen có ý nghĩa gì đối với chủ nghĩa xã hội khoa học?
+A. Chỉ ra sự suy vong tự nhiên của chủ nghĩa tư bản
+B. Chỉ ra con đường đấu tranh giai cấp tiến lên chủ nghĩa xã hội
+C. Khẳng định về phương diện kinh tế sự diệt vong không thể tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội
+D. Khẳng định sự thiết lập nền chuyên chính vô sản bằng cách mạng xã hội là con đường duy nhất tiến đến chủ nghĩa xã hội
+@@@C. Khẳng định về phương diện kinh tế sự diệt vong không thể tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội.
+###
+408. "Đạo Cao Đài, Phật giáo Hòa Hảo là hai trong số những tôn giáo nội sinh ở Việt Nam. Lịch sử từng ghi nhận rằng hai tôn giáo này đã cùng với người dân Nam Bộ tham gia kháng chiến chống giặc cứu nước". Vấn đề và nếu thuộc đặc điểm thứ mấy trong số các đặc điểm tôn giáo ở Việt Nam?
+A. 1
+B. 2
+C. 3
+D. 4
+@@@C. 3.
+###
+409. Chủ nghĩa xã hội khoa học sử dụng phương pháp luận nào?
+A. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử
+B. Chủ nghĩa duy vật siêu hình và chủ nghĩa duy vật lịch sử
+C. Chủ nghĩa duy vật chất phác và chủ nghĩa duy vật lịch sử
+D. Chủ nghĩa duy tâm biện chứng và chủ nghĩa duy vật lịch sử
+@@@A. Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử.
+###
+410. Tác phẩm “Tuyên ngôn của Đảng Cộng sản" đã đánh dấu sự ra đời của bộ phận lý luận nào của chủ nghĩa Mác – Lênin?(NHUNG HOÀNG)
+A. Chủ nghĩa Mác – Lênin
+B. Kinh tế chính trị Mác - Lênin
+C. Chủ nghĩa xã hội khoa học
+D. Triết học Mác – Lênin
+@@@C. Chủ nghĩa xã hội khoa học.
+###
+411. Phần lớn các tín đồ tôn giáo ở nước ta có đặc điểm chung là gì?
+A. Là nhân dân lao động, có lòng yêu nước, tinh thần dân tộc
+B. Là giai cấp yếu thế, có cuộc sống cơ cực, tin vào tôn giáo như một yếu tố giải thoát
+C. Có ý thức chống lại chủ nghĩa duy vật biện chứng
+D. Tham gia vào các phong trào đấu tranh chống chính quyền
+@@@A. Là nhân dân lao động, có lòng yêu nước, tinh thần dân tộc.
+###
+412. C.Mác và Ph.Ăngghen từng cho rằng: "Quan hệ thứ ba tham dự ngay từ đầu vào quá trình phát triển lịch sử: hằng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở". Cụm từ "quan hệ thứ ba" trong câu trên dùng để chỉ cái gì?
+A. Phát triển
+B. Sinh nở
+C. Bạn bè
+D. Gia đình
+@@@D. Gia đình.
+###
+413. Trong thời kỳ đổi mới, giai cấp công nhân nước ta có sử mệnh lịch sử to lớn là gì?
+A. Giai cấp lãnh đạo cách mạng thông qua đội tiên phong là Đảng Cộng sản Việt Nam
+B. Giai cấp tiêu biểu cách mạng thông qua đội tiên phong là Đảng Cộng sản Việt Nam
+C. Giai cấp đại diện thông qua đội tiên phong là Đảng Cộng sản Việt Nam
+D. Giai cấp nòng cốt thông qua đội tiên phong là Đảng Cộng sản Việt Nam
+@@@A. Giai cấp lãnh đạo cách mạng thông qua đội tiên phong là Đảng Cộng sản Việt Nam.
+###
+414. Cách mạng vô sản là:
+A. Cuộc cách mạng của giai cấp nông dân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, được thực hiện bằng con đường bạo lực cách mạng nhằm lật đổ chế độ tư bản chủ nghĩa, thiết lập nhà nước chuyên chính vô sản
+B. Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, trên thực tế được thực hiện bằng con đường tuyên truyền giáo dục nhằm lật đổ chế độ tư bản chủ nghĩa, thiết lập nhà nước chuyên chính vô sản
+C. Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, trên thực tế được thực hiện bằng con đường bạo lực cách mạng nhằm lật đổ chế độ phong kiến, thiết lập nhà nước chuyên chính vô sản
+D. Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, được thực hiện bằng con đường bạo lực cách mạng nhằm lật đổ chế độ tư bản chủ nghĩa, thiết lập nhà nước chuyên chính vô sản
+@@@D. Cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, được thực hiện bằng con đường bạo lực cách mạng nhằm lật đổ chế độ tư bản chủ nghĩa, thiết lập nhà nước chuyên chính vô sản.
+###
+415. Giai cấp công nhân Việt Nam, giai cấp nông dân, đội ngũ trí thức, đội ngũ doanh nhân. Đâu là lực lượng đi đấu trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước?
+A. Giai cấp công nhân
+B. Giai cấp nông dân
+C. Đội Ngũ Trí thức
+D. Đội ngũ doanh nhân
+@@@A. Giai cấp công nhân.
+###
+416. Theo V.I Lênin, vì sao các cộng đồng dân cư lại muốn tách ra để hình thành các cộng đồng dân tộc độc lập?
+A. Do sự đàn áp, thống trị quá khắc nghiệt của chủ nghĩa thực dân
+B. Do mâu thuẫn lợi ích, quyền lợi
+C. Do sự thức tỉnh, trường thành về ý thức dân tộc
+D. Do sự phát triển về số lượng quá lớn
+@@@C. Do sự thức tỉnh, trường thành về ý thức dân tộc.
+###
+417. Nhà nước xã hội chủ nghĩa là nhà nước của ai?
+A. Nhân dân
+B. Công nhân- Nông dân
+C. Công nhân- Nông dân - Trí thức
+D. Lãnh đạo, Đảng viên
+@@@A. Nhân dân.
+Hiểu đầy đủ là nhà nước của nhân dân, do nhân dân và vì nhân dân; quyền lực nhà nước thuộc về nhân dân.
+###
+418. Những biểu hiện cơ bản của tư tưởng xã hội chủ nghĩa là gì?
+A. Là những ước mơ nguyện vọng về một chế độ xã hội ai cũng có việc làm ai cũng lao động
+B. Là quan niệm về một chế độ xã hội mà tư liệu sản xuất đều thuộc về mọi thành viên xã hội
+C. Là những tư tưởng về một xã hội, trong đó mọi người đều bình đẳng, có cuộc sống ấm no, tự do, hạnh phúc.
+D. Cả a, b và c
+@@@D. Cả a, b và c.
+###
+419. Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành những hình thức nào?
+A. Là những ước mơ nguyện vọng về một chế độ xã hội ai cũng có việc làm, ai cũng lao động
+B. Là quan niệm về một chế độ xã hội mà tư liệu sản xuất đều thuộc về mọi thành viên xã hội
+C. Là những tư tưởng về một xã hội, trong đó mọi người đều bình đẳng, có cuộc sống ấm no, tự do, hạnh phúc
+D. Chức năng đối nội và chức năng đối ngoại
+@@@D. Chức năng đối nội và chức năng đối ngoại.
+###
+420. Sự liên minh giữa giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức là do điều gì quy định?
+A. Do mong muốn của công nhân.
+B. Yêu cầu của nông dân
+C. Yêu cầu của trí thức
+D. Do đòi hỏi khách quan của cả công nhân, nông dân và trí thức.
+@@@D. Do đòi hỏi khách quan của cả công nhân, nông dân và trí thức.
+###
+421. Về nội dung chính trị - xã hội, sứ mệnh lịch sử của giai cấp công nhân được thể hiện như thế nào?
+A. Giai cấp công nhân cùng với nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản phải tiến hành cách mạng chính trị lật đổ quyền thống trị của giai cấp tư sản
+B. Giai cấp công nhân phải lãnh đạo được các giai cấp khác và lãnh đạo được Đảng Cộng sản để tiến hành cách mạng tư sản xóa bỏ chế độ thống trị của giai cấp tư sản
+C. Giai cấp công nhân phải cùng với nhân dân lao động lãnh đạo Đảng Cộng sản tiến hành cách mạng chính trị lật đồ chính quyền của giai cấp phong kiến
+D. Giai cấp công nhân phải xác lập được quyền thống trị nhân dân lao động và các giai cấp khác bằng cách thực hiện cách mạng lật đổ chính quyền của giai cấp tư sản
+@@@A. Giai cấp công nhân cùng với nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản phải tiến hành cách mạng chính trị lật đổ quyền thống trị của giai cấp tư sản.
+###
+422. Trong xã hội phong kiến, các mối quan hệ của gia đình có đặc điểm như thế nào?
+A. Tuyệt đối hóa vai trò của người đàn ông, người chồng, người cha
+B. Tuyệt đối hóa vai trò của người phụ nữ, người vợ, người mẹ
+C. Mối quan hệ bình đẳng, sẻ chia
+D. Các mối quan hệ chịu sự chi phối của điều kiện kinh tế gia đình
+@@@A. Tuyệt đối hóa vai trò của người đàn ông, người chồng, người cha.
+###
+423. Trong nhà nước pháp quyền, điều gì được thượng tôn?(NHUNG HOÀNG)
+A. Quyền lợi của giai cấp công nhân
+B. Quyền lợi của nhà nước
+C. Pháp luật
+D. Ý chí, nguyện vọng của nhân dân lao động
+@@@C. Pháp luật.
+###
+424. Thực hiện công nghiệp hóa, gắn liền công nghiệp hóa với hiện đại hóa, đẩy mạnh công nghiệp hóa gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên, môi trường là nhiệm vụ của giai cấp công nhân trên lĩnh vực nào?
+A. Chính trị- xã hội
+B. Kinh tế
+C. Văn hóa
+D. Tư tưởng
+@@@B. Kinh tế.
+###
+425. Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân chính quyết định sự biến đổi của cộng đồng dân tộc là gì?
+A. Sự biến đổi của giai cấp thống trị
+B. Sự biến đối của kiến trúc thượng tầng xã hội
+C. Sự biến đổi của cơ sở hạ tầng xã hội
+D. Sự biến đổi của phương thức sản xuất
+@@@D. Sự biến đổi của phương thức sản xuất.
+###
+426. Điền vào chỗ trống: C. Mác và Ph. Ăngghen chỉ rõ: "Từ chỗ là những hình thức phát triển của các lực lượng sản xuất, những quan hệ sản xuất ấy trở thành những xiềng xích của của các lực lượng sản xuất. Khi đó bắt đầu thời đại...":
+A. Một cuộc tổng tiến công
+B. Một cuộc cải cách
+C. Tất cả đều đúng
+D. Một cuộc cách mạng
+@@@D. Một cuộc cách mạng.
+###
+427. Cơ cấu xã hội - giai cấp là gì?(NHUNG HOÀNG)
+A. Là hệ thống giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những môi quan hệ về sở hữu tư liệu sản xuất, về tổ chức, quản lý quá trình sản xuất, vẽ địa vị chính trị xã hội ... giữa các giai cấp, tầng lớp đó
+B. Là hệ thống giai cấp, tầng lớp xã hội tồn tại chủ quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về sở hữu tư liệu sản xuất, về tổ chức, quản lý quá trình sản xuất, về địa vị chính trị xã hội... giữa các giai cấp, tầng lớp đó
+C. Là hệ thống giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về phân chia quyền lực nhà nước... giữa các giai cấp, tầng lớp đó
+D. Là hệ thống giai cấp, tầng lớp xã hội tồn tại chủ quan trong một chế độ xã hội nhất định, thông qua những mối quan hệ về phân chia quyền lực nhà nước... giữa các giai cấp, tăng lớp đó
+@@@A. Là hệ thống giai cấp, tầng lớp xã hội tồn tại khách quan trong một chế độ xã hội nhất định, thông qua những môi quan hệ về sở hữu tư liệu sản xuất, về tổ chức, quản lý quá trình sản xuất, vẽ địa vị chính trị xã hội ... giữa các giai cấp, tầng lớp đó.
+###
+428. Đặc trưng nào dưới đây là quan trọng nhất, là cơ sở gắn kết các bộ phận, các thành viên trong dân tộc, tạo nên tính thống nhất, ổn định, bền vững của dân tộc?
+A. Chung một vùng lãnh thổ
+B. Chung một phương thức sinh hoạt kinh tế
+C. Chung một ngôn ngữ làm công cụ giao tiếp
+D. Chung một nền văn hóa và tâm lý
+@@@B. Chung một phương thức sinh hoạt kinh tế.
+###
+429. Nội dung nào dưới đây không phải là điều kiện dẫn tới sự ra đời của chủ nghĩa xã hội?
+A. Sự phát triển của lực lượng sản xuất
+B. Sự trưởng thành của giai cấp công nhân
+C. Quan hệ sản xuất tư bản chủ nghĩa trở nên lỗi thời
+D. Mong muốn chủ quan của giai cấp công nhân
+@@@D. Mong muốn chủ quan của giai cấp công nhân.
+###
+430. Tôn giáo là một hiện tượng xã hội phản ánh sự bất lực và bế tắc của con người trước tự nhiên và xã hội, tuy nhiên, tôn giáo cũng chứa đựng một số giá trị phù hợp với đạo đức, đạo lý của con người thể hiện nội dung gì?(NHUNG HOÀNG)
+A. Nguồn gốc của tôn giáo
+B. Tính chất của tôn giáo
+C. Chức năng của tôn giáo
+D. Bản chất của tôn giáo
+@@@D. Bản chất của tôn giáo.
+###
+431. Cơ sở kinh tế của nền dân chủ xã hội chủ nghĩa là gì?
+A. Nền kinh tế hàng hóa nhiều thành phần
+B. Chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội
+C. Chế độ sở hữu tư nhân về tư liệu sản xuất
+D. Nền kinh tế thị trường xã hội chủ nghĩa
+@@@B. Chế độ công hữu về những tư liệu sản xuất chủ yếu của xã hội.
+###
+432. Trong gia đình, quan hệ thứ ba tham gia ngay từ đầu vào quá trình phát triển lịch sử, đó là quan hệ nào?
+A. Quan hệ giữa chồng và vợ, quan hệ giữa cha mẹ và con cái
+B. Quan hệ giữa ông bà với con cái, quan hệ giữa vợ và chồng
+C. Quan hệ giữa tổ tiên và ông bà, cha mẹ
+D. Quan hệ giữa con cái và cha mẹ
+@@@A. Quan hệ giữa chồng và vợ, quan hệ giữa cha mẹ và con cái.
+###
+433. Trong sứ mệnh lịch sử của giai cấp công nhân trên lĩnh vực văn hóa, tư tưởng, những giá trị mà nhân loại thừa nhận và phấn đấu thực hiện là gì?
+A. Lao động; sáng tạo; công bằng; dân chủ, bình đẳng và tự do
+B. Tự do; bình đẳng; bác ái
+C. Độc lập; tự do; dân chủ, văn minh
+D. Dân giàu, nước mạnh; công bằng, dân chủ và văn minh
+@@@A. Lao động; sáng tạo; công bằng; dân chủ, bình đẳng và tự do.
+###
+434. Nội dung nào dưới đây không phản ánh đúng vị trí của gia đình trong xã hội?
+A. Gia đình là tế bào của xã hội
+B. Gia đình là tổ ấm của mỗi thành viên
+C. Gia đình là cầu nối giữa cá nhân và xã hội
+D. Gia đình là bộ phận của làng xã
+@@@D. Gia đình là bộ phận của làng xã.
+###
+435. Ngày nay, giai cấp công nhân Việt Nam đã có biến đổi như thế nào so với thời kỳ mới ra đời?
+A. Tăng nhanh về số lượng và chất lượng
+B. Tăng nhanh về số lượng và quy mô
+C. Tăng nhanh về chất lượng và học thức
+D. Tăng nhanh về quy mô và tài sản
+@@@A. Tăng nhanh về số lượng và chất lượng.
+###
+436. Tại sao tôn giáo là một phạm trù lịch sử?
+A. Là sản phẩm của đấng thần linh
+B. Là do điều kiện kinh tế - xã hội sinh ra
+C. Tôn giáo tồn tại và phát triển song song với quá trình hình thành, phát triển và tiêu vong của con người
+D. Tôn giáo ra đời, tồn tại và biến đổi trong một giai đoạn lịch sử nhất định của loài người.
+@@@D. Tôn giáo ra đời, tồn tại và biến đổi trong một giai đoạn lịch sử nhất định của loài người.
+###
+437. Khái niệm dân tộc được hiểu theo nghĩa nào thì mới có đặc trưng cơ bản là có chung một nhà nước?
+A. Dân tộc - bộ tộc
+B. Dân tộc - thị tộc
+C. Quốc gia -dân tộc
+D. Quốc gia -bộ tộc
+@@@C. Quốc gia -dân tộc.
+###
+438. Ai đã khẳng định vấn đề: "Trong công trường thủ công và trong nghề thủ công, người công nhân sử dụng công cụ của mình, còn trong công xưởng thì người công nhân phải phục vụ máy móc"?"
+A. Chủ tịch Hồ Chí Minh
+B. V.I.Lênin
+C. C.Mác và Ph. Ăngghen
+D. Tập Cận Bình
+@@@C. C.Mác và Ph. Ăngghen.
+###
+439. Dân chủ xã hội chủ nghĩa có bản chất cơ bản là gì? (NHUNG HOÀNG)
+A. Bản chất chính trị, bản chất kinh tế
+B. Bản chất tư tưởng - văn hóa - xã hội
+C. Bản chất tư tưởng - văn hóa - xã hội, bản chất lý luận
+D. A và B đều đúng
+@@@D. A và B đều đúng.
+###

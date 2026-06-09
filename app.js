@@ -91,20 +91,29 @@ function extractAnswerKey(answerChunk) {
     .replace(/\u00a0/g, ' ')
     .trim();
 
+  // Find the first line which contains @@@ (if passed directly) or just look at the whole text
   const lines = plain.split('\n').map((line) => line.trim()).filter(Boolean);
-  for (const line of lines) {
-    // Look for leading letters (A-H), spaces, or commas at the start of the line
-    const match = line.match(/^([A-Ha-h\s,]+)(?:\s*[\(\).:]|$)/i);
-    if (match) {
-      const normalized = match[1].replace(/[^A-Ha-h]/gi, '');
-      if (normalized) {
-        return normalized.toUpperCase().split('');
-      }
-    }
+  if (lines.length === 0) return [];
+
+  const firstLine = lines[0];
+  // Match any characters like A, B, C, D in patterns like "A và B", "A, B, C", "A; B", "@@@A. ...; B. ..."
+  // We can extract all letters A-H that appear at the beginning or as separated parts.
+  // Let's match all uppercase or lowercase letters A-H that are either isolated, followed by punctuation, or joined by 'và'/,
+  // First, let's strip out the text after dot/paren if it's a long sentence, or search letters in the first part.
+  const prefixMatch = firstLine.match(/^([A-Ha-h\s,và;]+)(?:\s*[\(\).:]|$)/i);
+  let searchStr = firstLine;
+  if (prefixMatch) {
+    searchStr = prefixMatch[1];
   }
 
-  // Fallback: search for the first isolated sequence of A-H letters
-  const fallback = plain.match(/\b[A-Ha-h]+\b/i);
+  // Find all individual A-H letters inside the target prefix
+  const matches = searchStr.match(/\b[A-Ha-h]\b/gi) || [];
+  if (matches.length > 0) {
+    return matches.map(m => m.toUpperCase());
+  }
+
+  // Fallback: search for any isolated sequence of A-H letters on the first line
+  const fallback = firstLine.match(/\b[A-Ha-h]+\b/i);
   return fallback ? fallback[0].toUpperCase().split('') : [];
 }
 
@@ -172,7 +181,7 @@ function parseQuestions(rawText) {
 
     const answerEnd = source.indexOf('###', markerIndex + 3);
     const questionChunk = source.slice(cursor, markerIndex).trim();
-    const answerChunk = answerEnd === -1 ? source.slice(markerIndex + 3).trim() : source.slice(markerIndex + 3, answerEnd).trim();
+    const fullAnswerChunk = answerEnd === -1 ? source.slice(markerIndex + 3).trim() : source.slice(markerIndex + 3, answerEnd).trim();
     cursor = answerEnd === -1 ? source.length : answerEnd + 3;
 
     if (!questionChunk) {
@@ -180,7 +189,13 @@ function parseQuestions(rawText) {
     }
 
     const parsed = parseQuestionBlock(questionChunk);
-    const answer = extractAnswerKey(answerChunk);
+    
+    // Split the fullAnswerChunk into answer line and explanation lines
+    const answerLines = fullAnswerChunk.split('\n').map(l => l.trim()).filter(Boolean);
+    const firstLine = answerLines[0] || '';
+    const explanation = answerLines.slice(1).join('\n').trim();
+
+    const answer = extractAnswerKey(firstLine);
 
     if (parsed.prompt && parsed.options.length > 0 && answer.length > 0) {
       const uniqueCorrect = [...new Set(answer)];
@@ -190,6 +205,7 @@ function parseQuestions(rawText) {
         answer: uniqueCorrect,
         answerText: uniqueCorrect.join(''),
         source: questionChunk.includes('<') ? 'html' : 'text',
+        explanation: explanation || null,
       });
     }
   }
@@ -341,9 +357,9 @@ function applyAnsweredState(current, selected, isCorrect) {
 
   const chosenText = escapeHtml(normalizedSelected.join(', ') || 'không chọn');
   if (isCorrect) {
-    showFeedback(true, `<strong>Đúng.</strong> Bạn có thể bấm Tiếp theo để sang câu khác.`, 'good');
+    showFeedback(true, `<strong>Đúng.</strong> Bạn có thể bấm Tiếp theo để sang câu khác.`, 'good', current.explanation);
   } else {
-    showFeedback(false, `${revealCorrectAnswer(current)}<br /><strong>Bạn chọn:</strong> ${chosenText}.`, 'bad');
+    showFeedback(false, `${revealCorrectAnswer(current)}<br /><strong>Bạn chọn:</strong> ${chosenText}.`, 'bad', current.explanation);
   }
 
   if (els.nextButton) els.nextButton.disabled = false;
@@ -595,10 +611,15 @@ function pickNextQuestion() {
   return true;
 }
 
-function showFeedback(isCorrect, message, kind) {
+function showFeedback(isCorrect, message, kind, explanation = null) {
   els.feedback.classList.remove('hidden', 'good', 'bad');
   els.feedback.classList.add(kind);
-  els.feedback.innerHTML = message;
+  
+  let content = message;
+  if (explanation) {
+    content += `<div class="explanation-box"><strong>Ghi chú / Giải thích:</strong><br />${escapeHtml(explanation).replace(/\n/g, '<br />')}</div>`;
+  }
+  els.feedback.innerHTML = content;
 }
 
 function revealCorrectAnswer(current) {
