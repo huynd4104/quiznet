@@ -37,6 +37,11 @@ const els = {
   previewImg: document.getElementById('previewImg'),
   removePreviewBtn: document.getElementById('removePreviewBtn'),
   resetQuestionButton: document.getElementById('resetQuestionButton'),
+  noteToggleBtn: document.getElementById('noteToggleBtn'),
+  noteCard: document.getElementById('noteCard'),
+  closeNoteButton: document.getElementById('closeNoteButton'),
+  noteSearchInput: document.getElementById('noteSearchInput'),
+  noteContentContainer: document.getElementById('noteContentContainer'),
 };
 
 const state = {
@@ -1209,5 +1214,252 @@ if (els.loadTextButton) {
     loadDataset(text, 'nội dung dán vào');
   });
 }
+
+// Note Section Logic
+let isNoteViewActive = false;
+
+function showNote() {
+  isNoteViewActive = true;
+  if (els.questionCard) els.questionCard.classList.add('hidden');
+  if (els.heroCard) els.heroCard.classList.add('hidden');
+  if (els.emptyState) els.emptyState.classList.add('hidden');
+  if (els.noteCard) els.noteCard.classList.remove('hidden');
+  if (els.noteToggleBtn) els.noteToggleBtn.classList.add('active');
+  renderNoteContent();
+  if (els.noteSearchInput) {
+    els.noteSearchInput.value = '';
+    els.noteSearchInput.focus();
+  }
+}
+
+function hideNote() {
+  isNoteViewActive = false;
+  if (els.noteCard) els.noteCard.classList.add('hidden');
+  if (els.noteToggleBtn) els.noteToggleBtn.classList.remove('active');
+  
+  // Restore correct section based on state
+  if (state.current) {
+    if (els.questionCard) els.questionCard.classList.remove('hidden');
+  } else {
+    if (els.heroCard) els.heroCard.classList.remove('hidden');
+    if (els.emptyState) els.emptyState.classList.remove('hidden');
+  }
+}
+
+function renderNoteContent(searchQuery = '') {
+  if (!els.noteContentContainer || typeof window.notesData === 'undefined') return;
+
+  const query = searchQuery.toLowerCase().trim();
+  let html = '';
+
+  window.notesData.forEach((section) => {
+    let sectionHtml = '';
+    let hasMatchingContent = false;
+
+    // Filter items
+    section.items.forEach((item) => {
+      let itemHtml = '';
+      let itemMatches = false;
+
+      if (item.type === 'subsection') {
+        const titleMatches = item.title.toLowerCase().includes(query);
+        let matchingNotes = [];
+
+        item.notes.forEach((note) => {
+          if (!query || note.toLowerCase().includes(query) || titleMatches) {
+            matchingNotes.push(note);
+          }
+        });
+
+        const warningMatches = item.warning && item.warning.toLowerCase().includes(query);
+
+        if (titleMatches || matchingNotes.length > 0 || warningMatches) {
+          itemMatches = true;
+          itemHtml += `<div class="note-subsection">`;
+          itemHtml += `<div class="note-subsection-title">${escapeHtml(item.title)}</div>`;
+          if (matchingNotes.length > 0) {
+            itemHtml += `<ul class="note-list">`;
+            matchingNotes.forEach((note) => {
+              itemHtml += `<li>${note}</li>`;
+            });
+            itemHtml += `</ul>`;
+          }
+          if (item.warning && (!query || warningMatches || titleMatches || matchingNotes.length > 0)) {
+            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${escapeHtml(item.warning)}</div>`;
+          }
+          itemHtml += `</div>`;
+        }
+      } else if (item.type === 'list') {
+        let matchingNotes = [];
+        item.notes.forEach((note) => {
+          if (!query || note.toLowerCase().includes(query)) {
+            matchingNotes.push(note);
+          }
+        });
+
+        if (matchingNotes.length > 0) {
+          itemMatches = true;
+          itemHtml += `<div class="note-subsection">`;
+          if (item.ordered) {
+            itemHtml += `<ol class="note-list">`;
+            matchingNotes.forEach((note) => {
+              itemHtml += `<li>${note}</li>`;
+            });
+            itemHtml += `</ol>`;
+          } else {
+            itemHtml += `<ul class="note-list">`;
+            matchingNotes.forEach((note) => {
+              itemHtml += `<li>${note}</li>`;
+            });
+            itemHtml += `</ul>`;
+          }
+          if (item.warning && (!query || item.warning.toLowerCase().includes(query))) {
+            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${escapeHtml(item.warning)}</div>`;
+          }
+          itemHtml += `</div>`;
+        }
+      } else if (item.type === 'table') {
+        const headerMatches = item.headers.some(h => h.toLowerCase().includes(query));
+        let matchingRows = [];
+
+        item.rows.forEach((row) => {
+          if (!query || headerMatches || row.some(cell => cell.toLowerCase().includes(query))) {
+            matchingRows.push(row);
+          }
+        });
+
+        if (headerMatches || matchingRows.length > 0) {
+          itemMatches = true;
+          itemHtml += `<div class="note-subsection" style="overflow-x:auto;">`;
+          itemHtml += `<table class="note-table">`;
+          itemHtml += `<thead><tr>`;
+          item.headers.forEach((h) => {
+            itemHtml += `<th>${escapeHtml(h)}</th>`;
+          });
+          itemHtml += `</tr></thead>`;
+          itemHtml += `<tbody>`;
+          matchingRows.forEach((row) => {
+            itemHtml += `<tr>`;
+            row.forEach((cell) => {
+              itemHtml += `<td>${escapeHtml(cell)}</td>`;
+            });
+            itemHtml += `</tr>`;
+          });
+          itemHtml += `</tbody></table>`;
+          itemHtml += `</div>`;
+        }
+      }
+
+      if (itemMatches) {
+        sectionHtml += itemHtml;
+        hasMatchingContent = true;
+      }
+    });
+
+    // If section title itself matches and query isn't empty, show everything in this section
+    const sectionTitleMatches = section.title.toLowerCase().includes(query);
+    if (sectionTitleMatches && query && !hasMatchingContent) {
+      // Re-run matching but ignoring query filter for items to show full section
+      section.items.forEach((item) => {
+        let itemHtml = '';
+        if (item.type === 'subsection') {
+          itemHtml += `<div class="note-subsection">`;
+          itemHtml += `<div class="note-subsection-title">${escapeHtml(item.title)}</div>`;
+          itemHtml += `<ul class="note-list">`;
+          item.notes.forEach((note) => {
+            itemHtml += `<li>${note}</li>`;
+          });
+          itemHtml += `</ul>`;
+          if (item.warning) {
+            itemHtml += `<div class="note-warning-box"><strong>DỄ NHẦM:</strong> ${escapeHtml(item.warning)}</div>`;
+          }
+          itemHtml += `</div>`;
+        } else if (item.type === 'list') {
+          itemHtml += `<div class="note-subsection">`;
+          if (item.ordered) {
+            itemHtml += `<ol class="note-list">`;
+            item.notes.forEach((note) => {
+              itemHtml += `<li>${note}</li>`;
+            });
+            itemHtml += `</ol>`;
+          } else {
+            itemHtml += `<ul class="note-list">`;
+            item.notes.forEach((note) => {
+              itemHtml += `<li>${note}</li>`;
+            });
+            itemHtml += `</ul>`;
+          }
+          itemHtml += `</div>`;
+        } else if (item.type === 'table') {
+          itemHtml += `<div class="note-subsection" style="overflow-x:auto;">`;
+          itemHtml += `<table class="note-table"><thead><tr>`;
+          item.headers.forEach((h) => {
+            itemHtml += `<th>${escapeHtml(h)}</th>`;
+          });
+          itemHtml += `</tr></thead><tbody>`;
+          item.rows.forEach((row) => {
+            itemHtml += `<tr>`;
+            row.forEach((cell) => {
+              itemHtml += `<td>${escapeHtml(cell)}</td>`;
+            });
+            itemHtml += `</tr>`;
+          });
+          itemHtml += `</tbody></table></div>`;
+        }
+        sectionHtml += itemHtml;
+      });
+      hasMatchingContent = true;
+    }
+
+    if (hasMatchingContent || sectionTitleMatches || !query) {
+      html += `<div class="note-section">`;
+      html += `<div class="note-section-title">${escapeHtml(section.title)}</div>`;
+      html += sectionHtml;
+      html += `</div>`;
+    }
+  });
+
+  if (!html) {
+    html = `<div style="text-align:center;padding:24px;color:var(--muted);">Không tìm thấy keyword nào khớp với "${escapeHtml(searchQuery)}"</div>`;
+  }
+
+  els.noteContentContainer.innerHTML = html;
+}
+
+if (els.noteToggleBtn) {
+  els.noteToggleBtn.addEventListener('click', () => {
+    if (isNoteViewActive) {
+      hideNote();
+    } else {
+      showNote();
+    }
+  });
+}
+
+if (els.closeNoteButton) {
+  els.closeNoteButton.addEventListener('click', () => {
+    hideNote();
+  });
+}
+
+if (els.noteSearchInput) {
+  els.noteSearchInput.addEventListener('input', (e) => {
+    renderNoteContent(e.target.value);
+  });
+}
+
+// Modify setVisibility to also respect Note view state
+const originalSetVisibility = setVisibility;
+setVisibility = function(hasQuestion) {
+  if (isNoteViewActive) {
+    // Keep elements hidden if Note view is active
+    if (els.heroCard) els.heroCard.classList.add('hidden');
+    if (els.questionCard) els.questionCard.classList.add('hidden');
+    if (els.emptyState) els.emptyState.classList.add('hidden');
+    if (els.noteCard) els.noteCard.classList.remove('hidden');
+  } else {
+    originalSetVisibility(hasQuestion);
+  }
+};
 
 loadDefaultFile();

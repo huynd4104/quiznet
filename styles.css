@@ -1024,3 +1024,124 @@ button.secondary,
   background: #9f1239;
   transform: translateX(-50%) scale(1.1);
 }
+
+/* Note Section Styling */
+.sidebar-actions.triple {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.note-search-wrapper {
+  width: 100%;
+}
+
+.note-search-input {
+  width: 100%;
+  border: 1px solid var(--border-strong);
+  background: var(--bg-2);
+  color: var(--text);
+  border-radius: 12px;
+  padding: 10px 14px;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.note-search-input:focus {
+  border-color: var(--accent);
+}
+
+.note-content-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 8px;
+  scrollbar-width: thin;
+}
+
+.note-content-container::-webkit-scrollbar {
+  width: 4px;
+}
+
+.note-content-container::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 4px;
+}
+
+.note-section-title {
+  font-family: "Iowan Old Style", "Palatino Linotype", serif;
+  font-size: 1.3rem;
+  color: var(--accent-2);
+  border-bottom: 2px solid var(--border-strong);
+  padding-bottom: 6px;
+  margin-top: 10px;
+  margin-bottom: 12px;
+}
+
+.note-subsection {
+  margin-bottom: 14px;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  padding: 14px;
+}
+
+.note-subsection-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+  color: var(--text);
+}
+
+.note-list {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.note-list li {
+  margin-bottom: 6px;
+  color: var(--text);
+}
+
+.note-warning-box {
+  margin-top: 10px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border-left: 4px solid #f59e0b;
+  background: rgba(245, 158, 11, 0.05);
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.note-warning-box strong {
+  color: #d97706;
+}
+
+/* Note Table styling */
+.note-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 0.92rem;
+  text-align: left;
+}
+
+.note-table th, 
+.note-table td {
+  padding: 10px 12px;
+  border: 1px solid var(--border-strong);
+}
+
+.note-table th {
+  background: var(--bg-2);
+  font-weight: 700;
+}
+
+.note-table tr:nth-child(even) {
+  background: rgba(0, 0, 0, 0.02);
+}
+

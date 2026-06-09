@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -7,6 +8,7 @@
   <title>Quiznet Study</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
+
 <body>
   <div class="backdrop backdrop-a"></div>
   <div class="backdrop backdrop-b"></div>
@@ -14,9 +16,10 @@
   <div class="app-shell">
     <aside class="sidebar">
       <div style="display:grid;gap:12px;align-items:start;">
-        <div class="sidebar-actions">
-          <button id="reloadButton" class="secondary">Làm mới</button>
+        <div class="sidebar-actions triple">
+          <button id="reloadButton" class="secondary">Refresh</button>
           <button id="autoNextButton" class="secondary toggle-button" type="button">Tự next</button>
+          <button id="noteToggleBtn" class="secondary" type="button">Note</button>
         </div>
         <div class="sidebar-actions">
           <p class="wrong-count-line">Câu sai: <strong id="wrongCount">0</strong></p>
@@ -27,7 +30,10 @@
           <div class="chat-header">
             <strong>Thảo luận</strong>
             <button id="chatToggleBtn" class="chat-toggle-btn" title="Thu gọn/Mở rộng" type="button">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="18 15 12 9 6 15"></polyline>
+              </svg>
             </button>
           </div>
           <div class="chat-messages" id="chatMessages">
@@ -57,7 +63,8 @@
       <section class="question-card hidden" id="questionCard">
         <div class="question-topbar">
           <div>
-            <button id="resetQuestionButton" class="secondary reset-q-btn" title="Làm lại câu này" type="button">↺</button>
+            <button id="resetQuestionButton" class="secondary reset-q-btn" title="Làm lại câu này"
+              type="button">↺</button>
             <span class="pill" id="questionBadge">Câu hỏi</span>
             <span class="pill soft" id="sourceBadge">Nguồn</span>
           </div>
@@ -73,12 +80,27 @@
           <button id="clearSelectionButton" class="secondary">Bỏ chọn</button>
         </div>
 
-          <div class="nav-row">
+        <div class="nav-row">
           <button id="prevButton" class="secondary">Quay lại</button>
           <button id="nextButton" disabled>Tiếp theo</button>
         </div>
 
         <div class="feedback hidden" id="feedback"></div>
+      </section>
+
+      <section class="question-card hidden" id="noteCard">
+        <div class="question-topbar">
+          <div>
+            <span class="pill">MLN131 Note Keyword</span>
+          </div>
+          <button id="closeNoteButton" class="secondary reset-q-btn" style="height:32px;padding:0 12px!important;" type="button">Đóng Note</button>
+        </div>
+        <div class="note-search-wrapper">
+          <input type="text" id="noteSearchInput" placeholder="Tìm kiếm nhanh keyword..." class="note-search-input" autocomplete="off" />
+        </div>
+        <div class="note-content-container" id="noteContentContainer">
+          <!-- Dynamically populated from notes_data.js -->
+        </div>
       </section>
 
       <section class="empty-state" id="emptyState">
@@ -96,10 +118,12 @@
     <img class="modal-content" id="modalImg">
   </div>
 
+  <script src="notes_data.js"></script>
   <script src="app.js?v=1.1"></script>
   <script>
     window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
   </script>
   <script defer src="/_vercel/insights/script.js"></script>
 </body>
+
 </html>
